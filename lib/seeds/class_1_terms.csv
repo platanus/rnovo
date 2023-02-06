@@ -1,0 +1,770 @@
+class,reference_id,name
+1,010001,comburentes [aditivos químicos para carburantes]
+1,010002,adhesivos [pegamentos] para uso industrial
+1,010002,pegamentos para uso industrial
+1,010003,sal de conservación que no sea para alimentos
+1,010004,fluidos auxiliares para abrasivos
+1,010005,aceleradores de vulcanización
+1,010006,soluciones antiespumantes para acumuladores
+1,010006,soluciones antiespumantes para baterías
+1,010007,acetatos [productos químicos]*
+1,010008,acetato de celulosa en bruto
+1,010009,preparaciones bacteriológicas para la acetificación
+1,010010,anhídrido acético
+1,010011,acetona
+1,010012,acetileno
+1,010013,tetracloruro de acetileno
+1,010014,ácidos*
+1,010015,productos químicos de condensación
+1,010016,compuestos químicos resistentes a los ácidos
+1,010017,preparaciones de acabado para ser utilizadas en la fabricación del acero
+1,010018,actinio
+1,010019,aditivos químicos para lodos de perforación
+1,010020,aditivos químicos para carburantes
+1,010020,aditivos químicos para combustibles de motor
+1,010021,aditivos detergentes para gasolina
+1,010022,adhesivos para vendajes quirúrgicos
+1,010022,preparaciones adhesivas para vendajes quirúrgicos
+1,010023,productos para ablandar el agua
+1,010024,goma tragacanto para uso industrial
+1,010025,carbón activo
+1,010025,carbón activado
+1,010026,gases propulsores para aerosoles
+1,010027,agentes reductores para uso fotográfico
+1,010028,colas para carteles
+1,010028,adhesivos para carteles
+1,010029,agar-agar para uso industrial
+1,010030,aglutinantes para hormigón
+1,010030,aglutinantes para concreto
+1,010031,productos químicos para uso agrícola, excepto fungicidas, herbicidas, insecticidas y parasiticidas
+1,010032,compuestos para reparar cámaras de aire de neumáticos
+1,010033,albúmina [animal o vegetal, materia prima]
+1,010034,albúmina iodada
+1,010035,albúmina de malta
+1,010036,papel albuminado
+1,010037,álcalis
+1,010038,álcali cáustico
+1,010039,metales alcalinotérreos
+1,010040,alcohol*
+1,010041,alcohol etílico
+1,010042,aldehídos*
+1,010043,algas [fertilizantes]
+1,010044,productos químicos para conservar alimentos
+1,010045,productos químicos para facilitar la aleación de metales
+1,010046,alúmina
+1,010047,alumbre de aluminio
+1,010048,hidrato de aluminio
+1,010049,silicato de aluminio
+1,010050,cloruro de aluminio
+1,010051,ioduro de aluminio
+1,010052,alumbre
+1,010053,preparaciones para enmendar suelos
+1,010054,americio
+1,010055,almidón para uso industrial
+1,010055,fécula para uso industrial
+1,010056,agentes químicos para desleír el almidón [agentes para despegar]
+1,010056,agentes para despegar [agentes químicos para desleír el almidón]
+1,010057,sal de amoniaco
+1,010057,sal de amoníaco
+1,010058,espíritu de sal
+1,010060,sales amoniacales
+1,010061,amoniaco*
+1,010061,amoníaco*
+1,010062,aldehído de amoniaco
+1,010062,aldehído de amoníaco
+1,010063,alumbre de amoniaco
+1,010063,alumbre de amoníaco
+1,010064,acetato de amilo
+1,010065,alcohol amílico
+1,010066,amoniaco anhidro
+1,010066,amoníaco anhidro
+1,010067,anhídridos
+1,010068,negro animal
+1,010069,albúmina animal [materia prima]
+1,010070,ácido antranílico
+1,010071,antidetonantes para motores de explosión
+1,010071,antidetonantes para motores de combustión interna
+1,010072,anticongelantes
+1,010073,antiincrustantes
+1,010073,productos antitártricos
+1,010074,antimonio
+1,010075,óxido de antimonio
+1,010076,sulfuro de antimonio
+1,010077,aprestos para la industria textil
+1,010078,goma arábiga para uso industrial
+1,010079,emplastos para uso en arboricultura
+1,010079,emplastos para injertos [arboricultura]
+1,010080,mástique para rellenar las cavidades de los árboles [arboricultura]
+1,010081,soluciones de sales de plata para platear
+1,010081,soluciones para platear
+1,010082,argón
+1,010083,arseniato de plomo
+1,010084,arsénico
+1,010085,ácido arsenioso
+1,010086,ástato
+1,010087,combustibles para reactores nucleares
+1,010089,productos químicos para descarburar motores
+1,010090,papel autovirador [fotografía]
+1,010091,productos químicos para avivar los colores de materias textiles
+1,010092,nitrógeno
+1,010093,óxido nitroso
+1,010094,fertilizantes nitrogenados
+1,010095,ácido nítrico
+1,010096,bactericidas para uso enológico [productos químicos utilizados en la elaboración del vino]
+1,010097,baños fijadores [fotografía]
+1,010098,baños de galvanización
+1,010099,baños viradores [fotografía]
+1,010100,ceniza de soda [barrilla]
+1,010100,ceniza de sosa [barrilla]
+1,010101,bario
+1,010102,barita
+1,010103,papel barritado
+1,010104,compuestos de bario
+1,010105,productos para impedir el desmallado de las medias
+1,010106,bases [productos químicos]
+1,010107,productos químicos para fabricar esmaltes, excepto pigmentos
+1,010108,bauxita
+1,010109,bentonita
+1,010110,ácidos de la serie del benceno
+1,010111,derivados del benceno
+1,010112,ácido benzoico
+1,010113,sulfimida benzoica
+1,010114,sacarina
+1,010115,berkelio
+1,010116,productos químicos para airear el hormigón
+1,010116,productos químicos para airear el concreto
+1,010117,conservadores de hormigón, excepto pinturas y aceites
+1,010117,conservadores de concreto, excepto pinturas y aceites
+1,010118,bicloruro de estaño
+1,010119,bicromato de potasio
+1,010119,bicromato de potasa
+1,010120,bicromato de soda
+1,010120,bicromato de sosa
+1,010121,productos para clarificar y conservar la cerveza
+1,010122,catalizadores bioquímicos
+1,010123,dioxalato de potasio
+1,010123,dioxalato de potasa
+1,010124,dióxido de manganeso
+1,010125,bismuto
+1,010126,galato básico de bismuto
+1,010127,productos de remojo [lavandería]
+1,010127,productos humectantes [lavandería]
+1,010128,productos químicos para blanquear la cera
+1,010130,madera para curtir
+1,010131,espíritu [alcohol] de madera
+1,010131,alcohol de madera
+1,010132,pasta de madera
+1,010133,vinagre de madera [ácido piroleñoso]
+1,010133,ácido piroleñoso [vinagre de madera]
+1,010134,bórax
+1,010135,ácido bórico para uso industrial
+1,010136,lodos para facilitar la perforación
+1,010137,productos para soldar
+1,010138,productos antivaho
+1,010139,cachú*
+1,010140,cainita
+1,010141,cianamida cálcica [abono]
+1,010141,cianamida de calcio [abono]
+1,010142,californio
+1,010143,plastificantes
+1,010145,productos para conservar el caucho
+1,010146,carbonatos
+1,010147,carbonato de magnesia
+1,010147,carbonato de magnesio
+1,010148,carbono
+1,010149,disulfuro de carbono
+1,010149,sulfuro de carbono
+1,010150,ácido carbónico
+1,010151,carburos*
+1,010152,carburo de calcio
+1,010153,casiopeo [lutecio]
+1,010153,lutecio [casiopeo]
+1,010154,catalizadores
+1,010155,celulosa
+1,010156,pasta de papel
+1,010157,viscosa
+1,010158,cementos [metalurgia]
+1,010159,fermio [centurio]
+1,010159,centurio [fermio]
+1,010160,vidriados para cerámica
+1,010161,cerio
+1,010162,sales de metales de las tierras raras
+1,010163,cesio
+1,010164,cetonas
+1,010165,preparaciones de carbón animal
+1,010166,carbón para filtros
+1,010167,carbón de huesos
+1,010168,carbón de sangre
+1,010169,productos para ahorrar carbón
+1,010170,pegamentos para el calzado
+1,010171,acetato de cal
+1,010172,carbonato de cal
+1,010173,cloruro de cal
+1,010174,productos químicos para limpiar chimeneas
+1,010175,productos químicos para renovar el cuero
+1,010176,productos químicos para uso industrial
+1,010177,preparaciones químicas de uso científico que no sean para uso médico ni veterinario
+1,010178,reactivos químicos que no sean para uso médico ni veterinario
+1,010179,moderadores para reactores nucleares
+1,010180,elementos químicos fisibles
+1,010181,productos químicos para análisis en laboratorio que no sean de uso médico ni veterinario
+1,010182,cloratos
+1,010183,cloro
+1,010184,clorhidratos
+1,010185,ácido clorhídrico
+1,010186,ácido cólico
+1,010187,cromatos
+1,010188,alumbre de cromo
+1,010189,óxido de cromo
+1,010190,sales de cromo
+1,010191,ácido crómico
+1,010192,masillas para el cuero
+1,010193,masillas para neumáticos
+1,010194,pegamentos para reparar objetos rotos
+1,010195,productos químicos para impermeabilizar cemento, excepto pinturas
+1,010196,conservadores de cemento, excepto pinturas y aceites
+1,010197,líquidos para circuitos hidráulicos
+1,010198,cera para injertos de árboles
+1,010199,ácido cítrico para uso industrial
+1,010200,preparaciones para desfangar mostos
+1,010202,colas [aprestos]
+1,010202,aprestos de imprimación y acabado
+1,010203,colas para papel pintado
+1,010203,adhesivos para papel pintado
+1,010203,adhesivos para papel tapiz
+1,010203,colas para papel tapiz
+1,010205,colas para desfangar vinos
+1,010206,colodión*
+1,010207,sales para colorear metales
+1,010208,baños alcalinos [productos para ablandar el cuero]
+1,010208,aprestos, excepto aceites, para el cuero
+1,010209,productos para conservar las flores
+1,010210,conservantes para la industria farmacéutica
+1,010211,productos químicos para uso fotográfico
+1,010212,tela sensibilizada para uso fotográfico
+1,010213,placas fotosensibles
+1,010214,productos corrosivos
+1,010215,productos para adobar [curtir] el cuero
+1,010216,productos para adobar [curtir] las pieles
+1,010219,crémor tártaro para uso químico
+1,010220,aldehído crotónico
+1,010221,productos criogénicos
+1,010222,colas para el cuero
+1,010223,productos químicos para preparar el cuero
+1,010224,productos químicos para impregnar el cuero
+1,010225,vitriolo azul
+1,010225,sulfato de cobre [vitriolo azul]
+1,010226,curio
+1,010227,soluciones para la cianotipia
+1,010228,cianuros [prusiatos]
+1,010228,prusiatos
+1,010229,ferrocianuros
+1,010230,cimeno
+1,010231,productos desengrasantes para procesos de fabricación
+1,010232,preparaciones para desencolar
+1,010232,preparaciones para despegar y separar
+1,010233,productos químicos para separar aceites
+1,010234,productos de descrudecimiento
+1,010234,productos de desgomado
+1,010236,defoliantes
+1,010237,productos para desmoldar
+1,010238,sustancias para deslustrar
+1,010239,deshidratantes para uso industrial
+1,010240,desincrustantes*
+1,010241,detergentes para procesos de fabricación
+1,010242,dextrina [apresto]
+1,010243,preparaciones de diagnóstico que no sean para uso médico ni veterinario
+1,010244,diastasas para uso industrial
+1,010245,papel diazoico
+1,010246,productos para renovar discos fonográficos
+1,010247,agua destilada
+1,010248,dolomita para uso industrial
+1,010249,preparaciones para endurecer metales
+1,010250,disprosio
+1,010251,agua acidulada para recargar acumuladores
+1,010251,agua acidulada para recargar baterías
+1,010252,glicerina para uso industrial
+1,010253,agua pesada
+1,010254,preparaciones para clarificar
+1,010254,preparaciones para purificar
+1,010255,intercambiadores de iones [productos químicos]
+1,010256,productos para producir flashes
+1,010257,productos para ahorrar combustible
+1,010259,papel reactivo que no sea para uso médico o veterinario
+1,010260,productos antiestáticos que no sean para uso doméstico
+1,010261,sales para elementos galvánicos
+1,010261,sales para celdas galvánicas
+1,010261,sales para pilas galvánicas
+1,010262,opacificantes para esmaltes
+1,010263,opacificantes para el vidrio
+1,010265,productos químicos matificantes para esmaltes
+1,010267,emulsiones fotográficas
+1,010268,emulsionantes
+1,010269,placas fotográficas sensibilizadas
+1,010270,productos para encolar
+1,010271,abonos para el suelo
+1,010271,fertilizantes
+1,010272,preparaciones enzimáticas para uso industrial
+1,010273,enzimas para uso industrial
+1,010274,resinas epoxi en bruto
+1,010275,productos para depurar gases
+1,010276,erbio
+1,010277,espíritu de vinagre [ácido acético diluido]
+1,010278,papel químico para ensayos
+1,010279,ésteres*
+1,010280,etano
+1,010281,éteres*
+1,010282,éter etílico
+1,010283,éteres de glicol
+1,010284,éter metílico
+1,010285,éter sulfúrico
+1,010286,productos químicos para proteger los textiles contra las manchas
+1,010287,europio
+1,010288,compuestos extintores
+1,010289,harinas para uso industrial
+1,010290,sales de hierro
+1,010291,fermentos para uso químico
+1,010292,placas para ferrotipos [fotografía]
+1,010293,preparaciones fertilizantes
+1,010294,productos ignífugos
+1,010294,productos de protección contra el fuego
+1,010295,compuestos para aterrajar
+1,010296,agentes filtrantes para la industria de las bebidas
+1,010297,cuerpos fisibles para la energía nuclear
+1,010298,fijadores [fotografía]
+1,010299,flor de azufre para uso químico
+1,010301,productos para impermeabilizar con fluoratos
+1,010302,flúor
+1,010303,compuestos de flúor
+1,010304,ácido fluorhídrico
+1,010305,grafito para uso industrial
+1,010306,aglutinantes de fundición
+1,010307,preparaciones de moldeo para la fundición
+1,010308,aditivos químicos para insecticidas
+1,010309,aditivos químicos para fungicidas
+1,010310,ácido fórmico
+1,010311,aldehído fórmico para uso químico
+1,010312,productos de abatanado para la industria textil
+1,010313,materias para abatanar
+1,010314,francio
+1,010315,líquido de frenos
+1,010316,negro de humo para uso industrial
+1,010317,preparaciones químicas para ahumar carne
+1,010318,gadolinio
+1,010319,nuez de agalla
+1,010320,ácido gálico para fabricar tintas
+1,010321,galio
+1,010322,papel fotográfico
+1,010323,ácido galotánico
+1,010324,productos para galvanizar
+1,010325,gambir
+1,010326,gases protectores para soldar
+1,010328,gases solidificados para uso industrial
+1,010329,gelatina para uso fotográfico
+1,010330,gelatina para uso industrial
+1,010331,sal gema
+1,010332,desgasificadores [reactivos]
+1,010333,hielo seco [dióxido de carbono]
+1,010334,liga
+1,010335,glucósidos
+1,010336,glicéridos
+1,010337,glicol
+1,010339,productos para blanquear grasas
+1,010340,ácidos grasos
+1,010341,mástique para injertar árboles
+1,010342,guano
+1,010343,bálsamo de gurjun para ser utilizado en la fabricación de barnices
+1,010344,helio
+1,010345,holmio
+1,010346,hormonas para activar la maduración de la fruta
+1,010347,productos químicos para uso hortícola, excepto fungicidas, herbicidas, insecticidas y parasiticidas
+1,010348,aceites para conservar alimentos
+1,010349,aceites para preparar el cuero
+1,010350,aceites curtientes
+1,010351,dispersantes de petróleo
+1,010352,dispersantes de aceites
+1,010353,productos químicos para blanquear aceites
+1,010354,productos químicos para purificar aceites
+1,010355,humus
+1,010356,hidratos
+1,010357,hidratos de carbono
+1,010358,hidracina
+1,010359,hidrógeno
+1,010360,hipoclorito de soda
+1,010360,hipoclorito de sosa
+1,010361,hiposulfitos
+1,010362,productos químicos para impermeabilizar materias textiles
+1,010363,productos químicos para impregnar materias textiles
+1,010364,productos químicos para impermeabilizar el cuero
+1,010365,iodo para uso químico
+1,010366,sales de iodo
+1,010367,ácido iódico
+1,010368,ioduros para uso industrial
+1,010369,isótopos para uso industrial
+1,010370,caolín
+1,010370,arcilla china
+1,010370,arcilla blanca
+1,010371,kieselgur
+1,010372,kriptón
+1,010372,criptón
+1,010373,ácido láctico
+1,010374,fermentos lácteos para uso químico
+1,010375,lantano
+1,010377,productos para que no se empañen los lentes de contacto
+1,010377,productos para que no se empañen las lentillas
+1,010378,litina
+1,010379,litio
+1,010380,productos para conservar obras de albañilería, excepto pinturas y aceites
+1,010381,productos para conservar ladrillos, excepto pinturas y aceites
+1,010382,magnesita
+1,010383,cloruro de magnesio
+1,010384,manganato
+1,010385,corteza de mangle para uso industrial
+1,010386,productos químicos para esmerilar el vidrio
+1,010387,mercurio
+1,010388,sales de mercurio
+1,010389,óxido de mercurio
+1,010389,óxido mercúrico
+1,010390,metaloides
+1,010391,sales de metales preciosos para uso industrial
+1,010393,preparaciones para el recocido de metales
+1,010394,metano
+1,010395,preparaciones químicas de protección contra el mildiu
+1,010396,ácidos minerales
+1,010397,sales para uso industrial
+1,010398,productos de remojo [tintorería]
+1,010398,productos humectantes [tintorería]
+1,010399,naftalina
+1,010400,neodimio
+1,010401,neón
+1,010402,neptunio
+1,010403,neutralizantes de gases tóxicos
+1,010404,preparaciones químicas de protección contra el tizón del trigo
+1,010405,nitrato de uranio
+1,010406,placas sensibilizadas para imprimir en offset
+1,010407,ácido oleico
+1,010408,olivino [minerales de silicato]
+1,010409,sales de oro
+1,010410,sal de acedera
+1,010411,oxalatos
+1,010412,ácido oxálico
+1,010413,oxígeno para uso industrial
+1,010414,peróxido de hidrógeno para uso industrial 
+1,010414,agua oxigenada para uso industrial
+1,010415,cloruro de paladio
+1,010416,papel nitrado
+1,010417,papel fotométrico
+1,010418,papel sensible
+1,010419,papel de tornasol
+1,010420,pectina para uso fotográfico
+1,010421,perborato de soda
+1,010421,perborato de sosa
+1,010422,percarbonatos
+1,010423,percloratos
+1,010424,persulfatos
+1,010425,ácido persulfúrico
+1,010426,fenol para uso industrial
+1,010427,fosfatos [fertilizantes]
+1,010428,escoria [fertilizante]
+1,010429,fosfátidos
+1,010430,fósforo
+1,010431,superfosfatos [fertilizantes]
+1,010432,papel para fotocalcos
+1,010433,ácido fosfórico
+1,010434,telas para fotocalcos
+1,010435,reveladores fotográficos
+1,010436,sensibilizadores fotográficos
+1,010437,ácido pícrico
+1,010438,materias plásticas en bruto
+1,010439,plastisoles
+1,010440,acetato de plomo
+1,010441,óxido de plomo
+1,010442,plutonio
+1,010443,polonio
+1,010444,harina de patata para uso industrial
+1,010444,harina de papa para uso industrial
+1,010445,macetas de turba para uso hortícola
+1,010446,potasa
+1,010447,potasio
+1,010448,aguas potásicas
+1,010449,praseodimio
+1,010450,prometio
+1,010451,protactinio
+1,010452,proteína [materia prima]
+1,010453,ácido pirogálico
+1,010454,quebracho para uso industrial
+1,010455,resinas sintéticas en bruto
+1,010455,resinas artificiales en bruto
+1,010456,elementos radiactivos para uso científico
+1,010457,radón
+1,010458,radio para uso científico
+1,010459,fluidos refrigerantes
+1,010460,productos derivados del procesamiento de cereales para uso industrial
+1,010461,resinas acrílicas en bruto
+1,010463,renio
+1,010464,películas de rayos X sensibilizadas pero no expuestas
+1,010464,películas radiográficas sensibilizadas pero no expuestas
+1,010465,compuestos para reparar neumáticos
+1,010466,rubidio
+1,010467,arena de fundición
+1,010468,ácido salicílico
+1,010469,salitre
+1,010470,samario
+1,010471,salsa para preparar tabaco
+1,010472,jabones metálicos para uso industrial
+1,010473,escandio
+1,010474,ácido sebácico
+1,010475,sales [productos químicos]
+1,010476,sal en bruto
+1,010477,sales crómicas
+1,010478,sales [fertilizantes]
+1,010479,selenio
+1,010480,productos para preservar semillas
+1,010481,silicatos
+1,010483,silicio
+1,010484,siliconas
+1,010485,sodio
+1,010486,sulfuros
+1,010487,preparaciones químicas para soldar
+1,010488,soda calcinada
+1,010488,sosa calcinada
+1,010489,productos cáusticos para uso industrial
+1,010490,soda cáustica para uso industrial
+1,010490,sosa cáustica para uso industrial
+1,010491,sales sódicas [compuestos químicos]
+1,010491,sales de sodio
+1,010493,azufre
+1,010494,subnitrato de bismuto para uso químico
+1,010495,espato pesado
+1,010495,baritina [espato pesado]
+1,010496,espinela [minerales óxidos]
+1,010497,ácido esteárico
+1,010498,estroncio
+1,010499,hollín para uso agrícola o industrial
+1,010500,líquidos para desulfatar acumuladores eléctricos
+1,010500,líquidos para desulfatar pilas o baterías
+1,010501,ácidos sulfónicos
+1,010502,ácido sulfuroso
+1,010503,ácido sulfúrico
+1,010504,zumaque para curtir pieles
+1,010505,productos químicos para la silvicultura, excepto fungicidas, herbicidas, insecticidas y parasiticidas
+1,010506,talco [silicato de magnesio]
+1,010507,casca para curtir pieles
+1,010508,tanino
+1,010509,sustancias curtientes
+1,010510,sales de calcio
+1,010511,ácido tánico
+1,010512,harina de tapioca para uso industrial
+1,010514,tártaro que no sea para uso farmacéutico
+1,010515,ácido tartárico
+1,010516,tecnecio
+1,010517,telurio
+1,010518,agentes tensioactivos
+1,010518,agentes surfactivos
+1,010519,terbio
+1,010521,productos químicos para deslustrar el vidrio
+1,010522,productos contra el deslustre del vidrio
+1,010523,productos contra el deslustre de las ventanas
+1,010524,tierra de cultivo
+1,010525,greda para la industria textil
+1,010526,tierras raras
+1,010527,tierra de marga
+1,010528,tetracloruro de carbono
+1,010529,tetracloruros
+1,010530,productos de remojo para la industria textil
+1,010530,productos humectantes para la industria textil
+1,010532,talio
+1,010533,tiocarbanilida
+1,010534,tulio
+1,010535,torio
+1,010536,anhídrido titánico para uso industrial
+1,010536,dióxido de titanio para uso industrial
+1,010537,titanita
+1,010538,tolueno
+1,010539,turba [fertilizante]
+1,010540,productos para conservar tejas, excepto pinturas y aceites
+1,010541,ácido túngstico
+1,010542,uranio
+1,010543,urano
+1,010544,vidrio soluble [silicato]
+1,010545,ablandadores de carne para uso industrial
+1,010546,preparaciones químicas de protección contra las enfermedades de la vid
+1,010547,alcohol vínico
+1,010548,sales de viraje [fotografía]
+1,010549,productos de vulcanización
+1,010550,witherita
+1,010551,xenón
+1,010552,iterbio
+1,010553,itrio
+1,010554,cloruros
+1,010555,sulfatos
+1,010556,zircón
+1,010557,productos de uso industrial para activar la cocción
+1,010558,álcali volátil [amoniaco] para uso industrial
+1,010558,amoniaco [álcali volátil] para uso industrial
+1,010558,amoníaco [álcali volátil] para uso industrial
+1,010559,ioduros alcalinos para uso industrial
+1,010560,metales alcalinos
+1,010561,sales de metales alcalinos
+1,010562,alcaloides*
+1,010564,alginatos para uso industrial
+1,010565,acetato de aluminio*
+1,010566,cola de almidón que no sea de papelería ni para uso doméstico
+1,010567,sales de amonio
+1,010568,carbón animal
+1,010569,nitrato de plata
+1,010569,azoato de plata
+1,010570,productos químicos de uso industrial para avivar los colores
+1,010571,productos antigerminativos para verduras, hortalizas y legumbres
+1,010572,nitratos
+1,010572,azoatos
+1,010573,adhesivos para baldosas de revestimiento
+1,010574,sulfato de bario
+1,010575,productos químicos para fabricar pinturas
+1,010576,metilbenzol
+1,010577,metilbenceno
+1,010578,bicarbonato de soda para uso químico
+1,010578,bicarbonato de sosa para uso químico
+1,010579,preparaciones biológicas que no sean para uso médico ni veterinario
+1,010580,decolorantes para uso industrial
+1,010580,productos de blanqueo [decolorantes] para uso industrial
+1,010581,películas sensibilizadas no expuestas
+1,010582,productos para destilar espíritu [alcohol] de madera
+1,010583,fundentes para la soldadura fuerte
+1,010584,fundentes para soldar
+1,010585,bromo para uso químico
+1,010586,carbonilo para proteger las plantas
+1,010587,floculantes
+1,010588,lecitina [materia prima]
+1,010589,sustratos para el cultivo sin suelo [agricultura]
+1,010590,ésteres de celulosa para uso industrial
+1,010591,caseína para uso industrial
+1,010592,derivados químicos de la celulosa
+1,010593,éteres de celulosa para uso industrial
+1,010594,preparaciones bacterianas que no sean para uso médico ni veterinario
+1,010595,preparaciones bacteriológicas que no sean para uso médico ni veterinario
+1,010596,cultivos de microorganismos que no sean para uso médico ni veterinario
+1,010597,negro de carbón para uso industrial
+1,010598,películas cinematográficas sensibilizadas pero no expuestas
+1,010599,óxido de cobalto para uso industrial
+1,010600,colas para uso industrial
+1,010601,aceites para endurecer el cuero
+1,010602,creosota para uso químico
+1,010603,compuestos para fabricar discos acústicos
+1,010604,productos para separar las grasas
+1,010605,dispersiones de materias plásticas
+1,010606,disolventes para barnices
+1,010607,edulcorantes artificiales [productos químicos]
+1,010608,productos químicos para purificar el agua
+1,010609,emolientes para uso industrial
+1,010610,materiales filtrantes de materias plásticas en bruto
+1,010611,materiales filtrantes compuestos de sustancias químicas
+1,010612,materiales filtrantes compuestos de sustancias minerales
+1,010613,materiales filtrantes compuestos de sustancias vegetales
+1,010614,glucosa para uso industrial
+1,010615,gluten [cola] que no sea de papelería ni para uso doméstico
+1,010616,gomas [colas] para uso industrial
+1,010617,productos químicos hidrófugos para obras de albañilería, excepto pinturas
+1,010617,productos químicos contra la humedad en obras de albañilería, excepto pinturas
+1,010618,ictiocola que no sea de papelería ni para uso alimenticio
+1,010619,productos para conservar la cerveza
+1,010620,materias sintéticas para absorber aceites
+1,010621,materiales cerámicos en partículas para utilizar como medios filtrantes
+1,010622,compost
+1,010622,abonos orgánicos
+1,010631,compuestos para fabricar cerámica técnica
+1,010632,tierra de diatomeas
+1,010633,mordientes para metales
+1,010634,preparaciones para regular el crecimiento de las plantas
+1,010635,desincrustantes que no sean para uso doméstico
+1,010636,agua de mar para uso industrial
+1,010637,preparaciones de oligoelementos para plantas
+1,010638,alcanfor para uso industrial
+1,010639,reforzadores químicos para el papel
+1,010640,reforzadores químicos para el caucho
+1,010641,coberturas de humus
+1,010642,fluido magnético para uso industrial
+1,010643,fluidos para la dirección asistida
+1,010644,fluidos de transmisión
+1,010644,líquidos de transmisión
+1,010645,preparaciones antiebullición para refrigerantes de motores
+1,010646,compuestos de cerámica para la sinterización [granulados y en polvo]
+1,010647,agentes refrigerantes para motores de vehículos
+1,010648,productos químicos para limpiar radiadores
+1,010649,masillas para reparar carrocerías de automóviles
+1,010649,mástiques para reparar carrocerías de coches
+1,010650,geles de electroforesis
+1,010651,masilla de vidriero
+1,010652,arcilla expandida para cultivos hidropónicos [sustrato]
+1,010653,preparaciones para desempapelar
+1,010654,aditivos químicos para aceites
+1,010655,masillas al aceite
+1,010656,genes de semillas para la producción agrícola
+1,010657,células madre que no sean para uso médico ni veterinario
+1,010658,cultivos de tejidos biológicos que no sean para uso médico ni veterinario
+1,010659,fertilizantes de harina de pescado
+1,010660,preparaciones enzimáticas para la industria alimentaria
+1,010661,enzimas para la industria alimentaria
+1,010662,glucosa para la industria alimentaria
+1,010663,lecitina para la industria alimentaria
+1,010664,lecitina para uso industrial
+1,010665,pectina para la industria alimentaria
+1,010666,pectina para uso industrial
+1,010667,crémor tártaro para la industria alimentaria
+1,010668,crémor tártaro para uso industrial
+1,010669,alginatos para la industria alimentaria
+1,010670,gluten para la industria alimentaria
+1,010671,gluten para uso industrial
+1,010672,lactosa para la industria alimentaria
+1,010673,lactosa para uso industrial
+1,010674,lactosa [materia prima]
+1,010675,fermentos lácteos para la industria alimentaria
+1,010676,fermentos lácteos para uso industrial
+1,010677,caseína para la industria alimentaria
+1,010678,espíritu de sal de amoníaco
+1,010678,espíritu de sal de amoniaco
+1,010679,productos químicos para fabricar pigmentos
+1,010680,preparaciones de microorganismos que no sean para uso médico ni veterinario
+1,010681,mantillo
+1,010682,preparaciones para templar metales
+1,010683,ácido glutámico para uso industrial
+1,010684,extractos de té para ser utilizados en la fabricación de productos farmacéuticos
+1,010685,extractos de té para la industria alimentaria
+1,010686,digestato orgánico [fertilizante]
+1,010687,extractos de té para ser utilizados en la fabricación de cosméticos
+1,010688,colágeno para uso industrial
+1,010689,carburo de silicio [materia prima]
+1,010690,adyuvantes que no sean para uso médico ni veterinario
+1,010691,vitaminas para ser utilizadas en la fabricación de complementos alimenticios
+1,010691,vitaminas para ser utilizadas en la fabricación de suplementos alimenticios
+1,010692,vitaminas para la industria alimentaria
+1,010693,antioxidantes para ser utilizados en procesos de fabricación
+1,010694,antioxidantes para ser utilizados en la fabricación de cosméticos
+1,010695,antioxidantes para ser utilizados en la fabricación de productos farmacéuticos
+1,010696,antioxidantes para ser utilizados en la fabricación de complementos alimenticios
+1,010696,antioxidantes para ser utilizados en la fabricación de suplementos alimenticios
+1,010697,proteínas para ser utilizadas en procesos de fabricación
+1,010698,proteínas para ser utilizadas en la fabricación de complementos alimenticios
+1,010698,proteínas para ser utilizadas en la fabricación de suplementos alimenticios
+1,010699,proteínas para la industria alimentaria
+1,010700,nitrato de amonio
+1,010701,vitaminas para ser utilizadas en la fabricación de productos farmacéuticos
+1,010702,vitaminas para ser utilizadas en la fabricación de cosméticos
+1,010703,flavonoides [compuestos fenólicos] para uso industrial
+1,010704,timol para uso industrial
+1,010705,tierra vegetal
+1,010706,aceites de transmisión
+1,010707,resinas poliméricas en bruto
+1,010708,revestimientos químicos para lentes oftálmicas
+1,010709,calomel [cloruro de mercurio]
+1,010710,estiércol
+1,010711,xilol
+1,010712,xileno
+1,010713,benceno
+1,010714,benzol
+1,010715,grafeno
+1,010716,yeso utilizado como fertilizante
+1,010717,nanopolvos para uso industrial
+1,010718,polímeros dendriméricos para ser utilizados en la fabricación de cápsulas para productos farmacéuticos
+1,010719,preparaciones químicas de protección contra las enfermedades de las plantas de cereales
+1,010720,bioestimulantes para las plantas

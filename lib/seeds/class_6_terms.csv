@@ -1,0 +1,533 @@
+class,reference_id,name
+6,060001,acero en bruto o semielaborado
+6,060002,aleaciones de acero
+6,060003,flejes de acero
+6,060004,alambres de acero
+6,060005,acero fundido
+6,060006,mástiles de acero
+6,060009,persianas enrollables de acero
+6,060010,chapas de acero
+6,060011,tuberías de acero
+6,060011,tubos de acero
+6,060012,grapas metálicas para correas de máquinas
+6,060013,agujas de ferrocarril
+6,060013,cambios de vía [ferrocarriles]
+6,060014,toberas metálicas
+6,060016,argentán
+6,060016,alpaca [metal]
+6,060016,plata alemana
+6,060017,aluminio
+6,060018,bronce
+6,060019,alambre de aluminio
+6,060020,placas de anclaje
+6,060021,boquillas metálicas
+6,060022,pasadores metálicos [artículos de cerrajería]
+6,060023,mástiles [postes] metálicos
+6,060024,barras metálicas
+6,060025,trampas para animales salvajes*
+6,060026,tirantes metálicos para manipular cargas
+6,060026,arneses metálicos para manipular cargas
+6,060027,metal antifricción
+6,060028,protecciones metálicas para árboles
+6,060029,cajas para dinero [metálicas o no metálicas]
+6,060030,soldaduras de plata
+6,060032,aleaciones de estaño plateado
+6,060033,armaduras metálicas para hormigón
+6,060033,armaduras metálicas para concreto
+6,060034,cajas de caudales [metálicas o no metálicas]
+6,060034,cajas fuertes [metálicas o no metálicas]
+6,060035,topes metálicos para ventanas
+6,060036,topes metálicos para puertas
+6,060037,arandelas metálicas
+6,060038,anillas metálicas*
+6,060038,anillos metálicos*
+6,060039,goznes
+6,060040,baldosas metálicas para suelos
+6,060041,alambre de púas
+6,060041,alambre de espino
+6,060042,barrotes de rejas metálicas
+6,060043,berilio [glucinio]
+6,060043,glucinio [berilio]
+6,060044,cadenas para ganado
+6,060045,bigornias
+6,060046,metal blanco
+6,060047,blindajes metálicos
+6,060048,cierres metálicos para cajas
+6,060049,pernos metálicos
+6,060050,bombonas [recipientes] metálicas para gas a presión o aire líquido
+6,060050,cilindros [recipientes] metálicos para gas a presión o aire líquido
+6,060050,garrafas [recipientes] metálicas para gas a presión o aire líquido
+6,060051,pulseras de identificación metálicas
+6,060052,chapas de hierro
+6,060053,aleaciones para soldadura fuerte
+6,060054,bridas metálicas
+6,060055,bronces [monumentos funerarios]
+6,060056,bronces [obras de arte]
+6,060057,cables teleféricos
+6,060058,guardacabos para cables
+6,060058,guardacabos para cuerdas
+6,060059,empalmes metálicos para cables no eléctricos
+6,060061,cadmio
+6,060062,candados metálicos que no sean electrónicos
+6,060063,chuletas metálicas
+6,060064,conteras metálicas para bastones
+6,060065,recipientes metálicos para ácidos
+6,060066,cajas de seguridad
+6,060067,celtio [hafnio]
+6,060067,hafnio [celtio]
+6,060068,cadenas metálicas*
+6,060071,cadenas de seguridad metálicas
+6,060073,empalmes metálicos para cadenas
+6,060074,estructuras metálicas para la construcción
+6,060075,poleas metálicas para ventanas
+6,060075,poleas metálicas para ventanas de guillotina
+6,060076,conductos metálicos para instalaciones de calefacción central
+6,060077,clavos para herraduras
+6,060078,clavijas metálicas
+6,060079,cromo
+6,060080,cromita
+6,060081,minerales de cromo
+6,060082,chavetas metálicas
+6,060083,llaves metálicas
+6,060085,clavos
+6,060086,puntas [clavos]
+6,060086,tachuelas
+6,060087,tacos metálicos
+6,060088,cobalto en bruto
+6,060089,materiales metálicos para vías férreas
+6,060090,pilares metálicos para la construcción
+6,060091,tuberías de agua metálicas
+6,060092,manguitos [artículos de ferretería metálicos]
+6,060093,latas de conserva
+6,060094,contenedores metálicos [almacenamiento, transporte]
+6,060095,contracarriles
+6,060096,coquillas [fundición]
+6,060097,yunques
+6,060098,tapajuntas metálicos para tejados
+6,060099,codos metálicos para tuberías
+6,060100,puertas metálicas*
+6,060101,tensores de correas metálicos
+6,060102,crampones metálicos
+6,060103,llares
+6,060104,fallebas
+6,060105,ganchos [artículos de ferretería metálicos]
+6,060106,herrajes de ventanas
+6,060108,hilos metálicos
+6,060108,alambres
+6,060109,cobre en bruto o semielaborado
+6,060110,anillos de cobre
+6,060111,entibaciones metálicas
+6,060112,recipientes metálicos para gas a presión o aire líquido
+6,060113,limpiabarros metálicos
+6,060114,tuberías de desagüe metálicas
+6,060115,hierro en bruto o semielaborado
+6,060116,eclisas
+6,060118,tornillos metálicos
+6,060119,embalajes de hojalata
+6,060120,buzones de correo metálicos
+6,060121,timbres de puerta metálicos no eléctricos
+6,060122,espuelas
+6,060123,escuadras metálicas para la construcción
+6,060124,escaleras metálicas
+6,060125,cierres metálicos para ventanas
+6,060127,tuberías metálicas
+6,060127,tubos metálicos
+6,060129,rieles metálicos
+6,060129,raíles metálicos
+6,060130,guarniciones metálicas para ventanas
+6,060131,flejes de hierro
+6,060132,alambres de hierro
+6,060133,hierro colado en bruto o semielaborado
+6,060134,minerales de hierro
+6,060135,cierres de puerta metálicos no eléctricos
+6,060135,muelles de puerta metálicos no eléctricos
+6,060136,ferromolibdeno
+6,060137,ferrosilicio
+6,060138,ferrotitanio
+6,060139,ferrotungsteno
+6,060140,herrajes para la construcción
+6,060141,pasadores [artículos de ferretería]
+6,060143,armellas
+6,060143,pernos de ojo
+6,060144,cerraduras metálicas que no sean eléctricas
+6,060145,galena [mineral]
+6,060146,sellos de plomo
+6,060147,germanio
+6,060148,veletas
+6,060148,giraldas
+6,060149,crampones de escalada
+6,060150,moldes metálicos para hielo
+6,060151,racores de engrase
+6,060152,rejas metálicas
+6,060152,verjas metálicas
+6,060153,cerraduras de golpe
+6,060153,cerraduras de muelle
+6,060154,indio
+6,060155,distintivos metálicos para vehículos
+6,060156,celosías metálicas
+6,060157,latón en bruto o semielaborado
+6,060158,persianas de exterior metálicas
+6,060159,rampas de lanzamiento de cohetes metálicas
+6,060160,listones metálicos
+6,060161,limaduras metálicas
+6,060162,zancas de escalera metálicas
+6,060163,limonita
+6,060164,lingotes de metales comunes
+6,060165,dinteles metálicos
+6,060166,ruedas de cama metálicas
+6,060167,pestillos metálicos
+6,060168,lupias [metalurgia]
+6,060169,magnesio
+6,060170,construcciones transportables metálicas
+6,060172,virolas para mangos
+6,060173,manguitos metálicos para tubos
+6,060174,manganeso
+6,060175,palés de manipulación metálicos
+6,060176,palés de transporte metálicos
+6,060177,escaleras de tijera metálicas
+6,060179,marquesinas [estructuras] metálicas 
+6,060180,aldabas metálicas para puertas
+6,060181,esposas
+6,060182,metales comunes en bruto o semielaborados
+6,060183,minerales metalíferos
+6,060183,menas
+6,060184,tejidos metálicos
+6,060184,telas metálicas
+6,060185,metales pirofóricos
+6,060187,ruedas metálicas para muebles
+6,060188,tablestacas metálicas
+6,060189,molibdeno
+6,060190,monumentos metálicos
+6,060191,mordazas [artículos de ferretería metálicos]
+6,060192,chapados murales metálicos para la construcción
+6,060193,níquel
+6,060194,niobio
+6,060195,tapajuntas metálicos para la construcción
+6,060195,limahoyas metálicas para la construcción
+6,060196,números de casa metálicos no luminosos
+6,060197,contraventanas metálicas
+6,060198,empalizadas metálicas
+6,060199,canastos metálicos
+6,060199,cestos metálicos
+6,060200,paneles de señalización metálicos no luminosos ni mecánicos
+6,060201,revestimientos murales interiores metálicos para la construcción
+6,060202,ganchos [garfios] metálicos para prendas de vestir
+6,060202,ganchos [garfios] para prendas de vestir
+6,060203,pistas de patinaje [estructuras] metálicas
+6,060204,pestillos de cerradura
+6,060205,postes metálicos
+6,060206,muelles [artículos de ferretería metálicos]
+6,060206,resortes [artículos de ferretería metálicos]
+6,060207,poleas metálicas que no sean para máquinas
+6,060208,estacas metálicas para tiendas de campaña
+6,060208,estacas metálicas para carpas
+6,060209,techos metálicos
+6,060210,suelos metálicos
+6,060210,pisos metálicos
+6,060211,revestimientos interiores metálicos para la construcción
+6,060212,placas giratorias
+6,060213,tejas metálicas para techados
+6,060214,plomo en bruto o semielaborado
+6,060215,trampolines metálicos
+6,060216,manijas de puerta metálicas
+6,060216,perillas de puerta metálicas
+6,060216,picaportes de puerta metálicos
+6,060217,remaches metálicos
+6,060218,portones metálicos
+6,060219,entrepaños de puerta metálicos
+6,060220,cerrojos de puerta metálicos
+6,060221,anillas abiertas de metales comunes para llaves
+6,060222,postes telegráficos metálicos
+6,060223,zinc
+6,060224,vigas metálicas
+6,060224,jácenas metálicas
+6,060225,viguetas metálicas
+6,060226,plataformas [andenes o muelles] prefabricadas metálicas
+6,060227,artículos de ferretería metálicos
+6,060227,quincalla
+6,060228,mojones metálicos no luminosos ni mecánicos para carreteras
+6,060229,racores metálicos para tuberías
+6,060230,tensores de hilos metálicos [estribos de tensión]
+6,060230,tensores [artículos de ferretería metálicos]
+6,060231,recipientes metálicos para embalar
+6,060232,depósitos metálicos
+6,060232,tanques metálicos
+6,060233,umbrales metálicos
+6,060235,señales metálicas no luminosas ni mecánicas
+6,060236,invernaderos transportables metálicos
+6,060237,cerraduras metálicas para vehículos
+6,060238,topes metálicos
+6,060239,silos metálicos
+6,060240,cencerros
+6,060241,timbres*
+6,060241,campanas*
+6,060241,campanillas*
+6,060241,cascabeles
+6,060242,alambres para soldar
+6,060243,válvulas metálicas que no sean partes de máquinas
+6,060243,compuertas metálicas que no sean partes de máquinas
+6,060244,estatuas de metales comunes
+6,060245,traviesas de ferrocarril metálicas
+6,060245,durmientes de ferrocarril metálicos
+6,060246,tántalo [metal]
+6,060247,pasadores planos
+6,060248,tases
+6,060249,estribos de tensión
+6,060251,titanio
+6,060252,techados metálicos
+6,060253,tumbaga
+6,060254,tumbas metálicas
+6,060255,torniquetes [molinetes] metálicos
+6,060255,molinetes [torniquetes] metálicos
+6,060256,enrejados [celosías] metálicos
+6,060256,entramados metálicos
+6,060257,tungsteno
+6,060257,wolframio
+6,060258,cañerías metálicas
+6,060259,vanadio
+6,060260,tragaluces metálicos
+6,060262,virolas
+6,060263,pajareras [estructuras] metálicas
+6,060264,zirconio
+6,060265,canicas de acero
+6,060265,bolas de acero
+6,060266,construcciones de acero
+6,060267,armazones metálicos para conductos de aire comprimido
+6,060268,alambres de aleaciones de metales comunes, excepto los fusibles
+6,060269,aleaciones de metales comunes
+6,060270,hojas de aluminio*
+6,060271,bolardos de amarre metálicos
+6,060272,muelles flotantes metálicos para amarrar barcos
+6,060273,anclas
+6,060274,arrimadillos metálicos
+6,060275,armazones metálicos para conductos
+6,060275,materiales de refuerzo para conductos
+6,060276,armazones metálicos para la construcción
+6,060276,materiales de refuerzo para la construcción
+6,060277,armazones metálicos para correas
+6,060277,materiales de refuerzo para correas
+6,060278,obras de arte de metales comunes
+6,060279,artesas metálicas para argamasa
+6,060280,bañeras para pájaros [estructuras] metálicas
+6,060282,balizas metálicas no luminosas
+6,060284,tensores de flejes de hierro [estribos de tensión]
+6,060285,cintas metálicas para atar
+6,060286,hilos metálicos para atar
+6,060286,alambres para atar
+6,060287,toneles metálicos
+6,060287,barriles metálicos
+6,060288,cercos metálicos para toneles
+6,060288,cercos metálicos para barriles
+6,060289,barricas metálicas
+6,060290,piscinas [estructuras] metálicas
+6,060290,albercas de natación [estructuras] metálicas
+6,060290,piletas de natación [estructuras] metálicas
+6,060291,materiales de construcción metálicos
+6,060292,encofrados metálicos para hormigón
+6,060292,encofrados metálicos para concreto
+6,060293,instalaciones metálicas para aparcar bicicletas
+6,060294,pavimentos metálicos
+6,060295,cajas de metales comunes
+6,060296,piqueras metálicas
+6,060296,bitoques metálicos
+6,060297,cápsulas de taponado metálicas
+6,060298,hebillas de metales comunes [artículos de ferretería]
+6,060299,tapones metálicos para tapar botellas
+6,060300,cierres metálicos para botellas
+6,060301,pomos [tiradores] metálicos
+6,060302,varillas metálicas de soldadura fuerte
+6,060303,varillas metálicas de soldadura y soldadura fuerte
+6,060304,varillas metálicas para soldar
+6,060305,correas metálicas para manipular cargas
+6,060306,eslingas metálicas para manipular cargas
+6,060307,bustos de metales comunes
+6,060308,cabinas [casetas] metálicas para bañistas
+6,060310,cabinas metálicas para pulverizar pintura
+6,060311,cables metálicos no eléctricos
+6,060312,abrazaderas metálicas para tuberías
+6,060313,bridas de fijación metálicas para cables y tuberías
+6,060314,sujetacables metálicos
+6,060315,marcos de ventana metálicos
+6,060315,bastidores de ventana metálicos
+6,060316,armazones de invernadero metálicos
+6,060317,enrejados metálicos
+6,060318,sombreretes de chimenea metálicos
+6,060319,ataduras metálicas para uso agrícola
+6,060320,dispositivos metálicos no eléctricos para abrir puertas
+6,060321,baldosas metálicas para la construcción
+6,060322,solados metálicos de baldosas
+6,060323,panteones metálicos
+6,060324,guarniciones metálicas para ataúdes
+6,060325,palés de carga metálicos
+6,060325,plataformas [palés] de carga metálicas
+6,060326,gálibos de carga metálicos para ferrocarriles
+6,060327,bisagras metálicas
+6,060328,entramados de construcción metálicos
+6,060329,marcos de puerta metálicos
+6,060329,armaduras de puerta metálicas
+6,060329,armazones de puerta metálicos
+6,060329,bastidores de puerta metálicos
+6,060330,material fijo de funiculares
+6,060331,caperuzas de chimenea metálicas
+6,060332,goterones metálicos
+6,060332,canalones metálicos
+6,060332,canaletas metálicas
+6,060335,sifones de desagüe metálicos
+6,060336,tabiques metálicos
+6,060337,encofrados metálicos para pozos de petróleo
+6,060338,recipientes metálicos para combustibles líquidos
+6,060339,construcciones metálicas
+6,060340,contenedores flotantes metálicos
+6,060341,cuerdas metálicas
+6,060343,cornisas metálicas
+6,060344,molduras metálicas para cornisas
+6,060345,angulares metálicos
+6,060346,ventanas metálicas
+6,060347,herrajes de puerta
+6,060348,ruedecillas metálicas para puertas correderas
+6,060348,ruedecillas metálicas para puertas corredizas
+6,060349,tapas metálicas para bocas de inspección
+6,060350,cubiertas de tejado metálicas
+6,060351,ganchos metálicos para pizarras de techados
+6,060352,ganchos metálicos para percheros
+6,060353,alambres de cobre no aislados
+6,060354,cubas metálicas
+6,060355,peldaños metálicos
+6,060355,escalones metálicos
+6,060356,tubos de canalones metálicos
+6,060357,devanadoras metálicas no mecánicas para tubos flexibles
+6,060358,distribuidores de toallas fijos metálicos
+6,060359,válvulas metálicas para tuberías de agua
+6,060360,andamios metálicos
+6,060361,escalas metálicas
+6,060362,escaleras [escalas] móviles metálicas para el embarque de pasajeros
+6,060363,ligaduras metálicas
+6,060363,ataduras metálicas
+6,060364,tuercas metálicas
+6,060365,postes metálicos para líneas eléctricas
+6,060366,tuberías de ramificación metálicas
+6,060367,cercados metálicos para tumbas
+6,060368,vallas [cercas] metálicas
+6,060369,enrolladores metálicos no mecánicos para tubos flexibles
+6,060370,letreros metálicos
+6,060372,puntales metálicos
+6,060373,estaño
+6,060374,hojalata
+6,060375,láminas de estaño
+6,060376,chapas metálicas
+6,060379,cierres metálicos para bolsas
+6,060380,guarniciones metálicas para muebles
+6,060381,paneles metálicos para la construcción
+6,060381,tablas metálicas para la construcción
+6,060382,figuritas de metales comunes
+6,060382,estatuillas de metales comunes
+6,060383,tensores de cintas metálicas [estribos de tensión]
+6,060384,moldes de fundición metálicos
+6,060385,losas funerarias metálicas
+6,060385,losas sepulcrales metálicas
+6,060386,monumentos funerarios metálicos
+6,060387,placas funerarias metálicas
+6,060388,estelas funerarias metálicas
+6,060389,placas conmemorativas metálicas
+6,060389,chapas conmemorativas metálicas
+6,060390,parachispas metálicos para hornos
+6,060391,soportes metálicos para barriles
+6,060391,soportes metálicos para toneles
+6,060393,guarniciones metálicas para camas
+6,060394,guarniciones metálicas para puertas
+6,060395,cierres metálicos para recipientes
+6,060396,ataduras metálicas para gavillas
+6,060397,barreras de seguridad metálicas para carreteras
+6,060397,guardarraíles metálicos
+6,060397,guardarrieles metálicos
+6,060398,cofres metálicos
+6,060398,arcas metálicas
+6,060398,baúles metálicos
+6,060398,cajas metálicas
+6,060399,placas de identificación metálicas
+6,060400,placas de matriculación metálicas
+6,060400,matrículas metálicas
+6,060401,cermets
+6,060402,espitas metálicas para toneles
+6,060402,canillas metálicas para toneles
+6,060411,columnas publicitarias metálicas
+6,060412,boyas de amarre metálicas
+6,060413,chimeneas metálicas
+6,060414,tubos de chimenea metálicos
+6,060415,conductos metálicos para instalaciones de ventilación y aire acondicionado
+6,060416,láminas metálicas para embalar y empaquetar
+6,060417,soldaduras de oro
+6,060418,tolvas metálicas no mecánicas
+6,060419,letras y números de metales comunes, excepto caracteres de imprenta
+6,060420,colectores múltiples metálicos para canalizaciones
+6,060421,tuberías forzadas metálicas
+6,060422,cabinas telefónicas metálicas
+6,060423,cajas de herramientas metálicas, vacías
+6,060424,cofres de herramientas metálicos, vacíos
+6,060425,gallineros metálicos
+6,060426,cepos para bloquear vehículos
+6,060427,cabos de acero
+6,060428,mosquiteros [bastidores] metálicos
+6,060430,pitones metálicos
+6,060431,morillos
+6,060432,dispositivos metálicos accionados por el viento para ahuyentar aves
+6,060433,jaulas metálicas para animales salvajes
+6,060434,metales en polvo*
+6,060435,materiales de construcción refractarios metálicos
+6,060436,cenadores [estructuras] metálicos
+6,060436,glorietas [estructuras] metálicas
+6,060437,establos metálicos
+6,060438,pocilgas metálicas
+6,060439,casas prefabricadas metálicas [kits]
+6,060440,bandejas metálicas*
+6,060441,cunetas metálicas
+6,060442,tapas de rosca metálicas para botellas
+6,060443,dispositivos metálicos no eléctricos para abrir ventanas
+6,060444,dispositivos metálicos no eléctricos para cerrar ventanas
+6,060445,baldosas metálicas para paredes
+6,060446,losas de pavimentación metálicas
+6,060447,losas metálicas para la construcción
+6,060448,escalerillas [taburetes] metálicas
+6,060449,techados metálicos con células fotovoltaicas integradas
+6,060450,puertas blindadas metálicas
+6,060451,barras de apoyo metálicas para bañeras
+6,060451,asideros metálicos para bañeras
+6,060452,distribuidores metálicos fijos de bolsas para excrementos de perros
+6,060453,metales en hojas o en polvo para impresoras 3D
+6,060454,aldabillas metálicas para ventanas
+6,060455,cierres metálicos para puertas
+6,060456,tejas acanaladas metálicas
+6,060456,tejas flamencas metálicas
+6,060457,balaustres metálicos
+6,060458,recubrimientos metálicos para la construcción
+6,060459,barras de acero laminadas en caliente
+6,060460,barras de acero brillante
+6,060461,barras metálicas descortezadas
+6,060462,barras metálicas estiradas y pulidas
+6,060463,cuelgabolsos metálicos
+6,060464,escuadras metálicas para muebles
+6,060465,etiquetas metálicas
+6,060466,bidones metálicos
+6,060467,tutores metálicos para plantas o árboles
+6,060467,rodrigones metálicos para plantas o árboles
+6,060468,astas de bandera [estructuras] metálicas
+6,060469,pinzas metálicas para cerrar bolsas
+6,060470,clavijas metálicas para el calzado
+6,060471,remaches metálicos para el calzado
+6,060472,cajas de caudales electrónicas
+6,060473,puertas plegables metálicas
+6,060474,molduras metálicas para la construcción
+6,060475,mantos de chimenea metálicos
+6,060476,rampas metálicas utilizadas con vehículos
+6,060477,crucifijos de metales comunes que no sean artículos de joyería
+6,060478,puertas batientes metálicas
+6,060478,puertas de vaivén metálicas
+6,060479,bandejas de vaciado para purgar el aceite
+6,060480,astas de bandera metálicas portátiles
+6,060481,tapones metálicos para insertar en botellas
+6,060482,puertas de acordeón metálicas
+6,060483,rejillas de chimenea metálicas
+6,060484,cabinas insonorizadas metálicas, transportables
+6,060485,paneles acústicos metálicos
+6,060486,armazones metálicos para miniinvernaderos
+6,060486,armazones metálicos para camas frías

@@ -1,0 +1,394 @@
+class,reference_id,name
+11,110001,instalaciones automáticas para abrevar
+11,110002,acumuladores de calor
+11,110003,mecheros de acetileno
+11,110003,quemadores de acetileno
+11,110004,generadores de acetileno
+11,110005,faros de acetileno
+11,110006,campanas de ventilación
+11,110007,instalaciones de alumbrado para vehículos aéreos
+11,110008,aerotermos
+11,110008,hornos de aire caliente
+11,110009,aparatos para desodorizar el aire
+11,110010,dispositivos para el enfriar el aire
+11,110011,filtros de aire para sistemas de climatización
+11,110011,filtros para sistemas de aire acondicionado
+11,110012,recalentadores de aire
+11,110013,secadores de aire
+11,110014,instalaciones de aire acondicionado
+11,110015,instalaciones de filtrado de aire
+11,110016,aparatos de aire caliente
+11,110017,aparatos para baños de aire caliente
+11,110018,encendedores de fricción para encender el gas
+11,110019,encendedores de gas
+11,110020,encendedores*
+11,110021,bombillas de iluminación
+11,110022,bombillas eléctricas
+11,110023,lámparas de arco
+11,110024,lámparas eléctricas
+11,110025,armazones de horno
+11,110026,armarios frigoríficos
+11,110027,luces para vehículos
+11,110031,faros para automóviles
+11,110032,recipientes refrigerantes para hornos
+11,110033,bañeras
+11,110035,bañeras para baños de asiento
+11,110036,cabinas transportables para baños turcos
+11,110037,aparatos para baños
+11,110038,calentadores de baño
+11,110038,calientabaños
+11,110039,instalaciones de baño
+11,110040,lámparas [aparatos de iluminación]
+11,110041,faroles de alumbrado
+11,110042,manguitos de lámparas
+11,110043,mecheros de incandescencia
+11,110043,quemadores de incandescencia
+11,110044,mecheros de lámparas
+11,110044,quemadores de lámparas
+11,110045,luces para bicicletas
+11,110046,bidés
+11,110047,calderas que no sean partes de máquinas
+11,110048,cocederos
+11,110049,bocas de riego
+11,110050,tapones de radiador
+11,110051,linternas eléctricas
+11,110052,calentadores de agua*
+11,110053,hornos de panadería
+11,110055,rompechorros
+11,110055,aireadores para grifos
+11,110056,asadores giratorios
+11,110057,espetones para asadores
+11,110058,quemadores de laboratorio
+11,110059,antorchas para la industria petrolera
+11,110060,quemadores*
+11,110061,quemadores germicidas
+11,110063,calderas de lavandería
+11,110064,retretes transportables
+11,110065,ventiladores [climatización]
+11,110066,torrefactores de café
+11,110067,caloríferos
+11,110068,grifos para tuberías y canalizaciones
+11,110068,llaves de paso para tuberías y canalizaciones
+11,110069,recuperadores de calor
+11,110069,regeneradores de calor
+11,110070,piezas accesorias de arcilla refractaria [chamota] para hornos
+11,110071,bombillas de indicadores de dirección para vehículos
+11,110071,bombillas de intermitentes para vehículos
+11,110072,carbón para lámparas de arco
+11,110073,instalaciones de calefacción
+11,110074,aparatos de carga para hornos
+11,110075,depósitos de descarga de agua
+11,110075,cisternas [depósitos de agua] de inodoro
+11,110076,instalaciones de calefacción por agua caliente
+11,110077,calderas de calefacción
+11,110078,tubos de calderas de calefacción
+11,110079,instalaciones de climatización para vehículos
+11,110079,instalaciones de aire acondicionado para vehículos
+11,110080,aparatos de calefacción por combustible sólido, líquido o gaseoso
+11,110081,instalaciones de calefacción para vehículos
+11,110082,aparatos de calefacción eléctricos
+11,110083,radiadores de calefacción central
+11,110084,humidificadores para radiadores de calefacción central
+11,110085,elementos calefactores
+11,110086,calienta-hierros
+11,110086,calentadores de tenacillas
+11,110087,calientapiés eléctricos o no
+11,110088,folgos calentados eléctricamente
+11,110089,calientaplatos
+11,110090,calentadores de inmersión
+11,110091,cristales de lámparas
+11,110092,tubos de lámparas
+11,110093,humeros de chimenea
+11,110093,conductos de humo [conductos de chimenea]
+11,110094,tiros de chimenea
+11,110095,secadores de pelo
+11,110095,secadores de cabello
+11,110096,instalaciones de distribución de agua
+11,110097,secadores [aparatos]
+11,110099,aparatos de aire acondicionado
+11,110100,aparatos para calentar cola [pegamento]
+11,110101,columnas de destilación
+11,110103,tuberías [partes de instalaciones sanitarias]
+11,110103,cañerías [partes de instalaciones sanitarias]
+11,110104,instalaciones de conductos de agua
+11,110105,inodoros
+11,110105,váteres [inodoros]
+11,110106,congeladores
+11,110107,utensilios de cocción eléctricos
+11,110108,cocinas [aparatos]
+11,110109,aparatos e instalaciones de cocción
+11,110110,luces de motocicleta
+11,110111,tubos de descarga eléctrica para la iluminación
+11,110112,dispositivos antihielo para vehículos
+11,110112,descarchadores para vehículos
+11,110114,distribuidores de desinfectante para baños
+11,110115,aparatos de desinfección
+11,110116,plantas desalinizadoras de agua de mar
+11,110116,instalaciones de desalinización del agua de mar
+11,110117,aparatos de desecación
+11,110118,difusores de luz
+11,110119,aparatos para enfriar bebidas
+11,110120,aparatos de destilación*
+11,110121,duchas*
+11,110122,casquillos [portalámparas] de lámparas eléctricas
+11,110122,casquillos de lámparas eléctricas [portalámparas]
+11,110123,instalaciones de depuración de agua
+11,110123,instalaciones depuradoras de agua
+11,110124,aparatos para filtrar el agua
+11,110125,instalaciones para enfriar el agua
+11,110126,fuentes de agua
+11,110127,depósitos de agua a presión
+11,110128,esterilizadores de agua
+11,110129,intercambiadores térmicos que no sean partes de máquinas
+11,110130,aparatos e instalaciones de alumbrado
+11,110133,arañas de luces
+11,110135,instalaciones de depuración de aguas residuales
+11,110135,instalaciones depuradoras de aguas residuales
+11,110136,plafones [lámparas]
+11,110137,radiadores eléctricos
+11,110138,aparatos de depuración de gases
+11,110138,aparatos depuradores de gases
+11,110141,aparatos para secar el forraje
+11,110142,evaporadores
+11,110143,estufas [aparatos de calefacción]
+11,110145,filamentos de lámparas eléctricas
+11,110147,filtros para agua potable
+11,110148,antorchas
+11,110149,forjas portátiles
+11,110150,hornos que no sean de laboratorio
+11,110151,piezas accesorias conformadas para hornos
+11,110152,rejillas de incinerador
+11,110153,hogares
+11,110153,chimeneas [hogares]
+11,110154,ceniceros para hogares de chimenea
+11,110155,aparatos y máquinas frigoríficos
+11,110156,cámaras frigoríficas
+11,110157,recipientes frigoríficos
+11,110158,lámparas para rizar
+11,110159,tostadores de frutos
+11,110160,lavadores de gas [partes de instalaciones de gas]
+11,110161,mecheros de gas
+11,110161,quemadores de gas
+11,110162,calderas de gas
+11,110163,lámparas de gas
+11,110165,generadores de vapor que no sean partes de máquinas
+11,110166,lámparas germicidas para purificar el aire
+11,110167,aparatos y máquinas de hielo
+11,110168,neveras portátiles eléctricas
+11,110168,heladeras portátiles eléctricas
+11,110169,globos de lámparas
+11,110170,placas calentadoras
+11,110171,tostadores de pan
+11,110172,parrillas [utensilios de cocción]
+11,110172,aparatos para tostar
+11,110173,incineradores
+11,110174,aparatos de ionización para el tratamiento del aire o del agua
+11,110175,fuentes de agua ornamentales
+11,110176,lámparas de laboratorio
+11,110177,instalaciones para enfriar la leche
+11,110178,pasteurizadores
+11,110179,lámparas de aceite
+11,110180,lámparas de rayos ultravioleta que no sean para uso médico
+11,110182,lámparas de seguridad
+11,110183,reflectores de lámparas
+11,110185,farolillos
+11,110185,lampiones
+11,110186,lavabos
+11,110186,lavamanos
+11,110188,instalaciones para enfriar líquidos
+11,110189,tubos luminosos de alumbrado
+11,110190,filamentos de magnesio [iluminación]
+11,110191,torrefactores de malta
+11,110192,lámparas de minero
+11,110193,instalaciones para el tratamiento de combustibles nucleares y moderadores nucleares
+11,110194,válvulas reguladoras de nivel para depósitos
+11,110194,válvulas reguladoras de nivel para tanques [depósitos]
+11,110195,luces eléctricas para árboles de Navidad
+11,110196,números luminosos para casas
+11,110197,quemadores oxhídricos
+11,110198,radiadores [calefacción]
+11,110199,quemadores de aceite
+11,110199,quemadores de fueloil
+11,110200,faros para vehículos
+11,110201,placas de calefacción
+11,110202,proyectores de luz
+11,110203,instalaciones de polimerización
+11,110204,cocinas profesionales [aparatos]
+11,110205,purgadores de aire no automáticos para instalaciones de calefacción de vapor
+11,110206,aparatos y máquinas para purificar el agua
+11,110207,aparatos y máquinas para purificar el aire
+11,110208,torres de refinado para la destilación
+11,110209,instalaciones y máquinas de enfriamiento
+11,110210,hornillos
+11,110210,anafes
+11,110212,reflectores para vehículos
+11,110213,aparatos e instalaciones de refrigeración
+11,110214,aparatos e instalaciones de enfriamiento
+11,110215,registros de tiro [calefacción]
+11,110215,reguladores de tiro [calefacción]
+11,110216,accesorios de regulación para aparatos y conducciones de agua o gas
+11,110217,accesorios de seguridad para aparatos y conducciones de agua o gas
+11,110218,grifos*
+11,110219,arandelas para grifos de agua
+11,110220,asadores
+11,110221,aparatos e instalaciones sanitarias
+11,110222,aparatos e instalaciones de secado
+11,110223,secamanos para lavabos
+11,110224,serpentines [partes de instalaciones de destilación, calefacción o enfriamiento]
+11,110225,ventiladores [partes de instalaciones de aire acondicionado]
+11,110226,esterilizadores
+11,110227,instalaciones enfriadoras de tabaco
+11,110228,tostadores de tabaco
+11,110229,aparatos de iluminación para vehículos
+11,110230,aparatos de torrefacción
+11,110230,tostadores
+11,110231,instalaciones automáticas para transportar ceniza
+11,110232,instalaciones de producción de vapor
+11,110233,aparatos e instalaciones de ventilación [aire acondicionado]
+11,110234,instalaciones de ventilación [climatización] para vehículos
+11,110235,tazas de inodoro
+11,110235,tazas de váter
+11,110236,asientos de inodoro
+11,110236,asientos de váter [inodoro]
+11,110237,pantallas de lámpara
+11,110238,portapantallas para lámparas
+11,110239,grifos mezcladores para tuberías de agua
+11,110240,accesorios de regulación y seguridad para conductos de gas
+11,110241,accesorios de regulación y seguridad para aparatos de agua
+11,110242,acumuladores de vapor
+11,110243,aparatos e instalaciones para ablandar el agua
+11,110244,campanas de ventilación para laboratorios
+11,110245,esterilizadores de aire
+11,110246,alambiques*
+11,110247,mecheros de alcohol
+11,110247,quemadores de alcohol
+11,110249,dispositivos antideslumbrantes para vehículos [accesorios para lámparas]
+11,110249,dispositivos antiencandilantes para vehículos [accesorios para lámparas]
+11,110250,dispositivos calentadores antiescarcha para vehículos
+11,110251,apliques para mecheros de gas
+11,110251,apliques para quemadores de gas
+11,110252,instalaciones de suministro de agua
+11,110253,reactores nucleares
+11,110254,ollas a presión eléctricas
+11,110254,ollas exprés eléctricas
+11,110256,luces para automóviles
+11,110257,calientabiberones eléctricos
+11,110258,gofreras eléctricas
+11,110258,barquilleros [moldes para hacer barquillos] eléctricos
+11,110258,moldes de hierro eléctricos para pastelería
+11,110259,accesorios de regulación y seguridad para aparatos de gas
+11,110261,cafeteras de filtro eléctricas
+11,110262,cafeteras eléctricas
+11,110263,farolas
+11,110264,humeros para calderas de calefacción
+11,110265,barbacoas
+11,110266,freidoras eléctricas
+11,110267,chimeneas para viviendas
+11,110268,bombas de calor
+11,110269,colectores solares térmicos [calefacción]
+11,110270,hornos solares
+11,110271,aparatos de bronceado
+11,110271,camas solares
+11,110272,aparatos o instalaciones de descarga de agua
+11,110273,alimentadores de calderas de calefacción
+11,110274,refrigeradores
+11,110274,frigoríficos
+11,110275,aparatos de desodorización que no sean para uso personal
+11,110276,aparatos de toma de agua
+11,110277,aparatos para depurar el aceite
+11,110278,aparatos de fumigación que no sean para uso médico
+11,110279,soportes de carga de hornos
+11,110280,calentadores de bolsillo
+11,110291,bañeras de hidromasaje
+11,110292,aparatos de cromatografía para uso industrial
+11,110293,filamentos eléctricos calentadores
+11,110294,condensadores de gas que no sean partes de máquinas
+11,110296,almohadillas electrotérmicas que no sean para uso médico
+11,110297,instalaciones de sauna
+11,110298,cabinas de ducha
+11,110299,fregaderos
+11,110300,vaporizadores faciales [saunas]
+11,110301,urinarios
+11,110302,bolsas de agua caliente
+11,110303,hervidores eléctricos
+11,110304,calientacamas
+11,110305,mantas eléctricas que no sean para uso médico
+11,110305,cobertores eléctricos que no sean para uso médico
+11,110305,cobijas eléctricas que no sean para uso médico
+11,110306,calentadores de cama
+11,110307,aparatos de filtración para acuarios
+11,110308,aparatos de calefacción para acuarios
+11,110309,luces para iluminar acuarios
+11,110310,alfombras electrotérmicas
+11,110311,hornos dentales
+11,110312,yogurteras eléctricas
+11,110312,aparatos eléctricos para hacer yogur
+11,110313,depósitos de expansión para instalaciones de calefacción central
+11,110314,campanas extractoras para cocinas
+11,110315,ventiladores eléctricos para uso personal
+11,110316,secadoras de ropa eléctricas
+11,110317,hornos de microondas [aparatos de cocina]
+11,110318,aparatos de cloración para piscinas
+11,110318,aparatos de cloración para albercas de natación
+11,110318,aparatos de cloración para piletas de natación
+11,110319,válvulas termostáticas [partes de instalaciones de calefacción]
+11,110320,aparatos para producir chorros de hidromasaje
+11,110321,aparatos de deshidratación de residuos alimenticios
+11,110322,lámparas de buceo
+11,110322,lámparas de submarinismo
+11,110323,aspersores de riego por goteo [accesorios de riego]
+11,110325,cámaras blancas [instalaciones sanitarias]
+11,110326,piedras de lava para barbacoas
+11,110327,máquinas de riego para uso agrícola
+11,110328,hornos de microondas para uso industrial
+11,110329,hornos de pan
+11,110330,vitrinas frigoríficas
+11,110331,aparatos vaporizadores para planchar tejidos
+11,110332,máquinas para hacer pan
+11,110333,aparatos de iluminación con diodos electroluminiscentes [ledes]
+11,110333,aparatos de alumbrado con diodos electroluminiscentes [ledes]
+11,110334,aparatos para bañeras de hidromasaje
+11,110335,vitrinas calentadoras
+11,110336,ollas eléctricas multifuncionales
+11,110337,vaporeras eléctricas
+11,110338,prensas eléctricas para tortillas
+11,110339,aparatos para esterilizar libros
+11,110340,pistolas de aire caliente
+11,110341,fuentes de chocolate eléctricas
+11,110342,aparatos de desinfección para uso médico
+11,110343,armarios refrigeradores eléctricos para vino
+11,110344,guirnaldas de luces decorativas para fiestas
+11,110345,calcetines electrotérmicos
+11,110346,linternas frontales
+11,110346,linternas de cabeza
+11,110347,lámparas de manicura
+11,110348,máquinas de cocción al vacío eléctricas
+11,110349,generadores de microburbujas para bañeras
+11,110350,aparatos de calentamiento y refrigeración para la distribución de bebidas calientes y frías
+11,110351,prendas de vestir electrotérmicas
+11,110352,máquinas eléctricas de uso doméstico para la preparación de pasteles de arroz molido
+11,110353,mechas especiales para estufas de petróleo
+11,110354,placas de cocción eléctricas
+11,110355,faroles de vela
+11,110356,freidoras de aire caliente
+11,110357,máquinas para preparar helados cremosos
+11,110358,luces indicadoras de dirección para bicicletas
+11,110359,refrigeradores, aparatos de enfriamiento y congeladores para almacenamiento médico
+11,110360,lámparas de curado que no sean para uso médico
+11,110361,sistemas de cultivo hidropónico
+11,110362,recipientes calorífugos eléctricos
+11,110363,deshidratadores eléctricos de alimentos
+11,110364,calentadores de manos alimentados por USB
+11,110365,calentadores de tazas alimentados por USB
+11,110366,cuscuseras eléctricas
+11,110367,lámparas de pie
+11,110368,cazuelas de tajín eléctricas
+11,110369,proyectores de luces
+11,110370,máquinas de niebla
+11,110371,aparatos e instalaciones de calefacción por suelo radiante
+11,110371,aparatos e instalaciones de calefacción por piso radiante
+11,110372,humidificadores
+11,110373,máquinas eléctricas para elaborar leche de soja
+11,110374,cápsulas de café, vacías, para cafeteras eléctricas
+11,110375,dispensadores de bebidas calientes eléctricos
+11,110376,deshumidificadores

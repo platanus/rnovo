@@ -1,0 +1,389 @@
+class,reference_id,name
+20,200001,colmenas para abejas
+20,200002,tablones de anuncios
+20,200003,decoraciones de materias plásticas para alimentos
+20,200005,ámbar amarillo
+20,200006,animales disecados
+20,200007,camas para animales de compañía
+20,200007,lechos para animales de compañía
+20,200008,cunas para animales de compañía
+20,200009,casetas para animales de compañía
+20,200009,cuchas para animales de compañía
+20,200010,garras de animales
+20,200011,anillas de cortinas
+20,200013,vidrio plateado [espejos]
+20,200013,cristal plateado [espejos]
+20,200014,armarios empotrados
+20,200015,botiquines [armarios para medicinas]
+20,200016,bridas de fijación no metálicas para cables y tubos
+20,200017,barriles de madera para decantar el vino
+20,200018,ballena en bruto o semielaborada
+20,200019,bambú
+20,200020,bancos [muebles]
+20,200021,banastas de pesca
+20,200021,cestas de pesca
+20,200022,parques de bebés
+20,200022,corrales de bebés
+20,200022,corralitos de bebés
+20,200023,minicunas de balancín
+20,200024,anaqueles de biblioteca
+20,200024,estantes de biblioteca
+20,200025,carretes de madera para hilo, seda, torzales
+20,200026,armazones de cama de madera
+20,200027,cintas de madera
+20,200029,tapones de botella
+20,200030,tapones de corcho
+20,200031,botelleros [muebles]
+20,200032,bastidores para bordar
+20,200033,monturas de cepillos
+20,200034,aparadores [muebles]
+20,200035,cuernos de animales
+20,200036,escritorios [muebles]
+20,200037,muebles de oficina
+20,200038,bustos de sastre
+20,200039,cera estampada para colmenas
+20,200040,cuadros [marcos] de colmenas
+20,200041,muebles
+20,200041,piezas de mobiliario
+20,200042,espitas no metálicas para toneles
+20,200042,canillas no metálicas para toneles
+20,200043,ficheros [muebles]
+20,200043,muebles archivadores
+20,200043,archiveros
+20,200044,casilleros
+20,200045,concha de imitación
+20,200045,carey de imitación
+20,200046,pantallas de chimenea [mobiliario]
+20,200047,ataúdes
+20,200048,guarniciones no metálicas para ataúdes
+20,200049,cornamentas de ciervo
+20,200050,sillas [asientos]
+20,200050,asientos*
+20,200051,chaises longues
+20,200052,cabeceras [muebles]
+20,200053,percheros para sombreros
+20,200054,palés de carga no metálicos
+20,200055,gálibos de carga no metálicos para ferrocarriles
+20,200056,bisagras no metálicas
+20,200057,expositores [muebles]
+20,200058,casetas de perro
+20,200058,cuchas
+20,200059,perchas para prendas de vestir
+20,200062,anaqueles para archivadores
+20,200063,sillones*
+20,200064,maniquís*
+20,200065,recipientes no metálicos para combustibles líquidos
+20,200066,cómodas
+20,200067,mostradores [mesas]
+20,200068,contenedores no metálicos [almacenamiento, transporte]
+20,200069,contenedores flotantes no metálicos
+20,200070,mesas*
+20,200071,coral
+20,200072,bandejas no metálicas*
+20,200074,cuerno en bruto o semielaborado
+20,200076,corozo
+20,200077,accesorios de cama, excepto ropa de cama
+20,200078,cojines*
+20,200078,almohadones*
+20,200079,colchones*
+20,200080,ganchos no metálicos para percheros
+20,200081,cubas no metálicas
+20,200082,carritos de té
+20,200083,mesas de dibujo
+20,200083,restiradores
+20,200084,distribuidores fijos de toallas no metálicos
+20,200085,divanes
+20,200087,duelas
+20,200088,productos de ebanistería
+20,200089,concha
+20,200089,carey
+20,200090,conchas de ostras
+20,200091,tutores no metálicos para plantas y árboles
+20,200091,rodrigones no metálicos para plantas y árboles
+20,200092,escaleras de madera o materias plásticas
+20,200093,escaleras [escalas] móviles no metálicas para el embarque de pasajeros
+20,200094,mobiliario escolar
+20,200095,mesas de mecanografía
+20,200096,rótulos de madera o materias plásticas
+20,200097,tuercas no metálicas
+20,200098,espuma de mar
+20,200099,revestimientos amovibles para fregaderos
+20,200100,recipientes de materias plásticas para empaquetar
+20,200101,alzapaños que no sean de materias textiles
+20,200102,camas*
+20,200103,devanadoras no metálicas ni mecánicas para tubos flexibles
+20,200103,carretes no metálicos ni mecánicos para tubos flexibles
+20,200104,enrolladores no metálicos ni mecánicos para tubos flexibles
+20,200105,varillas para alfombras de escalera
+20,200106,bancos de trabajo
+20,200108,estantes [muebles]
+20,200109,cajas nido
+20,200109,nidales*
+20,200110,abanicos
+20,200112,cierres no metálicos para recipientes
+20,200113,guarniciones no metálicas para muebles
+20,200115,jardineras [muebles]
+20,200116,pedestales para macetas de flores
+20,200117,comederos para forraje
+20,200117,pesebres para forraje
+20,200118,armeros para fusiles
+20,200119,barricas no metálicas
+20,200119,cubas
+20,200119,toneles no metálicos
+20,200120,soportes no metálicos para barriles
+20,200120,soportes no metálicos para toneles
+20,200121,ruedecillas para cortinas
+20,200122,fresqueras
+20,200123,guarniciones no metálicas para ventanas
+20,200124,guarniciones no metálicas para camas
+20,200125,guarniciones no metálicas para puertas
+20,200126,tajos de carnicero
+20,200128,jaulas de embalaje
+20,200128,guacales
+20,200129,fundas de prendas de vestir para armarios
+20,200130,matrículas [placas de matriculación] no metálicas
+20,200130,placas de matriculación no metálicas
+20,200132,muebles metálicos
+20,200133,mimbre
+20,200133,caña de la India [rota]
+20,200134,expositores para periódicos
+20,200135,revisteros
+20,200136,persianas de laminillas para interiores
+20,200137,tocadores [muebles]
+20,200138,camas de hospital
+20,200139,ruedas de cama no metálicas
+20,200140,pestillos no metálicos
+20,200141,atriles*
+20,200143,cestos [cestas] para transportar objetos
+20,200144,percheros [muebles]
+20,200145,palés de transporte no metálicos
+20,200146,palés de manipulación no metálicos
+20,200147,escaleras de tijera no metálicas
+20,200148,entrepaños de madera para muebles
+20,200149,ruedas no metálicas para muebles
+20,200150,panales de miel
+20,200151,móviles [objetos de decoración]
+20,200152,pupitres
+20,200153,nácar en bruto o semielaborado
+20,200154,placas de identificación no metálicas
+20,200155,números de casa no luminosos ni metálicos
+20,200156,pájaros disecados
+20,200157,almohadas*
+20,200158,almohadas de aire que no sean para uso médico
+20,200159,jergones
+20,200160,paja trenzada, excepto esteras
+20,200161,trenzas de paja
+20,200162,cintas de paja
+20,200163,cestos de panadería
+20,200164,paragüeros
+20,200165,biombos [muebles]
+20,200166,ganchos [garfios] no metálicos para prendas de vestir
+20,200167,cortinas de cuentas para decorar
+20,200168,estacas no metálicas para tiendas de campaña
+20,200168,estacas no metálicas para carpas
+20,200169,tableros de mesa
+20,200170,puertas de muebles
+20,200171,rieles para cortinas
+20,200172,anaqueles [baldas] de muebles
+20,200173,perfiles [piezas de acabado] de materias plásticas para muebles
+20,200174,depósitos no metálicos ni de obra
+20,200174,tanques no metálicos ni de obra
+20,200175,barras de cortinas
+20,200176,ganchos de cortinas
+20,200177,alzapaños de cortinas
+20,200178,caña [material trenzable]
+20,200179,pezuñas de animales
+20,200180,secreteres
+20,200181,cerraduras no metálicas para vehículos
+20,200182,asientos metálicos
+20,200183,sofás
+20,200184,canapés [sillones]
+20,200185,somieres de camas
+20,200186,válvulas no metálicas que no sean partes de máquinas
+20,200186,compuertas no metálicas que no sean partes de máquinas
+20,200187,estatuas de madera, cera, yeso o materias plásticas
+20,200188,mesas metálicas
+20,200189,mesas de tocador
+20,200190,molduras para marcos de cuadros
+20,200191,estantes de almacenamiento
+20,200191,repisas de almacenamiento
+20,200192,cajones
+20,200192,taquillas [casilleros]
+20,200193,espejos
+20,200194,tumbonas [hamacas]
+20,200194,perezosas
+20,200195,travesaños [almohadas]
+20,200196,caballetes [muebles]
+20,200197,tableros para colgar llaves
+20,200198,vasares [muebles]
+20,200199,artículos de cestería
+20,200200,vitrinas [muebles]
+20,200201,cojines de aire que no sean para uso médico
+20,200202,colchones de aire que no sean para uso médico
+20,200203,barras de ambroide
+20,200203,barras de ámbar prensado
+20,200204,placas de ambroide
+20,200204,placas de ámbar prensado
+20,200205,obras de arte de madera, cera, yeso o materias plásticas
+20,200206,artesas no metálicas para argamasa
+20,200207,cajas no metálicas
+20,200207,cofres no metálicos
+20,200207,arcas no metálicas
+20,200209,bancos de trabajo [muebles]
+20,200210,barriles no metálicos
+20,200211,cercos no metálicos para toneles
+20,200211,cercos no metálicos para barriles
+20,200212,bastidores para máquinas de calcular
+20,200213,piqueras no metálicas
+20,200213,bitoques no metálicos
+20,200214,cápsulas de taponado no metálicas
+20,200215,tornillos no metálicos
+20,200216,remaches no metálicos
+20,200217,clavijas no metálicas
+20,200217,tarugos no metálicos
+20,200218,pernos no metálicos
+20,200219,cápsulas no metálicas para botellas
+20,200220,cierres no metálicos para botellas
+20,200221,pulseras de identificación no metálicas
+20,200222,carritos de servicio
+20,200223,bustos de madera, cera, yeso o materias plásticas
+20,200224,sujetacables no metálicos
+20,200225,marcos [arte y decoración]
+20,200226,varillas para marcos
+20,200226,listones para marcos
+20,200229,mesas de masaje
+20,200230,camas de agua que no sean para uso médico
+20,200231,sifones de desagüe de materias plásticas
+20,200232,tacos [chavetas] no metálicos
+20,200232,chavetas [tacos] no metálicas
+20,200233,conchas
+20,200235,taburetes
+20,200236,válvulas de materias plásticas para tuberías de agua
+20,200238,embalajes de madera para botellas
+20,200238,envases de madera para botellas
+20,200239,figuritas de madera, cera, yeso o materias plásticas
+20,200239,estatuillas de madera, cera, yeso o materias plásticas
+20,200240,cerraduras que no sean eléctricas ni metálicas
+20,200241,sillones de peluquería
+20,200242,barras no metálicas
+20,200243,cestas no metálicas
+20,200243,cestos no metálicos
+20,200244,buzones de correo no metálicos ni de obra
+20,200251,boyas de amarre no metálicas
+20,200252,fundas para guardar prendas de vestir
+20,200253,letreros de madera o materias plásticas
+20,200254,carritos [mobiliario]
+20,200255,cortinas de bambú
+20,200256,baúles para juguetes
+20,200256,cajas para juguetes
+20,200257,tronas para niños
+20,200257,sillas altas para niños
+20,200258,andadores para niños
+20,200259,objetos inflables para publicidad
+20,200260,tarjetas de acceso de materias plásticas no codificadas ni magnéticas
+20,200261,placas de vidrio para espejos
+20,200261,placas de espejo
+20,200262,poleas de materias plásticas para persianas
+20,200263,caballetes de aserrar
+20,200263,burros [caballetes de aserrar]
+20,200264,rascadores para gatos
+20,200265,palos para transportar cargas a hombros
+20,200266,mesas con ruedas para ordenadores
+20,200266,mesas con ruedas para computadoras
+20,200267,urnas funerarias
+20,200268,carillones de viento [decoración]
+20,200269,persianas de interior de madera tejida
+20,200270,soportes para libros
+20,200270,portalibros
+20,200271,cojines para animales de compañía
+20,200272,persianas de interior para ventanas [mobiliario]
+20,200273,manijas de puerta no metálicas
+20,200273,perillas de puerta no metálicas
+20,200273,picaportes de puerta no metálicos 
+20,200274,espejos de mano [espejos de tocador]
+20,200275,colchonetas para parques de bebés
+20,200275,colchonetas para corrales de bebés
+20,200275,colchonetas para corralitos de bebés
+20,200276,toalleros [muebles]
+20,200277,pomos [tiradores] no metálicos
+20,200278,cambiadores de pared [muebles]
+20,200279,cambiadores para bebés [colchonetas]
+20,200280,cerrojos de puerta no metálicos
+20,200281,estores de papel
+20,200282,estores de materias textiles para ventanas
+20,200283,timbres de puerta que no sean metálicos ni eléctricos
+20,200284,tabiques autoportantes [muebles]
+20,200285,tapas de rosca no metálicas para botellas
+20,200286,aldabas no metálicas para puertas
+20,200287,bancos de aserrar [muebles]
+20,200288,muebles inflables
+20,200288,muebles hinchables
+20,200289,escalerillas [taburetes] no metálicas
+20,200290,barras de apoyo no metálicas para bañeras
+20,200290,asideros no metálicos para bañeras
+20,200291,abrazaderas no metálicas para tuberías
+20,200292,expositores [organizadores] de joyas
+20,200293,colchonetas para dormir
+20,200293,esteras para dormir
+20,200294,anillas abiertas no metálicas para llaves
+20,200295,distribuidores no metálicos fijos de bolsas para excrementos de perros
+20,200296,topes para puertas, que no sean metálicos ni de caucho
+20,200297,topes para ventanas, que no sean metálicos ni de caucho
+20,200298,aldabillas no metálicas para ventanas
+20,200299,cierres no metálicos para ventanas
+20,200300,cierres no metálicos para puertas
+20,200301,cajas de herramientas no metálicas, vacías
+20,200302,cofres de herramientas no metálicos, vacíos
+20,200303,estanterías
+20,200304,cuelgabolsos no metálicos
+20,200305,llaves de materias plásticas
+20,200306,escuadras no metálicas para muebles
+20,200307,etiquetas de materias plásticas
+20,200308,consolas [muebles]
+20,200309,bibliotecas [muebles]
+20,200309,libreros [muebles]
+20,200310,galanes de noche
+20,200311,bidones no metálicos
+20,200312,casas para pájaros
+20,200313,pinzas de materias plásticas para cerrar bolsas
+20,200314,protectores de barrotes para cunas de bebé que no sean ropa de cama
+20,200315,cajas de madera o de materias plásticas
+20,200316,cunas de bebé
+20,200317,moisés
+20,200318,patas de muebles
+20,200319,patas cortas para muebles
+20,200320,armarios
+20,200321,reposapiés
+20,200322,clavijas no metálicas para el calzado
+20,200323,remaches no metálicos para el calzado
+20,200324,crucifijos de madera, cera, yeso o materias plásticas, que no sean artículos de joyería
+20,200325,recipientes no metálicos para purgar el aceite
+20,200326,colchones hinchables que no sean para uso médico
+20,200326,colchones inflables que no sean para uso médico
+20,200326,camas de aire que no sean para uso médico
+20,200327,colchones de camping
+20,200328,rampas de materias plásticas utilizadas con vehículos
+20,200329,sillas de ducha
+20,200330,almohadas en forma de cuña para bebés
+20,200331,cojines antivuelco para bebés
+20,200332,almohadas ergonómicas para bebés
+20,200333,astas de bandera portátiles no metálicas
+20,200334,tapones que no sean de cristal, metal o caucho para insertar en botellas
+20,200334,tapones que no sean de vidrio, metal o caucho para insertar en botellas
+20,200335,cierres de puertas no metálicos ni eléctricos
+20,200335,muelles de puertas no metálicos ni eléctricos
+20,200336,guías no metálicas para puertas correderas
+20,200336,rieles no metálicos para puertas correderas
+20,200337,asientos de bañera para bebés
+20,200338,escritorios de regazo
+20,200339,escritorios portátiles
+20,200340,dispositivos no metálicos ni eléctricos para abrir puertas
+20,200341,dispositivos no metálicos ni eléctricos para abrir ventanas
+20,200342,dispositivos no metálicos ni eléctricos para cerrar ventanas
+20,200343,poleas no metálicas para ventanas
+20,200343,poleas no metálicas para ventanas de guillotina
+20,200344,candados que no sean electrónicos ni metálicos
+20,200345,muebles de lavabo
+20,200346,cajones para muebles
+20,200347,taquillas para equipaje 
+20,200347,casilleros para equipaje

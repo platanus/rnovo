@@ -1,0 +1,227 @@
+class,reference_id,name
+25,250001,antideslizantes para el calzado
+25,250002,ropa para automovilistas
+25,250003,calzado*
+25,250004,sandalias de baño
+25,250005,zapatillas de baño
+25,250005,pantuflas de baño
+25,250006,medias*
+25,250007,medias absorbentes del sudor
+25,250008,refuerzos de talón para medias
+25,250009,boinas
+25,250010,batas [guardapolvos]
+25,250010,guardapolvos [batas]
+25,250011,boas [bufandas]
+25,250012,gorras
+25,250013,prendas de calcetería
+25,250013,prendas de mediería
+25,250014,botas*
+25,250015,botas de media caña
+25,250016,punteras de calzado
+25,250017,sobaqueras
+25,250018,tirantes*
+25,250018,tiradores [prendas de vestir]
+25,250019,borceguís
+25,250019,botas con cordones
+25,250020,cuellos
+25,250021,cubrecuellos
+25,250021,chalinas
+25,250021,bragas para el cuello
+25,250022,cubrecorsés
+25,250023,calzoncillos bóxer
+25,250024,solideos
+25,250025,camisolas
+25,250026,ropa interior
+25,250026,lencería
+25,250027,capuchas
+25,250028,armaduras de sombreros
+25,250030,viseras para gorras
+25,250031,cinturones [prendas de vestir]
+25,250032,chales
+25,250033,batas [saltos de cama]
+25,250033,batines
+25,250033,saltos de cama
+25,250034,suéteres
+25,250035,casullas
+25,250036,calcetines*
+25,250036,soquetes [calcetines]
+25,250037,ligas para calcetines
+25,250038,ligas [ropa interior]
+25,250039,ligueros
+25,250039,portaligas
+25,250040,cañas de botas
+25,250041,plantillas*
+25,250042,camisas*
+25,250043,pecheras de camisa
+25,250044,camisas de manga corta
+25,250045,prendas de vestir*
+25,250045,ropa*
+25,250045,vestimenta
+25,250046,sombreros
+25,250048,herrajes para el calzado
+25,250049,pieles [prendas de vestir]
+25,250050,cuellos postizos
+25,250051,pantis
+25,250052,trajes de esquí acuático
+25,250053,conjuntos de vestir
+25,250054,ropa interior absorbente del sudor
+25,250055,corseletes
+25,250056,trajes*
+25,250057,ropa de confección
+25,250058,bragas para bebés
+25,250058,blúmers para bebés
+25,250058,bombachas para bebés
+25,250058,calzones para bebés
+25,250058,pantaletas para bebés
+25,250059,orejeras [prendas de vestir]
+25,250060,corbatas
+25,250061,palas de calzado
+25,250062,polainas
+25,250063,pantalones bombachos
+25,250064,pantalones
+25,250065,ropa para ciclistas
+25,250066,ropa exterior
+25,250067,guantes [prendas de vestir]
+25,250068,forros confeccionados [partes de prendas de vestir]
+25,250069,fulares*
+25,250069,bufandas
+25,250070,fajines
+25,250071,prendas de punto
+25,250072,canesúes de camisa
+25,250073,alpargatas
+25,250074,estolas [pieles]
+25,250075,botas de fútbol
+25,250075,botines de fútbol
+25,250076,sombreros de copa
+25,250077,gabardinas [prendas de vestir]
+25,250078,corsés [ropa interior]
+25,250079,fajas [ropa interior]
+25,250080,galochas
+25,250080,chanclos
+25,250082,chalecos
+25,250083,trabillas de polainas
+25,250084,tocas [prendas de vestir]
+25,250085,zapatillas de gimnasia
+25,250086,abrigos
+25,250086,tapados
+25,250087,prendas de vestir impermeables
+25,250087,impermeables
+25,250088,calentadores de piernas
+25,250089,jerseys [prendas de vestir]
+25,250090,faldas
+25,250090,polleras
+25,250092,ajuares de ropa para bebés
+25,250093,libreas
+25,250094,camisetas de deporte
+25,250095,puños [prendas de vestir]
+25,250096,delantales [prendas de vestir]
+25,250097,manguitos [prendas de vestir]
+25,250098,manípulos [ropa litúrgica]
+25,250099,mitones
+25,250100,mitras [ropa litúrgica]
+25,250101,pantuflas
+25,250101,escarpines
+25,250101,patucos
+25,250101,zapatillas de interior
+25,250102,pelerinas
+25,250103,pellizas
+25,250104,ropa de playa
+25,250105,calzado de playa
+25,250106,bolsillos de prendas de vestir
+25,250108,pijamas
+25,250109,vestidos
+25,250110,zuecos [calzado]
+25,250111,sandalias
+25,250112,slips
+25,250114,sostenes
+25,250114,ajustadores [ropa interior]
+25,250114,corpiños [ropa interior]
+25,250114,sujetadores [ropa interior]
+25,250115,gabanes
+25,250115,paletós
+25,250115,sobretodos
+25,250116,alzas de talón para el calzado
+25,250117,togas
+25,250118,viras de calzado
+25,250119,uniformes
+25,250120,chaquetones
+25,250121,chaquetas
+25,250122,ropa de papel
+25,250123,velos
+25,250124,gorros de baño
+25,250125,calzones de baño
+25,250125,shorts de baño
+25,250126,trajes de baño [bañadores]
+25,250126,bañadores
+25,250126,mallas [bañadores]
+25,250127,albornoces
+25,250127,salidas de baño
+25,250128,baberos que no sean de papel
+25,250128,babadores que no sean de papel
+25,250129,suelas de calzado
+25,250130,zapatos
+25,250131,tacones
+25,250132,zapatillas de deporte
+25,250133,folgos que no estén calentados eléctricamente
+25,250134,tacos para botas de fútbol
+25,250134,tapones para botines de fútbol
+25,250141,botas de deporte
+25,250142,bandas para la cabeza [prendas de vestir]
+25,250143,parkas
+25,250144,enaguas
+25,250145,botas de esquí
+25,250146,combinaciones [ropa interior]
+25,250147,bodis [ropa interior]
+25,250148,bandanas [pañuelos para el cuello]
+25,250149,ropa de gimnasia
+25,250150,ropa de cuero de imitación
+25,250151,ropa de cuero
+25,250152,mantillas
+25,250153,trajes de disfraces
+25,250154,saris
+25,250155,camisetas
+25,250156,turbantes
+25,250157,pañuelos de cuello de hombre
+25,250158,gorros de ducha
+25,250159,chaquetas de pescador
+25,250160,cinturones monedero [prendas de vestir]
+25,250161,pañuelos de bolsillo [prendas de vestir]
+25,250162,sombreros de papel [prendas de vestir]
+25,250163,antifaces para dormir
+25,250164,faldas short
+25,250165,ponchos
+25,250166,sarongs [pareos]
+25,250166,pareos
+25,250167,guantes de esquí
+25,250168,mallas [leggings]
+25,250168,calzas [leggings]
+25,250168,leggings [pantalones]
+25,250169,pichis
+25,250170,viseras en cuanto artículos de sombrerería
+25,250171,bragas*
+25,250171,pantaletas*
+25,250171,blúmers*
+25,250171,bombachas*
+25,250172,camisetas de deporte sin mangas
+25,250173,valenki [botas de fieltro]
+25,250174,albas
+25,250175,botines
+25,250176,calcetines absorbentes del sudor
+25,250177,capas de peluquería
+25,250178,uniformes de karate
+25,250179,uniformes de judo
+25,250180,leotardos
+25,250181,kimonos
+25,250182,baberos con mangas que no sean de papel
+25,250183,prendas de vestir que contienen sustancias adelgazantes
+25,250184,prendas de vestir bordadas
+25,250185,protectores de tacón para zapatos
+25,250186,artículos de sombrerería
+25,250187,manoplas*
+25,250188,ropa de látex
+25,250189,camisetas de protección [rashguards]
+25,250190,ropa con LED incorporado
+25,250191,pañuelos para la cabeza
+25,250192,sujetadores adhesivos
+25,250192,sostenes adhesivos
+25,250193,polainas bajas

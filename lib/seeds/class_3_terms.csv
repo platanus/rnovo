@@ -1,0 +1,294 @@
+class,reference_id,name
+3,030001,adhesivos para postizos capilares
+3,030002,piedras para suavizar
+3,030003,productos para afilar
+3,030003,productos para amolar
+3,030005,piedras para el afeitado [astringentes]
+3,030005,piedras astringentes para después del afeitado
+3,030006,aceite de almendras
+3,030007,jabón de almendras
+3,030008,ámbar [productos de perfumería]
+3,030009,almidón para dar brillo
+3,030009,almidón de lavandería para dar brillo
+3,030010,almidón [apresto]
+3,030010,almidón de apresto [lavandería]
+3,030010,engrudo [almidón]
+3,030011,rojo para pulir
+3,030011,rojo de joyero
+3,030012,jabones*
+3,030013,jabones para avivar los colores de materias textiles
+3,030014,añil de lavandería
+3,030014,añil para azulear la ropa
+3,030014,azulete
+3,030015,esencia de badiana
+3,030016,preparaciones cosméticas para el baño
+3,030017,jabón de afeitar
+3,030018,lápices de labios [pintalabios]
+3,030018,pintalabios
+3,030019,bastoncillos de algodón para uso cosmético
+3,030019,hisopos para uso cosmético
+3,030020,mascarillas de belleza
+3,030021,esencia de bergamota
+3,030022,blanco de España
+3,030022,blanco de tiza
+3,030023,crema para aclarar la piel
+3,030025,productos blanqueadores para el cuero
+3,030026,sales blanqueadoras
+3,030027,soda para blanquear
+3,030027,sosa para blanquear
+3,030028,productos blanqueadores [lavandería]
+3,030028,productos blanqueadores para lavar la ropa
+3,030029,productos de glaseado para lavar la ropa
+3,030030,maderas aromáticas
+3,030031,enjuagues bucales que no sean para uso médico
+3,030032,esmaltes de uñas
+3,030032,lacas de uñas
+3,030033,productos de maquillaje
+3,030034,lociones capilares*
+3,030035,carburos metálicos [abrasivos]
+3,030036,carburo de silicio [abrasivo]
+3,030037,aceites esenciales de cedro
+3,030038,cenizas volcánicas para limpiar
+3,030039,cremas para el calzado
+3,030040,colorantes para el cabello
+3,030040,tintes para el cabello
+3,030041,preparaciones para ondular el cabello
+3,030042,pestañas postizas
+3,030043,cosméticos para pestañas
+3,030045,preparaciones para pulir
+3,030046,cera para el calzado
+3,030047,encáusticos
+3,030047,productos para pulir muebles y pisos
+3,030047,productos para pulir muebles y suelos
+3,030048,productos para dar brillo
+3,030049,cera de zapatero
+3,030050,pez de zapatero
+3,030052,cera para el bigote
+3,030053,cera para parqué
+3,030054,cera para pulir
+3,030055,cera de sastre
+3,030056,aceites esenciales de limón
+3,030058,agua de Colonia
+3,030060,colorantes de tocador
+3,030060,tintes de tocador
+3,030061,conservantes para el cuero [betunes]
+3,030062,corindón [abrasivo]
+3,030063,cosméticos para animales
+3,030064,neceseres de cosmética
+3,030065,cosméticos
+3,030066,algodón para uso cosmético
+3,030066,guata para uso cosmético
+3,030067,tiza para limpiar
+3,030068,quitamanchas
+3,030069,lápices para uso cosmético
+3,030070,cremas para pulir
+3,030071,cremas cosméticas
+3,030072,soda [cenizas] para limpiar
+3,030072,sosa [cenizas] para limpiar
+3,030073,pastas para suavizadores de navajas de afeitar
+3,030074,cremas para el cuero
+3,030074,ceras para el cuero
+3,030075,detergentes que no sean para procesos de fabricación ni para uso médico
+3,030076,soluciones decapantes
+3,030077,productos desengrasantes que no sean para procesos de fabricación
+3,030078,desmaquilladores
+3,030079,dentífricos*
+3,030081,desincrustantes para uso doméstico
+3,030082,diamantina [abrasivo]
+3,030083,productos antiestáticos para uso doméstico
+3,030084,papel de esmeril
+3,030085,productos para quitar lacas
+3,030086,tela de esmeril
+3,030087,productos para quitar tintes
+3,030088,productos para quitar barnices
+3,030089,lejía
+3,030090,agua de lavanda
+3,030091,aguas perfumadas
+3,030092,aguas de tocador
+3,030093,corteza de quillay para lavar
+3,030094,esmeril
+3,030095,incienso*
+3,030096,productos depilatorios
+3,030096,depilatorios
+3,030097,cera depilatoria
+3,030098,productos para remojar la ropa
+3,030099,esencias etéreas
+3,030100,aceites esenciales
+3,030100,aceites etéreos
+3,030101,extractos de flores [productos de perfumería]
+3,030102,maquillaje
+3,030104,productos de limpieza
+3,030105,bases para perfumes de flores
+3,030106,productos de fumigación [perfumes]
+3,030107,aromatizantes de pastelería [aceites esenciales]
+3,030107,saborizantes de pastelería [aceites esenciales]
+3,030108,aceite de gaulteria
+3,030109,jalea de petróleo para uso cosmético
+3,030110,geraniol
+3,030111,grasas para uso cosmético
+3,030112,peróxido de hidrógeno para uso cosmético
+3,030113,heliotropina
+3,030114,aceites para uso cosmético
+3,030115,aceite de jazmín
+3,030116,aceite de lavanda
+3,030117,aceites de limpieza
+3,030118,aceites de perfumería
+3,030118,aceites para perfumes y fragancias
+3,030119,aceite de rosas
+3,030120,aceites de tocador
+3,030121,iononas [productos de perfumería]
+3,030122,lociones para uso cosmético
+3,030123,leches limpiadoras de tocador
+3,030124,preparaciones de lavandería
+3,030125,preparaciones de tocador*
+3,030126,líquidos limpiaparabrisas
+3,030127,productos para alisar [lavandería]
+3,030128,esencia de menta [aceite esencial]
+3,030129,menta para perfumería
+3,030131,cosméticos para las cejas
+3,030132,almizcle [producto de perfumería]
+3,030133,productos neutralizantes para permanentes
+3,030134,champús*
+3,030135,perfumes
+3,030136,uñas postizas
+3,030137,productos para el cuidado de las uñas
+3,030138,productos para limpiar papel pintado
+3,030138,productos para limpiar papel tapiz
+3,030139,papel para pulir
+3,030140,papel de lija
+3,030140,papel de vidrio [lija]
+3,030141,productos de perfumería
+3,030142,productos cosméticos para el cuidado de la piel
+3,030143,jabones antitranspirantes para los pies
+3,030144,piedras para pulir
+3,030145,piedra pómez
+3,030146,pomadas para uso cosmético
+3,030147,polvos de maquillaje
+3,030148,productos de afeitar
+3,030149,jabones desodorantes
+3,030150,productos para perfumar la ropa
+3,030150,bolsitas para perfumar la ropa
+3,030151,safrol
+3,030152,pastillas de jabón
+3,030153,lejía de soda
+3,030153,lejía de sosa
+3,030154,lápices de cejas
+3,030155,talco de tocador
+3,030156,tintes cosméticos
+3,030157,trementina para desengrasar
+3,030158,esencia de trementina para desengrasar
+3,030158,aceite de trementina para desengrasar
+3,030159,terpenos [aceites esenciales]
+3,030160,tela abrasiva
+3,030161,tela de vidrio [tela abrasiva]
+3,030162,productos antitranspirantes [artículos de tocador]
+3,030163,jabones antitranspirantes
+3,030164,trípoli para pulir
+3,030165,abrasivos*
+3,030166,papeles abrasivos
+3,030167,amoniaco [álcali volátil] [detergente]
+3,030167,álcali volátil [amoniaco] [detergente]
+3,030167,amoníaco [álcali volátil] [detergente]
+3,030168,piedras de alumbre [astringentes]
+3,030169,leche de almendras para uso cosmético
+3,030170,productos desoxidantes
+3,030171,preparaciones cosméticas para el bronceado de la piel
+3,030172,aromas [aceites esenciales]
+3,030173,aromatizantes para bebidas [aceites esenciales]
+3,030173,saborizantes para bebidas [aceites esenciales]
+3,030174,productos químicos de uso doméstico para avivar los colores [lavandería]
+3,030175,sales de baño que no sean para uso médico
+3,030176,tintes para la barba
+3,030177,preparaciones cosméticas adelgazantes
+3,030178,adhesivos para pestañas postizas
+3,030179,productos para quitar pinturas
+3,030180,desodorantes para personas o animales [productos de perfumería]
+3,030181,motivos decorativos para uso cosmético
+3,030181,calcomanías decorativas para uso cosmético
+3,030191,astringentes para uso cosmético
+3,030192,decolorantes para uso cosmético
+3,030193,suavizantes para la ropa
+3,030194,preparaciones para limpiar prótesis dentales
+3,030194,preparaciones para limpiar dentaduras postizas
+3,030195,preparaciones para desatascar desagües
+3,030196,champús para animales de compañía [preparaciones higiénicas no medicinales]
+3,030197,toallitas impregnadas de lociones cosméticas
+3,030198,preparaciones para pulir prótesis dentales
+3,030198,preparaciones para pulir dentaduras postizas
+3,030199,adhesivos [pegamentos] para uso cosmético
+3,030200,lociones para después del afeitado
+3,030201,lacas para el cabello
+3,030202,máscara de pestañas
+3,030203,popurrís aromáticos
+3,030204,productos en aerosol para refrescar el aliento
+3,030205,productos de limpieza en seco
+3,030206,decapantes para cera de parqué
+3,030207,cera antideslizante para suelos
+3,030207,cera antideslizante para pisos
+3,030208,líquidos antideslizantes para suelos
+3,030208,líquidos antideslizantes para pisos
+3,030209,aire comprimido enlatado para limpiar y quitar el polvo
+3,030210,geles blanqueadores para uso dental
+3,030211,paños de limpieza impregnados con detergente
+3,030212,preparaciones para dar brillo a las hojas de las plantas
+3,030213,varillas de incienso
+3,030214,agentes de secado para lavaplatos
+3,030214,agentes de secado para lavavajillas
+3,030215,productos para perfumar el ambiente
+3,030216,tiras para refrescar el aliento
+3,030217,desodorantes para animales de compañía
+3,030218,preparaciones de higiene íntima para uso sanitario o utilizadas como desodorantes
+3,030219,preparaciones de aloe vera para uso cosmético
+3,030220,geles de masaje que no sean para uso médico
+3,030221,brillos de labios
+3,030222,bálsamos que no sean para uso médico
+3,030223,champús en seco*
+3,030224,pegatinas decorativas para uñas
+3,030224,calcomanías decorativas para uñas
+3,030225,preparaciones con filtro solar
+3,030226,aceites esenciales de cidra
+3,030227,henna [tinte cosmético]
+3,030227,alheña [tinte cosmético]
+3,030228,betún para el calzado
+3,030229,estuches para pintalabios
+3,030229,estuches para lápices de labios
+3,030230,preparaciones para el baño que no sean para uso médico
+3,030231,acondicionadores para el cabello
+3,030232,preparaciones para alisar el cabello
+3,030233,toallitas impregnadas de preparaciones desmaquillantes
+3,030234,preparaciones de colágeno para uso cosmético
+3,030235,tiras blanqueadoras dentales
+3,030236,aromatizantes alimentarios [aceites esenciales]
+3,030236,saborizantes alimentarios [aceites esenciales]
+3,030237,preparaciones fito-cosméticas
+3,030238,preparaciones limpiadoras no medicinales para la higiene íntima
+3,030239,extractos de plantas para uso cosmético
+3,030240,quitaesmaltes
+3,030241,ceras para suelos
+3,030241,ceras para pisos
+3,030242,champús para animales [preparaciones higiénicas no medicinales]
+3,030243,preparaciones para baños oculares que no sean para uso médico
+3,030244,duchas vaginales para la higiene íntima o en cuanto desodorantes
+3,030245,preparaciones químicas de limpieza para uso doméstico
+3,030246,difusores de perfumes de ambiente con varillas
+3,030247,preparaciones blanqueadoras [decolorantes] para uso doméstico
+3,030248,velas de masaje para uso cosmético
+3,030249,productos cosméticos para niños
+3,030250,preparaciones de higiene personal para refrescar el aliento
+3,030251,toallitas para bebés impregnadas de preparaciones de limpieza
+3,030252,basma [tinte para uso cosmético]
+3,030253,parches de gel para los ojos de uso cosmético
+3,030254,purpurina para las uñas
+3,030254,brillantina para las uñas
+3,030254,escarcha para las uñas
+3,030255,agua micelar
+3,030256,pintura corporal para uso cosmético
+3,030257,pintura corporal de látex líquido para uso cosmético
+3,030258,pastas de dientes*
+3,030259,algodón impregnado de preparaciones desmaquillantes
+3,030260,toallitas atrapacolor para la ropa
+3,030261,toallitas antiestáticas para secadoras de ropa
+3,030262,purpurina corporal
+3,030262,brillantina corporal
+3,030262,escarcha corporal
+3,030263,cintas adhesivas de doble párpado
