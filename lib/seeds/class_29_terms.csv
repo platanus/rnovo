@@ -1,0 +1,299 @@
+class,reference_id,name
+29,290001,albúmina para uso culinario
+29,290002,extractos de algas para uso alimenticio
+29,290003,gelatina*
+29,290005,grasas comestibles
+29,290006,anchoas que no estén vivas
+29,290007,mantequilla de cacahuete
+29,290007,mantequilla de cacahuate
+29,290007,mantequilla de maní
+29,290008,mantequilla
+29,290008,manteca [mantequilla]
+29,290009,manteca de cacao para uso alimenticio
+29,290010,mantequilla de coco
+29,290011,crema de mantequilla
+29,290011,crema de manteca [mantequilla]
+29,290012,clara de huevo
+29,290013,morcillas
+29,290013,morongas
+29,290014,caldos
+29,290015,preparaciones para hacer caldo
+29,290016,caviar
+29,290017,frutas en conserva
+29,290018,productos de charcutería
+29,290019,patatas fritas
+29,290019,papas fritas
+29,290020,chucrut
+29,290021,coco deshidratado
+29,290022,aceite de colza para uso alimenticio
+29,290023,concentrados de caldo
+29,290024,confituras
+29,290025,frutas congeladas
+29,290026,sopas
+29,290026,consomés
+29,290027,pasas [uvas]
+29,290028,pepinillos
+29,290029,verduras, hortalizas y legumbres en conserva
+29,290030,verduras, hortalizas y legumbres cocidas
+29,290031,verduras, hortalizas y legumbres secas
+29,290032,aceites para uso alimenticio
+29,290033,nata
+29,290033,crema [producto lácteo]
+29,290034,quesos
+29,290035,frutas confitadas
+29,290035,frutas cristalizadas
+29,290035,frutas escarchadas
+29,290036,croquetas
+29,290037,crustáceos que no estén vivos
+29,290038,dátiles
+29,290039,leche
+29,290040,cangrejos de río que no estén vivos
+29,290040,acamayas que no estén vivas
+29,290041,filetes de pescado
+29,290042,cuajo
+29,290043,frutas estofadas
+29,290044,jaleas de fruta
+29,290044,gelatinas de fruta
+29,290045,pulpa de fruta
+29,290046,carne
+29,290047,pescado
+29,290048,jaleas comestibles
+29,290049,gelatinas de carne
+29,290050,carne de caza
+29,290051,mermelada de jengibre
+29,290052,granos de soja en conserva para uso alimenticio
+29,290052,granos de soya en conserva para uso alimenticio
+29,290053,materias grasas para fabricar grasas alimenticias
+29,290054,mezclas que contienen grasa para untar
+29,290055,arenques [pescado]
+29,290057,bogavantes que no estén vivos
+29,290058,aceite de maíz para uso alimenticio
+29,290059,aceite de nuez de palma para uso alimenticio
+29,290060,aceite de sésamo para uso alimenticio
+29,290061,ostras que no estén vivas
+29,290061,ostrones que no estén vivos
+29,290062,cola de pescado para uso alimenticio
+29,290063,jamón
+29,290064,yema de huevo
+29,290065,yogur
+29,290066,sopas juliana
+29,290066,sopas vegetales
+29,290067,jugos vegetales para uso culinario
+29,290068,extractos de carne
+29,290070,kéfir
+29,290071,kumis
+29,290072,bebidas lácteas en las que predomina la leche
+29,290073,suero de leche
+29,290074,productos lácteos
+29,290075,langostas que no estén vivas
+29,290076,panceta ahumada
+29,290076,beicon
+29,290076,tocino
+29,290077,lentejas en conserva
+29,290078,margarina
+29,290079,mermeladas
+29,290081,tuétano para uso alimenticio
+29,290081,caracú para uso alimenticio
+29,290082,mariscos que no estén vivos
+29,290083,mejillones que no estén vivos
+29,290084,aceite de palma para uso alimenticio
+29,290085,frutos secos preparados
+29,290086,huevos*
+29,290087,huevos en polvo
+29,290088,patés de hígado
+29,290089,cebollas en conserva
+29,290090,aceitunas en conserva
+29,290091,aceite de oliva para uso alimenticio
+29,290092,aceite de hueso para uso alimenticio
+29,290093,pectina para uso culinario
+29,290095,encurtidos
+29,290096,guisantes en conserva
+29,290096,arvejas en conserva
+29,290096,chícharos en conserva
+29,290097,salchichas
+29,290097,salchichones
+29,290098,salazones
+29,290098,cecinas [salazones]
+29,290099,preparaciones para hacer sopa
+29,290101,puré de tomate
+29,290102,ensaladas de verduras, hortalizas y legumbres
+29,290103,manteca [grasa] de cerdo
+29,290103,grasa de cerdo
+29,290104,ensaladas de frutas
+29,290104,macedonias de frutas
+29,290106,sardinas [pescado]
+29,290107,salmón [pescado]
+29,290108,sebo para uso alimenticio
+29,290109,atún [pescado]
+29,290110,jugo de tomate para uso culinario
+29,290111,aceite de girasol para uso alimenticio
+29,290112,tripas [callos]
+29,290112,mondongo [tripas]
+29,290113,trufas en conserva
+29,290114,carne de ave
+29,290115,cáscaras de fruta
+29,290115,cortezas de fruta
+29,290116,alginatos para uso culinario
+29,290117,almendras molidas
+29,290118,cacahuetes preparados
+29,290118,cacahuates preparados
+29,290118,maníes preparados
+29,290120,champiñones en conserva
+29,290120,hongos en conserva
+29,290120,setas en conserva
+29,290121,grasa de coco
+29,290122,aceite de coco para uso alimenticio
+29,290123,habas en conserva
+29,290123,alubias en conserva
+29,290123,frijoles en conserva
+29,290123,judías en conserva
+29,290123,porotos en conserva
+29,290124,hígado
+29,290125,alimentos a base de pescado
+29,290131,rodajas de fruta deshidratada
+29,290132,almejas que no estén vivas
+29,290133,frutas conservadas en alcohol
+29,290134,polen preparado para uso alimenticio
+29,290135,langostinos que no estén vivos
+29,290136,pescado en conserva
+29,290137,carne en conserva
+29,290138,gambas que no estén vivas
+29,290138,camarones que no estén vivos
+29,290139,huevos de caracol para uso alimenticio
+29,290140,tofu
+29,290141,nata montada
+29,290141,crema batida
+29,290142,carne de cerdo
+29,290143,nidos de pájaro para uso alimenticio
+29,290144,pescado enlatado [conservas]
+29,290145,harina de pescado para la alimentación humana
+29,290146,fruta enlatada [conservas]
+29,290147,carne enlatada [conservas]
+29,290148,buñuelos de patata
+29,290148,buñuelos de papa
+29,290149,pescado en salazón
+29,290149,pescado en salmuera
+29,290150,pepinos de mar [cohombros de mar] que no estén vivos
+29,290151,crisálidas de gusano de seda para la alimentación humana
+29,290152,verduras, hortalizas y legumbres enlatadas [conservas]
+29,290153,salchichas rebozadas
+29,290154,copos de patata
+29,290154,copos de papa
+29,290154,hojuelas de papa
+29,290155,compota de manzana
+29,290155,puré de manzana
+29,290156,compota de arándanos
+29,290157,tahini
+29,290158,hummus
+29,290159,algas nori [porphyra] en conserva
+29,290160,refrigerios a base de fruta
+29,290161,cuajada
+29,290162,kimchi
+29,290163,leche de soja
+29,290163,leche de soya
+29,290164,batidos de leche
+29,290165,pimientos en conserva
+29,290166,semillas de girasol preparadas
+29,290167,mousse de pescado
+29,290168,bebida a base de huevo sin alcohol
+29,290169,mousse de verduras y hortalizas
+29,290170,huevas de pescado preparadas
+29,290171,semillas preparadas*
+29,290172,aloe vera preparado para la alimentación humana
+29,290173,ajo en conserva
+29,290174,leche albuminosa
+29,290175,aceite de linaza para uso alimenticio
+29,290175,aceite de lino para uso alimenticio
+29,290176,patatas fritas con bajo contenido en grasa
+29,290176,papas fritas con bajo contenido en grasa
+29,290177,lecitina para uso culinario
+29,290178,fermentos lácteos para uso culinario
+29,290179,compotas
+29,290180,leche condensada
+29,290181,smetana
+29,290182,leche fermentada y horneada
+29,290183,leche agria
+29,290184,concentrado de tomate
+29,290185,pasta de calabacín
+29,290186,pasta de berenjena
+29,290187,leche de cacahuete para uso culinario
+29,290187,leche de cacahuate para uso culinario
+29,290187,leche de maní para uso culinario
+29,290188,leche de almendras para uso culinario
+29,290189,leche de arroz
+29,290190,alcachofas en conserva
+29,290191,arreglos de frutas procesadas
+29,290192,leche en polvo*
+29,290193,yakitori
+29,290194,bulgogi
+29,290195,frutos secos confitados
+29,290196,frutos secos aromatizados
+29,290197,avellanas preparadas
+29,290198,bayas en conserva
+29,290199,guacamole
+29,290200,aros de cebolla rebozados
+29,290200,anillos de cebolla rebozados
+29,290201,falafel
+29,290202,zumo de limón para uso culinario
+29,290202,jugo de limón para uso culinario
+29,290203,carne liofilizada
+29,290204,leche de avena
+29,290205,crema a base de verduras, hortalizas y legumbres
+29,290206,verduras, hortalizas y legumbres liofilizadas
+29,290207,aceite de oliva virgen extra para uso alimenticio
+29,290209,larvas de hormiga comestibles, preparadas
+29,290210,insectos comestibles que no estén vivos
+29,290211,maíz dulce procesado
+29,290212,pastas para untar a base de frutos secos
+29,290213,bolas de masa guisada a base de patata
+29,290214,salchichas para perritos calientes
+29,290214,salchichas para perros calientes
+29,290215,banderillas de salchicha
+29,290216,aceite de soja para uso alimenticio
+29,290217,sucedáneos de la leche
+29,290218,leche de almendras
+29,290219,leche de cacahuete
+29,290220,leche de coco
+29,290221,leche de coco para uso culinario
+29,290222,bebidas a base de leche de coco
+29,290223,leche de arroz para uso culinario
+29,290224,bebidas a base de leche de almendras
+29,290225,bebidas a base de leche de cacahuete
+29,290225,bebidas a base de leche de cacahuate
+29,290225,bebidas a base de leche de maní
+29,290226,tripas para embutidos, naturales o artificiales
+29,290227,bacalao seco salado [clipfish]
+29,290228,buñuelos de requesón
+29,290229,pasta de fruta prensada
+29,290230,piel de soja
+29,290230,nata de soja
+29,290231,hamburguesas de soja
+29,290232,hamburguesas de tofu
+29,290233,tajín [plato preparado a base de carne, pescado o verduras]
+29,290234,tempeh
+29,290235,saté
+29,290236,verduras, hortalizas y legumbres procesadas
+29,290237,frutas procesadas
+29,290238,ratatouille
+29,290239,confits de pato
+29,290240,andouillettes
+29,290241,morcillas blancas
+29,290242,cassoulet
+29,290243,chucrut con guarnición
+29,290244,tortitas de patata
+29,290245,tortillas francesas
+29,290245,omelettes
+29,290246,rollitos de col rellenos de carne
+29,290247,concentrados a base
+de verduras, hortalizas y legumbres para cocinar
+29,290248,concentrados a base de frutas para cocinar
+29,290249,pastas para untar a base de verduras, hortalizas y legumbres
+29,290250,agar-agar para uso culinario
+29,290251,moluscos que no estén vivos
+29,290252,queso quark
+29,290253,queso cottage
+29,290254,bebidas de ácidos lácticos
+29,290255,flores comestibles secas
+29,290256,jengibre cristalizado
+29,290257,jengibre en conserva
+29,290258,jengibre en vinagre

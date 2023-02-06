@@ -1,0 +1,51 @@
+class,reference_id,name
+38,380003,radiodifusión
+38,380004,envío de mensajes
+38,380005,teledifusión
+38,380006,transmisión de telegramas
+38,380007,servicios telegráficos
+38,380008,comunicaciones telegráficas
+38,380009,servicios de telefonía
+38,380010,comunicaciones telefónicas
+38,380011,servicios de télex
+38,380012,servicios de agencias de noticias
+38,380021,teledifusión por cable
+38,380022,servicios de comunicación por telefonía móvil
+38,380023,comunicaciones por terminales de ordenador
+38,380023,comunicaciones por terminales de computadora
+38,380024,transmisión de mensajes e imágenes asistida por ordenador
+38,380024,transmisión de mensajes e imágenes asistida por computadora
+38,380025,transmisión de mensajes de correo electrónico
+38,380026,transmisión de faxes
+38,380027,suministro de información sobre telecomunicaciones
+38,380028,servicios de radiomensajería [radio, teléfono u otros medios de comunicación electrónica]
+38,380028,servicios de radiobúsqueda [radio, teléfono u otros medios de comunicación electrónica]
+38,380029,alquiler de aparatos para el envío de mensajes
+38,380030,comunicaciones por redes de fibra óptica
+38,380031,alquiler de aparatos de fax
+38,380032,alquiler de módems
+38,380033,alquiler de aparatos de telecomunicación
+38,380034,alquiler de teléfonos
+38,380035,transmisión por satélite
+38,380036,servicios de tablones de anuncios electrónicos [telecomunicaciones]
+38,380037,servicios de conexión telemática a una red informática mundial
+38,380038,servicios de encaminamiento y enlace para telecomunicaciones
+38,380039,servicios de teleconferencia
+38,380040,suministro de acceso de usuario a redes informáticas mundiales
+38,380041,alquiler de tiempo de acceso a redes informáticas mundiales
+38,380042,provisión de canales de telecomunicación para servicios de televenta
+38,380043,suministro de foros de discusión [chats] en Internet
+38,380044,suministro de acceso a bases de datos
+38,380045,servicios de buzón de voz
+38,380046,transmisión de tarjetas de felicitación en línea
+38,380047,transmisión de archivos digitales
+38,380047,transmisión de archivos informáticos
+38,380048,servicios de difusión inalámbrica
+38,380049,servicios de videoconferencia
+38,380050,suministro de foros en línea
+38,380051,transmisión de flujo continuo de datos [streaming]
+38,380052,radiocomunicación
+38,380052,comunicaciones radiofónicas
+38,380053,transmisión de vídeo a la carta
+38,380054,transmisión de pódcast
+38,380055,alquiler de teléfonos inteligentes

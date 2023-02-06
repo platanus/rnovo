@@ -1,0 +1,326 @@
+class,reference_id,name
+8,080002,instrumentos de mano abrasivos
+8,080003,piedras de afilar
+8,080005,limas de aguja
+8,080006,cuero para afilar
+8,080008,leznas
+8,080009,barras de mandrinado [herramientas de mano]
+8,080010,escariadores
+8,080011,manguitos de escariadores
+8,080012,alargadores de berbiquíes para machos de roscar
+8,080013,espátulas de pintor
+8,080014,espátulas [herramientas de mano]
+8,080015,puños americanos
+8,080015,manoplas [armas de defensa personal]
+8,080016,brocas [partes de herramientas de mano]
+8,080016,mechas [brocas] [partes de herramientas de mano]
+8,080017,escuadras [herramientas de mano]
+8,080019,aparatos e instrumentos para desollar animales
+8,080019,instrumentos y herramientas para desollar animales
+8,080020,terrajas anulares
+8,080021,sierras de arco
+8,080022,armas blancas
+8,080023,extractores de clavos accionados manualmente
+8,080023,sacaclavos accionados manualmente
+8,080024,gatos manuales
+8,080025,bayonetas
+8,080026,maquinillas para cortar la barba
+8,080026,cortabarbas [maquinillas para cortar la barba]
+8,080028,taladradoras de mano accionadas manualmente
+8,080029,escoplos
+8,080030,azuelas de dos filos
+8,080030,martillos de vidriero
+8,080031,instrumentos para marcar el ganado
+8,080031,instrumentos de hierra
+8,080033,esquiladoras para el ganado
+8,080034,pies de cabra [herramientas de mano]
+8,080034,arrancaclavos [herramientas de mano]
+8,080036,bujardas
+8,080036,escodas
+8,080037,chairas de afilar
+8,080038,buterolas [herramientas de mano]
+8,080038,martillos de remachar [herramientas de mano]
+8,080039,pujavantes [herramientas de mano]
+8,080040,tijeras*
+8,080042,pinzas pequeñas
+8,080043,buriles [herramientas de mano]
+8,080044,picos*
+8,080045,hierros de calafateo
+8,080046,navajas
+8,080046,cortaplumas
+8,080047,almádenas
+8,080048,sierras de vaivén
+8,080048,seguetas
+8,080049,garlopas
+8,080050,botadores
+8,080051,cachas [herramientas de mano]
+8,080052,batanes [herramientas de mano]
+8,080053,cuchillos de caza
+8,080054,mangos de serrucho
+8,080054,mangos de sierras de mano
+8,080055,sierras [herramientas de mano]
+8,080056,hormas para zapatos [herramientas de zapatero]
+8,080058,rizadores
+8,080058,tenacillas para rizar el cabello
+8,080059,cubiertos [cuchillos, tenedores y cucharas]
+8,080060,cizallas*
+8,080060,tijeras grandes
+8,080061,hojas de cizalla
+8,080062,perforadores [herramientas de mano]
+8,080063,aprietatuercas
+8,080063,giramachos
+8,080064,llaves [herramientas de mano]
+8,080065,trinquetes [herramientas de mano]
+8,080066,terrajas [herramientas de mano]
+8,080066,terrajas de cojinetes móviles [herramientas de mano]
+8,080067,perforadoras [herramientas de mano]
+8,080068,colodras
+8,080068,portapiedras de afilar
+8,080069,hachas
+8,080070,tenedores
+8,080071,cepillos de carpintero
+8,080072,herramientas de mano accionadas manualmente
+8,080073,cortadores de verduras y hortalizas accionados manualmente
+8,080073,cortaverduras accionados manualmente
+8,080074,alicates para uñas
+8,080075,cortatubos [herramientas de mano]
+8,080076,cortafríos
+8,080076,cortadores [herramientas de corte]
+8,080077,hachas de carnicero
+8,080078,artículos de cuchillería
+8,080079,recolectores de fruta [instrumentos de mano]
+8,080080,cucharas*
+8,080081,cucharas y cucharones [herramientas de mano]
+8,080082,suavizadores [cueros] de navajas de afeitar
+8,080083,pisones de pavimentación [herramientas de mano]
+8,080083,aplanaderas [herramientas de pavimentación]
+8,080084,troqueles [herramientas de mano]
+8,080084,estampas [punzones] [herramientas de mano]
+8,080085,fresas [herramientas de mano]
+8,080086,desplantadores
+8,080087,llanas
+8,080087,trullas
+8,080088,aparatos accionados manualmente para eliminar los parásitos de las plantas
+8,080089,diamantes de vidriero [partes de herramientas de mano]
+8,080090,mandriles [herramientas de mano]
+8,080090,mandriles de expansión [herramientas de mano]
+8,080091,afiladores
+8,080092,instrumentos de afilar
+8,080093,instrumentos para afilar hojas y cuchillas
+8,080095,cuchillos descamadores
+8,080095,cuchillos escamadores
+8,080096,escardas [herramientas de mano]
+8,080097,tijeras de podar
+8,080098,podaderas [tijeras de jardinero]
+8,080099,cuchillos para injertos de escudete
+8,080100,podaderas de árboles
+8,080101,alicates para cutículas
+8,080102,pinzas de depilar
+8,080103,pasadores de cabo
+8,080104,brocas de media caña
+8,080105,estampadores [troqueles] [herramientas de mano]
+8,080106,estuches de pedicura
+8,080107,estuches para navajas y maquinillas de afeitar
+8,080107,fundas de navajas y maquinillas de afeitar
+8,080108,vaciadores [partes de herramientas de mano]
+8,080109,rastrillos [herramientas de mano]
+8,080110,palas [herramientas de mano]
+8,080111,layas [palas] [herramientas de mano]
+8,080112,hocinos
+8,080113,guadañas
+8,080114,anillas de guadaña
+8,080115,piedras para amolar guadañas
+8,080115,muelas para afilar guadañas
+8,080116,hierros [herramientas no eléctricas]
+8,080117,planchas de gofrado
+8,080118,planchas de satinado
+8,080118,planchas de pulido
+8,080119,cuchillas de guillame
+8,080119,cuchillas de cepillo de carpintero
+8,080120,hierros para moldurar
+8,080121,tenacillas para encañonar
+8,080122,hierros para marcar a fuego
+8,080124,barrenas de carpintero [herramientas de mano]
+8,080124,brocas [herramientas de mano]
+8,080125,vainas de sable
+8,080126,aparatos de mano para rizar el cabello
+8,080127,cortacéspedes [instrumentos de mano]
+8,080128,picos para hielo [piolets]
+8,080128,piolets
+8,080129,gubias [herramientas de mano]
+8,080130,porras
+8,080130,bastones de policía
+8,080130,cachiporras
+8,080131,buriles*
+8,080132,cuchillas de herrador [legras]
+8,080132,legras
+8,080133,tranchetes [chairas, cuchillas de zapatero]
+8,080134,injertadores [herramientas de mano]
+8,080134,herramientas para injertar [herramientas de mano]
+8,080135,guillames
+8,080136,picadores de verduras y hortalizas
+8,080137,hachetas
+8,080138,cuchillos de picar
+8,080139,hachas de tonelero [herramientas de mano]
+8,080140,arpones
+8,080141,azuelas de carpintero [herramientas de mano]
+8,080142,azadillas
+8,080143,abreostras
+8,080144,pulverizadores para insecticidas [herramientas de mano]
+8,080144,atomizadores para insecticidas [herramientas de mano]
+8,080144,vaporizadores para insecticidas [herramientas de mano]
+8,080145,herramientas de jardinería accionadas manualmente
+8,080146,navajas de poda
+8,080147,cárceles de carpintero [gatos]
+8,080147,prensas de carpintero [sargentos]
+8,080148,hojas de afeitar
+8,080148,cuchillas de maquinillas de afeitar
+8,080149,hojas [herramientas de mano]
+8,080149,cuchillas [herramientas de mano]
+8,080150,cuchillas [armas]
+8,080151,hojas de sierra [partes de herramientas de mano]
+8,080153,palancas
+8,080154,machetes
+8,080155,mazas [herramientas de mano]
+8,080156,martillos [herramientas de mano]
+8,080157,mazos
+8,080158,macetas de albañil
+8,080159,cinceles*
+8,080159,retacadores
+8,080160,tensores de alambres y cintas metálicas [herramientas de mano]
+8,080161,trenzadoras [herramientas de mano]
+8,080162,recogemonedas
+8,080163,morteros [herramientas de mano]
+8,080164,cortamechas
+8,080164,cortapábilos
+8,080166,neceseres de afeitar
+8,080167,punzones para numerar
+8,080168,limas de uñas
+8,080169,abrelatas no eléctricos
+8,080170,arpones de pesca
+8,080171,picos [herramientas de mano]
+8,080172,pisones [herramientas de mano]
+8,080172,manos de mortero
+8,080174,pistolas [herramientas de mano]
+8,080175,punzones para marcar [herramientas de mano]
+8,080176,instrumentos de mano para transportar hierro colado
+8,080176,cazos de colada [herramientas de mano]
+8,080177,hierros de cepillo de carpintero
+8,080178,escofinas [herramientas de mano]
+8,080179,maquinillas de afeitar eléctricas o no
+8,080180,punzones botadores
+8,080181,atizadores
+8,080182,remachadoras [herramientas de mano]
+8,080183,zapas [guadañas pequeñas]
+8,080184,azadas [herramientas de mano]
+8,080185,escardaderas
+8,080186,portasierras
+8,080187,rastrillos para uso textil [herramientas de mano]
+8,080188,hocejos
+8,080189,hoces
+8,080191,instrumentos de mano para decantar
+8,080192,herramientas de corte
+8,080193,machos de roscar [herramientas de mano]
+8,080194,barrenos [herramientas de mano]
+8,080195,destornilladores no eléctricos
+8,080196,tajaderas [herramientas de mano]
+8,080197,barrenas [herramientas de mano]
+8,080198,instrumentos para cortar tubos
+8,080199,berbiquíes [herramientas]
+8,080200,instrumentos agrícolas accionados manualmente
+8,080201,muelas de afilar [herramientas de mano]
+8,080201,piedras de amolar [herramientas de mano]
+8,080202,jeringas para pulverizar insecticidas
+8,080203,cuberterías de plata [cuchillos, tenedores y cucharas]
+8,080204,arrancadoras [herramientas de mano]
+8,080205,cuchillos*
+8,080206,alicates
+8,080207,tenazas
+8,080207,pinzas*
+8,080208,espadas
+8,080209,sables
+8,080211,arietes [herramientas de mano]
+8,080212,instrumentos para picar billetes [tickets]
+8,080212,instrumentos para picar boletos
+8,080213,limas de uñas [eléctricas]
+8,080214,pulidores de uñas [eléctricos o no]
+8,080218,portabrocas*
+8,080219,maquinillas eléctricas o no para cortar el cabello
+8,080219,cortadoras de cabello eléctricas o no
+8,080220,horcas para uso agrícola [herramientas de mano]
+8,080221,cortaúñas eléctricos o no
+8,080222,esquiladoras [instrumentos de mano]
+8,080223,tundidoras [instrumentos de mano]
+8,080223,cortadoras de pelo [instrumentos de mano]
+8,080224,planchas de ropa
+8,080226,muelas de esmeril
+8,080227,limas [herramientas de mano]
+8,080228,sacabocados [herramientas de mano]
+8,080229,punzones [herramientas de mano]
+8,080230,recortadoras [herramientas de mano]
+8,080231,estuches de manicura
+8,080232,pistolas accionadas manualmente para extrudir masillas
+8,080234,zanjadoras [herramientas de mano]
+8,080235,rascadores [herramientas de mano]
+8,080236,picadores de carne [herramientas de mano]
+8,080236,cuchillos para picar carne [herramientas de mano]
+8,080237,rasquetas [herramientas de mano]
+8,080237,raederas [herramientas de mano]
+8,080237,raspadores [herramientas de mano]
+8,080241,aparatos para perforar las orejas
+8,080242,aparatos de depilación eléctricos o no
+8,080243,neceseres de instrumentos de manicura eléctricos
+8,080244,tornillos de banco
+8,080245,bombas de mano*
+8,080245,bombas accionadas a mano*
+8,080246,puñales
+8,080246,dagas
+8,080247,cinturones portaherramientas
+8,080248,cortadores de queso no eléctricos
+8,080249,cortadores de pizza no eléctricos
+8,080249,cortapizzas no eléctricos
+8,080250,barretas
+8,080251,cortadores de huevos no eléctricos
+8,080251,cortahuevos no eléctricos
+8,080252,rizadores de pestañas
+8,080253,cajas de ingletes
+8,080254,rastrillos de golf
+8,080255,fuelles de chimenea [instrumentos de mano]
+8,080256,aparatos de tatuaje
+8,080257,limas de esmeril
+8,080258,guías pasacables [herramientas de mano]
+8,080259,pinzas pelacables [herramientas de mano]
+8,080261,tornillos para bancos de trabajo [herramientas de mano]
+8,080262,pistolas para calafatear no eléctricas
+8,080263,tensores de hilos metálicos [herramientas de mano]
+8,080263,tensores de cables metálicos [herramientas de mano]
+8,080264,cuchillos para manualidades [escalpelos]
+8,080265,bombas de aire accionadas manualmente
+8,080266,cuchillos de cerámica
+8,080267,limas de cartón
+8,080268,herramientas para afilar cantos de esquís accionadas manualmente 
+8,080269,agujas de tatuaje
+8,080270,espátulas para artistas
+8,080271,cinceles de escultor
+8,080272,cucharas, tenedores y cuchillos de mesa de materias plásticas
+8,080273,cucharas, tenedores y cuchillos de mesa para bebés
+8,080274,rasquetas para esquís
+8,080275,mangos para herramientas de mano accionadas manualmente
+8,080276,mangos de cuchillo
+8,080277,mangos de guadaña
+8,080278,cortadores de verduras y hortalizas en espiral que funcionan manualmente
+8,080279,peladores de verduras y hortalizas accionados manualmente 
+8,080280,cortadores de cuchilla retráctil [cúteres]
+8,080281,trenzadores eléctricos para el cabello
+8,080282,palitos para mezclar la pintura
+8,080283,cortacápsulas de accionamiento manual para botellas de vino
+8,080284,cortadores de frutas en cuartos
+8,080285,descorazonadores de fruta
+8,080286,mandolinas de cocina
+8,080287,garras para carne
+8,080288,instrumentos estériles para perforaciones corporales
+8,080289,aparatos de depilación láser que no sean para uso médico
+8,080290,martillos de emergencia
+8,080291,cuchillos para verduras y hortalizas
+8,080292,tenedores de trinchar
+8,080293,cuchillos de trinchar

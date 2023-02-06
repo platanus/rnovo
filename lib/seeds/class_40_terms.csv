@@ -1,0 +1,142 @@
+class,reference_id,name
+40,400001,abrasión
+40,400002,procesamiento de películas cinematográficas
+40,400003,purificación del aire
+40,400004,magnetización
+40,400004,imantación
+40,400005,apresto de textiles
+40,400006,apresto del papel
+40,400007,plateado
+40,400008,blanqueo de tejidos
+40,400009,trabajo de la madera
+40,400010,ribeteado de telas
+40,400011,soldadura
+40,400011,soldadura fuerte
+40,400012,confección de prendas de vestir
+40,400013,chapado de cadmio
+40,400013,cadmiado
+40,400014,calandrado de telas
+40,400015,trabajo de la cerámica
+40,400015,horneado de la cerámica
+40,400016,teñido de calzado
+40,400017,cromado
+40,400018,chapado de metales
+40,400018,revestimiento [chapado] de metales
+40,400019,teñido del cuero
+40,400020,acondicionamiento de pieles
+40,400021,corte de telas
+40,400022,estampado de dibujos
+40,400023,revelado de películas fotográficas
+40,400024,dorado [doradura]
+40,400025,tratamiento del agua
+40,400026,revestimiento [chapado] por electrólisis
+40,400026,chapado [revestimiento] por electrólisis
+40,400026,galvanoplastia
+40,400027,estañado [estañadura]
+40,400028,confección de pieles a medida
+40,400029,servicios de forja
+40,400029,servicios de herrería
+40,400030,tratamiento antipolilla de pieles
+40,400031,fresado
+40,400032,prensado de frutas
+40,400033,ahumado de alimentos
+40,400034,galvanización
+40,400035,grabado
+40,400036,impermeabilización de tejidos
+40,400037,ignifugación de tejidos
+40,400037,ignifugación de telas
+40,400037,ignifugación de textiles
+40,400038,tratamiento antiarrugas de tejidos
+40,400039,tratamiento de la lana
+40,400040,laminado
+40,400041,amolado
+40,400042,tratamiento de metales
+40,400043,temple de metales
+40,400044,molienda de grano
+40,400045,niquelado
+40,400046,urdidura
+40,400047,preparación de pieles
+40,400048,pulido por abrasión
+40,400049,encuadernación
+40,400050,cepillado de materiales
+40,400051,servicios de guarnicionería
+40,400051,servicios de talabartería
+40,400052,aserrado de materiales
+40,400053,servicios de sastre
+40,400054,servicios de curtido
+40,400055,taxidermia
+40,400056,servicios de tintorería*
+40,400057,teñido de textiles
+40,400058,tratamiento de textiles
+40,400058,tratamiento de tejidos
+40,400059,tratamiento antipolilla de telas
+40,400060,teñido de telas
+40,400060,teñido de tejidos
+40,400061,tratamiento del papel
+40,400062,soplado de vidrio
+40,400063,servicios de bordado
+40,400064,trabajo del cuero
+40,400065,coloración del vidrio por tratamiento de superficie
+40,400065,entintado del vidrio por tratamiento de superficie
+40,400066,conservación de alimentos y bebidas
+40,400067,tala y corte de madera
+40,400068,reciclaje de residuos y desechos
+40,400069,preencogimiento de telas
+40,400070,lustrado de pieles
+40,400071,satinado de pieles
+40,400072,teñido de pieles
+40,400081,desodorización del aire
+40,400082,enfriamiento del aire
+40,400083,ensamblaje por encargo de materiales para terceros
+40,400084,enmarcado de obras de arte
+40,400085,chapado en oro
+40,400086,trazado por láser
+40,400087,suministro de información sobre el tratamiento de materiales
+40,400088,pulido de vidrio óptico
+40,400089,impresión de fotografías
+40,400090,fotograbado
+40,400091,tratamiento del petróleo
+40,400092,acolchado
+40,400093,refinado
+40,400094,sacrificio de animales
+40,400094,matanza de animales
+40,400094,carneo de animales
+40,400095,decapado
+40,400097,tratamiento de desechos [transformación]
+40,400098,arreglo de prendas de vestir
+40,400099,servicios de calderería
+40,400100,colada de metales
+40,400101,vulcanización [tratamiento de materiales]
+40,400102,servicios de protésicos dentales
+40,400103,producción de energía
+40,400104,alquiler de generadores
+40,400105,destrucción de residuos y desechos
+40,400106,incineración de residuos y desechos
+40,400107,tratamiento de separación de colores
+40,400108,servicios de copia de llaves
+40,400109,descontaminación de materiales peligrosos
+40,400110,impresión litográfica
+40,400111,servicios de impresión
+40,400112,alquiler de máquinas de tejer
+40,400112,alquiler de máquinas de hacer punto
+40,400113,servicios de impresión en offset
+40,400114,servicios de fotocomposición
+40,400115,serigrafía
+40,400116,selección de desechos y material reciclable [transformación]
+40,400117,congelación de alimentos
+40,400118,alquiler de aparatos de aire acondicionado
+40,400119,alquiler de aparatos de calefacción de ambientes
+40,400119,alquiler de aparatos de calefacción auxiliares
+40,400120,abatanado de telas
+40,400121,servicios de criopreservación
+40,400122,servicios de limpieza por chorro de arena
+40,400123,alquiler de calderas
+40,400124,suprarreciclaje [revalorización de materiales de desecho]
+40,400125,servicios de soldadura
+40,400126,servicios de tintado de cristales de coche
+40,400127,impresión 3D por encargo para terceros
+40,400128,elaboración de cerveza para terceros
+40,400129,fabricación de pan por encargo
+40,400130,pasteurización de bebidas y alimentos
+40,400131,servicios de vinificación para terceros
+40,400132,consultoría en el ámbito de la vinificación

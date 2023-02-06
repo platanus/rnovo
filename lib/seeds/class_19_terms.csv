@@ -1,0 +1,307 @@
+class,reference_id,name
+19,190001,columnas publicitarias no metálicas
+19,190002,vidrio alabastrino
+19,190002,cristal de alabastro
+19,190003,alabastro
+19,190004,cemento de amianto
+19,190004,amianto-cemento
+19,190004,cemento de asbesto
+19,190005,mortero de amianto
+19,190005,mortero de asbesto
+19,190006,pizarra*
+19,190007,pizarras para techados
+19,190008,polvo de pizarra
+19,190009,cabrios para techados
+19,190009,caballetes para techados
+19,190010,arena argentífera
+19,190011,arcilla de alfarería
+19,190012,piedras refractarias
+19,190012,ladrillos refractarios
+19,190013,asfalto
+19,190014,materiales asfálticos para pavimentación
+19,190015,ristreles
+19,190015,listones de madera para el artesonado
+19,190016,balaustres no metálicos
+19,190017,betún [material de construcción]
+19,190018,tiras alquitranadas para la construcción
+19,190019,barracas
+19,190020,barracas de feria
+19,190021,chillas [tablillas] para techados
+19,190022,puertas plegables no metálicas
+19,190023,hormigón
+19,190023,concreto
+19,190024,elementos de construcción de hormigón
+19,190024,elementos de construcción de concreto
+19,190025,productos bituminosos para la construcción
+19,190026,madera semielaborada
+19,190027,madera de construcción
+19,190027,madera de obra
+19,190028,contrachapados
+19,190029,madera trabajada
+19,190030,madera para fabricar utensilios domésticos
+19,190031,madera de sierra
+19,190032,materiales de madera para pavimentación
+19,190033,chapados de madera
+19,190034,madera de chapado
+19,190035,paneles [revestimientos] de madera
+19,190036,cemento*
+19,190037,pez*
+19,190038,ladrillos
+19,190039,tierra para ladrillos
+19,190040,aglutinantes para fabricar briquetas y ladrillos
+19,190040,aglutinantes para fabricar piedras
+19,190041,cabinas telefónicas no metálicas
+19,190042,campanas neumáticas para obras de construcción subacuáticas
+19,190043,caliza
+19,190043,piedra caliza
+19,190044,canalones no metálicos
+19,190044,goterones no metálicos
+19,190044,canaletas no metálicas
+19,190045,cartón para la construcción
+19,190046,cartón asfaltado para la construcción
+19,190048,chamota
+19,190048,arcilla refractaria
+19,190049,mantos de chimenea no metálicos
+19,190050,entramados no metálicos para la construcción
+19,190051,materiales de construcción y revestimiento de calzadas
+19,190052,cal*
+19,190053,mortero para la construcción
+19,190054,yeso [escayola]
+19,190055,chimeneas no metálicas
+19,190056,enlucidos de cemento ignífugos
+19,190056,revestimientos de cemento ignífugos
+19,190057,losas de cemento
+19,190058,postes de cemento
+19,190059,esquistos
+19,190060,tabiques no metálicos
+19,190061,construcciones no metálicas
+19,190062,papel de construcción
+19,190063,vidrio de construcción
+19,190064,cornisas no metálicas
+19,190065,molduras no metálicas para cornisas
+19,190066,tapajuntas no metálicos para tejados
+19,190067,angulares no metálicos
+19,190068,ventanas no metálicas
+19,190069,puertas no metálicas*
+19,190070,tapas no metálicas para bocas de inspección
+19,190071,cubiertas de tejado no metálicas
+19,190072,tiza en bruto
+19,190073,cuarzo
+19,190074,peldaños no metálicos
+19,190074,escalones no metálicos
+19,190075,tubos de canalones no metálicos
+19,190076,tuberías de agua no metálicas
+19,190077,válvulas no metálicas ni de materias plásticas para tuberías de agua
+19,190078,andamios no metálicos
+19,190079,postes no metálicos para líneas eléctricas
+19,190080,tuberías de ramificación no metálicas
+19,190081,cercados no metálicos para tumbas
+19,190082,enlucidos bituminosos para techados
+19,190083,vigas no metálicas
+19,190083,jácenas no metálicas
+19,190084,pocilgas no metálicas
+19,190085,establos no metálicos
+19,190086,puntales no metálicos
+19,190086,entibos
+19,190088,losas funerarias no metálicas
+19,190088,losas sepulcrales no metálicas
+19,190089,placas conmemorativas no metálicas
+19,190090,fieltro para la construcción
+19,190091,moldes de fundición no metálicos
+19,190092,cemento para hornos
+19,190093,cemento para altos hornos
+19,190094,piedra*
+19,190095,cristales [vidrios] para la construcción
+19,190096,arcilla*
+19,190097,alquitrán de hulla
+19,190098,granito
+19,190099,grava
+19,190100,gres para la construcción
+19,190100,arenisca para la construcción
+19,190101,tuberías de gres
+19,190102,yeso [material de construcción]
+19,190103,celosías no metálicas
+19,190104,escorias [materiales de construcción]
+19,190105,balasto
+19,190106,tablas de parqué
+19,190107,persianas de exterior no metálicas ni de materias textiles
+19,190108,rampas de lanzamiento de cohetes no metálicas
+19,190109,listones no metálicos
+19,190110,aglutinantes para reparar carreteras
+19,190111,corcho aglomerado para la construcción
+19,190112,parqués
+19,190113,zancas de escalera no metálicas
+19,190114,dinteles no metálicos
+19,190115,adoquines luminosos
+19,190116,macadán
+19,190117,monumentos no metálicos
+19,190118,cemento de oxicloruro de magnesio
+19,190119,construcciones transportables no metálicas
+19,190120,mármol
+19,190121,microesferas de vidrio para la señalización horizontal de carreteras
+19,190122,láminas y bandas de materiales sintéticos para la señalización horizontal de carreteras
+19,190123,marquesinas [estructuras] no metálicas
+19,190124,mástiles [postes] no metálicos
+19,190125,madera para duelas
+19,190126,mosaicos para la construcción
+19,190127,madera moldeable
+19,190128,molduras no metálicas para la construcción
+19,190129,enlucidos [materiales de construcción]
+19,190130,chapados murales no metálicos para la construcción
+19,190131,tapajuntas no metálicos para la construcción
+19,190131,limahoyas no metálicas para la construcción
+19,190132,olivina para la construcción
+19,190133,contraventanas no metálicas
+19,190134,empalizadas no metálicas
+19,190135,cercas no metálicas
+19,190136,tablestacas no metálicas
+19,190137,paneles de señalización no metálicos ni luminosos ni mecánicos
+19,190138,revestimientos interiores murales no metálicos para la construcción
+19,190139,pistas de patinaje [estructuras] no metálicas
+19,190140,perchas [palos para aves]
+19,190141,piedras de construcción
+19,190142,piedra artificial
+19,190143,piedras de escoria
+19,190144,lápidas sepulcrales
+19,190145,toba
+19,190146,obras de cantería
+19,190147,suelos no metálicos
+19,190147,pisos no metálicos
+19,190148,techos no metálicos
+19,190149,tablones de madera para la construcción
+19,190150,revestimientos interiores no metálicos para la construcción
+19,190151,tejas no metálicas para techados
+19,190152,trampolines no metálicos
+19,190153,portones no metálicos
+19,190154,entrepaños de puerta no metálicos
+19,190155,postes telegráficos no metálicos
+19,190156,gallineros no metálicos
+19,190157,viguetas no metálicas
+19,190158,plataformas [andenes o muelles] prefabricadas no metálicas
+19,190160,depósitos de obra
+19,190160,tanques de obra
+19,190161,materiales de revestimiento de calzadas
+19,190162,umbrales no metálicos
+19,190163,caña para la construcción
+19,190164,mojones no metálicos ni luminosos ni mecánicos para carreteras
+19,190165,señales no metálicas ni luminosas ni mecánicas
+19,190166,arena, excepto arena de fundición
+19,190167,invernaderos transportables no metálicos
+19,190168,sílice [cuarzo]
+19,190169,silos no metálicos
+19,190170,estatuas de piedra, hormigón o mármol
+19,190170,estatuas de piedra, concreto o mármol
+19,190171,alquitrán
+19,190171,brea [material de construcción]
+19,190172,barro cocido [material de construcción]
+19,190173,techados no metálicos
+19,190174,tumbas no metálicas
+19,190175,cenadores [estructuras] no metálicos
+19,190175,glorietas [estructuras] no metálicas
+19,190176,traviesas de ferrocarril no metálicas
+19,190176,durmientes de ferrocarril no metálicos
+19,190177,enrejados [celosías] no metálicos
+19,190178,tuberías rígidas no metálicas para la construcción
+19,190179,tragaluces no metálicos
+19,190180,vidrio aislante para la construcción
+19,190181,vidrio para ventanas, que no sea vidrio para ventanillas de vehículos
+19,190182,vitrales
+19,190182,vidrieras de colores
+19,190183,vidrio para ventanas para la construcción
+19,190184,pajareras [estructuras] no metálicas
+19,190185,alfarjías
+19,190186,xilolita
+19,190187,bolardos de amarre no metálicos
+19,190188,muelles flotantes no metálicos para amarrar barcos
+19,190189,rodapiés [frisos] no metálicos
+19,190190,acuarios [estructuras]
+19,190191,armazones no metálicos para la construcción
+19,190192,vidrio armado
+19,190192,cristal de seguridad
+19,190193,obras de arte de piedra, hormigón o mármol
+19,190193,obras de arte de piedra, concreto o mármol
+19,190194,bañeras para pájaros [estructuras] no metálicas
+19,190195,balizas no metálicas ni luminosas
+19,190196,piscinas [estructuras] no metálicas
+19,190196,albercas de natación [estructuras] no metálicas
+19,190196,piletas de natación [estructuras] no metálicas
+19,190197,materiales de construcción no metálicos
+19,190198,encofrados no metálicos para hormigón
+19,190198,encofrados no metálicos para concreto
+19,190199,instalaciones no metálicas para aparcar bicicletas
+19,190200,pavimentos no metálicos
+19,190201,cartón de pasta de madera para la construcción
+19,190202,bustos de piedra, hormigón o mármol
+19,190202,bustos de piedra, concreto o mármol
+19,190203,cabinas de baño no metálicas
+19,190205,cabinas de pulverización de pintura no metálicas
+19,190206,postes no metálicos
+19,190208,marcos de ventana no metálicos
+19,190209,marcos de puerta no metálicos
+19,190209,armaduras de puerta no metálicas
+19,190209,armazones de puerta no metálicos
+19,190209,bastidores de puerta no metálicos
+19,190210,armazones de invernadero no metálicos
+19,190211,margas calcáreas
+19,190212,sombreretes de chimenea no metálicos
+19,190213,baldosas no metálicas para la construcción
+19,190214,baldosas no metálicas para suelos
+19,190215,panteones no metálicos
+19,190216,caperuzas de chimenea no metálicas
+19,190217,alargadores no metálicos para chimeneas
+19,190218,tubos de chimenea no metálicos
+19,190219,losas de pavimentación no metálicas
+19,190220,tuberías de desagüe no metálicas
+19,190221,sifones de desagüe no metálicos ni de materias plásticas
+19,190222,escaleras no metálicas
+19,190223,paneles no metálicos para la construcción
+19,190224,figuritas de piedra, hormigón o mármol
+19,190224,estatuillas de piedra, concreto o mármol
+19,190224,estatuillas de piedra, hormigón o mármol
+19,190224,figuritas de piedra, concreto o mármol
+19,190225,monumentos funerarios no metálicos
+19,190226,estelas funerarias no metálicas
+19,190227,barreras de seguridad no metálicas para carreteras
+19,190227,guardarraíles no metálicos
+19,190227,guardarrieles no metálicos
+19,190228,buzones de correo de obra
+19,190231,aglomerados de bagazo [materiales de construcción]
+19,190232,tuberías forzadas no metálicas
+19,190233,gravilla para acuarios
+19,190234,arena para acuarios
+19,190235,conductos no metálicos para instalaciones de ventilación y aire acondicionado
+19,190236,geotextiles
+19,190237,cantos rodados
+19,190238,revestimientos exteriores de vinilo [materiales de construcción]
+19,190239,mosquiteros [bastidores] no metálicos
+19,190240,techados no metálicos con células fotovoltaicas integradas
+19,190241,enrejados no metálicos
+19,190242,materiales de construcción refractarios no metálicos
+19,190243,casas prefabricadas [kits] no metálicas
+19,190244,pórfido [piedra]
+19,190245,cunetas no metálicas
+19,190246,torniquetes [molinetes] no metálicos
+19,190247,placas funerarias no metálicas
+19,190248,tablas para suelos de madera
+19,190248,tablas para pisos de madera
+19,190249,solados no metálicos de baldosas
+19,190250,tejas acanaladas no metálicas
+19,190250,tejas flamencas no metálicas
+19,190251,baldosas no metálicas para paredes
+19,190252,losas no metálicas para la construcción
+19,190253,cristal de roca
+19,190254,puertas blindadas no metálicas
+19,190255,vidrio esmaltado para la construcción
+19,190256,pilares no metálicos para la construcción
+19,190257,escuadras no metálicas para la construcción
+19,190258,recubrimientos no metálicos para la construcción
+19,190259,borduras de materias plásticas para paisajismo
+19,190260,rodamientos de caucho para el aislamiento sísmico de edificios
+19,190261,blindajes no metálicos
+19,190262,astas de bandera [estructuras] no metálicas
+19,190263,puertas batientes no metálicas
+19,190264,puertas de acordeón no metálicas
+19,190265,cabinas insonorizadas transportables, no metálicas
+19,190266,paneles acústicos no metálicos
+19,190267,armazones no metálicos para miniinvernaderos
+19,190267,armazones no metálicos para camas frías

@@ -1,0 +1,165 @@
+class,reference_id,name
+41,410002,academias [educación]
+41,410003,servicios de parques de atracciones
+41,410003,servicios de parques de diversiones
+41,410004,servicios de entretenimiento
+41,410005,doma y adiestramiento de animales
+41,410005,adiestramiento de animales
+41,410006,alquiler de aparatos cinematográficos
+41,410007,servicios de artistas del espectáculo
+41,410008,servicios de estudios de cine
+41,410009,representación de espectáculos de circo
+41,410010,organización de concursos [actividades educativas o recreativas]
+41,410011,cursos por correspondencia
+41,410011,enseñanza por correspondencia
+41,410012,servicios de educación física
+41,410013,alquiler de decorados para espectáculos
+41,410014,puesta a disposición de instalaciones recreativas
+41,410015,programas de entretenimiento por radio
+41,410016,publicación de textos que no sean publicitarios
+41,410017,educación
+41,410017,servicios educativos
+41,410017,enseñanza
+41,410017,instrucción [enseñanza]
+41,410018,alquiler de grabaciones sonoras
+41,410019,alquiler de películas cinematográficas
+41,410020,producción de películas que no sean publicitarias
+41,410021,enseñanza de gimnasia
+41,410023,servicios de bibliotecas de préstamo
+41,410024,publicación de libros
+41,410025,alquiler de aparatos de radio y televisión
+41,410026,producción de programas de radio y televisión
+41,410027,representación de espectáculos de variedades
+41,410028,servicios de orquestas
+41,410029,representaciones teatrales
+41,410030,producción de espectáculos
+41,410031,programas de entretenimiento por televisión
+41,410032,alquiler de decorados de teatro
+41,410032,alquiler de escenografía
+41,410033,servicios de parques zoológicos
+41,410033,servicios de jardines zoológicos
+41,410035,explotación de instalaciones deportivas
+41,410036,agencias de modelos para artistas
+41,410041,servicios de bibliotecas ambulantes
+41,410042,servicios de casinos [juego]
+41,410042,explotación de casinos [juego]
+41,410043,servicios de clubes [educación o entretenimiento]
+41,410044,organización y dirección de coloquios
+41,410045,organización y dirección de conferencias
+41,410046,organización y dirección de congresos
+41,410047,servicios de discotecas
+41,410048,suministro de información sobre educación
+41,410049,servicios de pruebas pedagógicas
+41,410050,suministro de información sobre actividades de entretenimiento
+41,410051,organización de exposiciones con fines culturales o educativos
+41,410052,servicios de juegos de apuestas
+41,410053,explotación de campos de golf
+41,410054,clubes deportivos [entrenamiento y mantenimiento físico]
+41,410055,servicios de campamentos de vacaciones [actividades recreativas]
+41,410056,representación de espectáculos en vivo
+41,410057,exhibición de películas cinematográficas
+41,410058,jardines de infancia
+41,410058,guarderías [educación]
+41,410059,organización de competiciones deportivas
+41,410060,organización de fiestas y recepciones
+41,410061,formación práctica [demostración]
+41,410062,servicios de museos [presentaciones, exposiciones]
+41,410063,servicios de estudios de grabación
+41,410064,suministro de información sobre actividades recreativas
+41,410065,alquiler de equipos de buceo
+41,410065,alquiler de equipos de submarinismo
+41,410066,alquiler de equipos deportivos, excepto vehículos
+41,410067,alquiler de estadios
+41,410068,alquiler de aparatos de vídeo
+41,410069,alquiler de cintas de vídeo
+41,410070,organización y dirección de seminarios
+41,410071,servicios de campamentos deportivos
+41,410072,organización y dirección de simposios
+41,410073,cronometraje de eventos deportivos
+41,410075,educación en internados
+41,410076,organización y dirección de talleres de formación
+41,410077,organización de concursos de belleza
+41,410078,reserva de localidades para espectáculos
+41,410079,doblaje
+41,410080,educación religiosa
+41,410081,organización de loterías
+41,410082,organización de bailes
+41,410083,organización de espectáculos [servicios de empresarios]
+41,410084,servicios de salas de juegos
+41,410085,alquiler de equipos de audio
+41,410086,alquiler de equipos de iluminación para escenarios de teatro o estudios de televisión
+41,410087,alquiler de pistas de tenis
+41,410087,alquiler de canchas de tenis
+41,410088,alquiler de cámaras de vídeo
+41,410088,alquiler de videocámaras
+41,410089,redacción de guiones que no sean publicitarios
+41,410090,montaje de cintas de vídeo
+41,410091,publicación en línea de libros y revistas especializadas en formato electrónico
+41,410092,microedición
+41,410093,subtitulado
+41,410094,servicios de juegos disponibles en línea por una red informática
+41,410095,servicios de karaoke
+41,410097,servicios de composición musical
+41,410098,servicios de clubes nocturnos [entretenimiento]
+41,410099,suministro de publicaciones electrónicas en línea no descargables
+41,410100,reportajes fotográficos
+41,410101,servicios fotográficos
+41,410102,orientación profesional [asesoramiento sobre educación o formación]
+41,410102,orientación vocacional [asesoramiento sobre educación o formación]
+41,410103,servicios de reporteros
+41,410104,servicios de traducción
+41,410105,interpretación del lenguaje de los signos
+41,410105,interpretación del lenguaje de señas
+41,410106,grabación [filmación] en cintas de vídeo
+41,410182,microfilmación
+41,410183,servicios de taquilla [espectáculos]
+41,410183,servicios de venta de boletos [espectáculos]
+41,410184,redacción de textos*
+41,410185,organización y dirección de conciertos
+41,410186,servicios de caligrafía
+41,410187,servicios de composición de página que no sean con fines publicitarios
+41,410188,organización de desfiles de moda con fines recreativos
+41,410189,coaching [formación]
+41,410190,alquiler de campos de deporte
+41,410191,servicios de disc-jockey
+41,410191,servicios de pinchadiscos
+41,410192,interpretación lingüística
+41,410193,servicios de preparador físico personal [mantenimiento físico]
+41,410194,clases de mantenimiento físico
+41,410195,cursos de reciclaje profesional
+41,410196,producción musical
+41,410197,alquiler de juguetes
+41,410198,alquiler de material para juegos
+41,410199,servicios educativos prestados por escuelas
+41,410200,suministro en línea de música no descargable
+41,410201,suministro en línea de vídeos no descargables
+41,410202,servicios de tutoría [instrucción]
+41,410203,organización y dirección de foros presenciales educativos
+41,410204,servicios de compositores y autores de música
+41,410205,redacción de guiones televisivos y cinematográficos
+41,410206,servicios de guías turísticos
+41,410207,servicios de formación mediante simuladores
+41,410208,suministro de películas, no descargables, mediante servicios de vídeo a la carta
+41,410209,suministro de programas de televisión, no descargables, mediante servicios de vídeo a la carta
+41,410210,sado [enseñanza de la ceremonia japonesa del té]
+41,410211,enseñanza del aikido
+41,410212,alquiler de obras de arte
+41,410213,alquiler de acuarios de interior
+41,410214,realización de excursiones de escalada guiadas
+41,410215,organización de eventos recreativos en torno a juegos de disfraces [cosplay]
+41,410216,servicios culturales, educativos y recreativos de galerías de arte
+41,410217,distribución de películas
+41,410218,transferencia de conocimientos especializados
+41,410219,servicios de asistencia educativa prestados por asistentes escolares
+41,410220,enseñanza de judo
+41,410221,servicios de exámenes pedagógicos de cualificación para pilotar drones
+41,410222,servicios de ingenieros de sonido para eventos
+41,410223,servicios de montaje de vídeo para eventos
+41,410224,servicios de técnicos de iluminación para eventos
+41,410225,realización de películas no publicitarias
+41,410226,suministro de comentarios de usuarios con fines culturales o de entretenimiento
+41,410227,suministro de clasificaciones de usuarios con fines culturales o de entretenimiento
+41,410227,suministro de evaluaciones de usuarios con fines culturales o de entretenimiento
+41,410228,alquiler de simuladores de entrenamiento
+41,410229,servicios de evaluación de la forma física con fines de entrenamiento
+41,410230,servicios de pintura facial

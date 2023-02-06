@@ -1,0 +1,366 @@
+class,reference_id,name
+12,120001,carretillas elevadoras
+12,120002,enganches de vagón o ferrocarril
+12,120002,enganches de ferrocarril
+12,120002,enganches de vagón
+12,120003,acoplamientos para vehículos terrestres
+12,120004,transportadores aéreos
+12,120005,vehículos aéreos
+12,120006,globos aerostáticos
+12,120007,cámaras de aire para neumáticos
+12,120008,equipos para reparar cámaras de aire
+12,120009,bombas de aire [accesorios para vehículos]
+12,120010,amortiguadores de suspensión para vehículos
+12,120011,muelles amortiguadores para vehículos
+12,120011,resortes amortiguadores para vehículos
+12,120012,aviones anfibios
+12,120013,dispositivos antiderrapantes para neumáticos de vehículos
+12,120014,cadenas antiderrapantes
+12,120015,reposacabezas para asientos de vehículos
+12,120015,apoyacabezas para asientos de vehículos
+12,120016,camiones de riego
+12,120017,enganches de remolque para vehículos
+12,120018,autobuses
+12,120019,autocares
+12,120021,barcos*
+12,120022,camiones
+12,120023,capós de automóviles
+12,120024,cadenas para automóviles
+12,120025,chasis de automóviles
+12,120026,avisadores acústicos de marcha atrás para vehículos
+12,120026,alarmas acústicas de reversa para vehículos
+12,120027,aviones
+12,120028,transbordadores [ferris]
+12,120029,portaequipajes para vehículos
+12,120029,bacas para vehículos
+12,120030,globos dirigibles
+12,120031,cubiertas de neumáticos para vehículos
+12,120032,válvulas de neumáticos para vehículos
+12,120033,pestañas de cubiertas de ruedas de ferrocarril
+12,120034,barras de torsión para vehículos
+12,120035,cascos de buque
+12,120036,bicheros
+12,120037,dispositivos de mando para buques
+12,120038,dispositivos para desatracar barcos
+12,120039,planos inclinados para barcos
+12,120040,propulsores de hélice para barcos
+12,120041,remos
+12,120042,cajas basculantes para camiones
+12,120043,ruedas de vagoneta [minería]
+12,120044,bicicletas*
+12,120046,pies de apoyo para bicicletas
+12,120046,patas de cabra para bicicletas
+12,120047,bogies para vagones de ferrocarril
+12,120048,pescantes para barcos
+12,120049,guardabarros
+12,120049,guardafangos
+12,120049,salpicaderas
+12,120050,carretillas de dos ruedas
+12,120050,carretillas de equipaje
+12,120050,carretillas de transporte
+12,120051,cabinas para instalaciones de transporte por cable
+12,120052,furgones de artillería [vehículos]
+12,120053,ruedas de vehículos
+12,120054,capós de motor para vehículos
+12,120055,capotas para vehículos
+12,120056,caravanas
+12,120057,remolques [vehículos]
+12,120058,cárteres para órganos de vehículos terrestres que no sean para motores
+12,120059,cinturones de seguridad para asientos de vehículos
+12,120060,cubos de ruedas de vehículos
+12,120061,cadenas de bicicleta
+12,120062,sillas de ruedas
+12,120063,chalanas
+12,120064,chalupas
+12,120065,carretillas para manipular mercancías
+12,120065,carretillas de manipulación de mercancías
+12,120066,carros portamangueras
+12,120067,vagonetas de colada
+12,120068,coches de golf
+12,120068,carros de golf [vehículos]
+12,120069,chasis de vehículos
+12,120070,timones
+12,120071,material rodante de funicular
+12,120072,material rodante de ferrocarril
+12,120073,chimeneas de buque
+12,120074,orugas para vehículos
+12,120075,tractores
+12,120076,vagonetas de mina
+12,120077,parachoques de vehículos
+12,120077,defensas de vehículos
+12,120078,topes antichoque para material rodante ferroviario
+12,120079,circuitos hidráulicos para vehículos
+12,120080,manillares de bicicleta
+12,120080,manubrios de bicicleta
+12,120081,literas para vehículos
+12,120082,cuadernas de buque
+12,120084,neumáticos de bicicleta
+12,120085,engranajes para bicicletas
+12,120086,frenos de bicicleta
+12,120087,guardabarros de bicicleta
+12,120087,guardafangos de bicicleta 
+12,120087,salpicaderas de bicicleta
+12,120088,llantas para ruedas de bicicleta
+12,120088,rines para ruedas de bicicleta
+12,120089,manivelas de bicicleta
+12,120090,motores de bicicleta
+12,120091,cubos para ruedas de bicicleta
+12,120092,pedales de bicicleta
+12,120093,infladores para neumáticos de bicicleta
+12,120094,radios para ruedas de bicicleta
+12,120094,rayos para ruedas de bicicleta
+12,120095,ruedas de bicicleta
+12,120096,sillines de bicicleta
+12,120097,pies de apoyo para motocicletas
+12,120097,patas de cabra de motocicletas
+12,120103,engranajes para vehículos terrestres
+12,120105,dragas [barcos]
+12,120106,dresinas
+12,120106,cigüeñas ferroviarias
+12,120109,motores eléctricos para vehículos terrestres
+12,120110,vehículos eléctricos
+12,120111,embragues para vehículos terrestres
+12,120112,asientos infantiles de seguridad para vehículos
+12,120113,paracaídas
+12,120114,cubiertas para neumáticos
+12,120116,contrapesos para equilibrar ruedas de vehículos
+12,120116,contrapesos para balancear ruedas de vehículos
+12,120117,vehículos espaciales
+12,120118,palos para buques
+12,120119,ejes de vehículos
+12,120120,cojinetes de eje
+12,120121,limpiaparabrisas
+12,120122,guardafaldas para bicicletas
+12,120123,redes portaequipajes para vehículos
+12,120124,tapacubos
+12,120125,furgones [vehículos]
+12,120125,camionetas
+12,120125,furgonetas
+12,120126,frenos de vehículos
+12,120127,sujeciones para cubos de ruedas
+12,120128,vehículos frigoríficos
+12,120129,vagones frigoríficos
+12,120130,motores para vehículos terrestres
+12,120131,espadillas [remos]
+12,120132,fundas para asientos de vehículos
+12,120133,portillas [ojos de buey]
+12,120134,hidroaviones
+12,120135,hidroplanos [barcos]
+12,120136,coches cama
+12,120138,locomotoras
+12,120139,máquinas motrices para vehículos terrestres
+12,120140,vagones
+12,120141,escalones para vehículos
+12,120141,estribos para vehículos
+12,120142,mecanismos de transmisión para vehículos terrestres
+12,120143,mecanismos de propulsión para vehículos terrestres
+12,120144,vehículos militares de transporte
+12,120145,reactores para vehículos terrestres
+12,120147,motocicletas
+12,120148,ruedas libres para vehículos terrestres
+12,120149,vehículos náuticos
+12,120150,buques
+12,120151,hélices de buque
+12,120153,remos para canoas
+12,120154,parabrisas
+12,120155,clavos para neumáticos
+12,120156,bandas de rodadura para recauchutar neumáticos
+12,120157,neumáticos
+12,120159,pontones
+12,120160,puertas de vehículos
+12,120161,portaesquís para automóviles
+12,120162,motocarros
+12,120162,triciclos de reparto
+12,120163,sillas de paseo
+12,120163,sillitas de paseo
+12,120164,toldos para sillas de paseo
+12,120164,toldos para sillitas de paseo
+12,120165,capotas para sillas de paseo
+12,120165,capotas para sillitas de paseo
+12,120166,propulsores de hélice
+12,120168,rayos para ruedas de vehículos
+12,120168,radios para ruedas de vehículos
+12,120169,tensores de rayos de ruedas
+12,120169,tensores de radios de ruedas
+12,120170,telesquís
+12,120171,muelles de suspensión para vehículos
+12,120171,resortes de suspensión para vehículos
+12,120172,vagones restaurante
+12,120172,coches restaurante
+12,120173,retrovisores
+12,120174,llantas [rines] para ruedas de vehículos
+12,120174,rines [llantas] para ruedas de vehículos
+12,120175,sillines de motocicleta
+12,120176,sidecares
+12,120177,asientos de vehículos
+12,120178,coches deportivos
+12,120178,autos deportivos
+12,120179,cornamusas [marina]
+12,120180,telesillas
+12,120182,toletes
+12,120182,escálamos
+12,120183,volquetes
+12,120183,camiones de volteo
+12,120184,aeronaves
+12,120185,bastidores de vehículos
+12,120186,trineos [vehículos]
+12,120187,tranvías
+12,120188,aparatos e instalaciones de transporte por cable
+12,120189,funiculares
+12,120190,teleféricos
+12,120191,triciclos
+12,120192,turbinas para vehículos terrestres
+12,120193,vehículos de
+locomoción terrestre,
+aérea, acuática o ferroviaria
+12,120194,parches adhesivos de caucho para reparar cámaras de aire
+12,120195,tapizados para interiores de vehículos
+12,120196,ciclomotores
+12,120196,velomotores
+12,120198,cristales de vehículos
+12,120198,ventanillas de vehículos
+12,120199,coches
+12,120199,automóviles
+12,120200,dispositivos antirrobo para vehículos
+12,120201,basculadores de vagones [partes de vagones]
+12,120202,yates
+12,120203,aparatos, máquinas y dispositivos para la aeronáutica
+12,120204,dispositivos antideslumbrantes para vehículos*
+12,120204,dispositivos antirreflejo para vehículos
+12,120206,neumáticos para automóviles
+12,120207,carrocerías de automóviles
+12,120209,parachoques para automóviles
+12,120210,amortiguadores para automóviles
+12,120211,alarmas antirrobo para vehículos
+12,120212,bocinas para vehículos
+12,120212,avisadores acústicos para vehículos
+12,120213,hormigoneras [vehículos]
+12,120213,revolvedoras de concreto [vehículos]
+12,120214,cámaras de aire para neumáticos de bicicleta
+12,120215,forros de freno para vehículos
+12,120216,zapatas de freno para vehículos
+12,120217,cajas de cambios para vehículos terrestres
+12,120218,carretillas
+12,120219,carretas
+12,120221,cuadros de bicicleta
+12,120222,carrocerías
+12,120223,asientos eyectables para aeronaves
+12,120224,fundas para vehículos
+12,120225,cadenas de accionamiento para vehículos terrestres
+12,120226,cadenas de transmisión para vehículos terrestres
+12,120226,cadenas motrices para vehículos terrestres
+12,120227,convertidores de par motor para vehículos terrestres
+12,120228,brazos de señal para vehículos
+12,120229,chimeneas de locomotora
+12,120230,volantes para vehículos
+12,120232,fundas de sillín para bicicletas
+12,120233,ambulancias
+12,120234,neumáticos sin cámara para bicicletas
+12,120235,desmultiplicadores para vehículos terrestres
+12,120235,engranajes reductores para vehículos terrestres
+12,120236,segmentos de freno para vehículos
+12,120237,aerodeslizadores
+12,120241,tapones para depósitos de carburante de vehículos
+12,120242,bielas para vehículos terrestres que no sean partes de motores
+12,120243,plataformas elevadoras [partes de vehículos terrestres]
+12,120244,arneses de seguridad para asientos de vehículos
+12,120245,parasoles para automóviles
+12,120246,árboles de transmisión para vehículos terrestres
+12,120247,bolsas de aire [dispositivos de seguridad para automóviles]
+12,120247,airbags [dispositivos de seguridad para automóviles]
+12,120248,cestas especiales para bicicletas
+12,120249,autocaravanas
+12,120249,casas rodantes
+12,120250,ruedecillas para carritos [vehículos]
+12,120251,carritos de limpieza
+12,120252,defensas para buques
+12,120253,trineos de pie
+12,120254,cofres especiales para bicicletas
+12,120255,carritos para la compra
+12,120256,vehículos a motor para la nieve
+12,120256,vehículos de motor para la nieve
+12,120257,vehículos teledirigidos que no sean juguetes
+12,120257,vehículos de control remoto que no sean de juguete
+12,120258,patinetes [vehículos]
+12,120259,mástiles de barco
+12,120260,fundas para volantes de automóviles
+12,120261,alerones para vehículos
+12,120262,limpiafaros
+12,120262,limpiafocos
+12,120263,pastillas de freno para automóviles
+12,120264,fundas para ruedas de recambio
+12,120264,fundas para ruedas de auxilio
+12,120264,fundas para neumáticos de refacción
+12,120265,carros basculantes
+12,120266,encendedores de cigarrillos para automóviles
+12,120267,discos de freno para vehículos
+12,120268,alforjas especiales para bicicletas
+12,120269,timbres para bicicletas
+12,120271,vehículos blindados
+12,120272,bancadas de motor para vehículos terrestres
+12,120272,soportes de motor para vehículos terrestres
+12,120273,drones militares
+12,120274,canoas
+12,120275,drones civiles
+12,120276,retrovisores laterales para vehículos
+12,120277,mosquiteras para sillas de paseo
+12,120277,mosquiteras para sillitas de paseo
+12,120278,palancas de mando para vehículos
+12,120279,vehículos sin conductor [vehículos autónomos]
+12,120279,vehículos autónomos
+12,120280,scooters
+12,120281,scooters para personas con movilidad reducida
+12,120282,ceniceros para automóviles
+12,120283,cadenas de motocicleta
+12,120284,cuadros de motocicleta
+12,120285,manillares de motocicleta
+12,120285,manubrios de motocicleta
+12,120286,motores de motocicleta
+12,120287,cofres especiales para motocicletas
+12,120288,bandajes macizos para ruedas de vehículos
+12,120289,coches de niño
+12,120289,carriolas [coches de niño]
+12,120290,cubrepiés especiales para coches de niño
+12,120291,cubrepiés especiales para sillas de paseo
+12,120291,cubrepiés especiales para sillitas de paseo
+12,120292,inserciones de espuma para neumáticos
+12,120293,bolsas especiales para sillas de paseo
+12,120294,vehículos teledirigidos para inspección submarina
+12,120295,vehículos submarinos autónomos para la inspección del fondo marino
+12,120296,fuelles para autobuses articulados
+12,120297,bicicletas eléctricas
+12,120298,fundas de sillín para motocicletas
+12,120299,coches de carreras
+12,120300,coches robóticos
+12,120301,drones con cámara
+12,120301,drones fotográficos
+12,120302,carros de pesca
+12,120303,carros jaula
+12,120304,tuercas de seguridad para ruedas de vehículos
+12,120305,clips especiales para fijar piezas de automóviles a las carrocerías
+12,120306,trineos de rescate
+12,120307,grúas remolque
+12,120307,camiones-grúa
+12,120308,camiones de basura
+12,120309,remolques para transportar bicicletas
+12,120310,remolques para bicicletas
+12,120311,sillitas de paseo para animales de compañía
+12,120312,camiones con función de grúa integrada
+12,120313,drones de reparto
+12,120314,helicópteros teledirigidos con cámara a bordo
+12,120315,autogiros
+12,120315,girocópteros
+12,120316,helicópteros
+12,120317,transportadores personales
+12,120317,giropodos
+12,120318,tablas de dos ruedas autoequilibradas
+12,120319,monociclos autoequilibrados
+12,120320,pasadores de capó para vehículos
+12,120321,neumáticos para quitanieves
+12,120322,campanas de buceo
+12,120323,portavasos para vehículos
+12,120324,carros*
+12,120325,coches de caballos 
+12,120325,carruajes tirados por caballos
+12,120326,vehículos anfibios
+12,120327,vehículos todoterreno

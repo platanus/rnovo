@@ -1,0 +1,465 @@
+class,reference_id,name
+21,210001,abrevaderos
+21,210002,comederos*
+21,210005,lana de acero para limpiar
+21,210006,tablas de lavar
+21,210007,recipientes térmicos para alimentos
+21,210008,sacudidores de alfombras
+21,210009,ampollas de vidrio [recipientes]
+21,210010,cerdas de animales [cepillos y pinceles]
+21,210011,anillos para aves de corral
+21,210012,boquillas para mangueras de riego
+21,210013,instrumentos de riego
+21,210013,dispositivos de riego
+21,210014,cepillos*
+21,210015,aspersores*
+21,210016,regaderas
+21,210017,cestas para el pan de uso doméstico
+21,210018,anillos para pájaros
+21,210019,bañeras para pájaros*
+21,210020,escobas
+21,210021,escobas mecánicas
+21,210021,barrealfombras mecánicos
+21,210022,frascos de vidrio [recipientes]
+21,210022,balones de vidrio [recipientes]
+21,210023,baldes
+21,210023,cubos*
+21,210025,palanganas [recipientes]
+21,210026,baterías de cocina
+21,210027,picos vertederos
+21,210028,almohazas
+21,210030,mantequeras [vajilla]
+21,210030,mantequilleras
+21,210031,campanas para mantequilla
+21,210031,campanas para manteca
+21,210032,jarras de cerveza
+21,210033,tarros [bocales]
+21,210034,recipientes para beber
+21,210035,recipientes térmicos para bebidas
+21,210036,cajas distribuidoras de toallitas de papel
+21,210037,jaboneras [estuches]
+21,210038,cajas para té
+21,210039,boles
+21,210039,cuencos
+21,210039,escudillas
+21,210040,damajuanas
+21,210040,bombonas*
+21,210041,sacabotas
+21,210042,tapones de vidrio para insertar en botellas
+21,210042,tapones de cristal para insertar en botellas
+21,210043,sacacorchos, eléctricos y no eléctricos
+21,210044,bolas de vidrio decorativas
+21,210045,botellas
+21,210046,botellas aislantes
+21,210046,termos
+21,210047,botellas refrigerantes
+21,210048,abrebotellas, eléctricos y no eléctricos
+21,210049,brochetas [varillas metálicas] para uso culinario
+21,210050,cepillos de uñas
+21,210051,escobillas de baño
+21,210052,cepillos para cristales de lámparas
+21,210054,materiales para fabricar cepillos
+21,210055,cerdas para cepillos
+21,210056,quemadores de perfume [pebeteros]
+21,210056,pebeteros
+21,210057,vinajeras
+21,210058,licoreras [bandejas]
+21,210059,pajareras [jaulas de pájaros]
+21,210059,jaulas de pájaros
+21,210061,cedazos [utensilios domésticos]
+21,210062,recipientes térmicos
+21,210063,decantadores
+21,210063,jarras
+21,210064,portamenús
+21,210065,cacerolas
+21,210066,estropajos metálicos para fregar
+21,210066,esponjas metálicas para fregar
+21,210067,tamices para ceniza [utensilios domésticos]
+21,210068,artículos de cerámica para uso doméstico
+21,210069,matamoscas
+21,210070,calderas [ollas]
+21,210071,cepillos para zapatos
+21,210073,cepillos para caballos
+21,210074,comederos para animales
+21,210075,peines para animales
+21,210076,peines*
+21,210077,trapos de limpieza
+21,210077,paños [trapos] de limpieza
+21,210078,adornos de porcelana
+21,210079,moldes [utensilios de cocina]
+21,210080,enceradoras no eléctricas
+21,210082,cocteleras
+21,210084,botes para pegamento
+21,210084,frascos para pegamento
+21,210085,vasos [recipientes]
+21,210086,cuernos para beber
+21,210087,utensilios cosméticos
+21,210088,filtros para uso doméstico
+21,210089,fruteros
+21,210090,soportes para cuchillos de mesa
+21,210091,cierres para tapas de ollas
+21,210092,tapas de olla
+21,210093,fundas para tablas de planchar
+21,210094,prensas para corbatas
+21,210096,mezcladores no eléctricos para uso doméstico
+21,210097,tamices [utensilios domésticos]
+21,210098,artículos de cristalería
+21,210099,moldes para cubitos de hielo
+21,210099,cubeteras
+21,210100,cuero para lustrar
+21,210101,ollas
+21,210101,marmitas
+21,210102,palas para uso doméstico
+21,210103,moldes de cocina
+21,210104,instrumentos de limpieza accionados manualmente
+21,210105,mondadientes
+21,210105,palillos [mondadientes]
+21,210106,tinas para lavar la ropa
+21,210107,placas para impedir que se derrame la leche
+21,210108,tablas de cortar para la cocina
+21,210110,peines de púas anchas
+21,210110,peines desenredantes
+21,210111,aparatos no eléctricos para quitar el polvo
+21,210112,soportes para planchas de ropa
+21,210114,vidrio en polvo para decorar
+21,210115,neceseres de tocador
+21,210116,distribuidores de papel higiénico
+21,210117,distribuidores de jabón
+21,210118,sifones para agua gaseosa
+21,210118,sifones para agua carbonatada
+21,210119,vidrio esmaltado, que no sea para la construcción
+21,210120,hormas para zapatos
+21,210121,embudos
+21,210122,servicios para especias [especieros]
+21,210123,esponjas de aseo personal
+21,210124,portaesponjas [esponjeras]
+21,210124,esponjeras [portaesponjas]
+21,210125,paños para desempolvar muebles
+21,210126,tendederos de ropa
+21,210127,cubos de tela
+21,210128,estuches para peines
+21,210129,artículos de loza
+21,210132,soportes para plantas [arreglos florales]
+21,210132,soportes para flores [arreglos florales]
+21,210133,macetas [tiestos]
+21,210134,batidoras no eléctricas para uso doméstico
+21,210135,mopas*
+21,210135,fregonas
+21,210135,trapeadores*
+21,210136,sartenes
+21,210137,cepillos para el suelo
+21,210137,cepillos para el piso
+21,210138,exprimidores de fruta no eléctricos para uso doméstico
+21,210139,productos absorbentes del humo para uso doméstico
+21,210140,fiambreras
+21,210141,abreguantes
+21,210142,moldes para pasteles
+21,210142,moldes para tortas
+21,210143,vidrio [materia prima]
+21,210144,cantimploras
+21,210145,parrillas [utensilios de cocina]
+21,210146,soportes para parrillas
+21,210147,escobillas para extender el alquitrán
+21,210148,borlas de polvera
+21,210149,vidrio en bruto o semielaborado, excepto el vidrio de construcción
+21,210150,trampas para insectos
+21,210152,lana de vidrio que no sea para aislar
+21,210153,vasijas
+21,210154,fuentes para hortalizas
+21,210155,servicios para servir licores
+21,210156,cucharones [utensilios de cocina]
+21,210157,mayólica
+21,210158,trituradoras no eléctricas para uso culinario
+21,210159,utensilios para uso doméstico
+21,210160,recogemigas
+21,210161,mosaicos de vidrio que no sean para la construcción
+21,210162,molinillos de mano para uso doméstico
+21,210163,desechos de lana para limpiar
+21,210163,desperdicios de lana para limpiar
+21,210164,nidales [huevos artificiales]
+21,210165,hueveras
+21,210166,vidrio opalino
+21,210167,opalina
+21,210168,estropajos para limpiar
+21,210169,tablas de cortar pan
+21,210170,cestas de picnic con vajilla
+21,210171,prensas para pantalones
+21,210173,platos de papel
+21,210175,rodillos de pastelería
+21,210175,palos de amasar
+21,210176,peines eléctricos
+21,210177,palas para tartas
+21,210178,pipetas para vino
+21,210178,catavinos
+21,210179,tablas de planchar
+21,210180,bandejas de papel para uso doméstico
+21,210180,charolas de papel para uso doméstico
+21,210181,cazuelas
+21,210183,alcachofas de regadera
+21,210184,molinillos de pimienta manuales
+21,210185,pimenteros
+21,210186,aparatos y máquinas de lustrar no eléctricos para uso doméstico
+21,210187,materiales para pulir [sacar brillo] que no sean preparaciones ni papel ni piedra
+21,210189,artículos de porcelana
+21,210190,jarrones
+21,210191,portajabones [jaboneras]
+21,210192,bacinillas
+21,210193,artículos de alfarería
+21,210194,cubos de basura
+21,210194,basureros [cubos de basura]
+21,210195,polveras vacías
+21,210196,cubiteras
+21,210196,baldes para hielo
+21,210197,ralladores para uso culinario
+21,210198,trampas para ratas [cepos]
+21,210199,recipientes para uso doméstico o culinario
+21,210200,servilleteros de aro
+21,210203,ensaladeras
+21,210204,saleros
+21,210206,jeringas para regar flores y plantas
+21,210207,servicios de mesa [vajilla]
+21,210208,fuentes [vajilla]
+21,210209,servicios de té
+21,210210,servilleteros de mesa
+21,210211,aparatos para hacer helados y sorbetes
+21,210212,platillos [platos pequeños]
+21,210213,calzadores
+21,210214,soperas
+21,210215,cepillos para las cejas
+21,210216,ratoneras [trampas para ratones]
+21,210217,estatuas de porcelana, cerámica, loza, barro cocido o vidrio
+21,210217,estatuas de porcelana, cerámica, loza, barro cocido o cristal
+21,210218,azucareros
+21,210219,centros de mesa
+21,210220,tazas
+21,210221,tensores para prendas de vestir
+21,210222,teteras
+21,210223,abotonadores
+21,210224,huchas de cerdito
+21,210224,alcancías de chanchito
+21,210224,alcancías de cochinito
+21,210224,alcancías de marranito
+21,210225,utensilios de tocador
+21,210226,dispensadores de bebidas calientes no eléctricos
+21,210227,vajilla
+21,210228,vaporizadores de perfume
+21,210228,pulverizadores de perfume
+21,210229,vidrio con conductores eléctricos finos incorporados
+21,210230,vidrio pintado
+21,210230,artículos de cristalería pintados
+21,210231,vidrio para ventanillas de vehículos [producto semiacabado]
+21,210232,tazas altas
+21,210232,mugs [tazas altas]
+21,210233,aerosoles [recipientes] que no sean para uso médico
+21,210234,objetos de arte de porcelana, cerámica, loza, barro cocido o vidrio
+21,210234,objetos de arte de porcelana, cerámica, loza, barro cocido o cristal
+21,210235,platos
+21,210236,ollas a presión no eléctricas
+21,210236,ollas exprés no eléctricas
+21,210238,batidoras no eléctricas
+21,210239,calientabiberones no eléctricos
+21,210240,brochas de afeitar
+21,210241,portabrochas de afeitar
+21,210242,arandelas de candelero
+21,210243,cajas de vidrio
+21,210244,cajas para caramelos
+21,210244,bomboneras
+21,210245,candeleros
+21,210245,candelabros
+21,210245,palmatorias
+21,210246,hervidores no eléctricos
+21,210248,filtros de té [bolas y pinzas]
+21,210250,cepillos de dientes
+21,210251,cepillos eléctricos, excepto partes de máquinas
+21,210252,bustos de porcelana, cerámica, loza, barro cocido o vidrio
+21,210252,bustos de porcelana, cerámica, loza, barro cocido o cristal
+21,210253,cubremacetas que no sean de papel
+21,210254,molinillos de café accionados manualmente
+21,210255,servicios de café
+21,210256,filtros de café no eléctricos
+21,210257,cafeteras de filtro no eléctricas
+21,210258,posabotellas y posavasos que no sean de papel ni de materias textiles
+21,210259,esponjas abrasivas para la cocina
+21,210260,freidoras no eléctricas
+21,210261,neveras portátiles no eléctricas
+21,210261,heladeras portátiles no eléctricas
+21,210262,duchas bucales
+21,210263,gamuzas para limpiar
+21,210264,aparatos no eléctricos para lustrar el calzado
+21,210265,campanas para queso
+21,210266,cestas para uso doméstico
+21,210267,bandejas para uso doméstico
+21,210267,charolas para uso doméstico
+21,210268,desechos de algodón para limpiar
+21,210269,tapas para platos y fuentes
+21,210270,salvamanteles [utensilios de mesa]
+21,210271,cántaros
+21,210271,jarros
+21,210272,recipientes de cocina
+21,210273,utensilios de cocina
+21,210274,utensilios de cocción no eléctricos
+21,210275,palilleros
+21,210276,cepillos de dientes eléctricos
+21,210277,aparatos desodorantes para uso personal
+21,210278,escobillas para limpiar recipientes
+21,210279,letreros de porcelana o vidrio
+21,210280,esponjas para uso doméstico
+21,210281,plumeros
+21,210282,paños [trapos] para quitar el polvo
+21,210282,trapos para quitar el polvo
+21,210283,fibras de silicio vitrificado que no sean para uso textil
+21,210284,fibras de vidrio que no sean para aislar ni para uso textil
+21,210285,figuras [estatuillas] de porcelana, cerámica, loza, barro cocido o vidrio
+21,210285,estatuillas de porcelana, cerámica, loza, barro cocido o vidrio
+21,210285,estatuillas de porcelana, cerámica, loza, barro cocido o cristal
+21,210286,hilos de vidrio que no sean para uso textil
+21,210287,cafeteras no eléctricas
+21,210288,coladores de té
+21,210289,frascos*
+21,210290,guantes para uso doméstico
+21,210291,picheles
+21,210292,juegos de aceitera y vinagrera
+21,210292,alcuzas
+21,210294,guantes para lustrar
+21,210295,apagavelas
+21,210301,bañeras portátiles para bebés
+21,210302,jaulas para animales de compañía
+21,210303,bayetas para el suelo
+21,210303,trapos de piso
+21,210304,cepillos para lavar la vajilla
+21,210305,terrarios de interior [cultivo de plantas]
+21,210306,bandejas higiénicas para animales de compañía
+21,210306,bandejas de arena higiénica para animales de compañía
+21,210308,sílice fundido [producto semielaborado] que no sea para la construcción
+21,210309,gofreras no eléctricas
+21,210309,planchas no eléctricas para hacer gofres
+21,210310,cajas para el pan
+21,210311,palillos chinos [utensilios de mesa]
+21,210312,estopa para limpiar
+21,210313,pinzas para la ropa
+21,210314,agitadores de cóctel
+21,210315,mangas de pastelero
+21,210316,cortapastas [moldes para pastas y galletas]
+21,210317,cajas para galletas
+21,210318,vasos de papel o materias plásticas
+21,210319,vasos para beber
+21,210320,hilo dental
+21,210321,guantes de jardinería
+21,210322,ollas no eléctricas para cocinar al vapor
+21,210323,bolsas isotérmicas
+21,210324,bandejas giratorias [utensilios de mesa]
+21,210325,portaviandas
+21,210326,cucharas para mezclar [utensilios de cocina]
+21,210327,aparatos para hacer tallarines [instrumentos de accionamiento manual]
+21,210328,cortadores de pastelería
+21,210329,desatascadores de ventosa
+21,210329,sopapas
+21,210330,espátulas de cocina
+21,210331,esponjas exfoliantes para la piel
+21,210332,prensaajos [utensilios de cocina]
+21,210333,platos desechables
+21,210334,toalleros de aro y de barra
+21,210335,portarrollos de papel higiénico
+21,210336,acuarios de interior
+21,210337,tapas para acuarios de interior
+21,210338,terrarios de interior [vivarios]
+21,210339,escurridores de mopas
+21,210339,escurridores de fregonas
+21,210339,estrujadores de fregonas
+21,210339,estrujadores de mopas
+21,210339,exprimidores de trapeadores
+21,210340,papeleras
+21,210341,jardineras para ventanas
+21,210342,pajillas para beber
+21,210342,pajitas para beber
+21,210342,popotes
+21,210343,cubreteteras
+21,210343,cubiertas para teteras
+21,210344,aparatos para desmaquillar
+21,210345,dispositivos eléctricos para atraer y eliminar insectos
+21,210346,tapetes para hornear
+21,210347,hormas para botas
+21,210348,petacas [botellas de bolsillo]
+21,210349,espátulas para uso cosmético
+21,210350,graseras
+21,210351,trampas para moscas
+21,210352,recipientes de vidrio para velas [portavelas]
+21,210353,vaporeras no eléctricas
+21,210354,esponjas para aplicar maquillaje
+21,210355,trituradoras no eléctricas para uso doméstico
+21,210356,agarradores de cocina
+21,210356,agarraderas de cocina
+21,210357,manoplas de cocina
+21,210357,manoplas de barbacoa
+21,210357,manoplas de horno
+21,210358,pinceles de cocina
+21,210359,pipetas de cocina
+21,210360,guantes para lavar coches
+21,210361,brochas y pinceles de maquillaje
+21,210362,cubos con escurridor para fregonas
+21,210362,cubos con escurridor para trapeadores
+21,210363,prensas no eléctricas para tortillas [utensilios de cocina]
+21,210364,cepillos para encerar esquís 
+21,210365,cepillos para pestañas
+21,210366,separadores de huevos no eléctricos para uso doméstico
+21,210367,separadores interdigitales de espuma para la pedicura
+21,210368,difusores de enchufe repelentes de mosquitos
+21,210369,acumuladores de frío para enfriar la comida y las bebidas
+21,210370,cubos de hielo reutilizables
+21,210371,salvamanteles que no sean de papel ni de materias textiles
+21,210372,manteles individuales que no sean de papel ni de materias textiles
+21,210373,etiquetas para decantadores
+21,210374,aireadores de vino
+21,210375,cabezales para cepillos de dientes eléctricos
+21,210376,huchas
+21,210376,alcancías
+21,210377,dispositivos quitapelusas eléctricos o no
+21,210377,dispositivos quitatimotas eléctricos o no
+21,210378,paños de pulido
+21,210379,cerdas de cerdo para fabricar cepillos
+21,210380,crin de caballo para fabricar cepillos
+21,210381,pinzas de hielo
+21,210382,pinzas de ensalada
+21,210383,cucharones de servir
+21,210384,pilones de cocina
+21,210385,morteros de cocina
+21,210386,cucharas de helado
+21,210387,cascanueces
+21,210387,rompenueces
+21,210388,pinzas para el azúcar
+21,210389,mangos de escoba
+21,210390,cucharones para vino
+21,210391,bañeras hinchables para bebés
+21,210391,bañeras inflables para bebés
+21,210392,soportes de bañeras portátiles para bebés
+21,210393,reposabolsas de té
+21,210394,boquillas de pastelería y repostería
+21,210395,tendederos giratorios
+21,210396,mallas de cocción que no sean para microondas
+21,210397,cuentagotas para uso cosmético
+21,210397,goteros para uso cosmético
+21,210398,cuentagotas para uso doméstico
+21,210398,goteros para uso doméstico
+21,210399,cuscuseras no eléctricas
+21,210400,cazuelas de tajín no eléctricas
+21,210401,separadores de yemas
+21,210402,tapas reutilizables de silicona para alimentos
+21,210403,guantes de aseo para animales
+21,210404,rasquetas de goma [instrumentos de limpieza]
+21,210404,escobillas de goma [instrumentos de limpieza]
+21,210405,escalfadores de huevos
+21,210406,difusores de aceites aromáticos, que no sean con varillas, eléctricos y no eléctricos
+21,210407,placas para la difusión de aceite aromático
+21,210408,máquinas para elaborar pastas alimenticias, accionadas manualmente
+21,210409,contenedores de pañales usados
+21,210409,cubos de basura para pañales
+21,210410,recipientes desechables de aluminio para uso doméstico
+21,210411,tubos peladores de ajos
+21,210412,exprimidores de tubos de pasta de dientes
+21,210413,vertedores de vino
+21,210414,comederos para animales de compañía
+21,210415,comederos de distribución automática para animales de compañía
+21,210416,calentadores de velas, eléctricos y no eléctricos
+21,210417,bayetas
+21,210417,trapos para lavar platos
+21,210418,guantes exfoliantes para la piel

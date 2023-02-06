@@ -1,0 +1,153 @@
+class,reference_id,name
+37,370001,conservación de muebles
+37,370002,reparación de aparatos fotográficos
+37,370003,instalación y reparación de aparatos eléctricos
+37,370004,instalación y reparación de ascensores
+37,370005,asfaltado
+37,370006,mantenimiento y reparación de vehículos a motor
+37,370006,mantenimiento y reparación de vehículos de motor
+37,370008,mantenimiento y reparación de aviones
+37,370009,limpieza de edificios [interiores]
+37,370010,servicios de lavandería
+37,370011,limpieza y reparación de calderas
+37,370012,mantenimiento y reparación de quemadores
+37,370013,alquiler de buldóceres
+37,370014,instalación, mantenimiento y reparación de máquinas y equipos de oficina
+37,370015,instalación y reparación de alarmas contra incendios
+37,370016,instalación y reparación de alarmas antirrobo
+37,370017,reparación de tapicerías
+37,370018,mantenimiento y reparación de cámaras blindadas
+37,370020,alquiler de máquinas de construcción
+37,370021,construcción naval
+37,370022,renovación de prendas de vestir
+37,370024,instalación y reparación de sistemas de calefacción
+37,370025,servicios de zapatería
+37,370025,reparación de calzado
+37,370026,deshollinado de chimeneas
+37,370027,mantenimiento y reparación de cajas fuertes
+37,370028,instalación y reparación de aparatos de aire acondicionado
+37,370029,construcción*
+37,370030,construcción submarina
+37,370031,supervisión [dirección] de obras de construcción
+37,370032,compostura de prendas de vestir
+37,370034,mantenimiento, limpieza y reparación del cuero
+37,370035,instalación de equipos de cocinas
+37,370036,demolición de edificios
+37,370037,tratamiento contra la herrumbre
+37,370037,tratamiento contra la oxidación
+37,370038,desinfección
+37,370040,pintura o reparación de letreros [rótulos]
+37,370041,instalación y reparación de almacenes [depósitos]
+37,370042,impermeabilización de construcciones
+37,370044,alquiler de excavadoras
+37,370045,limpieza de ventanas
+37,370045,limpieza de cristales de ventana
+37,370046,reparación y mantenimiento de proyectores de cine
+37,370047,instalación y reparación de hornos
+37,370048,mantenimiento, limpieza y reparación de pieles
+37,370049,engrase de vehículos
+37,370049,lubricación de vehículos
+37,370050,limpieza de prendas de vestir
+37,370051,reparación de relojes
+37,370052,construcción de fábricas
+37,370053,instalación y reparación de dispositivos de riego
+37,370054,servicios de aislamiento [construcción]
+37,370054,aislamiento de construcciones
+37,370055,lavado de vehículos
+37,370056,lavado de ropa
+37,370057,lavado
+37,370058,instalación, mantenimiento y reparación de máquinas
+37,370059,albañilería
+37,370060,restauración de muebles
+37,370061,construcción de rompeolas
+37,370062,planchado de prendas de vestir
+37,370063,instalación y mantenimiento de oleoductos
+37,370064,colocación de papel pintado
+37,370064,trabajos de empapelado
+37,370064,colocación de papel tapiz
+37,370065,reparación de paraguas
+37,370066,reparación de sombrillas
+37,370067,acolchado de muebles
+37,370068,trabajos de pintura para interiores y exteriores
+37,370069,apomazado
+37,370070,trabajos de yesería
+37,370071,trabajos de fontanería
+37,370071,trabajos de plomería
+37,370072,pulido de vehículos
+37,370073,reparación de bombas
+37,370074,construcción de puertos
+37,370077,recauchutado de neumáticos
+37,370078,instalación y reparación de aparatos de refrigeración
+37,370079,planchado de ropa
+37,370080,restañado
+37,370081,remache
+37,370082,tratamiento antioxidante para vehículos
+37,370082,tratamiento preventivo contra la herrumbre para vehículos
+37,370082,tratamiento preventivo contra la oxidación para vehículos
+37,370083,estaciones de servicio [reabastecimiento de carburante y mantenimiento]
+37,370084,instalación y reparación de teléfonos
+37,370085,mantenimiento de vehículos
+37,370086,trabajos de barnizado
+37,370087,limpieza de vehículos
+37,370089,servicios de reparación en caso de avería de vehículos
+37,370090,alquiler de máquinas de limpieza
+37,370091,exterminación de animales dañinos que no sea para la agricultura, la acuicultura, la horticultura y la silvicultura
+37,370093,montaje de andamios
+37,370101,colocación de ladrillos [albañilería]
+37,370102,limpieza de pañales
+37,370103,limpieza en seco
+37,370104,suministro de información sobre construcción
+37,370105,suministro de información sobre reparaciones
+37,370106,afilado de cuchillos
+37,370107,extracción minera
+37,370108,explotación de canteras
+37,370109,pavimentación de carreteras
+37,370110,lijado
+37,370111,reparación submarina
+37,370112,limpieza de edificios [fachadas]
+37,370113,vulcanización de neumáticos [reparación]
+37,370114,perforación de pozos
+37,370115,construcción de puestos de feria y de tiendas
+37,370116,instalación, mantenimiento y reparación de hardware
+37,370117,supresión de interferencias de instalaciones eléctricas
+37,370118,reconstrucción de motores usados o parcialmente destruidos
+37,370119,reconstrucción de máquinas usadas o parcialmente destruidas
+37,370120,alquiler de grúas [máquinas de construcción]
+37,370121,alquiler de máquinas barredoras
+37,370122,servicios de techado
+37,370123,servicios de nevado artificial
+37,370124,limpieza vial
+37,370125,reparación de cerraduras
+37,370126,restauración de obras de arte
+37,370127,restauración de instrumentos musicales
+37,370128,instalación de puertas y ventanas
+37,370129,mantenimiento de piscinas
+37,370129,mantenimiento de albercas de natación
+37,370129,mantenimiento de piletas de natación
+37,370130,servicios de recarga de cartuchos de tóner
+37,370131,consultoría sobre construcción
+37,370132,servicios de carpintería estructural
+37,370133,perforación de pozos profundos de gas y petróleo
+37,370134,alquiler de bombas de drenaje
+37,370135,alquiler de lavarropas
+37,370135,alquiler de máquinas de lavandería
+37,370136,reparación de líneas eléctricas
+37,370137,servicios de recarga de baterías de vehículos
+37,370138,equilibrado de neumáticos
+37,370138,balanceo de neumáticos
+37,370139,afinación de instrumentos de música
+37,370140,colocación de cables
+37,370141,esterilización de instrumentos médicos
+37,370142,servicios de fracturación hidráulica
+37,370143,servicios de control de plagas, que no guarden relación con la agricultura, la acuicultura, la horticultura y la silvicultura
+37,370144,alquiler de lavavajillas
+37,370145,alquiler de máquinas para secar la vajilla
+37,370146,instalación de servicios públicos en obras de construcción
+37,370147,servicios de electricistas
+37,370148,instalación y reparación de equipos de protección contra inundaciones
+37,370149,retirada de nieve
+37,370150,servicios de recarga de cartuchos de tinta
+37,370151,recarga de vehículos eléctricos
+37,370152,servicios domésticos [servicios de limpieza]
+37,370153,servicios de recarga de baterías para teléfonos celulares
+37,370153,servicios de recarga de baterías para teléfonos móviles

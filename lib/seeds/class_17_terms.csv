@@ -1,0 +1,153 @@
+class,reference_id,name
+17,170001,acetato de celulosa semielaborado
+17,170002,resinas acrílicas semielaboradas
+17,170003,cortinas de seguridad de amianto
+17,170003,cortinas de seguridad de asbesto
+17,170004,anillos de caucho
+17,170005,pizarra de amianto
+17,170005,pizarra de asbesto
+17,170006,mangueras de riego
+17,170008,materiales de insonorización
+17,170009,anillos de impermeabilidad
+17,170009,anillos de empaque
+17,170010,balata
+17,170011,guarniciones de impermeabilidad
+17,170011,empaques de impermeabilidad
+17,170012,juntas de caucho para tarros
+17,170013,burletes
+17,170014,materiales de relleno de caucho o materias plásticas
+17,170014,materiales de acolchado de caucho o materias plásticas
+17,170015,materiales para calafatear
+17,170016,productos calorífugos
+17,170017,caucho en bruto o semielaborado
+17,170018,tapones de caucho para insertar en botellas
+17,170019,válvulas de charnela de caucho
+17,170020,caucho sintético
+17,170021,topes amortiguadores de caucho
+17,170022,tubos flexibles no metálicos
+17,170023,materiales aislantes
+17,170024,materiales para impedir la radiación térmica
+17,170024,materiales para bloquear la radiación del calor
+17,170025,mangueras de materias textiles
+17,170026,materiales para impedir la radiación térmica de calderas
+17,170029,papel para condensadores eléctricos
+17,170030,juntas para tuberías
+17,170031,cuerdas de caucho
+17,170031,cordones de caucho
+17,170032,algodón para calafatear
+17,170033,juntas de cilindros
+17,170034,aislantes dieléctricos
+17,170035,hojas de amianto
+17,170035,hojas de asbesto
+17,170036,ebonita
+17,170037,cortezas para insonorizar
+17,170037,cortezas para el aislamiento acústico
+17,170038,hilos elásticos que no sean para uso textil
+17,170039,forros de embrague
+17,170039,forros para acoplamientos
+17,170040,materiales para estopar
+17,170041,rellenos para juntas de expansión
+17,170042,compuestos químicos para reparar fugas
+17,170043,juntas*
+17,170043,empaquetaduras
+17,170044,fieltro de amianto
+17,170044,fieltro de asbesto
+17,170045,fieltro aislante
+17,170046,fibra vulcanizada
+17,170047,hilos de plástico para soldar
+17,170048,materiales semielaborados para forros de freno
+17,170049,guantes aislantes
+17,170050,gutapercha
+17,170051,aceite aislante para transformadores
+17,170052,aceites aislantes
+17,170053,hojas de celulosa regenerada que no sean para embalar
+17,170055,papel aislante
+17,170056,tejidos aislantes
+17,170057,barnices aislantes
+17,170058,compuestos aislantes contra la humedad en edificios
+17,170059,láminas metálicas aislantes
+17,170060,pinturas aislantes
+17,170061,lana de escoria [aislante]
+17,170062,lana mineral [aislante]
+17,170063,lana de vidrio para aislar
+17,170064,látex [caucho]
+17,170065,tubos de lino
+17,170066,zulaque
+17,170067,manguitos no metálicos para tubos
+17,170068,manguitos de goma para proteger partes de máquinas
+17,170068,mangas de goma para proteger partes de máquinas
+17,170069,masillas para juntas
+17,170069,compuestos de sellado para juntas
+17,170070,mica en bruto o semielaborada
+17,170071,papel de amianto
+17,170071,papel de asbesto
+17,170072,películas de materias plásticas que no sean para embalar
+17,170073,racores no metálicos para tuberías
+17,170073,empalmes no metálicos para tuberías
+17,170074,manguitos de conexión para radiadores de vehículos
+17,170074,mangueras de conexión para radiadores de vehículos
+17,170074,mangueras de empalme para radiadores de vehículos
+17,170075,resinas sintéticas semielaboradas
+17,170075,resinas artificiales semielaboradas
+17,170076,arandelas de caucho o fibra vulcanizada
+17,170077,bolsas [sobres, bolsitas] de caucho para empaquetar
+17,170078,revestimientos de amianto
+17,170078,revestimientos de asbesto
+17,170079,tejidos de amianto
+17,170079,tejidos de asbesto
+17,170080,tela de amianto
+17,170080,tela de asbesto
+17,170081,empaquetaduras de amianto
+17,170081,empaquetaduras de asbesto
+17,170081,trenzas de amianto
+17,170081,trenzas de asbesto
+17,170082,válvulas de caucho o fibra vulcanizada
+17,170083,hojas de viscosa que no sean para embalar
+17,170084,aislantes para vías férreas
+17,170085,cintas adhesivas que no sean de papelería ni para uso médico o doméstico
+17,170086,armazones no metálicos para conductos de aire comprimido
+17,170087,cartón de amianto
+17,170087,cartón de asbesto
+17,170088,fibras de amianto
+17,170088,fibras de asbesto
+17,170089,armaduras no metálicas para conductos
+17,170089,materiales no metálicos para reforzar conductos
+17,170091,amianto
+17,170091,asbesto
+17,170092,cintas autoadhesivas que no sean de papelería ni para uso médico o doméstico
+17,170093,topes de caucho
+17,170094,aislantes para cables
+17,170095,hilos de caucho que no sean para uso textil
+17,170096,fibras de carbono que no sean para uso textil
+17,170097,materias plásticas semielaboradas
+17,170098,aislantes para conductos eléctricos
+17,170099,aislantes
+17,170099,aisladores
+17,170100,moldes de ebonita
+17,170101,materiales de embalar [relleno] de caucho o materias plásticas
+17,170102,fibras de materias plásticas que no sean para uso textil
+17,170103,fibras de vidrio aislantes
+17,170104,tejidos de fibras de vidrio aislantes
+17,170105,hilos de materias plásticas que no sean para uso textil
+17,170106,materiales filtrantes de espuma plástica semielaborada
+17,170107,cintas aislantes
+17,170107,bandas aislantes
+17,170108,barreras flotantes anticontaminación
+17,170109,goma para recauchutar neumáticos
+17,170110,enlucidos aislantes
+17,170111,hojas de materias plásticas para uso agrícola
+17,170112,soportes de gomaespuma para arreglos florales [productos semiacabados]
+17,170113,caucho líquido
+17,170114,soluciones de caucho
+17,170115,películas antideslumbrantes para ventanas [películas ahumadas]
+17,170115,películas antirreflejo para ventanas [películas ahumadas]
+17,170116,materiales refractarios aislantes
+17,170117,goma en bruto o semielaborada
+17,170118,cintas adhesiva de reparación
+17,170119,topes de caucho para puertas
+17,170120,topes de caucho para ventanas
+17,170121,guarniciones no metálicas para tuberías flexibles
+17,170122,guarniciones no metálicas para tuberías rígidas
+17,170123,defensas de caucho para muelles de navegación
+17,170124,materiales filtrantes de películas plásticas semielaboradas
+17,170125,filamentos de materias plásticas para imprimir en 3D
