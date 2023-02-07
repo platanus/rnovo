@@ -213,6 +213,9 @@ GEM
       activesupport (>= 5.2)
     heroku-stage (0.4.0)
       rails
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
     i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     image_processing (1.12.2)
@@ -251,6 +254,7 @@ GEM
       addressable (~> 2.8)
     letter_opener (1.7.0)
       launchy (~> 2.2)
+    levenshtein (0.2.2)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -271,6 +275,7 @@ GEM
     minitest (5.17.0)
     mjml-rails (4.8.0)
     msgpack (1.6.0)
+    multi_xml (0.6.0)
     mustermann (2.0.2)
       ruby2_keywords (~> 0.0.1)
     nenv (0.3.0)
@@ -567,6 +572,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  ruby
   x86_64-linux
 
 DEPENDENCIES
@@ -589,8 +595,10 @@ DEPENDENCIES
   faker
   guard-rspec
   heroku-stage
+  httparty
   image_processing (~> 1.8)
   jbuilder (~> 2.7)
+  levenshtein (~> 0.2.2)
   listen
   marcel (~> 1.0)
   mjml-rails
