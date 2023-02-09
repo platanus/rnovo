@@ -3,6 +3,7 @@ import App from './components/app.vue';
 import BaseButton from './components/base-button.vue';
 import BaseInput from './components/base-input.vue';
 import BaseLabel from './components/base-label.vue';
+import TermSearch from './components/term-search.vue';
 import './css/application.css';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -13,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
   };
 
   const app = createApp({
-    components: { App },
+    components: { App, TermSearch },
   });
 
   Object.entries(globalComponents).forEach(([name, component]) => {
