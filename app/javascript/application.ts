@@ -1,5 +1,6 @@
 import { createApp } from 'vue';
 import { createI18n } from 'vue-i18n';
+import { VueQueryPlugin } from '@tanstack/vue-query';
 import App from './components/app.vue';
 import BaseButton from './components/base-button.vue';
 import BaseInput from './components/base-input.vue';
@@ -31,6 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   app.use(i18n);
+  app.use(VueQueryPlugin);
 
   app.mount('#vue-app');
 
