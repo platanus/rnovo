@@ -3,8 +3,10 @@ Rails.application.routes.draw do
   ActiveAdmin.routes(self)
   namespace :api, defaults: { format: :json } do
     namespace :internal do
+      resources :terms, only: :index
     end
   end
+  resources :terms, only: :index
   devise_for :users
   mount CoverImageUploader.derivation_endpoint => "/derivations/cover_image"
   mount Sidekiq::Web => '/queue'
