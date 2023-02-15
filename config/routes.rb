@@ -4,6 +4,12 @@ Rails.application.routes.draw do
   namespace :api, defaults: { format: :json } do
     namespace :internal do
       resources :terms, only: :index
+      resources :trademarks, only: [] do
+        collection do
+          get :phonetic_search
+          get :full_phonetic_search
+        end
+      end
     end
   end
   resources :terms, only: :index
