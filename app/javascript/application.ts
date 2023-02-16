@@ -5,6 +5,7 @@ import App from './components/app.vue';
 import BaseButton from './components/base-button.vue';
 import BaseInput from './components/base-input.vue';
 import BaseLabel from './components/base-label.vue';
+import BaseMultiselect from './components/base-multiselect.vue';
 import TermSearch from './components/term-search.vue';
 import './css/application.css';
 import { Locales } from './locales/locales';
@@ -21,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     BaseButton,
     BaseInput,
     BaseLabel,
+    BaseMultiselect,
   };
 
   const app = createApp({
