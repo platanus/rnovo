@@ -1,0 +1,58 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: https://www.tmdn.org/tmview/api/search/results
+    body:
+      encoding: UTF-8
+      string: '{"pageSize":50,"criteria":"F","offices":["CL","WO"],"territories":["CL"],"basicSearch":"Platanus","niceClass":["35","OR","45"],"fields":["ST13","markImageURI","tmName","tmOffice","applicationNumber","applicationDate","tradeMarkStatus","niceClass"]}'
+    headers:
+      Content-Type:
+      - application/json
+      Accept:
+      - application/json
+      Referer:
+      - https://www.tmdn.org/tmview/
+      Origin:
+      - https://www.tmdn.org
+      User-Agent:
+      - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/58.0.3029.110 Safari/537.36.
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+  response:
+    status:
+      code: 200
+      message: ''
+    headers:
+      Date:
+      - Mon, 20 Feb 2023 13:39:09 GMT
+      Content-Type:
+      - application/json
+      Vary:
+      - Accept-Encoding
+      Cache-Control:
+      - no-cache
+      X-Content-Type-Options:
+      - nosniff
+      Access-Control-Allow-Origin:
+      - https://www.tmdn.org
+      X-Ua-Compatible:
+      - IE=Edge
+      Strict-Transport-Security:
+      - max-age=16070400; includeSubDomains
+      Set-Cookie:
+      - TS01e836b1=01c1ac27ee622f3474f35d932e61c686096f18020f5ee18516f2b787c570b1b4b5f7dccbedcbdefc0c9b8abeca74b950f828a2e7b9;
+        Path=/; samesite=none; Secure
+      - TSa639ba72027=089375ec4aab2000d582e78e6b41d5a218c026f5498199a2ca63556b1214df2e16e2eb79a7717a0308835e42ad113000a64eaaa3b231ac39115fd8518ce7f57d5129c2736eab2ff10f245fd06acdd2e71a4bfaa72f9d7b0ae785d4cf22f8769e;
+        Path=/; samesite=none; Secure
+      - TSc52fbf36029=089375ec4aab2800eb8b3e33fa6db256292242e84b06fe2dd9916acb12dff034cb0f3c60d0817b05a8608065de2c35c1;
+        Max-Age=30; Path=/; samesite=none; Secure
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: '{"tradeMarks":[{"ST13":"CL500000001509031","markImageURI":"https://www.tmdn.org/tmview/api/trademark/thumbnail/CL500000001509031","detailImageURI":"https://www.tmdn.org/tmview/api/trademark/image/CL500000001509031","tmName":"platanus
+        ventures","tmOffice":"CL","applicationNumber":"1509031","tradeMarkStatus":"Filed","niceClass":[35,36,42],"applicationDate":"2022-06-30T12:00:00.000Z"}],"page":1,"totalPages":1,"totalResults":1}'
+  recorded_at: Mon, 20 Feb 2023 13:39:09 GMT
+recorded_with: VCR 6.1.0
