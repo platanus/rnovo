@@ -9,8 +9,10 @@ gem 'data_migrate'
 gem 'devise'
 gem 'devise-i18n'
 gem 'draper', '~> 3.1'
+gem 'httparty'
 gem 'image_processing', '~> 1.8'
 gem 'jbuilder', '~> 2.7'
+gem 'levenshtein', '~> 0.2.2'
 gem 'marcel', '~> 1.0'
 gem 'mjml-rails'
 gem 'pg'
@@ -52,7 +54,9 @@ group :test do
   gem 'simplecov'
   gem 'simplecov_linter_formatter', '~> 0.2'
   gem 'simplecov_text_formatter'
+  gem 'vcr'
   gem 'webdrivers'
+  gem "webmock"
 end
 
 group :development, :test do
