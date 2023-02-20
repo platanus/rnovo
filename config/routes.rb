@@ -13,6 +13,7 @@ Rails.application.routes.draw do
     end
   end
   resources :terms, only: :index
+  resources :trademarks, only: :index
   devise_for :users
   mount CoverImageUploader.derivation_endpoint => "/derivations/cover_image"
   mount Sidekiq::Web => '/queue'
