@@ -3,6 +3,13 @@ require 'simplecov_config'
 require File.expand_path('../config/environment', __dir__)
 require 'rspec/rails'
 require 'spec_helper'
+require 'vcr'
+
+VCR.configure do |c|
+  c.ignore_hosts 'chromedriver.storage.googleapis.com', 'fonts.googleapis.com'
+  c.cassette_library_dir = 'spec/fixtures/cassetes'
+  c.hook_into :webmock
+end
 
 =begin
 

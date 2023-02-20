@@ -54,7 +54,9 @@ group :test do
   gem 'simplecov'
   gem 'simplecov_linter_formatter', '~> 0.2'
   gem 'simplecov_text_formatter'
+  gem 'vcr'
   gem 'webdrivers'
+  gem "webmock"
 end
 
 group :development, :test do
