@@ -14,6 +14,7 @@ export const esLocale = {
   trademarkSearch: {
     error: 'Hubo un error inesperado, inténtalo nuevamente.',
     loading: 'Buscando marcas...',
+    completeLoading: 'Cargando resultados adicionales...',
     results: 'Resultados',
     completeResults: 'Resultados adicionales',
     noResults: 'No se encontraron marcas.',
