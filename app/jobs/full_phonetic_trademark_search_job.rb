@@ -5,11 +5,13 @@ class FullPhoneticTrademarkSearchJob < ApplicationJob
     @brand_name = brand_name
     @nice_classes = nice_classes
 
+    return [] if @brand_name.blank?
+
     results = brand_name_variations.map do |variation|
       tmview_client.phonetic_search(variation)
     end
 
-    results.flatten.uniq
+    results.flatten.sort_by(&:score).reverse.uniq(&:application_number)
   end
 
   private

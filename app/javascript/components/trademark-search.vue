@@ -23,12 +23,21 @@ const search = reactive({
 
 const selectedClassIds = computed(() => search.niceClassIds.map((niceClass) => niceClass.id.toString()));
 
-const { data: trademarks, refetch, isFetching, isError } = useQuery(
+const { data: trademarks, refetch, isFetching, isSuccess, isError } = useQuery(
   ['trademarks', search.name, selectedClassIds.value],
   () => trademarkApi.phoneticSearch(search.name, selectedClassIds.value),
   {
     refetchOnWindowFocus: false,
     enabled: false,
+  },
+);
+
+const { data: trademarksComplete } = useQuery(
+  ['trademarksComplete', search.name, selectedClassIds.value],
+  () => trademarkApi.fullPhoneticSearch(search.name, selectedClassIds.value),
+  {
+    refetchOnWindowFocus: false,
+    enabled: isSuccess,
   },
 );
 
@@ -132,6 +141,48 @@ const { data: trademarks, refetch, isFetching, isError } = useQuery(
             </div>
           </div>
         </div>
+      </div>
+      <div
+        v-if="trademarksComplete?.length > 0"
+        class="mt-5"
+      >
+        <h2 class="mb-2 text-2xl font-bold">
+          {{ t('trademarkSearch.completeResults') }}
+        </h2>
+
+        <div
+          v-for="trademark in trademarksComplete"
+          :key="trademark.applicationNumber"
+          class="my-2 flex flex-col gap-5"
+        >
+          <div class="flex w-full flex-col justify-between rounded-lg border bg-slate-200 p-2">
+            <div class="flex justify-between">
+              <div class="flex flex-col gap-1">
+                <h3 class="text-base">
+                  {{ trademark.trademarkName }}
+                </h3>
+                <p class="text-xs">
+                  {{ t('trademarkSearch.score') }}: {{ trademark.score }}%
+                </p>
+              </div>
+              <div class="flex flex-col gap-1">
+                <div class="flex gap-1">
+                  <span class="text-xs font-bold">
+                    {{ t('trademarkSearch.applicationNumber') }}
+                  </span>
+                  <span class="text-xs">
+                    {{ trademark.applicationNumber }}
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        v-else-if="trademarks?.length === 0"
+      >
+        <p>{{ t('trademarkSearch.noResults') }}</p>
       </div>
     </div>
   </div>

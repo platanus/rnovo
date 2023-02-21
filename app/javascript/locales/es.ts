@@ -15,6 +15,8 @@ export const esLocale = {
     error: 'Hubo un error inesperado, inténtalo nuevamente.',
     loading: 'Buscando marcas...',
     results: 'Resultados',
+    completeResults: 'Resultados adicionales',
+    noResults: 'No se encontraron marcas.',
     search: 'Buscar',
     searchLabel: 'Buscar marca',
     niceClassHint: 'Seleccionar Clases de Niza',

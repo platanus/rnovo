@@ -1,13 +1,16 @@
 class Api::Internal::TrademarksController < Api::Internal::BaseController
   def phonetic_search
-    respond_with tmview_client.phonetic_search(trademark_search_params[:trademark_name])
+    respond_with PhoneticTrademarkSearchJob.perform_now(
+      brand_name,
+      nice_classes
+    ), each_serializer: Api::Internal::TrademarkSerializer
   end
 
   def full_phonetic_search
     respond_with FullPhoneticTrademarkSearchJob.perform_now(
-      trademark_search_params[:trademark_name],
+      brand_name,
       nice_classes
-    )
+    ), each_serializer: Api::Internal::TrademarkSerializer
   end
 
   private
@@ -16,11 +19,11 @@ class Api::Internal::TrademarksController < Api::Internal::BaseController
     params.permit(:format, :trademark_name, nice_class_ids: [])
   end
 
-  def nice_classes
-    @nice_classes ||= NiceClass.where(id: trademark_search_params[:nice_class_ids])
+  def brand_name
+    @brand_name ||= trademark_search_params[:trademark_name]
   end
 
-  def tmview_client
-    @tmview_client ||= TmviewClient.new(nice_classes: nice_classes)
+  def nice_classes
+    @nice_classes ||= NiceClass.where(id: trademark_search_params[:nice_class_ids])
   end
 end
