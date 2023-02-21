@@ -32,7 +32,7 @@ const { data: trademarks, refetch, isFetching, isSuccess, isError } = useQuery(
   },
 );
 
-const { data: trademarksComplete } = useQuery(
+const { data: trademarksComplete, refetch: refetchComplete, isFetching: isFetchingComplete } = useQuery(
   ['trademarksComplete', search.name, selectedClassIds.value],
   () => trademarkApi.fullPhoneticSearch(search.name, selectedClassIds.value),
   {
@@ -40,6 +40,11 @@ const { data: trademarksComplete } = useQuery(
     enabled: isSuccess,
   },
 );
+
+function submit() {
+  refetch();
+  refetchComplete();
+}
 
 </script>
 <template>
@@ -64,7 +69,7 @@ const { data: trademarksComplete } = useQuery(
       />
 
       <base-button
-        @click="refetch"
+        @click="submit"
       >
         {{ t('trademarkSearch.search') }}
       </base-button>
@@ -143,7 +148,13 @@ const { data: trademarksComplete } = useQuery(
         </div>
       </div>
       <div
-        v-if="trademarksComplete?.length > 0"
+        v-if="isFetchingComplete"
+        class="text-sm"
+      >
+        <p>{{ t('trademarkSearch.completeLoading') }}</p>
+      </div>
+      <div
+        v-else-if="trademarksComplete?.length > 0"
         class="mt-5"
       >
         <h2 class="mb-2 text-2xl font-bold">
