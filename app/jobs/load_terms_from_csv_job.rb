@@ -8,13 +8,10 @@ class LoadTermsFromCsvJob < ApplicationJob
     return unless @nice_class.present? && csv_content.present?
 
     Term.transaction do
-      CSV.parse(csv_content, headers: true) do |row|
-        reference_id = row['reference_id'].to_i
+      CSV.parse(csv_content, headers: true, col_sep: '|') do |row|
         name = row['name']
 
-        @nice_class.terms.find_or_create_by(reference_id: reference_id) do |term|
-          term.name = name
-        end
+        @nice_class.terms.find_or_create_by(name: name)
       end
     end
   end
