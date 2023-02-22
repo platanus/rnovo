@@ -3,7 +3,6 @@ class Api::Internal::TermSerializer < ActiveModel::Serializer
 
   attributes(
     :id,
-    :reference_id,
     :name,
     :nice_class_id
   )

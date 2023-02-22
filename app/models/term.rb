@@ -11,7 +11,6 @@ end
 # Table name: terms
 #
 #  id            :bigint(8)        not null, primary key
-#  reference_id  :integer
 #  name          :string
 #  nice_class_id :bigint(8)        not null
 #  created_at    :datetime         not null
