@@ -1,433 +1,641 @@
-class,reference_id,name
-16,160001,letras de acero
-16,160002,plumas de acero
-16,160003,distribuidores de cinta adhesiva [artículos de papelería]
-16,160004,sellos de direcciones
-16,160004,timbres [sellos] de direcciones
-16,160004,timbres [sellos] de direcciones [señas]
-16,160005,máquinas para imprimir direcciones [señas]
-16,160005,direccionadoras [máquinas]
-16,160006,papel*
-16,160007,carteles
-16,160007,pósters
-16,160008,carteleras [tablones de anuncios] de papel o cartón
-16,160009,máquinas franqueadoras de oficina
-16,160010,grapas de oficina
-16,160010,clips de oficina
-16,160011,clips para plumas
-16,160011,prendedores de portaplumas
-16,160012,grapadoras [artículos de papelería]
-16,160012,abrochadoras [artículos de papelería]
-16,160013,álbumes
-16,160014,ilustraciones
-16,160015,láminas [grabados]
-16,160016,vitolas [anillas de puros]
-16,160016,anillas de puro [vitolas]
-16,160017,máquinas eléctricas o no para afilar lápices
-16,160018,sujetalibros
-16,160019,tientos [apoyamanos] para pintores
-16,160020,acuarelas
-16,160021,maquetas de arquitectura
-16,160022,carpetas para documentos
-16,160023,pizarras para escribir
-16,160024,lápices de pizarra
-16,160024,pizarrines
-16,160025,papel de plata
-16,160025,papel de aluminio
-16,160026,arcilla de modelar
-16,160027,tablas aritméticas
-16,160028,grabados
-16,160028,objetos de arte grabados
-16,160029,objetos de arte litografiados
-16,160030,cuadros [pinturas] enmarcados o no
-16,160030,pinturas [cuadros] enmarcadas o no
-16,160031,lápices*
-16,160032,diarios
-16,160032,periódicos
-16,160033,publicaciones periódicas
-16,160034,atlas
-16,160035,carpetas de anillas para hojas sueltas
-16,160036,cintas engomadas [artículos de papelería]
-16,160037,posavasos para cerveza
-16,160038,billetes [tickets]
-16,160038,boletos [billetes]
-16,160038,tickets [billetes]
-16,160039,muestras biológicas para la microscopia [material didáctico]
-16,160039,cortes biológicos para la microscopia [material didáctico]
-16,160040,clichés de imprenta
-16,160041,blocs de dibujo
-16,160042,blocs [artículos de papelería]
-16,160043,bobinas para cintas entintadas
-16,160045,brazaletes para sujetar instrumentos de escritura
-16,160046,folletos
-16,160047,patrones de bordado
-16,160048,chinchetas
-16,160048,chinches
-16,160048,tachuelas [chinchetas]
-16,160049,mojasellos
-16,160050,brochas para pintores
-16,160051,papel secante
-16,160051,secantes
-16,160052,sellos de estampar
-16,160053,sellos de lacre
-16,160054,tampones [almohadillas] de tinta
-16,160055,lacre
-16,160055,cera para lacrar
-16,160056,máquinas de sellado para oficinas
-16,160057,materiales para sellar
-16,160058,cuadernos
-16,160059,bandejas para contar y clasificar monedas
-16,160061,calcos
-16,160061,patrones para calcar
-16,160062,papel de calco
-16,160063,tela para calcar
-16,160064,dediles de oficina
-16,160065,caracteres de imprenta
-16,160066,papel carbón
-16,160066,papel carbónico
-16,160067,papel para máquinas registradoras
-16,160068,libretas
-16,160069,escuadras graduadas de dibujo
-16,160070,tarjetas*
-16,160071,material de instrucción, excepto aparatos
-16,160071,material didáctico, excepto aparatos
-16,160072,fichas [artículos de papelería]
-16,160074,hojas de papel [artículos de papelería]
-16,160075,cartón*
-16,160076,sombrereras de cartón [cajas]
-16,160077,tarjetas perforadas para telares Jacquard
-16,160078,tubos de cartón
-16,160080,catálogos
-16,160081,marcos portaetiquetas para ficheros
-16,160082,cancioneros
-16,160084,chibaletes [imprenta]
-16,160085,fundas para documentos
-16,160087,caballetes de pintura
-16,160088,números [caracteres de imprenta]
-16,160089,tinta china
-16,160090,cromolitografías
-16,160091,ceras de modelar que no sean para uso dental
-16,160092,archivadores [artículos de oficina]
-16,160093,perforadoras [artículos de oficina]
-16,160094,papel higiénico
-16,160095,libros
-16,160096,compases de trazado
-16,160096,compases de dibujo
-16,160097,caracteres [números y letras]
-16,160097,letras [caracteres de imprenta]
-16,160097,caracteres tipográficos
-16,160098,componedores
-16,160101,bandejas portadocumentos
-16,160101,bandejas de sobremesa [artículos de papelería]
-16,160102,cucuruchos de papel
-16,160103,líquidos correctores [artículos de oficina]
-16,160104,tintas correctoras [heliografía]
-16,160105,minas de lápices
-16,160106,cortes histológicos con fines didácticos
-16,160107,plantillas de curvas
-16,160108,forros para libros o cuadernos [artículos de papelería]
-16,160109,tiza para escribir
-16,160110,tiza litográfica
-16,160111,jabón de sastre
-16,160111,tiza de sastre
-16,160112,portatizas
-16,160113,portalápices
-16,160114,portaminas
-16,160115,recipientes de papel para crema o nata
-16,160116,ganchos para papeles [sujetapapeles o clips]
-16,160118,rodillos para máquinas de escribir
-16,160119,calcomanías*
-16,160121,impresiones gráficas
-16,160122,peines para vetear
-16,160123,tableros de dibujo
-16,160124,material de dibujo
-16,160125,instrumentos de dibujo
-16,160126,diagramas
-16,160127,sobres [artículos de papelería]
-16,160128,multicopistas
-16,160129,aguafuertes [grabados]
-16,160130,papel de envolver
-16,160130,papel de embalaje
-16,160131,plumines
-16,160131,plumas para escribir
-16,160132,máquinas de escribir eléctricas o no
-16,160133,plumieres
-16,160133,estuches para plumas
-16,160134,plumines de oro
-16,160134,plumas de oro para escribir
-16,160135,productos para borrar
-16,160136,artículos de escritura
-16,160137,escudos [sellos de papel]
-16,160138,plantillas para borrar
-16,160139,gomas de borrar
-16,160140,papel para electrocardiógrafos
-16,160141,sacabocados [artículos de oficina]
-16,160142,tintas*
-16,160143,cintas entintadas
-16,160144,tinteros
-16,160146,máquinas de oficina para cerrar sobres
-16,160147,fotografías [impresas]
-16,160148,limpiaplumas
-16,160149,sellos
-16,160150,tejidos de encuadernación
-16,160151,estuches de dibujo
-16,160153,registros [libros]
-16,160153,libros mayores
-16,160154,cuadernos con índice
-16,160155,figuritas de papel maché
-16,160155,estatuillas de papel maché
-16,160156,papel de filtro
-16,160157,materiales filtrantes de papel
-16,160158,formularios
-16,160158,impresos [formularios]
-16,160159,artículos de oficina, excepto muebles
-16,160160,carboncillos
-16,160161,plantillas [artículos de papelería]
-16,160162,galeras [tipografía]
-16,160163,galvanos
-16,160163,clichés de galvanotipia
-16,160164,mapas geográficos
-16,160165,globos terráqueos
-16,160166,salseras de acuarelas para artistas
-16,160167,reproducciones gráficas
-16,160168,representaciones gráficas
-16,160169,raspadores de oficina
-16,160170,planchas de grabado
-16,160171,hectógrafos
-16,160172,horarios impresos
-16,160173,dispositivos humectantes [artículos de oficina]
-16,160174,tarjetas postales
-16,160175,productos de imprenta
-16,160175,material impreso
-16,160176,aparatos manuales para etiquetar
-16,160177,mantillas de imprenta que no sean de materias textiles
-16,160178,imprentas portátiles [artículos de oficina]
-16,160178,equipos de impresión portátiles [artículos de oficina]
-16,160179,publicaciones impresas
-16,160180,manuales
-16,160180,guías [manuales]
-16,160182,papel de carta
-16,160183,pisapapeles
-16,160184,puntas de trazado para dibujo
-16,160185,tiralíneas
-16,160185,plumas de dibujo
-16,160186,mantelerías de papel
-16,160187,litografías
-16,160188,piedras litográficas
-16,160189,cartillas [cuadernillos]
-16,160190,papel luminoso
-16,160191,papel maché
-16,160191,cartón piedra
-16,160192,papel multicopia
-16,160193,tiza para marcar
-16,160195,materias plásticas para modelar
-16,160196,materiales para modelar
-16,160197,pasta de modelar
-16,160198,pañuelos de bolsillo de papel
-16,160199,telas entintadas para duplicadores [multicopistas]
-16,160199,telas entintadas para multicopistas
-16,160199,telas entintadas para multicopistas [duplicadores]
-16,160200,manteles de papel
-16,160201,pizarras [encerados]
-16,160201,pizarrones
-16,160202,pinzas para sujetar papeles
-16,160202,clips para sujetar papeles
-16,160203,numeradores
-16,160203,foliadores
-16,160204,oleografías
-16,160205,cartivanas [encuadernación]
-16,160206,obleas para sellar
-16,160207,paletas de pintor
-16,160208,pantógrafos [instrumentos de dibujo]
-16,160209,artículos de papelería
-16,160210,papel pergamino
-16,160211,pasteles [lápices]
-16,160212,patrones de costura
-16,160214,estuches de plantillas de estarcir
-16,160215,rodillos para pintores de obra
-16,160216,lienzos para pintar
-16,160216,telas [lienzos] para pintar
-16,160217,cajas de pinturas para uso escolar
-16,160218,películas de materias plásticas para embalar
-16,160219,encoladoras para uso fotográfico
-16,160220,soportes para fotografías
-16,160221,fotograbados
-16,160223,planos
-16,160223,cianotipos
-16,160224,plegaderas [artículos de oficina]
-16,160225,plumas estilográficas
-16,160225,estilográficas
-16,160225,plumas fuente
-16,160226,plantillas de estarcir
-16,160227,clichés de multicopista
-16,160228,retratos
-16,160229,cubremacetas de papel
-16,160230,aparatos y máquinas mimeógrafos
-16,160230,aparatos y máquinas multicopistas
-16,160231,cintas de papel o tarjetas para registrar programas de ordenador
-16,160231,cintas de papel o tarjetas para registrar programas de computadora
-16,160232,prospectos
-16,160233,papel para radiogramas
-16,160234,reglas de dibujo
-16,160235,regletas [componedores]
-16,160236,material de encuadernación
-16,160238,tela de encuadernación
-16,160239,hilos de encuadernación
-16,160241,telas entintadas para máquinas de reproducción de documentos
-16,160242,plumas [artículos de oficina]
-16,160243,revistas [publicaciones periódicas]
-16,160244,cintas de papel, que no sean de mercería o para el cabello
-16,160245,cintas para máquinas de escribir
-16,160246,bolsas [sobres, bolsitas] de papel o materias plásticas para empaquetar
-16,160247,almohadillas para sellos
-16,160248,material escolar
-16,160249,marcapáginas
-16,160249,marcadores de lectura
-16,160250,tarjetas de felicitación
-16,160251,esteatita [jabón de sastre]
-16,160253,bolas para bolígrafos
-16,160253,bolas para biromes
-16,160254,salvamanteles de papel
-16,160255,tapetes de escritorio
-16,160257,teclas de máquinas de escribir
-16,160258,soportes para sellos de estampar
-16,160259,estuches para sellos de estampar
-16,160260,sellos postales
-16,160260,estampillas [sellos postales]
-16,160260,timbres [sellos postales]
-16,160261,portasellos
-16,160262,transparencias [artículos de papelería]
-16,160263,aparatos de viñeteado
-16,160264,gluten [cola] de papelería o para uso doméstico
-16,160265,adhesivos [pegamentos] de papelería o para uso doméstico
-16,160265,pegamentos de papelería o para uso doméstico
-16,160266,cintas adhesivas de papelería o para uso doméstico
-16,160267,tiras adhesivas de papelería o para uso doméstico
-16,160268,placas para máquinas de imprimir direcciones
-16,160269,almanaques
-16,160270,calendarios
-16,160271,cola de almidón de papelería o para uso doméstico
-16,160271,engrudo de papelería o para uso doméstico
-16,160273,pinceles
-16,160273,brochas [pinceles]
-16,160274,cintas autoadhesivas de papelería o para uso doméstico
-16,160275,gomas [elásticos] de oficina
-16,160276,baberos de papel
-16,160276,babadores de papel
-16,160278,cartón de pasta de madera [artículos de papelería]
-16,160279,papel de madera
-16,160280,cajas de papel o cartón
-16,160281,soportes para plumas y lápices
-16,160282,sobres de papel o cartón para botellas
-16,160283,posabotellas y posavasos de papel
-16,160284,participaciones [artículos de papelería]
-16,160285,hojas de materias plásticas con burbujas para embalar o empaquetar
-16,160286,banderas de papel
-16,160287,trituradoras de papel [artículos de oficina]
-16,160288,hojas de celulosa regenerada para embalar
-16,160289,organizadores de escritorio para artículos de papelería [artículos de oficina]
-16,160290,colas de papelería o para uso doméstico
-16,160291,cortapapeles [abrecartas]
-16,160292,bolsas de basura de papel o materias plásticas
-16,160293,sacapuntas eléctricos o no
-16,160293,afilalápices [sacapuntas] eléctricos o no
-16,160294,toallitas de papel para desmaquillar
-16,160295,servilletas de papel
-16,160296,manteles individuales de papel
-16,160297,escuadras de dibujo
-16,160298,reglas T para dibujo
-16,160299,portaplumas
-16,160300,recados de escribir
-16,160300,estuches de escritura [artículos de papelería]
-16,160301,escribanías de escritorio
-16,160302,escribanías portátiles
-16,160303,modelos de escritura
-16,160304,embalajes de papel o cartón para botellas
-16,160305,rótulos de papel o cartón
-16,160306,toallas de papel
-16,160307,toallitas de tocador de papel
-16,160308,etiquetas de papel o de cartón
-16,160309,buriles para grabar al aguafuerte
-16,160310,hojas de viscosa para embalar
-16,160311,gomas [colas] de papelería o para uso doméstico
-16,160312,telas engomadas de papelería
-16,160313,cola de pescado [ictiocola] de papelería o para uso doméstico
-16,160313,ictiocola [cola de pescado] de papelería o para uso doméstico
-16,160323,bolsas de cocción para microondas
-16,160324,filtros de papel para café
-16,160325,películas adherentes y extensibles de materias plásticas para la paletización
-16,160327,letreros de papel o cartón
-16,160328,adhesivos [artículos de papelería]
-16,160328,autoadhesivos
-16,160330,aparatos y máquinas para encuadernar [material de oficina]
-16,160331,revistas de historietas
-16,160331,libros de cómics
-16,160331,periódicos de historietas
-16,160332,papel de copia [artículos de papelería]
-16,160333,fundas para talonarios de cheques
-16,160334,cartuchos de tinta
-16,160335,piedras de tinta [recipientes para tinta]
-16,160336,tarjetas de felicitación musicales
-16,160337,circulares
-16,160337,boletines informativos
-16,160338,materiales de fécula o almidón para empaquetar
-16,160339,papel parafinado
-16,160339,papel encerado
-16,160340,fundas para pasaportes
-16,160342,pinceles de escritura
-16,160343,instrumentos de escritura
-16,160344,papel perfumado o no para forrar armarios
-16,160345,bacaladeras para tarjetas de crédito
-16,160346,aparatos para plastificar documentos [artículos de oficina]
-16,160347,papel de pintura y caligrafía
-16,160348,borradores para pizarras
-16,160348,borradores para pizarrones
-16,160349,portapapeles de clip [artículos de oficina]
-16,160350,punteros no electrónicos para pizarras
-16,160351,lazos de papel que no sean de mercería o para el cabello
-16,160352,moldes para arcilla de modelar [material para artistas]
-16,160353,clips para billetes de banco
-16,160354,tarjetas de intercambio que no sean para juegos
-16,160354,tarjetas coleccionables que no sean para juegos
-16,160355,hojas absorbentes de papel o de materias plásticas para embalar productos alimenticios
-16,160356,hojas de control de humedad, de papel o de materias plásticas, para embalar productos alimenticios
-16,160357,cintas correctoras [artículos de oficina]
-16,160358,bandejas para pintura
-16,160359,marcadores [artículos de papelería]
-16,160360,volantes [folletos]
-16,160361,fundas portadocumentos [artículos de papelería]
-16,160362,sujetapáginas
-16,160363,arcilla polimérica para modelar
-16,160364,matasellos
-16,160365,materiales de embalaje [relleno] de papel o cartón
-16,160366,materiales de relleno de papel o cartón
-16,160366,materiales de acolchado de papel o cartón
-16,160367,billetes de banco
-16,160368,tiza en aerosol
-16,160369,cupones impresos
-16,160370,papel de arroz*
-16,160371,bolsas de plástico para excrementos de animales de compañía
-16,160372,washi [papel japonés]
-16,160373,caminos de mesa de papel
-16,160374,partituras impresas
-16,160375,banderolas de papel
-16,160376,guirnaldas de banderines de papel
-16,160377,celuloides de animación
-16,160378,bolsas de papel para la esterilización de instrumentos médicos
-16,160379,soportes de tarjetas de identificación [artículos de oficina]
-16,160380,carretes con cordón extensible para soportes de tarjetas de identificación
-16,160381,pinzas de sujeción para soportes de tarjetas de identificación [artículos de oficina]
-16,160382,papel para mesas de reconocimiento médico
-16,160383,papel para cubrir bandejas dentales
-16,160384,baberos de papel con mangas
-16,160385,guillotinas [artículos de oficina]
-16,160386,plantillas de estarcir para la decoración de alimentos y bebidas
-16,160387,tarjetas de identificación [artículos de oficina]
-16,160388,cintas de códigos de barras
-16,160389,purpurina para papelería
-16,160389,escarcha para papelería
-16,160389,brillantina para papelería
-16,160390,etiquetas de papel para reclamar equipajes
-16,160391,toallitas de papel para la limpieza
-16,160392,fundas protectoras para libros
-16,160393,libros para colorear
+class|name
+16|Abrecartas
+16|Abrecartas de metales preciosos
+16|Abrecartas eléctricos para uso en oficinas
+16|Acuarelas
+16|Acuarelas (pinturas hechas)
+16|Adaptadores ergonómicos para escritura
+16|Adhesivos (artículos de papelería)
+16|Adhesivos para papelería
+16|Adhesivos para papelería o para uso doméstico
+16|Adhesivos plásticos para papelería o uso doméstico
+16|Afilalápices eléctricos
+16|Agendas
+16|Agendas de citas
+16|Agendas de direcciones
+16|Agendas planificadoras
+16|Álbumes
+16|Álbumes de boda
+16|Álbumes de eventos
+16|Álbumes de fotos
+16|Álbumes fotográficos
+16|Álbumes para monedas
+16|Álbumes para pegatinas
+16|Álbumes para recopilar acontecimientos
+16|Alfombrillas de fieltro para caligrafía
+16|Almanaques
+16|Almanaques de derecho
+16|Almohadillas para sellos
+16|Ángulos adhesivos de fotos
+16|Anuarios escolares
+16|Archivadores para la oficina
+16|Archivos (artículos de papelería)
+16|Arcilla de modelar
+16|Arcilla para modelar para niños
+16|Baberos de papel
+16|Bandas elásticas para encuadernación
+16|Bandejas para pintura
+16|Bandejas para plumas
+16|Banderas de papel
+16|Banderas y banderines de papel
+16|Banderines de papel
+16|Barritas de tinta (sumi)
+16|Bloc de notas
+16|Bloc de notas para garabatear
+16|Blocks de notas
+16|Blocs de hojas para rotafolios
+16|Blocs de hojas sueltas
+16|Blocs de notas adhesivos
+16|Blocs de notas ilustrados
+16|Blocs de papel borrador
+16|Blocs de papel de escribir
+16|Boletos de entrada
+16|Boletos para pasajeros
+16|Bolígrafos
+16|Bolígrafos de rodillo de gel
+16|Bolígrafos tipo roller
+16|Bolsas de basura
+16|Bolsas de basura de materias plásticas
+16|Bolsas de basura de materias plásticas para uso doméstico
+16|Bolsas de basura de papel para uso doméstico
+16|Bolsas de congelación
+16|Bolsas de materias plásticas de almacenaje para uso doméstico
+16|Bolsas de materias plásticas para embalaje
+16|Bolsas de papel
+16|Bolsas de papel para fiestas
+16|Bolsas de papel para regalar vino
+16|Bolsas de plástico para desechar residuos de animales de compañía
+16|Bolsas para cocinar en microondas
+16|Bolsas plásticas biodegradables para desechos de alimentos de uso doméstico
+16|Bolsas y sacos de papel
+16|Borradores de pizarra blanca
+16|Borradores de tinta
+16|Borradores para pizarrones
+16|Brazaletes para sujetar instrumentos de escritura
+16|Caballetes de pintura
+16|Cajas de cartón
+16|Cajas de cartón corrugado
+16|Cajas de cartón para embalaje industrial
+16|Cajas de cartón para embalar
+16|Cajas de cartón para pasteles
+16|Cajas de cartón plegables
+16|Cajas de fibra de cartón
+16|Cajas de papel
+16|Cajas de papel o cartón
+16|Cajas de regalo
+16|Cajas de regalo de cartón
+16|Cajas para embalar plegables
+16|Cajas para embalar prefabricadas
+16|Cajas plegables de papel
+16|Calcomanías
+16|Calcomanías de papel termotransferibles
+16|Calcomanías de pared
+16|Calcomanías tridimensionales para uso en cualquier superficie
+16|Calendarios
+16|Calendarios de Adviento
+16|Calendarios de bolsillo
+16|Calendarios de mesa
+16|Calendarios de pared
+16|Calendarios de taco
+16|Calendarios impresos
+16|Calendarios y diarios personales
+16|Caminos de mesa de celulosa
+16|Cancioneros
+16|Caracteres de imprenta
+16|Caricaturas
+16|Carpetas (artículos de papelería)
+16|Carpetas de documentos en forma de billeteras
+16|Carpetas encuadernadoras magnéticas de tres anillos
+16|Carpetas para cartas
+16|Carpetas para hojas
+16|Carpetas para hojas (artículos de oficina)
+16|Carpetas para hojas para uso en oficina
+16|Carpetas para hojas sueltas
+16|Cartapacios
+16|Carteles de papel
+16|Carteles enmarcados
+16|Carteles impresos
+16|Carteles publicitarios
+16|Cartivanas (encuadernación)
+16|Cartón
+16|Cartón blanco
+16|Cartón corrugado
+16|Cartón de color
+16|Cartón hecho de morera de papel (senkasi)
+16|Cartón manila de marfil
+16|Cartón para acuarela
+16|Cartones de papel para huevos
+16|Cartuchos de rellenado de tinta para lapiceras
+16|Cartuchos de tinta
+16|Cartuchos de tinta para plumas
+16|Cartulina
+16|Catálogos de muestras de papel de pared
+16|Cementos de caucho de papelería
+16|Cera de modelar que no sea para uso dental
+16|Ceras y tizas
+16|Cheques bancarios
+16|Chinches
+16|Chinches para tableros de corcho
+16|Chinchetas (puntas)
+16|Chinchetas para señalización de mapas
+16|Cinta adhesiva de doble cara para uso doméstico
+16|Cinta de embalar
+16|Cinta para bolsas de alimentos para su uso en congeladores
+16|Cintas adhesivas para papelería o para uso doméstico
+16|Cintas autoadhesivas para papelería o para uso doméstico
+16|Cintas correctoras (artículos de oficina)
+16|Cintas de materias textiles para embalaje y envoltura
+16|Cintas de papel de fantasía (tanzaku)
+16|Cintas de papel para calculadoras
+16|Cintas de papel para máquinas calculadoras
+16|Cintas entintadas
+16|Cintas para máquinas de escribir
+16|Cintas para sellar cajas de cartón
+16|Clips para billetes de banco
+16|Clips para cartas
+16|Clips para plumas
+16|Clips para sujetar papeles
+16|Cola de almidón de papelería o para uso doméstico
+16|Cola de gelatina de algas rojas, para artículos de papelería o uso doméstico (funori)
+16|Cola para la papelería o la casa
+16|Colas de papelería o para uso doméstico
+16|Cómics
+16|Cuadernos de actividades para niños
+16|Cuadernos de anotaciones
+16|Cuadernos de bitácora
+16|Cuadernos de caligrafía a pluma
+16|Cuadernos de caligrafía para pinceles de escritura
+16|Cuadernos de dibujo
+16|Cuadernos de ejercicios
+16|Cuadernos de espirales
+16|Cuadernos de ortografía
+16|Cuadernos escolares para escribir
+16|Cubierta de cartón para cartón corrugado
+16|Cubiertas de papel para palillos chinos
+16|Cubiertas para documentos
+16|Cubremacetas de papel
+16|Decoraciones de cartón para productos alimenticios
+16|Decoraciones de papel para alimentos
+16|Decoraciones de papel para fiestas
+16|Decoraciones de papel para pasteles
+16|Decoraciones para lápices
+16|Decoraciones para lápices (artículos de papelería)
+16|Dediles (artículos de oficina)
+16|Diarios
+16|Diarios de escritorio
+16|Diarios en blanco
+16|Diarios personales
+16|Dibujos
+16|Diccionarios
+16|Directorios de ciudad
+16|Directorios telefónicos
+16|Dispensadores de cinta adhesiva
+16|Distribuidores de cinta adhesiva (artículos de papelería)
+16|Embalajes de cartón
+16|Embalajes de cartón o papel para botellas
+16|Encaje de papel
+16|Enciclopedias
+16|Encuadernaciones
+16|Ensobradoras para su uso en oficinas
+16|Envases de cartón
+16|Envases de cartón de comida para llevar
+16|Envoltorios de papel para monedas
+16|Envoltura de regalo metálica
+16|Esquinas adhesivas para las fotografías
+16|Estuches de plantillas de estarcir
+16|Estuches enrollables para lápices
+16|Estuches para artículos de papelería
+16|Estuches para sellos
+16|Estuches para talonarios de cheque
+16|Estuches para tarjetas de presentación
+16|Estuches y cajas para plumas y lápices
+16|Etiquetas adhesivas
+16|Etiquetas de correo
+16|Etiquetas de direcciones
+16|Etiquetas de papel
+16|Etiquetas de papel identificativas
+16|Etiquetas de papel para regalos
+16|Etiquetas de precios
+16|Fichas de archivo
+16|Fichas de inscripción impresas
+16|Fichas de recetas impresas
+16|Figuras de papel
+16|Filtros de papel para cafeteras
+16|Folletos de información farmacéutica
+16|Folletos publicitarios (sobre productos en el comercio)
+16|Formularios de pedidos
+16|Formularios para contabilidad
+16|Forros de cuero para libros
+16|Forros de papel aromatizado para cajones
+16|Forros para basureros (bolsas de basura)
+16|Fotografías (impresas)
+16|Fotografías enmarcadas y sin enmarcar
+16|Fotografías enmarcados y sin enmarcar
+16|Fundas de papel para documentos
+16|Fundas de protección para libros
+16|Fundas para pasaportes
+16|Fundas portatalonarios
+16|Globos terráqueos
+16|Goma arábiga para papelería y uso doméstico
+16|Gomas (elásticos) de oficina
+16|Gomas de borrar
+16|Gomas de borrar eléctricas
+16|Grabados artísticos
+16|Grabados y sus reproducciones
+16|Grapadoras (artículos de oficina)
+16|Grapadoras de oficina eléctricas
+16|Grapadoras no eléctricas
+16|Guías turísticas
+16|Hilos de encuadernación
+16|Hojas autoadhesivos de materias plásticas para revestir estantes
+16|Hojas de papel para tomar notas
+16|Hojas de papel sueltas
+16|Hojas de polipropileno para embalaje
+16|Hojas de resultados
+16|Hojas para álbumes de recortes
+16|Horarios impresos
+16|Implementos de escritura
+16|Implementos de escritura (instrumentos de escritura)
+16|Impresiones de artes gráficas
+16|Impresiones en giclée
+16|Impresos y representaciones gráficas
+16|Instrumentos de dibujo
+16|Juegos de pintura para niños
+16|Lacre
+16|Láminas adhesivas para papelería
+16|Lápices
+16|Lápices correctores
+16|Lápices de artistas
+16|Lápices de colores
+16|Lápices de colores pastel
+16|Lápices de pizarra
+16|Lápices para pintar y dibujar
+16|Lápices retráctiles
+16|Lazos decorativos de papel para envolturas
+16|Letras y bloques de impresión
+16|Letreros publicitarios de cartón
+16|Letreros publicitarios de papel
+16|Libretas
+16|Libretas de direcciones
+16|Libretas de direcciones y diarios personales
+16|Libretas de notas adhesivas
+16|Libretas para escribir
+16|Libros de actividades con pegatinas
+16|Libros de autógrafos
+16|Libros de cocina
+16|Libros de contabilidad
+16|Libros de cuentos
+16|Libros de cuentos para niños
+16|Libros de cupones
+16|Libros de estrategias para juegos de naipes
+16|Libros de facturas
+16|Libros de memorando de bolsillo
+16|Libros de plegarias
+16|Libros de recetas
+16|Libros de registro de huéspedes
+16|Libros de resultados
+16|Libros desplegables
+16|Libros en el ámbito de la enseñanza del golf
+16|Libros ilustrados
+16|Libros manuscritos
+16|Libros para colorear para adultos
+16|Libros parlantes para niños
+16|Lienzos de seda (artículos de pintores)
+16|Lienzos para pintar
+16|Líquido corrector para clisés
+16|Líquidos correctores (artículos de oficina)
+16|Líquidos correctores para documentos
+16|Líquidos de corrección para clichés de imprenta
+16|Listas de direcciones
+16|Manteles de papel
+16|Mantillas de imprenta que no sean de materias textiles
+16|Manuales de instrucciones de juegos de ordenador
+16|Manuales de usuario de computador
+16|Mapas
+16|Mapas de carreteras
+16|Mapas geográficos
+16|Mapas murales ilustrados
+16|Maquetas de arquitectura
+16|Máquinas de escribir
+16|Máquinas de escribir eléctricas y electrónicas
+16|Máquinas de franqueo eléctricas y electrónicas
+16|Máquinas de franqueo electrónicas y eléctricas
+16|Máquinas de oficina para cerrar sobres
+16|Máquinas emparejadoras de papel para uso en oficina
+16|Máquinas encuadernadoras para uso de oficina
+16|Máquinas franqueadoras de oficina
+16|Máquinas laminadoras para uso en oficinas
+16|Máquinas para afilar lápices
+16|Máquinas para imprimir direcciones
+16|Máquinas plegadoras de papel como artículos de oficina
+16|Marcadores con punta de fieltro
+16|Marcadores para resaltar
+16|Marcapáginas
+16|Marcapáginas de metales preciosos
+16|Marcos de cuadros de papel
+16|Marcos portaetiquetas para ficheros
+16|Material de encuadernación
+16|Material de encuadernación para libros y documentos
+16|Material impreso de muestras de colores
+16|Materiales adhesivos para oficinas
+16|Materiales de dibujo para pizarrones
+16|Materiales de embalaje hechos de sucedáneos del papel basados en minerales
+16|Mimeógrafos
+16|Moldes para arcilla de modelar (material para artistas)
+16|Novelas gráficas
+16|Novelas gráficas de Manga
+16|Objetos de arte litografiados
+16|Paletas de pintor
+16|Paletas para hidratar acuarelas
+16|Paños de papel para lavado
+16|Pañuelos de bolsillo de papel
+16|Papel
+16|Papel a prueba de mildiú
+16|Papel acanalado (corrugado)
+16|Papel adhesivo para notas
+16|Papel alveolado
+16|Papel autocopiante
+16|Papel bond
+16|Papel carbón
+16|Papel carbón (productos terminados)
+16|Papel celofán
+16|Papel celofán a prueba de humedad
+16|Papel con membretes
+16|Papel crepé
+16|Papel cristal
+16|Papel cuadriculado (papel milimetrado como producto acabado)
+16|Papel de caligrafía
+16|Papel de carta
+16|Papel de cartas (productos acabados)
+16|Papel de china
+16|Papel de cuero de imitación
+16|Papel de dibujo
+16|Papel de envoltura para regalos
+16|Papel de envoltura y embalaje
+16|Papel de envolver
+16|Papel de envolver pólvora
+16|Papel de estarcido (producto acabado)
+16|Papel de fibra
+16|Papel de filtro
+16|Papel de forrar
+16|Papel de imprenta
+16|Papel de impresión digital
+16|Papel de madera
+16|Papel de manualidades japonés
+16|Papel de papelería
+16|Papel de postales
+16|Papel de revista
+16|Papel de seda para su uso como material de papel de estarcido (ganpishi)
+16|Papel de tarjetas de visita semiacabado
+16|Papel de transmisión de faxes
+16|Papel duplicador
+16|Papel en rollo para impresoras
+16|Papel hecho de morera de papel (kohzo-gami)
+16|Papel hecho de morera de papel (tengujosi)
+16|Papel higiénico
+16|Papel higiénico de textura áspera
+16|Papel impermeable
+16|Papel japonés
+16|Papel japonés (torinoko-gami)
+16|Papel japonés grueso (hosho-gami)
+16|Papel kraft
+16|Papel laminado
+16|Papel luminoso
+16|Papel oleoso para paraguas de papel (kasa-gami)
+16|Papel opaco
+16|Papel para bolsas y sacos
+16|Papel para cuadernos o libretas
+16|Papel para empajado de suelos (mulching)
+16|Papel para estarcidos (papel de mimeógrafo)
+16|Papel para fotocopiadoras
+16|Papel para grabados
+16|Papel para gráficos
+16|Papel para guías telefónicas
+16|Papel para impresoras láser
+16|Papel para imprimir
+16|Papel para la fabricación de papel pintado
+16|Papel para máquinas de escribir
+16|Papel para notas
+16|Papel para oficinas (artículos de papelería)
+16|Papel para paneles correderos japoneses de interior (fusuma-gami)
+16|Papel para pantallas deslizantes japonesas (shoji-gami)
+16|Papel para secar
+16|Papel para sobre
+16|Papel para su uso como material de certificados de acciones (shokenshi)
+16|Papel para uso doméstico e industrial
+16|Papel para uso en la industria de las artes gráficas
+16|Papel parafinado (papel encerado)
+16|Papel pergamino
+16|Papel que contiene mica
+16|Papel rayado (producto acabado)
+16|Papel reciclado
+16|Papel resistente al ácido
+16|Papel satinado
+16|Papel secante
+16|Papel semielaborado
+16|Papel sintético
+16|Papel xerográfico
+16|Papel y cartón
+16|Papelería de oficina
+16|Papeles de imprenta
+16|Papeles para impresión en offset para panfletos
+16|Papeles para notas
+16|Papeles para sobre
+16|Papeles resistentes a la grasa
+16|Paquetes de burbujas de plástico para envolver
+16|Partituras
+16|Pasta de modelar
+16|Pasta de tinta roja utilizada como lacre
+16|Pasta para la artesanía, la papelería y para uso doméstico (banjaku-nori)
+16|Pasteles al óleo
+16|Pasteles de artistas
+16|Patrones de confección
+16|Patrones de papel
+16|Pegamento de látex para papelería y uso doméstico
+16|Pegamento gelatinoso para uso en papelería y doméstico
+16|Pegamento para oficina
+16|Pegamento para uso en oficina
+16|Pegamentos con brillantina para papelería
+16|Pegamentos para oficina
+16|Pegatinas para parachoques
+16|Pegatinas y álbumes de pegatinas
+16|Pegatinas y calcomanías
+16|Peines para vetear
+16|Película de materias plásticas para envolver alimentos de uso doméstico
+16|Perforadoras (artículos de oficina)
+16|Perforadoras de oficina
+16|Periódico
+16|Periódicos diarios
+16|Petacas para instrumentos de escritura
+16|Piedras de tinta
+16|Piedras de tinta (recipientes para tinta)
+16|Pincel de escribir para caligrafía
+16|Pinceles
+16|Pinceles de decorador
+16|Pinceles de escritura
+16|Pinceles para artistas
+16|Pinturas (cuadros) y sus reproducciones
+16|Pinturas y trabajos caligráficos
+16|Pinzas para sujetar papeles
+16|Pinzas sujetapapeles
+16|Pirotines (moldes de papel o cartón para pastelillos)
+16|Pisapapeles
+16|Pizarras (encerados)
+16|Pizarras de tiza
+16|Pizarras para escribir
+16|Pizarras pequeñas para escribir
+16|Placas para máquinas para imprimir direcciones
+16|Planificadores de escritorio
+16|Planos arquitectónicos
+16|Plantillas de curvas
+16|Plantillas de estarcir
+16|Plantillas para marcar
+16|Plantillas para papel pintado
+16|Plumas
+16|Plumas de acero (estiletes o bolígrafos de estarcido)
+16|Plumas de brillantina para papelería
+16|Plumas de colores
+16|Plumas de escribir con punta de fieltro
+16|Plumas de pegamento para papelería
+16|Plumas de tinta china
+16|Plumas estilográficas
+16|Plumas marcadoras
+16|Plumas rotuladoras de punta de fieltro
+16|Plumas sin tinta (para escribir)
+16|Plumines
+16|Portacalendarios
+16|Portacintas adhesivas
+16|Portalápices
+16|Portaminas
+16|Portaplumas
+16|Portaplumas y portalápices
+16|Portasellos
+16|Posabotellas y posavasos de papel
+16|Programas de software y procesamiento de datos en forma impresa
+16|Protectores de punta de lápices
+16|Publicaciones periódicas impresas en el campo de la cinematografía
+16|Publicaciones periódicas impresas en el campo de la danza
+16|Publicaciones periódicas impresas en el campo de la música
+16|Publicaciones periódicas impresas en el campo de las artes figurativas
+16|Publicaciones periódicas impresas en el campo de las obras teatrales
+16|Publicaciones periódicas impresas en el campo del turismo
+16|Puntas de trazado para dibujo
+16|Puntas para bolígrafos
+16|Recargas de tinta para pluma
+16|Recipientes de cartón
+16|Recipientes de cartón corrugado y papel
+16|Recipientes de cartón para embalaje
+16|Recipientes de papel o cartón para hielo
+16|Recipientes de papel para embalaje para uso industrial
+16|Recipientes de papel para embalar
+16|Reglas de dibujo
+16|Regletas de impresoras (reglas de interlineado)
+16|Reproducciones de láminas de arte
+16|Repuestos para bolígrafos
+16|Revistas musicales
+16|Revistas para armas de fuego
+16|Rodillos para aplicar pinturas
+16|Rodillos para pintores
+16|Rollos de papel para máquinas calculadoras
+16|Rotafolios en blanco
+16|Rotafolios impresos
+16|Rotuladores de borrado con un lápiz húmedo
+16|Rotuladores de marcaje
+16|Rotuladores de punta de fieltro
+16|Rotuladores para destacar
+16|Rotuladores para documentos
+16|Rótulos de papel o cartón
+16|Ruedas de impresión
+16|Ruedas de impresión para máquinas de escribir
+16|Sacapuntas
+16|Sacapuntas de tiza para modistos
+16|Sal líquida para deshelar
+16|Sello de goma
+16|Sello fechador (fechas)
+16|Sellos (artículos de papelería)
+16|Sellos de direcciones
+16|Sellos de goma
+16|Sellos de lacre
+16|Sellos de oficina
+16|Sellos de tinta
+16|Sellos numeradores
+16|Sellos para marcar
+16|Sellos para oficina
+16|Separadores para libretas
+16|Servilletas de papel
+16|Servilletas desechables
+16|Sobres
+16|Sobres para papelería
+16|Soportes de cartas
+16|Soportes de grapadoras
+16|Soportes para blocs de notas
+16|Soportes para instrumentos de escritura
+16|Soportes para pluma y lápiz
+16|Soportes para plumas
+16|Soportes para plumas y lápices
+16|Sujetacartas
+16|Sujetalibros
+16|Tablas de resultados
+16|Tableros para notas
+16|Tablones de anuncios impresos de cartón
+16|Tablones de anuncios impresos de papel
+16|Tablones de dibujo (artículos de pintores)
+16|Talonarios de cheques
+16|Talonarios de facturas
+16|Talonarios de recibos de caja
+16|Tampones (almohadillas) de tinta
+16|Tapas de cuadernos
+16|Tapas de libros de ejercicios
+16|Tapas para lápices
+16|Tapetes de escritorio
+16|Tapones decorativos para lápices
+16|Tarjetas coleccionables intercambiables
+16|Tarjetas de correspondencia
+16|Tarjetas de crédito sin codificación magnética
+16|Tarjetas de cumpleaños
+16|Tarjetas de felicitación
+16|Tarjetas de felicitación musicales
+16|Tarjetas de felicitación y tarjetas postales
+16|Tarjetas de intercambio (tarjetas coleccionables)
+16|Tarjetas de invitación
+16|Tarjetas de presentación
+16|Tarjetas de presentación (semiacabadas)
+16|Tarjetas de puntuación
+16|Tarjetas de puntuación para golf
+16|Tarjetas de registro
+16|Tarjetas de resultados
+16|Tarjetas de visita
+16|Tarjetas perforadas para telares Jacquard
+16|Tarjetas postales
+16|Tarjetas postales y tarjetas de felicitación
+16|Tarjetas postales y tarjetas postales ilustradas
+16|Teclas de máquinas de escribir
+16|Tejidos de encuadernación
+16|Tela de encuadernación
+16|Tinta china
+16|Tinta para instrumentos de escritura
+16|Tintas correctoras (heliografía)
+16|Tintas para escribir
+16|Tintas para sellos
+16|Tinteros
+16|Tiras adhesivas de papelería o para uso doméstico
+16|Tiras cómicas
+16|Tiras cómicas impresas
+16|Tiras de historietas impresas
+16|Tiras de papel japonesas para ceremonias (mizuhiki)
+16|Tiras de papel para su uso con máquinas de etiquetado
+16|Tiza
+16|Tiza litográfica
+16|Tiza para marcar
+16|Tiza y pizarrones
+16|Tizas
+16|Toallas de mano higiénicas de papel
+16|Toallas de papel
+16|Toallas de papel para manos
+16|Toallitas de papel
+16|Toallitas de papel para desmaquillar
+16|Toallitas de tocador de papel
+16|Tubos de cartón
+16|Tubos de cartón para mensajería
+16|Utensilios de escritura
+16|Utensilios de escritura hechos de fibras

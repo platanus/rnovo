@@ -1,123 +1,140 @@
-class,reference_id,name
-4,040001,cera de abeja
-4,040002,alcohol de quemar
-4,040002,alcohol desnaturalizado
-4,040002,alcohol metílico
-4,040003,alcohol [combustible]
-4,040004,combustibles a base de alcohol
-4,040005,tiras de papel para encender el fuego
-4,040006,virutas de madera para encender el fuego
-4,040007,productos para encender el fuego
-4,040008,antracita
-4,040009,antideslizantes para correas [preparaciones]
-4,040010,velas para árboles de Navidad
-4,040011,grasa para armas
-4,040012,compuestos para asentar el polvo al barrer
-4,040013,leña
-4,040014,carbón de leña [combustible]
-4,040015,velas [iluminación]
-4,040015,candelas
-4,040015,cirios
-4,040016,briquetas de carbón
-4,040016,aglomerados de carbón
-4,040017,briquetas de turba [combustibles]
-4,040018,briquetas de madera
-4,040019,briquetas combustibles
-4,040020,mezclas de carburantes gasificados
-4,040021,cera de carnauba
-4,040022,ceresina
-4,040023,carbón [combustible]
-4,040023,hulla
-4,040024,turba [combustible]
-4,040025,combustibles*
-4,040026,grasa para el calzado
-4,040027,ceras [materias primas]
-4,040028,cera para correas
-4,040029,cera de iluminación
-4,040030,cera para uso industrial
-4,040031,coque
-4,040032,combustibles minerales
-4,040033,grasa para correas
-4,040034,grasa para el cuero
-4,040035,grasas industriales
-4,040036,aceites de desencofrado
-4,040037,sebo*
-4,040038,preparaciones para quitar el polvo
-4,040039,aceites de iluminación
-4,040040,gas de alumbrado
-4,040041,combustibles para la iluminación
-4,040042,aceites lubricantes
-4,040043,gasolina [carburante]
-4,040044,éter de petróleo
-4,040045,ligroína
-4,040046,mechas para velas
-4,040047,jalea de petróleo para uso industrial
-4,040048,diésel
-4,040048,gasóleo
-4,040049,gases combustibles
-4,040050,gas de petróleo
-4,040052,grafito lubrificante
-4,040052,grafito lubricante
-4,040053,aceite de alquitrán de hulla
-4,040054,aceite de hulla
-4,040055,aceite para conservar obras de albañilería
-4,040056,aceites de remojo
-4,040057,aceite de pescado no comestible
-4,040058,preparaciones de aceite de soja para revestimientos antiadherentes de utensilios de cocción
-4,040058,preparaciones de aceite de soya para revestimientos antiadherentes de utensilios de cocción
-4,040059,queroseno
-4,040059,keroseno
-4,040059,querosén
-4,040060,grasas lubricantes
-4,040061,mechas de lámpara
-4,040062,lignito
-4,040063,lubricantes
-4,040063,lubrificantes
-4,040064,fuel
-4,040065,aceite de colza para uso industrial
-4,040066,nafta
-4,040067,aceite de hueso para uso industrial
-4,040068,oleína
-4,040069,ozocerita
-4,040069,ozoquerita
-4,040070,parafina
-4,040071,petróleo crudo o refinado
-4,040072,polvo de carbón [combustible]
-4,040073,estearina
-4,040074,lanolina
-4,040074,grasa de lana
-4,040075,aceite de girasol para uso industrial
-4,040076,lamparillas [velas]
-4,040079,aglomerantes de polvo
-4,040080,aceites para tejidos
-4,040080,aceites de ensimaje
-4,040081,carburantes
-4,040081,combustibles de motor
-4,040084,aceites combustibles
-4,040085,aditivos no químicos para carburantes
-4,040085,aditivos no químicos para combustibles de motor
-4,040086,grasas para conservar el cuero
-4,040087,aceites industriales
-4,040088,gases solidificados [combustibles]
-4,040089,aceite de ricino para uso industrial
-4,040090,aceites para conservar el cuero
-4,040101,aceites de corte
-4,040101,fluidos de corte
-4,040102,aceites para pinturas
-4,040103,gas pobre
-4,040104,aceites de motor
-4,040105,velas perfumadas
-4,040106,energía eléctrica
-4,040107,etanol [combustible]
-4,040108,yesca
-4,040109,compuestos para absorber el polvo
-4,040110,bencina
-4,040111,biocombustibles
-4,040112,carburante de benceno
-4,040113,carburante de xileno
-4,040114,cera para esquís
-4,040115,lanolina para ser utilizada en la fabricación de cosméticos
-4,040116,cera de abejas para ser utilizada en la fabricación de cosméticos
-4,040117,carbón para shisha
-4,040117,carbón para narguile 
-4,040117,carbón para hookah
+class|name
+4|Aceite de alquitrán de hulla
+4|Aceite de pescado para uso industrial
+4|Aceite de ricino no comestible
+4|Aceite lubricante para motores de vehículos automóviles
+4|Aceite mineral para motores
+4|Aceite mineral para uso en la fabricación de cosméticos y productos para el cuidado de la piel
+4|Aceite para alumbrado
+4|Aceite para conservar obras de albañilería
+4|Aceite para motor
+4|Aceites combustibles
+4|Aceites de calefacción
+4|Aceites de coco para uso industrial
+4|Aceites de corte
+4|Aceites de ensimaje
+4|Aceites de iluminación
+4|Aceites de motor
+4|Aceites de nuez para uso industrial
+4|Aceites endurecidos (aceites hidrogenados para uso industrial)
+4|Aceites lubricantes
+4|Aceites lubricantes (lubricantes para uso industrial)
+4|Aceites lubricantes minerales
+4|Aceites lubricantes para máquinas de coser
+4|Aceites lubricantes sintéticos
+4|Aceites para desmoldar
+4|Aceites para engranajes
+4|Aceites para motores de automóviles
+4|Aceites para uso industrial
+4|Aceites pesados
+4|Aceites y grasas lubricantes
+4|Aceites y grasas minerales para uso industrial que no sean para combustible
+4|Aceites y grasas para conservar el cuero
+4|Aceites y grasas para uso industrial que no sean para combustible
+4|Aditivos no químicos para aceite de motores
+4|Aditivos no químicos para aceites y combustibles
+4|Aditivos no químicos para carburantes
+4|Aditivos no químicos para combustibles, lubricantes y grasas
+4|Aglomerados de carbón
+4|Alcohol (combustible)
+4|Alcoholes metílicos para combustible (alcoholes de combustible desnaturalizados)
+4|Antracita
+4|Biocarburantes
+4|Biocombustibles
+4|Briquetas combustibles (briquetas de carbón)
+4|Briquetas de carbón de leña
+4|Briquetas de madera
+4|Candelas
+4|Carbón (combustible)
+4|Carbón de leña (combustible)
+4|Carbón en trozos
+4|Cera de carnauba
+4|Cera de zumaque
+4|Cera para skateboards
+4|Cera para snowboards
+4|Cera para tablas de surf
+4|Cera parafina
+4|Ceras (materia prima)
+4|Combustible a base de petróleo crudo
+4|Combustible biodiesel
+4|Combustible diésel
+4|Combustible para aviación
+4|Combustible para encendedores
+4|Combustible para lámparas
+4|Combustibles
+4|Combustibles a base de alcohol
+4|Combustibles a base de carbón
+4|Combustibles de etanol
+4|Combustibles de motor
+4|Combustibles de origen biológico
+4|Combustibles gaseosos
+4|Combustibles líquidos
+4|Combustibles para cocinar
+4|Combustibles para la iluminación
+4|Combustibles sólidos
+4|Composición granular absorbente a base de aceite para absorber derrames de los suelos
+4|Composiciones para asentar el polvo
+4|Compuestos de supresión de polvo a base de petróleo
+4|Coque
+4|Diésel
+4|Gas butano (combustible)
+4|Gas de carbón
+4|Gas licuado de petróleo
+4|Gas licuado para encendedores de cigarrillos
+4|Gas natural
+4|Gas natural a presión
+4|Gas natural licuado
+4|Gas solidificado (combustible)
+4|Gases combustibles
+4|Gases licuados de petróleo
+4|Gases licuados de petróleo para uso doméstico, industrial y en vehículos automóviles
+4|Gasóleo para calefacción doméstica
+4|Gasolina
+4|Gasolina (carburante)
+4|Gasolina (combustible)
+4|Gasolina para uso industrial
+4|Grafito como lubricante
+4|Gránulos de combustible
+4|Grasa para máquinas
+4|Grasas para uso industrial
+4|Grasas para usos técnicos
+4|Hidrocarburos combustibles
+4|Lanolina para fabricación de cosméticos
+4|Leña
+4|Lignito
+4|Ligroína
+4|Líquido de encendedores de cigarrillos
+4|Lubricantes de motores de vehículos
+4|Lubricantes para cadenas de bicicleta
+4|Lubricantes para máquinas
+4|Lubricantes para perforación
+4|Lubricantes para uso industrial
+4|Mechas de lámpara
+4|Mechas para estufas de aceite
+4|Mechas para velas
+4|Mechas para velas de iluminación
+4|Nafta
+4|Papel de iluminación
+4|Parafina
+4|Parafinas industriales
+4|Pastillas de madera para la calefacción (combustibles)
+4|Petróleo
+4|Petróleo artificial
+4|Petróleo crudo
+4|Petróleos crudos
+4|Polvo de carbón (combustible)
+4|Productos para encender el fuego
+4|Productos para encender el fuego (madera para el encendido)
+4|Queroseno
+4|Sebo
+4|Velas (iluminación)
+4|Velas aromáticas
+4|Velas de fragancia para aromaterapia
+4|Velas de sebo
+4|Velas para iluminación nocturna
+4|Velas para los oídos de uso terapéutico
+4|Velas perfumadas
+4|Velas que contienen repelentes de insectos
+4|Velas y mechas para velas de iluminación
+4|Virutas de madera para encender el fuego
+4|Yesca

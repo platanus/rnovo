@@ -1,23 +1,55 @@
-class,reference_id,name
-23,230001,hilos*
-23,230002,hilos de algodón
-23,230003,hilos para bordar
-23,230004,hilos de lana
-23,230005,hilos de cáñamo
-23,230006,hilos de coco
-23,230007,hilos de seda
-23,230008,algodón hilado
-23,230009,hilos de coser
-23,230010,hilados*
-23,230011,hilos de yute
-23,230012,lana hilada
-23,230013,hilos de lino
-23,230014,hilos de rayón
-23,230015,hilos de zurcir
-23,230016,seda hilada
-23,230017,hilos de fibra de vidrio para uso textil
-23,230018,hilos de caucho para uso textil
-23,230019,hilos elásticos para uso textil
-23,230020,hilos de materias plásticas para uso textil
-23,230031,hilos de felpilla
-23,230032,canutillos
+class|name
+23|Algodón para zurcir
+23|Fibras metálicas para uso textil
+23|Hilados
+23|Hilados de algodón
+23|Hilados e hilos termoestables
+23|Hilados hechos de seda
+23|Hilados para tejer a mano
+23|Hilo con base de algodón mezclado
+23|Hilo con base de cáñamo mezclado
+23|Hilo con base de fibra inorgánica mezclado
+23|Hilo con base de fibra química mezclado
+23|Hilo con base de lana mezclado
+23|Hilo con base de seda mezclado
+23|Hilo de algodón trenzado
+23|Hilo de angora
+23|Hilo de cáñamo trenzado
+23|Hilo de caucho para uso textil
+23|Hilo de fibra sintética
+23|Hilo de lana trenzado
+23|Hilo de lino
+23|Hilo de papel para uso textil
+23|Hilo de seda de la variedad dupioni
+23|Hilo de seda hilada a mano
+23|Hilo de seda silvestre
+23|Hilo de seda trenzado
+23|Hilo e hilado de cáñamo en bruto
+23|Hilo e hilado de fibra regenerada para uso textil
+23|Hilo e hilado de fibra semisintética (hilado de fibra natural químicamente tratado)
+23|Hilo e hilado recubierto de caucho para uso textil
+23|Hilo en bobinas
+23|Hilo mezclado trenzado
+23|Hilos de algodón
+23|Hilos de cachemira
+23|Hilos de cáñamo
+23|Hilos de coser
+23|Hilos de edredón
+23|Hilos de fibra de vidrio para uso textil
+23|Hilos de fibra química para uso textil
+23|Hilos de fibras de vidrio
+23|Hilos de hilados mixtos
+23|Hilos de lana
+23|Hilos de lino
+23|Hilos de ramio
+23|Hilos de seda
+23|Hilos de yute
+23|Hilos de zurcir
+23|Hilos e hilados de residuos desengrasados
+23|Hilos e hilados para zurcir
+23|Hilos para bordar
+23|Hilos para uso textil
+23|Hilos textiles
+23|Hilos trenzados
+23|Lanas para tejer a mano
+23|Residuos de hilo de algodón

@@ -1,121 +1,434 @@
-class,reference_id,name
-42,420007,análisis químico
-42,420008,análisis para la explotación de yacimientos petrolíferos
-42,420011,servicios de arquitectura
-42,420017,investigación bacteriológica
-42,420030,servicios de química
-42,420031,investigación química
-42,420036,consultoría sobre arquitectura
-42,420038,trazado de planos para la construcción
-42,420040,investigación tecnológica
-42,420042,control de pozos de petróleo
-42,420045,investigación en cosmetología
-42,420048,decoración de interiores
-42,420049,servicios de diseño industrial
-42,420050,servicios de diseñadores de embalajes
-42,420050,diseño de embalajes
-42,420058,prueba de materiales
-42,420061,realización de estudios de proyectos técnicos
-42,420062,peritajes geológicos
-42,420063,peritajes de yacimientos petrolíferos
-42,420064,ingeniería
-42,420076,servicios de información meteorológica
-42,420079,servicios de agrimensura
-42,420083,alquiler de ordenadores
-42,420083,alquiler de computadoras
-42,420090,programación informática
-42,420095,prospección de petróleo
-42,420096,investigación en el ámbito de la física
-42,420101,investigación en mecánica
-42,420109,ensayo de textiles
-42,420109,prueba de textiles
-42,420118,prospección geológica
-42,420119,investigación geológica
-42,420132,autenticación de obras de arte
-42,420136,calibración [medición]
-42,420139,diseño de software
-42,420140,actualización de software
-42,420141,consultoría sobre diseño y desarrollo de hardware
-42,420142,diseño de moda
-42,420144,diseño de artes gráficas
-42,420157,control de calidad
-42,420159,alquiler de software
-42,420161,investigación y desarrollo de nuevos productos para terceros
-42,420165,estilismo [diseño industrial]
-42,420167,exploración submarina
-42,420175,recuperación de datos informáticos
-42,420176,mantenimiento de software
-42,420177,análisis de sistemas informáticos
-42,420190,investigación biológica
-42,420192,planificación urbana
-42,420193,peritajes [trabajos de ingenieros]
-42,420194,diseño de sistemas informáticos
-42,420195,inspección técnica de vehículos
-42,420197,duplicación de programas informáticos
-42,420198,conversión de datos o documentos de un soporte físico a un soporte electrónico
-42,420199,creación y mantenimiento de sitios web para terceros
-42,420200,alojamiento de sitios informáticos [sitios web]
-42,420201,instalación de software
-42,420202,siembra de nubes
-42,420203,conversión de datos y programas informáticos, excepto conversión física
-42,420204,consultoría sobre software
-42,420205,alquiler de servidores web
-42,420206,servicios de protección antivirus [informática]
-42,420207,consultoría sobre ahorro de energía
-42,420208,investigación en materia de protección ambiental
-42,420209,provisión de motores de búsqueda para Internet
-42,420210,digitalización de documentos [escaneado]
-42,420211,servicios de grafología
-42,420212,suministro de información, consultoría y asesoramiento científicos sobre la compensación de emisiones de carbono
-42,420213,evaluación de la calidad de la madera en pie
-42,420214,evaluación de la calidad de la lana
-42,420215,control a distancia de sistemas informáticos
-42,420216,análisis del agua
-42,420217,servicios de laboratorios científicos
-42,420218,auditorías sobre energía
-42,420219,consultoría sobre diseño de sitios web
-42,420220,software como servicio [SaaS]
-42,420221,consultoría sobre tecnologías de la información
-42,420222,investigación científica
-42,420223,alojamiento de servidores
-42,420224,ensayos clínicos
-42,420225,servicios de custodia externa de datos
-42,420226,almacenamiento electrónico de datos
-42,420227,suministro de información relativa a la tecnología informática y la programación por sitios web
-42,420228,servicios de cartografía [geografía]
-42,420229,servicios informáticos en la nube
-42,420229,servicios de computación en la nube
-42,420230,servicios externalizados de tecnologías de la información
-42,420230,servicios tercerizados de tecnologías de la información
-42,420231,consultoría tecnológica
-42,420232,consultoría sobre tecnología informática
-42,420233,consultoría sobre tecnología de telecomunicaciones
-42,420234,pronósticos meteorológicos
-42,420235,consultoría sobre seguridad informática
-42,420236,redacción técnica
-42,420237,diseño de interiores
-42,420238,desbloqueo de teléfonos móviles
-42,420239,vigilancia de sistemas informáticos para detectar averías
-42,420240,creación y diseño de índices de información basados en la web para terceros [servicios de tecnología de la información]
-42,420241,consultoría sobre seguridad en Internet
-42,420242,consultoría sobre seguridad de datos
-42,420243,servicios de cifrado de datos
-42,420244,vigilancia de sistemas informáticos para detectar accesos no autorizados o filtración de datos
-42,420245,vigilancia electrónica de información de identificación personal para detectar usurpación de identidad por Internet
-42,420246,vigilancia eletrónica de operaciones por tarjeta de crédito para la detección de fraudes por Internet
-42,420247,desarrollo de software en el marco de la edición de software
-42,420248,plataforma como servicio [PaaS]
-42,420249,desarrollo de plataformas informáticas
-42,420250,diseño de tarjetas de visita
-42,420250,diseño de tarjetas de presentación
-42,420251,investigación científica y tecnológica en el ámbito de las catástrofes naturales
-42,420252,servicios de exploración en las industrias del petróleo, el gas y la minería
-42,420253,investigación científica y tecnológica relacionada con el mapeo de patentes
-42,420254,investigación en el ámbito de la construcción inmobiliaria
-42,420255,investigación en el ámbito de las tecnologías de telecomunicaciones
-42,420256,investigación en el ámbito de la soldadura
-42,420257,investigación médica
-42,420258,diseño gráfico de material promocional
-42,420259,alquiler de contadores para el registro del consumo energético
-42,420260,servicios de autenticación de usuarios por vía tecnológica para transacciones de comercio electrónico
-42,420261,servicios de autenticación de usuarios mediante la tecnología de inicio de sesión único para aplicaciones de software en línea
+class|name
+42|Actualización de cartas náuticas
+42|Actualización de páginas de inicio para terceros
+42|Actualización de páginas iniciales para redes informáticas
+42|Actualización de programas informáticos para terceros
+42|Actualización de sitios web para terceros
+42|Actualización de software de teléfonos inteligentes
+42|Actualización de software informático
+42|Actualización de software informático en relación a seguridad informática y prevención de riesgos informáticos
+42|Actualización y alquiler de software para procesamiento de datos
+42|Actualización y diseño de software informático
+42|Actualización y mantenimiento de software informático
+42|Agrimensura de tierras y carreteras
+42|Alojamiento de contenidos digitales en Internet
+42|Alojamiento de sitios de internet para otros
+42|Alojamiento de sitios web
+42|Alojamiento de sitios web en la Internet
+42|Alquiler de aparatos de procesamiento de datos
+42|Alquiler de aparatos e instrumentos de laboratorio
+42|Alquiler de bancos de carga para comprobar fuentes de energía eléctrica
+42|Alquiler de computadoras
+42|Alquiler de computadoras y periféricos informáticos
+42|Alquiler de computadoras y software informático
+42|Alquiler de hardware informático
+42|Alquiler de hardware informático y software informático
+42|Alquiler de instrumentos de dibujo técnico
+42|Alquiler de memoria en servidores
+42|Alquiler de programas informáticos
+42|Alquiler de servidores de bases de datos para terceros
+42|Alquiler de servidores web
+42|Alquiler de software
+42|Alquiler de software de aplicaciones
+42|Alquiler de software informático
+42|Alquiler de software para acceso a la Internet
+42|Alquiler de software y programas de computadora
+42|Alquiler y mantenimiento de software informático
+42|Alquiles de aparatos de medición
+42|Análisis de amenazas de seguridad informática para proteger datos
+42|Análisis de filtros
+42|Análisis de funcionamiento de aparatos e instrumentos
+42|Análisis de la calidad de agua de corrientes
+42|Análisis de sistemas informáticos
+42|Análisis de yacimientos petrolíferos
+42|Análisis del modo de acción de combinaciones químicas sobre animales
+42|Análisis estructural y funcional de genomas
+42|Análisis para la investigación petrolera
+42|Análisis químico
+42|Arrendamiento de computadores relativos a seguridad computacional y prevención de riesgos computacionales
+42|Arrendamiento de hardware y software
+42|Asesoramiento en arquitectura
+42|Asesoramiento en el campo del diseño de software
+42|Asesoramiento técnico en materia de detección de polución
+42|Asesoramiento técnico relativo a la operación de computadoras
+42|Asesoría en química
+42|Auditorías en materia de energía
+42|Autenticación de antigüedades
+42|Autenticación de diamantes
+42|Autenticación de gemas
+42|Autenticación de joyas
+42|Autenticación de obras de arte
+42|Autentificación de billetes de banco
+42|Autentificación de gemas semipreciosas
+42|Clasificación de minerales
+42|Compresión digital de datos informáticos
+42|Comprobación de aparatos en el campo de la ingeniería eléctrica
+42|Comprobación de equipos informáticos
+42|Comprobación de materiales en bruto
+42|Comprobación de pozos petroleros
+42|Comprobación o investigación sobre electricidad
+42|Comprobación o investigación sobre ingeniería civil
+42|Comprobación o investigación sobre máquinas, aparatos e instrumentos
+42|Comprobación y análisis de materiales
+42|Comprobación y evaluación de materiales
+42|Comprobación, inspección o investigación de farmacéuticos, cosméticos y alimentos
+42|Conducción de sondeos geológicos
+42|Construcción y mantenimiento de sitios web
+42|Consultas técnicas en materia de ingeniería aeroespacial
+42|Consultoría astronómica
+42|Consultoría de programas de ordenador
+42|Consultoría en ingeniería de telecomunicaciones
+42|Consultoría en materia de arquitectura
+42|Consultoría en programación de computadoras
+42|Consultoría en redes computacionales y aplicaciones en la nube
+42|Consultoría en seguridad informática
+42|Consultoría en software
+42|Consultoría en software informático
+42|Consultoría en tecnologías de la información
+42|Consultoría relativa a el diseño de hardware computacional
+42|Consultoría respecto al diseño de páginas web
+42|Consultoría técnica en el campo de la ciencia ambiental
+42|Consultoría técnica en materia de la ingeniería ambiental
+42|Consultoría técnica en relación a la investigación técnica en el campo de alimentos y bebidas
+42|Consultoría técnica en relación a servicios de investigación en relación a suplementos de alimenticios y dietéticos
+42|Consultoría tecnológica en el ámbito de la inteligencia artificial
+42|Control de calidad de productos
+42|Control de calidad de productos y servicios
+42|Control de calidad para terceros
+42|Conversión de datos de información electrónica
+42|Conversión de datos de programas computacionales, no física
+42|Conversión multiplataforma de contenido digital a otras formas de contenido digital
+42|Copiado de software informático
+42|Creación de páginas de inicio para redes computacionales
+42|Creación de páginas web para otros
+42|Creación de programas de control para la medición automática, el ensamblaje, el ajuste y la visualización relacionada con los mismos
+42|Creación de programas informáticos
+42|Creación de sitios web en Internet
+42|Creación y diseño de páginas web para terceros
+42|Creación y mantenimiento de sitios web para terceros
+42|Creación y mantenimiento de software de blogs para terceros
+42|Creación, diseño y desarrollo y mantenimiento de sitios web para terceros
+42|Creación, diseño y mantenimiento de sitios web para terceros
+42|Cribado de ADN para investigaciones científicas
+42|Decoración de interiores
+42|Depuración de programas informáticos para terceros
+42|Desarrollo de equipos de hardware
+42|Desarrollo de hardware informático para juegos de computadora
+42|Desarrollo de preparaciones farmacéuticas y medicamentos
+42|Desarrollo de productos farmacéuticos
+42|Desarrollo de productos para terceros
+42|Desarrollo de programas informáticos grabados en medios de datos (software) diseñados para su uso en la construcción y la fabricación automática CAD/CAM
+42|Desarrollo de programas informáticos para sistemas de cajas registradoras electrónicas
+42|Desarrollo de programas para el procesamiento de datos para terceros
+42|Desarrollo de programas para simular experimentos o series de experimentos en un laboratorio óptico virtual
+42|Desarrollo de sitios web para terceros
+42|Desarrollo de software de controladores y sistemas operativos
+42|Desarrollo de software informático
+42|Desarrollo de software para operaciones de redes seguras
+42|Desarrollo de tecnologías para la fabricación de circuitos para la comunicación inalámbrica, el tratamiento electrónico de datos, la electrónica de consumo y la electrónica de automóviles
+42|Desarrollo y actualización de software informático
+42|Desarrollo y comprobación de métodos de producción química
+42|Desarrollo y creación de programas informáticos para el procesamiento de datos
+42|Desarrollo y diseño de portadoras digitales de imagen y sonido
+42|Desarrollo, diseño y actualización de páginas web
+42|Desarrollo, mantenimiento y actualización de un motor de búsqueda de una red de telecomunicaciones
+42|Diagrafía de sondeo
+42|Dibujo de diseños de embalajes, recipientes, vajillas y utensilios de mesa
+42|Digitalización de documentos (escaneado)
+42|Diseño arquitectónico
+42|Diseño de aparatos e instrumentos mecánicos, electromecánicos y optoelectrónicos
+42|Diseño de aparatos y equipo de telecomunicaciones
+42|Diseño de aparatos y máquinas con una finalidad de relleno
+42|Diseño de aparatos y máquinas en el ámbito del rellenado
+42|Diseño de artes gráficas
+42|Diseño de aviones
+42|Diseño de bases de datos informáticas
+42|Diseño de componentes mecánicos y micromecánicos
+42|Diseño de componentes ópticos y microópticos
+42|Diseño de computadoras
+42|Diseño de estudios sobre yacimientos petrolíferos
+42|Diseño de hardware y software
+42|Diseño de herramientas
+42|Diseño de iluminación escénica
+42|Diseño de iluminación paisajística
+42|Diseño de ilustraciones
+42|Diseño de interiores para tiendas comerciales
+42|Diseño de levantamientos topográficos
+42|Diseño de máquinas, aparatos e instrumentos incluidas sus partes o sistemas compuestos de tales máquinas, aparatos e instrumentos
+42|Diseño de materiales para embalaje y envoltura
+42|Diseño de moda
+42|Diseño de ordenadores para terceros
+42|Diseño de ordenadores y software informático para análisis comercial y elaboración de informes
+42|Diseño de páginas web
+42|Diseño de programas y software informático en relación a aeronaves
+42|Diseño de prótesis
+42|Diseño de redes informáticas para terceros
+42|Diseño de salas de exposiciones
+42|Diseño de sitios web
+42|Diseño de sitios web con fines publicitarios
+42|Diseño de software
+42|Diseño de software informático para el control de terminales de autoservicio
+42|Diseño de software informático para terceros
+42|Diseño de software informático, páginas y sitios web
+42|Diseño de software para teléfonos inteligentes
+42|Diseño de software para tratamiento de imágenes
+42|Diseño de teléfonos
+42|Diseño de teléfonos móviles
+42|Diseño escenográfico para compañías de teatro
+42|Diseño gráfico
+42|Diseño gráfico asistido por computadora
+42|Diseño gráfico de logotipos publicitarios
+42|Diseño industrial
+42|Diseño industrial y diseño gráfico
+42|Diseño y actualización de software informático
+42|Diseño y comprobación de nuevos productos para terceros
+42|Diseño y creación de sitios web para terceros
+42|Diseño y desarrollo (escritura) de software informático
+42|Diseño y desarrollo de bases de datos
+42|Diseño y desarrollo de computadoras y software informático
+42|Diseño y desarrollo de firmware informático
+42|Diseño y desarrollo de hardware informático
+42|Diseño y desarrollo de hardware para uso en la industria manufacturera
+42|Diseño y desarrollo de páginas web en la Internet
+42|Diseño y desarrollo de productos multimedia
+42|Diseño y desarrollo de redes de computación inalámbricos
+42|Diseño y desarrollo de sistemas de seguridad para datos electrónicos
+42|Diseño y desarrollo de sistemas fotovoltaicos
+42|Diseño y desarrollo de software de inicio de sesión único
+42|Diseño y desarrollo de software de juegos y software de realidad virtual
+42|Diseño y desarrollo de software en el ámbito de las aplicaciones para móviles
+42|Diseño y desarrollo de software informático
+42|Diseño y desarrollo de software operativo de red privada virtual (VPN)
+42|Diseño y mantenimiento de sitios informáticos para terceros
+42|Diseño y mantenimiento de sitios web para terceros
+42|Diseño, actualización y alquiler de software informático
+42|Diseño, creación, alojamiento y mantenimiento de sitios de Internet para terceros
+42|Diseño, desarrollo y aplicación de software informático
+42|Diseño, desarrollo, instalación y mantenimiento de software informático
+42|Diseño, instalación, actualización y mantenimiento de software informático
+42|Diseño, mantenimiento, desarrollo y actualización de software informático
+42|Diseño, mejora y alquiler de software informático
+42|Diseño, planificación e ingeniería de estaciones de aire comprimido
+42|Diseños de páginas web informáticas
+42|Duplicación de programas informáticos
+42|Ejecución de análisis químicos
+42|Elaboración de bases de datos informáticas
+42|Elaboración de planos para la construcción
+42|Elaboración y mantenimiento de sitios web para terceros
+42|Ensayo de la funcionalidad de máquinas
+42|Ensayo de materiales
+42|Ensayo de productos químicos
+42|Ensayo de seguridad de productos
+42|Ensayo de software
+42|Ensayo de textiles
+42|Ensayos clínicos de productos farmacéuticos
+42|Ensayos de cosméticos
+42|Ensayos de hardware
+42|Escritura de programas de procesamiento de datos
+42|Escritura y actualización de programas informáticos
+42|Estudios topográficos e ingeniería
+42|Evaluación de la calidad de la lana
+42|Evaluación de la calidad de la madera en pie
+42|Evaluación de la calidad del producto
+42|Evaluación de productos farmacéuticos
+42|Exploración de gas
+42|Exploración geofísica para la industria de la minería
+42|Exploración geofísica para la industria del gas
+42|Exploración geofísica para la industria del petróleo
+42|Exploración submarina
+42|Exploración y búsqueda de petróleo y de gas
+42|Facilitación de información climática
+42|Facilitación de información médica y científica en materia de productos farmacéuticos y ensayos clínicos
+42|Facilitación de información meteorológica
+42|Facilitación de motores de búsqueda en la Internet
+42|Facilitación de motores de búsqueda para Internet
+42|Facilitación de uso temporal de software en línea no descargable
+42|Facilitación de uso temporal de software no descargable
+42|Facilitación del uso temporal de herramientas de desarrollo de software no descargable en línea
+42|Geodesia topográfica
+42|Información sobre recursos de investigación en el campo de la genética de plantas
+42|Informes meteorológicos
+42|Ingeniería en control de olores
+42|Inspección de campos petroleros
+42|Inspección técnica de vehículos
+42|Instalación de programas informáticos
+42|Instalación y mantenimiento de software informático
+42|Instalación, mantenimiento y reparación de software informático
+42|Instalación, mantenimiento y reparación de software para sistemas informáticos
+42|Instalación, reparación y mantenimiento de software informático
+42|Investigación agrícola
+42|Investigación alimentaria
+42|Investigación arquitectónica
+42|Investigación bacteriológica
+42|Investigación básica y clínica en el ámbito de la ciencia y la medicina respiratorias
+42|Investigación biológica
+42|Investigación científica con fines médicos en oncología
+42|Investigación científica en el campo de la genética y la ingeniería genética
+42|Investigación científica integrada en materia de animales dañinos en invernaderos y cultivos
+42|Investigación en el área de la tecnología de procesamiento de semiconductores
+42|Investigación en el campo de la energía
+42|Investigación en física
+42|Investigación en la reducción de emisiones de carbón
+42|Investigación en materia de cambio climático
+42|Investigación en materia de cuidado del cabello
+42|Investigación en materia de física
+42|Investigación en materia de productos farmacéuticos
+42|Investigación en materia de protección ambiental
+42|Investigación en materia de química
+42|Investigación en materia de soldadura
+42|Investigación en relación con la ingeniería mecánica
+42|Investigación geológica
+42|Investigación hidrológica
+42|Investigación mecánica en deportes de motor
+42|Investigación médica
+42|Investigación relacionada con la química
+42|Investigación relativa a la biotecnología
+42|Investigación sobre alimentos
+42|Investigación sobre células madre
+42|Investigación sobre construcción de edificios o urbanismo
+42|Investigación técnica en el campo de la aeronáutica
+42|Investigación y análisis químico, bioquímico, biológico y bacteriológico
+42|Investigación y desarrollo científico
+42|Investigación y desarrollo de nuevos productos
+42|Investigación y desarrollo de nuevos productos para terceros en materiales plásticos
+42|Investigación y desarrollo de software informático
+42|Investigación y desarrollo de vacunas y medicamentos
+42|Investigación y desarrollo farmacéutico
+42|Investigación y pruebas de prevención de contaminación
+42|Investigación, desarrollo, diseño y mejora de software informático
+42|Investigación, inspección y pruebas en agricultura, reproducción de ganado y pesca
+42|Investigaciones científicas
+42|Investigaciones científicas con fines médicos
+42|Investigaciones geológicas
+42|Localización y reparación de problemas de software (asistencia técnica)
+42|Mantenimiento de páginas web y alojamiento de servicios web online para terceros
+42|Mantenimiento de software
+42|Mantenimiento de software informático en relación a seguridad informática y prevención de riegos informáticos
+42|Mantenimiento de software para acceso a la Internet
+42|Mantenimiento de software para su uso en el funcionamiento de aparatos y máquinas de llenado
+42|Mantenimiento y actualización de software informático
+42|Mantenimiento y mejora de software informático
+42|Mantenimiento y modernización de software
+42|Marcado de agua digital
+42|Medición y análisis de emisiones de gases de efecto invernadero
+42|Mejora de software
+42|Muestreo de suelos para análisis
+42|Peritaje marítimo, aéreo y terrestre
+42|Peritajes (trabajos de ingenieros)
+42|Peritajes de yacimientos petrolíferos
+42|Peritajes técnicos
+42|Planificación urbana
+42|Planificación y diseño de cocinas
+42|Preparación, actualización, instalación y mantenimiento de software informático
+42|Programación de aplicaciones multimedia
+42|Programación de computadoras
+42|Programación de computadoras en materia médica
+42|Programación de computadoras y alquiler de programas de computo
+42|Programación de computadoras y análisis de sistemas de computo
+42|Programación de computadoras y diseño de software
+42|Programación de computadoras y mantenimiento de programas de computo
+42|Programación de equipos multimedia
+42|Programación de juegos de ordenador
+42|Programación de videojuegos
+42|Pronósticos meteorológicos
+42|Proporcionar el uso temporal de software de inicio de sesión único no descargable en línea
+42|Prospección geológica
+42|Prospección petrolífera
+42|Provisión de información científica en el campo del cambio climático y calentamiento global
+42|Provisión de información en el campo del diseño de interiores a través de páginas web
+42|Provisión de información tecnológica sobre innovaciones amigables con el medio ambiente
+42|Provisión de servicios de autenticación de usuarios utilizando hardware biométrico y tecnología de software para transacciones de comercio electrónico
+42|Prueba de ordenadores
+42|Pruebas de elementos de ferretería arquitectónica
+42|Pruebas de seguridad de productos de consumo
+42|Realización de evaluaciones tempranas en relación con productos farmacéuticos nuevos
+42|Realización de peritajes de ingeniería
+42|Reconstitución de bases de datos
+42|Recuperación de datos de teléfonos inteligentes
+42|Recuperación de datos informáticos
+42|Redacción de planos de construcción para locales recreativos
+42|Redacción de sitios electrónicos
+42|Reparación de software (mantenimiento y actualización)
+42|Servicios arquitectónicos
+42|Servicios biológicos de clonación
+42|Servicios científicos consistentes en el desarrollo para terceros de químicos y sustancias químicas biobasadas
+42|Servicios de actualización de software informático
+42|Servicios de almacenamiento en la nube para archivos electrónicos
+42|Servicios de almacenamiento en la nube para datos electrónicos
+42|Servicios de alquiler de computadoras
+42|Servicios de alquiler en relación a equipos de procesamiento de datos y computadoras
+42|Servicios de análisis de monedas (autentificación)
+42|Servicios de análisis para la exploración de campos petroleros
+42|Servicios de análisis químico
+42|Servicios de análisis sísmicos
+42|Servicios de arquitectura e ingeniería
+42|Servicios de asesoramiento en materia de desarrollo y mejora de la calidad del software
+42|Servicios de asesoramiento tecnológico relacionados con programas informáticos
+42|Servicios de asesoramiento tecnológico relativo a análisis de ingeniería de máquinas
+42|Servicios de autenticación de firma electrónica
+42|Servicios de autenticación de usuarios con tecnología de inicio de sesión para aplicaciones de software en línea
+42|Servicios de calibrado
+42|Servicios de cartografía
+42|Servicios de certificación (control de calidad)
+42|Servicios de cifrado de datos
+42|Servicios de cifrado y descodificación de datos
+42|Servicios de clasificación de estados de conservación de monedas
+42|Servicios de configuración de redes informáticas
+42|Servicios de consultoría en diseño de modas
+42|Servicios de consultoría en el ámbito del desarrollo tecnológico
+42|Servicios de consultoría profesional y asesoramiento sobre química agrícola
+42|Servicios de consultoría técnica en el área de la minería
+42|Servicios de consultoría tecnológica en el campo de la generación de energía alternativa
+42|Servicios de control de la calidad del agua
+42|Servicios de copias de seguridad de datos
+42|Servicios de cultivo de células con fines científicos o de investigación, para terceros
+42|Servicios de desarrollo de fármacos
+42|Servicios de desarrollo de videojuegos
+42|Servicios de descifrado de datos
+42|Servicios de dibujo de ingeniería civil
+42|Servicios de dibujo técnico
+42|Servicios de diseñadores de embalajes
+42|Servicios de diseño de animación para otros
+42|Servicios de diseño de calzado
+42|Servicios de diseño de closets
+42|Servicios de diseño de distribución para entornos de salas limpias
+42|Servicios de diseño de embalajes
+42|Servicios de diseño de gráficos computacionales
+42|Servicios de diseño de moda
+42|Servicios de diseño de ordenadores
+42|Servicios de diseño industrial
+42|Servicios de diseño relativos a sistemas de ordenadores
+42|Servicios de diseño técnico
+42|Servicios de enología
+42|Servicios de ensayo e inspección ambientales
+42|Servicios de escaneo de ultrasonido, no médicos
+42|Servicios de exploración de minerales
+42|Servicios de fotogrametría
+42|Servicios de hospedaje de sitios web
+42|Servicios de ilustración gráfica para terceros
+42|Servicios de información del clima
+42|Servicios de inspección de tuberías
+42|Servicios de inspección de vehículos nuevos y usados por cuenta de compradores o vendedores particulares de vehículos
+42|Servicios de inspección estructural subacuática
+42|Servicios de integración de sistemas informáticos
+42|Servicios de investigación agroquímica
+42|Servicios de investigación biomédica
+42|Servicios de investigación de laboratorio relacionada con productos farmacéuticos
+42|Servicios de investigación farmacéutica
+42|Servicios de investigación médica
+42|Servicios de investigación y desarrollo en física
+42|Servicios de laboratorios científicos
+42|Servicios de mantenimiento de software informático
+42|Servicios de migración de datos
+42|Servicios de programación informática para análisis comercial y elaboración de informes
+42|Servicios de protección antivirus (informática)
+42|Servicios de protección antivirus a distancia para teléfonos inalámbricos y aparatos móviles y de comunicación
+42|Servicios de pruebas de programas informáticos
+42|Servicios de reproducción de programas informáticos
+42|Servicios de topografía aérea
+42|Servicios de topografía marina
+42|Sondeos topográficos
+42|Topografía técnica
+42|Trabajo y evaluación de análisis químicos
+42|Trabajo y evaluación de síntesis químicas
+42|Transferencia de datos de documentos desde un formato informático a otro

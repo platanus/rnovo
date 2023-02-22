@@ -1,338 +1,627 @@
-class,reference_id,name
-30,300002,algas [condimentos]
-30,300003,pastas alimenticias
-30,300004,pasta de almendras
-30,300006,anís [semillas]
-30,300007,anís estrellado
-30,300008,productos de confitería para decorar árboles de Navidad
-30,300009,infusiones que no sean para uso médico
-30,300010,aromatizantes de café
-30,300010,saborizantes de café
-30,300011,preparaciones aromáticas para uso alimenticio
-30,300012,productos para sazonar
-30,300013,pan ácimo
-30,300013,pan ázimo
-30,300014,sal para conservar alimentos
-30,300015,biscotes
-30,300016,galletas*
-30,300017,galletas de malta
-30,300019,caramelos de menta
-30,300019,dulces de menta
-30,300020,caramelos
-30,300020,golosinas
-30,300022,gofres
-30,300022,barquillos
-30,300022,conos [barquillos]
-30,300023,brioches
-30,300023,bollos
-30,300024,cacao
-30,300026,café
-30,300027,café sin tostar
-30,300028,preparaciones vegetales utilizadas como sucedáneos del café
-30,300029,pasteles*
-30,300029,tortas [pasteles]
-30,300030,canela [especia]
-30,300031,alcaparras
-30,300032,caramelos blandos
-30,300033,curry [condimento]
-30,300034,preparaciones a base de cereales
-30,300035,gomas de mascar*
-30,300035,chicles*
-30,300036,achicoria [sucedáneo del café]
-30,300037,té*
-30,300038,chocolate
-30,300039,mazapán
-30,300040,clavo [especia]
-30,300041,condimentos
-30,300042,productos de confitería
-30,300042,dulces
-30,300043,copos de maíz
-30,300043,hojuelas de maíz
-30,300044,palomitas de maíz
-30,300044,rosetas de maíz
-30,300045,estabilizantes para nata montada
-30,300045,estabilizantes para crema batida
-30,300046,helados cremosos
-30,300047,creps [filloas]
-30,300047,panqueques
-30,300047,tortitas
-30,300048,esencias para alimentos, excepto esencias etéricas y aceites esenciales
-30,300049,sal de cocina
-30,300050,espesantes para uso culinario
-30,300051,cúrcuma*
-30,300053,edulcorantes naturales
-30,300054,especias
-30,300055,pan de especias
-30,300055,pan de jengibre
-30,300056,pimienta de Jamaica
-30,300057,harinas*
-30,300058,harina de habas
-30,300058,harina de alubias
-30,300058,harina de frijoles
-30,300058,harina de judías
-30,300058,harina de porotos
-30,300059,harina de maíz
-30,300060,harina de mostaza
-30,300061,harina de cebada
-30,300062,harina de soja
-30,300062,harina de soya
-30,300063,harina de flor
-30,300063,harina de trigo
-30,300065,almidón para uso alimenticio
-30,300065,fécula para uso alimenticio
-30,300066,fermentos para masas
-30,300067,pasta de azúcar [producto de confitería]
-30,300068,petits fours
-30,300069,azúcar*
-30,300070,aromatizantes, que no sean aceites esenciales, para productos de pastelería y repostería
-30,300070,saborizantes, que no sean aceites esenciales, para productos de pastelería y repostería
-30,300071,polvos para productos de pastelería y repostería
-30,300072,mezclas pasteleras
-30,300073,jengibre molido
-30,300074,espesantes para helados cremosos
-30,300075,hielo natural o artificial
-30,300076,hielo
-30,300077,glucosa para uso culinario
-30,300078,gluten preparado en forma de producto alimenticio
-30,300080,grañones para la alimentación humana
-30,300081,vinagres
-30,300082,ketchup [salsa]
-30,300083,cacao con leche
-30,300084,café con leche
-30,300085,chocolate con leche [bebida]
-30,300086,fermento [levadura]
-30,300087,levadura*
-30,300088,espesantes para salchichas
-30,300089,macarons [pastelería]
-30,300090,macarrones [pastas alimenticias]
-30,300091,maíz molido
-30,300092,maíz tostado
-30,300093,pan*
-30,300094,maltosa
-30,300095,melaza
-30,300096,jarabe de melaza
-30,300096,sirope de melaza
-30,300097,menta para productos de confitería
-30,300098,miel
-30,300100,cebada mondada
-30,300101,mostaza
-30,300102,nuez moscada
-30,300103,fideos
-30,300104,tartas saladas
-30,300104,empanadas
-30,300105,cebada molida
-30,300106,sándwiches
-30,300106,bocadillos y emparedados
-30,300107,pastillas [productos de confitería]
-30,300108,productos de pastelería
-30,300109,galletas de mantequilla
-30,300109,galletas [petits-beurre]
-30,300110,panecillos
-30,300111,pimentón [producto para sazonar]
-30,300111,ajíes [productos para sazonar]
-30,300111,chiles [productos para sazonar]
-30,300111,páprika [producto para sazonar]
-30,300112,pizzas
-30,300113,pimienta
-30,300114,harina de patata*
-30,300114,harina de papa*
-30,300115,pudines
-30,300115,budines
-30,300116,pralinés
-30,300116,bombones de chocolate
-30,300116,garrapiñadas
-30,300117,raviolis
-30,300117,ravioles
-30,300118,regaliz [productos de confitería]
-30,300119,arroz*
-30,300120,azafrán [productos para sazonar]
-30,300121,sagú
-30,300122,salsas [condimentos]
-30,300123,sal de apio
-30,300124,sémola
-30,300125,sorbetes [helados]
-30,300126,espaguetis
-30,300127,tapioca
-30,300128,harina de tapioca*
-30,300129,tartas
-30,300130,aromatizantes de vainilla para uso culinario
-30,300130,saborizantes de vainilla para uso culinario
-30,300131,vainillina [sucedáneo de la vainilla]
-30,300132,fideos vermicelli
-30,300133,pasteles de carne [empanadas de carne]
-30,300133,empanadas de carne [pasteles de carne]
-30,300134,patés en costra
-30,300135,ablandadores de carne para uso doméstico
-30,300136,helados
-30,300136,nieves [helados]
-30,300137,polvos para preparar helados cremosos
-30,300138,productos de confitería a base de almendras
-30,300139,productos de confitería a base de cacahuetes
-30,300139,productos de confitería a base de cacahuate
-30,300139,productos de confitería a base de maní
-30,300140,aromatizantes alimentarios que no sean aceites esenciales
-30,300140,saborizantes alimentarios que no sean aceites esenciales
-30,300141,aromatizantes, que no sean aceites esenciales, para bebidas
-30,300141,saborizantes, que no sean aceites esenciales, para bebidas
-30,300142,avena molida
-30,300143,avena mondada
-30,300144,alimentos a base de avena
-30,300145,copos de avena
-30,300145,hojuelas de avena
-30,300146,sémola de avena
-30,300147,barritas de regaliz [productos de confitería]
-30,300148,vinagre de cerveza
-30,300149,bebidas a base de café
-30,300150,bebidas a base de cacao
-30,300151,bebidas a base de chocolate
-30,300152,sucedáneos del café
-30,300153,azúcar candi*
-30,300153,azúcar piedra
-30,300161,copos de cereales secos
-30,300161,hojuelas de cereales secos
-30,300162,chow-chow [condimento]
-30,300163,cuscús
-30,300164,extractos de malta para uso alimenticio
-30,300165,malta para la alimentación humana
-30,300166,propóleos*
-30,300167,relish [condimento]
-30,300167,salsa de pepinillos dulces [relish]
-30,300168,jalea real*
-30,300169,agua de mar para uso culinario
-30,300170,sushi
-30,300171,salsa de tomate
-30,300172,mayonesa
-30,300174,galletas saladas [crackers]
-30,300175,crema inglesa
-30,300176,pasta de frutas [producto de confitería]
-30,300176,gomitas [productos de confitería]
-30,300177,muesli
-30,300178,pastelitos de arroz
-30,300179,salsa de soja
-30,300179,salsa de soya
-30,300181,yogur helado [helado cremoso]
-30,300182,chutney [condimento]
-30,300183,rollitos de primavera
-30,300183,rollitos primavera
-30,300184,tacos [alimentos]
-30,300185,tortillas de harina o maíz
-30,300186,té helado
-30,300187,bebidas a base de té
-30,300188,aliños para ensalada
-30,300188,aderezos para ensalada
-30,300189,pan rallado
-30,300189,pan molido
-30,300190,tabulé
-30,300191,halvas
-30,300192,quiches
-30,300193,jugos de carne
-30,300193,salsas de carne [gravies]
-30,300194,miso
-30,300195,refrigerios a base de cereales
-30,300196,refrigerios a base de arroz
-30,300197,papilla de harina de maíz con agua o leche [hominy]
-30,300197,hominy [maíz descascarillado]
-30,300197,maíz descascarillado [hominy]
-30,300198,sémola de maíz descascarillado
-30,300199,polvos de hornear
-30,300200,bicarbonato de soda para uso culinario
-30,300200,bicarbonato de sosa para uso culinario
-30,300201,hierbas aromáticas en conserva [productos para sazonar]
-30,300202,comidas preparadas a base de fideos
-30,300203,preparaciones para glasear pasteles
-30,300204,mousse de chocolate
-30,300205,mousses de postre [productos de confitería]
-30,300206,coulis de frutas [salsas]
-30,300207,adobos
-30,300208,hamburguesas con queso [sándwiches]
-30,300209,pesto
-30,300210,preparaciones para glasear jamón
-30,300212,semillas de lino para uso culinario [productos para sazonar]
-30,300212,linaza para la alimentación humana [productos para sazonar]
-30,300213,germen de trigo para la alimentación humana
-30,300214,barritas de cereales ricas en proteínas
-30,300215,crémor tártaro para uso culinario
-30,300216,aditivos de gluten para uso culinario
-30,300217,salsas para pastas alimenticias
-30,300218,barras de cereales
-30,300219,azúcar de palma
-30,300220,masa para hornear
-30,300221,sucedáneos del té a base de flores u hojas
-30,300222,masa de pastelería
-30,300224,pelmeni
-30,300225,decoraciones de chocolate para pasteles
-30,300226,decoraciones de azúcar para pasteles
-30,300227,frutos secos recubiertos de chocolate
-30,300228,arroz con leche
-30,300229,harina de frutos secos
-30,300230,ajo molido [condimento]
-30,300231,baozi
-30,300232,pasta de arroz para uso culinario
-30,300233,jiaozi
-30,300234,ramen
-30,300235,tortitas saladas
-30,300236,mezclas para tortitas saladas
-30,300237,burritos mexicanos
-30,300238,arroz preparado enrrollado en hojas de algas
-30,300239,papel comestible
-30,300240,papel de arroz comestible
-30,300241,pastas para untar a base de chocolate
-30,300242,pastas para untar a base de chocolate con frutos secos
-30,300243,bolas de masa guisada a base de harina
-30,300244,sirope de agave [edulcorante natural]
-30,300245,glaseados brillantes
-30,300246,platos liofilizados cuyo ingrediente principal es el arroz
-30,300247,platos liofilizados cuyo ingrediente principal son las pastas alimenticias
-30,300248,bebidas a base de manzanilla
-30,300249,dulce de leche
-30,300250,bibimbap [arroz mezclado con ternera y verduras]
-30,300251,onigiri
-30,300252,arroz instantáneo
-30,300253,perritos calientes
-30,300253,perros calientes
-30,300254,cubitos de hielo
-30,300255,semillas procesadas en cuanto productos para sazonar
-30,300256,semillas de sésamo [productos para sazonar]
-30,300257,picalilli [encurtido]
-30,300258,quinoa procesada
-30,300259,bulgur
-30,300260,trigo sarraceno procesado
-30,300261,harina de trigo sarraceno
-30,300262,salsa de arándanos rojos [condimento]
-30,300263,salsa de manzana
-30,300264,tostones [pan frito]
-30,300264,picatostes
-30,300264,crutones
-30,300265,panes planos a base de patata
-30,300267,productos de confitería a base de frutas
-30,300268,galletas saladas de arroz
-30,300269,tortitas de kimchi
-30,300270,hielo picado con alubias rojas dulces
-30,300270,hielo picado con frijoles rojos dulces
-30,300271,pastillas de menta para refrescar el aliento
-30,300272,gomas de mascar para refrescar el aliento
-30,300273,fideos udon
-30,300274,fideos soba
-30,300275,pan sin gluten
-30,300276,tamarindo [condimento]
-30,300277,laksa
-30,300278,profiteroles
-30,300279,cruasanes
-30,300280,napolitanas de chocolate
-30,300280,chocolatines de hojaldre
-30,300281,té de algas kombu
-30,300282,crème brûlée
-30,300282,crema quemada
-30,300283,masa para rebozar
-30,300283,masa para freír
-30,300284,obleas de papel comestible
-30,300285,cocadas
-30,300285,rocas de coco
-30,300286,cápsulas de café, llenas
-30,300287,agua de azahar para uso alimenticio
-30,300288,polos y polos flash
-30,300288,bolis y paletas de hielo
-30,300289,turrón
-30,300290,harissa [condimento]
-30,300291,pasta de jengibre [producto para sazonar]
-30,300292,bebidas de té con leche
+class|name
+30|Aceite de chiles como condimento o aderezo
+30|Achicoria y mezclas de achicoria, todas para su uso como sucedáneos del café
+30|Aderezo para ensalada
+30|Aderezos para ensalada
+30|Aderezos para ensalada que contienen crema
+30|Agentes espesantes para uso culinario
+30|Agua de mar para uso culinario
+30|Aioli
+30|Ajo en polvo
+30|Alfajores (pastelillos rellenos de dulce de leche)
+30|Algodón de azúcar
+30|Almíbar para cubrir
+30|Almidón de maíz para uso alimenticio
+30|Almidón de palma de sagú para alimentación
+30|Almidón de patata dulce para alimentación
+30|Aromatizantes de hierbas para elaborar bebidas
+30|Aromatizantes para mantequilla que no sean aceites esenciales
+30|Aromatizantes para queso que no sean aceites esenciales
+30|Aromatizantes para sopas (que no sean aceites esenciales)
+30|Aromatizantes que no sean aceites esenciales para productos de pastelería y repostería
+30|Arroz al vapor
+30|Arroz artificial sin cocer
+30|Arroz cocinado
+30|Arroz descascarillado
+30|Arroz enriquecido sin cocinar
+30|Arroz glutinoso
+30|Arroz glutinoso envuelto en hojas de bambú (Zongzi)
+30|Arroz inflado
+30|Arroz integral
+30|Arroz malteado fermentado (koji)
+30|Arroz seco cocinado
+30|Avena instantánea
+30|Avena mondada
+30|Azúcar
+30|Azúcar blanca
+30|Azúcar candi para uso alimenticio
+30|Azúcar cristalizada para decorar alimentos
+30|Azúcar cristalizada para decorar pasteles
+30|Azúcar de cristal que no sea de confitería
+30|Azúcar de palma
+30|Azúcar en cubos
+30|Azúcar en polvo
+30|Azúcar granulada
+30|Azúcar mascabado
+30|Bagels (rosca de pan)
+30|Baguettes
+30|Baklava (pastelillo a base de pistachos o nueces, masa filo y almíbar)
+30|Barquillos para helados cremosos
+30|Barquillos rellenos de mermelada de judías (monaka)
+30|Barras de cereales
+30|Barras de chocolate
+30|Barras de helados comestibles
+30|Barras de hielo
+30|Barras de pasta de porotos dulces en gelatina (yohkan)
+30|Barras heladas de fruta
+30|Barritas de caramelo
+30|Barritas de cereales ricas en proteínas
+30|Barritas de torrija congeladas
+30|Bases de pizza
+30|Bases de pizza congeladas
+30|Bases de tacos
+30|Bases para tartas
+30|Bebidas a base de cacao
+30|Bebidas a base de café
+30|Bebidas a base de chocolate
+30|Bebidas a base de té
+30|Bebidas basadas en el té con sabor a frutas
+30|Bebidas de cacao con leche
+30|Bebidas de café
+30|Bebidas de café con leche
+30|Bebidas lácteas a base de chocolate
+30|Biscotes
+30|Bizcochería
+30|Bizcocho de chocolate y nueces
+30|Bizcochos
+30|Bizcochuelos en forma de paleta (cake pops)
+30|Bocadillos a base de maíz
+30|Bocadillos a base de trigo
+30|Bolas de arroz glutinoso
+30|Bolas de masa al vapor chinas (shumai, cocidas)
+30|Bolas de masa dulce (dango)
+30|Bolitas de arroz (dumplings)
+30|Bolitas de azúcar para confitería
+30|Bollería (productos a base de harina)
+30|Bollitos (dumplings) a base de harina
+30|Bollos (pan)
+30|Bollos al vapor rellenos de carne picada (niku-manjuh)
+30|Bollos de crema
+30|Bollos de mermelada
+30|Bollos de mermelada de judías
+30|Bombones de azúcar
+30|Brioches
+30|Budín de arroz
+30|Buñuelos de arroz recubiertos con mermelada de alubias dulces (ankoro)
+30|Cacao
+30|Cacao en polvo
+30|Cacao tostado, en polvo, en grano o en bebida
+30|Cacao y bebidas a base de cacao preparados
+30|Café
+30|Café descafeinado
+30|Café en polvo en formato de bolsas de goteo
+30|Café exprés
+30|Café helado
+30|Café instantáneo
+30|Café molido
+30|Café sin cafeína
+30|Café sin tostar
+30|Café tostado, en polvo, granulado o en bebidas
+30|Café y bebidas a base de café preparados
+30|Café y sucedáneos del café
+30|Café y té
+30|Calugas (caramelos blandos)
+30|Calzones rotos (masas fritas)
+30|Canela en polvo (especia)
+30|Canelones
+30|Capuchino
+30|Caracolas de pasta
+30|Caramelo
+30|Caramelos
+30|Caramelos (dulces)
+30|Caramelos de azúcar cocido
+30|Caramelos de ginseng
+30|Caramelos de ginseng rojo
+30|Caramelos de goma
+30|Caramelos de menta
+30|Caramelos macizos cubiertos de azúcar
+30|Caramelos masticables a base de gelatina
+30|Caramelos sin azúcar
+30|Cebada mondada
+30|Cebada triturada
+30|Cereales listos para comer
+30|Cereales para el desayuno
+30|Chacarero (sándwich a base de carne, porotos verdes, tomate y ají verde)
+30|Chalotas procesadas para su uso como condimento
+30|Chaparritas (masas horneadas rellenas con salchicha y queso)
+30|Chicles de bomba
+30|Chile en polvo (especia)
+30|Chimney cakes (cucuruchos de masa dulce rellenos)
+30|Chips de arroz
+30|Chips de wan tan
+30|Chocolate
+30|Chocolate caliente
+30|Chocolate caliente vegano
+30|Chocolate con leche
+30|Chocolate para coberturas
+30|Chocolate para confitería y pan
+30|Chocolate relleno
+30|Chocolate sin leche
+30|Chocolates (confitería)
+30|Chocolates en polvo
+30|Churros (masas fritas)
+30|Churros fritos (Youtiao)
+30|Chutney
+30|Chutneys (condimento)
+30|Clavo en polvo (especia)
+30|Comidas preparadas a base de fideos
+30|Condimento de chile
+30|Condimento para tacos
+30|Condimentos a base de mezclas de curry
+30|Condimentos alimentarios que consisten principalmente en kétchup y salsa
+30|Condimentos en polvo
+30|Condimentos para carne de cordero hervida al instante
+30|Confitería helada
+30|Confituras de chocolate
+30|Copos de avena
+30|Copos de maíz
+30|Corteza de chocolate con granos de café molidos
+30|Crema inglesa
+30|Cremas bávaras
+30|Crème brûlées (crema quemada)
+30|Crepes
+30|Creps (filloas)
+30|Croissants
+30|Cubitos de hielo
+30|Cuchuflís (dulces de masa esponjosa o crocante rellenos con dulce de leche en forma tubular)
+30|Cúrcuma comestible
+30|Curry en polvo (condimento)
+30|Cuscús (sémola)
+30|Delicia turca
+30|Dobladitas (panes)
+30|Donas
+30|Dulce con cacao
+30|Dulce con caramelo
+30|Dulce de menta
+30|Dulces
+30|Dulces (caramelos)
+30|Dulces a base de almidón
+30|Dulces con una base de almidón (ame)
+30|Dulces de chocolate
+30|Dulces de helado
+30|Dulces de yogur helado
+30|Dulces hechos de aceite de sésamo
+30|Dulces prensados tradicionales coreanos (dasik)
+30|Empanadas
+30|Empanadillas de masa rellenas chinas (gyoza, cocinadas)
+30|Empolvados (pastelillos cubiertos de azúcar en polvo)
+30|Envolturas de pasta para gyoza (empanadilla japonesa)
+30|Envolturas de pastelería para monaka (dulce japonés)
+30|Envolturas de won ton
+30|Esencias de café
+30|Esencias de café para uso como sucedáneos del café
+30|Espagueti sin cocinar
+30|Espaguetis y albóndigas
+30|Especia en polvo de pimiento japonés (sansho en polvo)
+30|Especia en polvo de rábano picante japonés (wasabi en polvo)
+30|Especias comestibles
+30|Especias para hornear
+30|Extractos de cacao para consumo humano
+30|Extractos de café
+30|Extractos de café para uso como sucedáneos de café
+30|Extractos de levadura
+30|Extractos de levadura para consumo humano
+30|Extractos de levadura para uso alimenticio
+30|Extractos de té
+30|Fideos
+30|Fideos asiáticos
+30|Fideos chinos instantáneos
+30|Fideos chinos sin cocinar
+30|Fideos de almidón de frijol verde sin cocinar (harusame)
+30|Fideos de arroz
+30|Fideos de arroz chinos sin cocinar (fideos bifun)
+30|Fideos de fécula
+30|Fideos de ramen
+30|Fideos fritos
+30|Fideos fritos con vegetales (japchae)
+30|Fideos instantáneos
+30|Fideos secos
+30|Fideos soba instantáneos
+30|Fideos soba sin cocinar (fideos de alforfón japoneses)
+30|Fideos somen sin cocinar (fideo muy delgado de trigo)
+30|Fideos udon instantáneos
+30|Fideos udon sin cocinar
+30|Frappes (café con hielo cubierto de espuma)
+30|Fructosa para alimentación
+30|Frutos secos recubiertos de chocolate
+30|Gachas (plato elaborado en base a avena cocida)
+30|Gachas a base de judías mungo
+30|Gachas de arroz
+30|Gachas de harina de arroz
+30|Galletas
+30|Galletas con sabor a queso
+30|Galletas de almendras
+30|Galletas de arroz con forma de gránulos (arare)
+30|Galletas de cebolla o queso
+30|Galletas de malta
+30|Galletas de mantequilla
+30|Galletas de masa frita (karintoh)
+30|Galletas Graham
+30|Galletas saladas
+30|Galletas saladas (crackers)
+30|Galletas saladas condimentadas
+30|Galletas saladas de arroz (senbei)
+30|Galletas y galletas saladas
+30|Galletas y pan
+30|Glaseado para pasteles
+30|Glaseado para tartas
+30|Glucosa para uso alimenticio
+30|Gofres
+30|Gofres (waffles)
+30|Gofres comestibles
+30|Gofres congelados
+30|Golosinas
+30|Golosinas en goma de frutas
+30|Goma de mascar sin azúcar
+30|Goma guar para uso culinario
+30|Gomas de mascar
+30|Gomas de mascar que no sean para uso médico
+30|Granos de café cubiertos de azúcar
+30|Granos de café molidos
+30|Granos de cereales procesados
+30|Granos de maíz tostados
+30|Granos procesados
+30|Hamburguesas en panecillos
+30|Harina alimenticia
+30|Harina de almidón de arroz
+30|Harina de almidón de maíz
+30|Harina de almidón de trigo
+30|Harina de arroz
+30|Harina de arroz glutinoso
+30|Harina de cebada para uso alimenticio
+30|Harina de grano para alimentación
+30|Harina de maíz
+30|Harina de maíz para uso alimenticio
+30|Harina de papa para uso alimenticio
+30|Harina de semillas de lágrimas de Job
+30|Harina de tapioca para uso alimenticio
+30|Harina de trigo para uso alimenticio
+30|Harina de trigo sarraceno para uso alimenticio
+30|Harina para hacer bolas de masa cocida rellenas de arroz glutinoso
+30|Helados
+30|Helados con fruta
+30|Helados cremosos
+30|Helados cremosos en polvo
+30|Helados cremosos mezclados
+30|Helados de fruta
+30|Helados de frutas
+30|Hielo
+30|Hierbas de jardín preservadas como aliños
+30|Infusión de tila
+30|Jarabe de fécula para uso alimenticio
+30|Jarabe de maíz para uso culinario
+30|Judías dulces (ama-natto)
+30|Jugos de carne (salsas)
+30|Lasaña
+30|Laurel (condimento)
+30|Leche asada (postre de budín a base de leche, huevos y azúcar)
+30|Leche nevada (postre a base de merengue)
+30|Levadura
+30|Levadura en comprimidos que no sea para uso médico
+30|Levadura en polvo
+30|Levadura para uso como ingrediente alimentario
+30|Levadura, polvos de hornear y saborizantes
+30|Linaza para la alimentación humana
+30|Lo mein (fideos)
+30|Macarons (productos de pastelería)
+30|Macarrones (galletas) a base de coco
+30|Macarrones (sin cocinar)
+30|Macarrones con queso
+30|Magdalenas (quequitos)
+30|Maíz procesado
+30|Maíz tostado
+30|Maltosa para alimentación
+30|Malvavisco
+30|Manjar (dulce de leche)
+30|Manzanas caramelizadas
+30|Masa de obleas
+30|Masa filo
+30|Masa para bizcochos de chocolate con nueces (brownies)
+30|Masa para empanada
+30|Masa para galletas congelada
+30|Masa para gofres
+30|Masa para hornear
+30|Masa para pastelería
+30|Masa para pizzas
+30|Masas al vapor rellenas con pasta de porotos rojos
+30|Masas al vapor rellenas de porotos rojos
+30|Masas de pastel de pan crujiente tipo Graham
+30|Masas para bollos
+30|Masas para pan
+30|Masas para pastel
+30|Masticables (golosinas blandas)
+30|Mayonesa
+30|Melazas
+30|Menta para confitería
+30|Merengues
+30|Merkén (condimento)
+30|Mermelada de alubia dulce con recubrimiento blando con una base de alubia azucarada (nerikiri)
+30|Mezcla de pan a base de maíz
+30|Mezclas condimentadas para guisos
+30|Mezclas de cacao
+30|Mezclas de café y achicoria
+30|Mezclas de galletas
+30|Mezclas de gelatina de alubia de adzuki dulce (mizu-yokan-no-moto)
+30|Mezclas de pastelería
+30|Mezclas de sorbetes
+30|Mezclas de tortas
+30|Mezclas instantáneas para budín
+30|Mezclas instantáneas para donas
+30|Mezclas instantáneas para panqueques
+30|Mezclas para condimentar
+30|Mezclas para masa de pizza
+30|Mezclas para preparar chocolate caliente
+30|Miel para uso alimenticio
+30|Miel y jarabe de melaza
+30|Milhojas
+30|Molletes
+30|Molletes ingleses
+30|Mostaza
+30|Mostaza en polvo (especias)
+30|Nieves y helados cremosos
+30|Obleas para base de tartas
+30|Orégano (condimento)
+30|Pad thai (tallarines salteados tailandeses)
+30|Paella (plato preparado a base de arroz)
+30|Palitos de arroz
+30|Palitos de pan
+30|Palomitas de maíz
+30|Palomitas de maíz agridulces
+30|Palomitas de maíz aromatizadas
+30|Palomitas de maíz azucaradas
+30|Palomitas de maíz cubiertas de caramelo
+30|Palomitas de maíz glaseadas
+30|Pan
+30|Pan ácimo en láminas
+30|Pan con azukis (legumbres de color rojizo y dulces típicas de Japón)
+30|Pan con bajo contenido de sal
+30|Pan con sabor a especias
+30|Pan con soja
+30|Pan crujiente al estilo indio (poppadums)
+30|Pan de ajo
+30|Pan integral
+30|Pan molido
+30|Pan pita
+30|Pan plano
+30|Pan tostado
+30|Panecillos de canela
+30|Panes de frutas
+30|Panes de molde
+30|Panes de pascua
+30|Panes y bollos
+30|Panetón
+30|Panqueques congelados
+30|Panqueques de cebolla verde (pajeon)
+30|Panqueques de kimchi (kimchijeon)
+30|Pantrucas (plato a base de masas, verduras y carne)
+30|Papilla de harina de maíz con agua o leche (hominy)
+30|Pasta alimenticia
+30|Pasta alimenticia fresca
+30|Pasta de almendras
+30|Pasta de azúcar (producto de confitería)
+30|Pasta de frutas como saborizante de alimentos
+30|Pasta de guindilla fermentada (gochujang)
+30|Pasta de miso
+30|Pasta de soja (condimento)
+30|Pasta para biscotes
+30|Pasta seca
+30|Pasta y fideos
+30|Pastas alimenticias
+30|Pastas alimenticias farináceas para consumo humano
+30|Pastas alimenticias rellenas
+30|Pastas danesas
+30|Pastas de chocolate
+30|Pastas de curry
+30|Pastas para sopas
+30|Pastel de almendras
+30|Pastel de chocolate
+30|Pastel de helado
+30|Pasteles (torta)
+30|Pasteles al vapor de tipo japonés (mushi-gashi)
+30|Pasteles con azúcar desecados de harina de arroz (rakugan)
+30|Pasteles de arroz machacado dulce (mochi-gashi)
+30|Pasteles de arroz triturado (mochi)
+30|Pasteles de frutas
+30|Pasteles de frutas (plum cakes)
+30|Pasteles de luna
+30|Pasteles de mijo
+30|Pasteles de mijo envueltos en azúcar o arroz inflado (okoshi)
+30|Pasteles dulces de frutas, pasas y especias
+30|Pasteles enrollados en forma de broche blandos de arroz machacado (gyuhi)
+30|Pasteles esponjosos al vapor (Fa Gao)
+30|Pasteles veganos
+30|Pastelillos de fruta
+30|Pastelitos de arroz
+30|Pastelitos de avena
+30|Pastelitos de crema
+30|Pastelitos dulces y salados (productos de pastelería)
+30|Pebre (salsa)
+30|Pepitas de chocolate
+30|Pepitas de manteca y azúcar
+30|Pepitos rellenos de crema
+30|Petit-beurre (galletas)
+30|Piezas de azúcar de cristal (confitería)
+30|Piezas secas de gluten de trigo (fu, no cocinadas)
+30|Pimienta (especia)
+30|Pimienta en polvo (especias)
+30|Pizza congelada
+30|Pizza fresca
+30|Pizzas preparadas
+30|Polvo de arruruz japonés (kudzu-ko para uso alimenticio)
+30|Polvo de pimienta roja (gochutgaru)
+30|Polvos de hornear
+30|Postres
+30|Postres de budín
+30|Postres de budín a base de arroz
+30|Pralinés
+30|Pretzels (galletas saladas)
+30|Pretzels blandos
+30|Pretzels con cobertura de chocolate
+30|Pretzels recubiertos de chocolate
+30|Productos de confitería elaborada con azúcar
+30|Productos de confitería para decorar árboles de Navidad
+30|Productos de pastelería
+30|Productos de pastelería y repostería
+30|Productos para sazonar alimentos
+30|Propóleos (resina de abeja) para la alimentación humana
+30|Pudin de arroz ocho tesoros
+30|Pudines para postes instantáneos
+30|Pudines para su uso como postre
+30|Quinoa procesada
+30|Rábano picante preparado (condimento)
+30|Ravioli preparados
+30|Regaliz
+30|Relleno de malvavisco
+30|Revestimientos de chocolate
+30|Rollitos de avena y de trigo
+30|Rollos de alga seca que contienen arroz cocido estilo koreano (gimbap)
+30|Rollos de salchichas
+30|Saborizantes de almendra
+30|Saborizantes de fruta excepto esenciales
+30|Saborizantes de limón
+30|Saborizantes de té
+30|Saborizantes de vainilla
+30|Saborizantes para alimentos
+30|Saborizantes para bebidas que no sean aceites esenciales
+30|Saborizantes para mantequilla
+30|Saborizantes para pasteles que no sean aceites esenciales
+30|Saborizantes para quesos
+30|Saborizantes para sopas
+30|Saborizantes que no sean aceites esenciales
+30|Saborizantes que no sean aceites esenciales para productos de pastelería y repostería
+30|Saborizantes y productos para sazonar
+30|Sachima (pastel chino)
+30|Sal
+30|Sal comestible
+30|Sal con azafrán para condimentar alimentos
+30|Sal de apio
+30|Sal de cocina
+30|Sal de mesa
+30|Sal de mesa mezclada con semillas de sésamo
+30|Salmuera para cocinar
+30|Salmuera para cócteles
+30|Salsa Alfredo
+30|Salsa condimentada de soja (Chiyou)
+30|Salsa de barbacoa
+30|Salsa de chile
+30|Salsa de chocolate
+30|Salsa de langostino
+30|Salsa de ostra
+30|Salsa de soja (salsa de soya)
+30|Salsa de soya con kombu (alga asiática)
+30|Salsa kétchup
+30|Salsa marrón
+30|Salsa para tacos
+30|Salsa tártara
+30|Salsa teriyaki
+30|Salsas
+30|Salsas listas para comer
+30|Salsas para carne a la barbacoa
+30|Salsas para ensalada
+30|Salsas para pastas alimenticias
+30|Salsas para pescado
+30|Sambal oelek (salsa de pimiento rojo molido)
+30|Samosas
+30|Sándwiches de hamburguesa
+30|Sándwiches de perritos calientes
+30|Sándwiches de pescado
+30|Savarines
+30|Sémola con leche (postre de budín a base de sémola, azúcar y leche)
+30|Sémola de maíz descascarillado
+30|Sirope de almidón en polvo para uso alimenticio
+30|Sirope de almidón glutinoso (mizu-ame)
+30|Sirope de arce
+30|Sirope de chocolate
+30|Sirope de melaza
+30|Sirope para panqueque
+30|Sorbete
+30|Sorbetes
+30|Soufflés de postre
+30|Sucedáneo de mayonesa
+30|Sucedáneos de café (café artificial o preparaciones vegetales utilizadas como café)
+30|Sucedáneos de helado a base de soja
+30|Sucedáneos de mazapán
+30|Sucedáneos de miel
+30|Sucedáneos del azúcar
+30|Sucedáneos del café
+30|Sucedáneos del café y té
+30|Sucedáneos del té
+30|Sushi
+30|Tabulé
+30|Taiyaki (pasteles japoneses con forma de pez con varios rellenos)
+30|Tallarines de fécula
+30|Tarta de queso
+30|Tartaletas de crema inglesa
+30|Tartas de arándanos
+30|Tartas de calabaza
+30|Tartas de helado
+30|Tartas de huevos
+30|Tartas de nata
+30|Tartas heladas
+30|Tartas saladas
+30|Té
+30|Té amarillo
+30|Té blanco
+30|Té blanco instantáneo
+30|Té chai
+30|Té de arroz integral tostado
+30|Te de cebada
+30|Te de damasco asiático (maesilcha)
+30|Té de ginseng
+30|Té de jengibre
+30|Té de lima
+30|Te de loto blanco (Baengnyeoncha)
+30|Té de manzanilla
+30|Té de menta
+30|Té de oolong (té chino)
+30|Té de polvo de alga marina salada (kombu-cha)
+30|Té de polvo tostado de cebada con cáscara (mugi-cha)
+30|Té de pomelo
+30|Té de rosa mosqueta
+30|Té de salvia
+30|Té fermentado
+30|Té instantáneo
+30|Té negro (té inglés)
+30|Té negro instantáneo
+30|Té oolong instantáneo
+30|Té sin teína
+30|Té sin teína endulzado con edulcorantes
+30|Té tie guan yin
+30|Té verde
+30|Té verde instantáneo
+30|Té verde japonés
+30|Tequeños (masas fritas)
+30|Tés de fruta
+30|Toffee
+30|Toffees
+30|Torrijas congeladas
+30|Torta de milhojas (productos de pastelería)
+30|Tortas y pasteles de yogurt congelado
+30|Tortitas (crumpets)
+30|Tostadas francesas congeladas
+30|Tostones
+30|Trigo molido
+30|Trigo preparado para la alimentación humana
+30|Turrón
+30|Turrón de vino (postre a base de merengue de vino)
+30|Vinagre de frutas
+30|Vinagre de vino
+30|Vinagre saborizado
+30|Vinagres
+30|Vinagres aromatizados
+30|Wontons
+30|Wrap (rollos de sándwich)
+30|Yerba mate (infusión)
+30|Yogur helado (helado cremoso)
+30|Yuja-cha (té coreano de yuja con miel)
+30|Zumaque para usar como condimento

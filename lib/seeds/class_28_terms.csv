@@ -1,298 +1,569 @@
-class,reference_id,name
-28,280001,cámaras de aire para balones de juego
-28,280002,cebos artificiales para la pesca
-28,280003,cápsulas para pistolas de juguete
-28,280004,juguetes para animales de compañía
-28,280005,juegos de anillas
-28,280006,árboles de Navidad de materiales sintéticos
-28,280007,arcos de tiro
-28,280008,material para tiro con arco
-28,280009,cantos de esquís
-28,280010,columpios
-28,280011,balones de juego
-28,280011,pelotas de juego
-28,280012,globos para fiestas
-28,280013,bandas para mesas de billar
-28,280014,caballitos de balancín [juguetes]
-28,280015,guantes de bateador [accesorios para juegos]
-28,280016,biberones para muñecas
-28,280016,mamaderas para muñecas
-28,280017,bicicletas estáticas de ejercicio
-28,280019,bolas de billar
-28,280020,tiza para tacos de billar
-28,280021,marcadores de puntos para billares
-28,280022,bolos
-28,280023,canicas para jugar
-28,280024,juguetes*
-28,280025,bloques de construcción [juguetes]
-28,280026,bobsleighs [trineos de carreras]
-28,280027,envoltorios sorpresa de Navidad [Christmas crackers]
-28,280029,portavelas para árboles de Navidad
-28,280030,bolas de juego
-28,280031,maquinaria y aparatos para juegos de bolos
-28,280032,guantes de boxeo
-28,280033,cuerdas de tripa para raquetas
-28,280034,palos de golf
-28,280035,cañas de pescar
-28,280036,cometas
-28,280036,barriletes [cometas]
-28,280036,papalotes
-28,280037,carretes para cometas
-28,280037,carretes para barriletes [cometas]
-28,280037,carretes para papalotes
-28,280038,blancos de tiro
-28,280038,dianas
-28,280039,campanitas para árboles de Navidad
-28,280040,fichas para juegos
-28,280041,juegos de construcción
-28,280042,cuerdas para raquetas
-28,280043,aparatos para ejercicios físicos
-28,280044,aparatos de culturismo
-28,280044,aparatos de entrenamiento físico
-28,280045,artículos de cotillón
-28,280046,espinilleras [artículos de deporte]
-28,280046,canilleras [artículos de deporte]
-28,280047,bolsas de críquet
-28,280048,palos de hockey
-28,280049,juegos de damas
-28,280050,dados [juegos]
-28,280051,extensores para pectorales
-28,280052,discos de lanzamiento [artículos de deporte]
-28,280054,juegos de dominó
-28,280055,juegos de ajedrez
-28,280056,tableros de ajedrez
-28,280057,dameros
-28,280058,pistolas de juguete
-28,280059,rodillos para bicicletas estáticas de ejercicio
-28,280060,salabardos de pesca
-28,280060,jamos de pesca
-28,280061,bolsas de golf, con o sin ruedas
-28,280062,artículos de broma
-28,280064,redes [artículos de deporte]
-28,280065,redes de tenis
-28,280066,fijaciones de esquís
-28,280067,dardos
-28,280069,boyas de pesca
-28,280070,fútbol de mesa [juegos]
-28,280071,fusiles lanzaarpones [artículos de deporte]
-28,280072,guantes [accesorios para juegos]
-28,280074,cubiletes para dados
-28,280075,barras con pesas [pesas de gimnasia]
-28,280076,anzuelos
-28,280077,sonajeros
-28,280078,juegos de sociedad
-28,280079,juegos*
-28,280080,lanzadoras [trampas] para tiro de pichón
-28,280081,raquetas
-28,280082,señuelos de caza o pesca
-28,280083,aparejos de pesca
-28,280084,líneas de pesca
-28,280085,camas de muñecas
-28,280086,casas de muñecas
-28,280087,marionetas
-28,280088,muñecas
-28,280089,máscaras de teatro
-28,280090,máscaras de carnaval
-28,280091,modelos de vehículos a escala
-28,280092,carretes de pesca
-28,280093,aletas de natación
-28,280094,nasas [artes de pesca]
-28,280094,nasas [artículos de pesca]
-28,280095,piscinas [artículos de juego]
-28,280095,albercas de natación [artículos de juego]
-28,280095,piletas de natación [artículos de juego]
-28,280096,nieve artificial para árboles de Navidad
-28,280097,tejos
-28,280098,patines de ruedas
-28,280099,patines de hielo
-28,280100,pieles de foca [revestimientos de esquís]
-28,280101,pichones de arcilla [blancos de tiro]
-28,280102,tablas de surf
-28,280103,ropa de muñecas
-28,280104,cuartos de muñecas
-28,280105,aparatos de prestidigitación
-28,280106,bolos [juegos]
-28,280107,sedales de pesca
-28,280109,revestimientos de esquís
-28,280110,esquís
-28,280111,mesas para tenis de mesa
-28,280111,mesas para pimpón
-28,280112,peonzas [juguetes]
-28,280112,trompos [juguetes]
-28,280113,trineos [artículos de deporte]
-28,280114,juegos de backgammon
-28,280114,juegos de chaquete
-28,280115,patinetes [juguetes]
-28,280115,patinetas [juguetes]
-28,280116,volantes para juegos de raqueta
-28,280117,pistolas de aire comprimido de juguete
-28,280118,cebos fulminantes [juguetes]
-28,280118,cápsulas fulminantes [juguetes]
-28,280118,cápsulas detonantes [juguetes]
-28,280119,adornos para árboles de Navidad, excepto artículos de iluminación y productos de confitería
-28,280120,soportes para árboles de Navidad
-28,280121,tacos de billar
-28,280122,suelas para tacos de billar
-28,280122,zapatillas para tacos de billar
-28,280123,mesas de billar
-28,280124,mesas de billar que funcionan con monedas
-28,280125,kayaks de mar
-28,280126,tablas de windsurf
-28,280127,alas delta
-28,280128,aparatos para juegos
-28,280129,aparatos de gimnasia
-28,280129,aparatos de físicoculturismo
-28,280130,armas de esgrima
-28,280131,caretas de esgrima
-28,280132,guantes de esgrima
-28,280141,guantes de béisbol
-28,280142,arneses de escalada
-28,280143,coderas [artículos de deporte]
-28,280144,rodilleras [artículos de deporte]
-28,280145,móviles de juguete
-28,280146,parapentes
-28,280147,protectores acolchados [partes de ropa de deporte]
-28,280148,monopatines
-28,280148,patinetas
-28,280149,toboganes [artículos de juego]
-28,280150,trampolines [artículos de deporte]
-28,280151,osos de peluche
-28,280152,esquís náuticos
-28,280153,guantes de golf
-28,280154,indicadores de picada [aparejos de pesca]
-28,280155,sensores de picada [aparejos de pesca]
-28,280156,juegos de mesa
-28,280157,tiovivos
-28,280157,calesitas
-28,280157,carruseles [tiovivos]
-28,280158,discos voladores [juguetes]
-28,280159,juegos de herraduras
-28,280160,juegos de Mahjong
-28,280161,juguetes de peluche
-28,280161,peluches [juguetes]
-28,280162,juguetes para hacer pompas de jabón
-28,280163,vehículos de juguete
-28,280164,bastones de majorette
-28,280165,mangas para cazar mariposas
-28,280166,fundas especiales para esquís
-28,280167,arneses para tablas de windsurf
-28,280168,rompecabezas [puzles]
-28,280168,puzles
-28,280169,mástiles para tablas de windsurf
-28,280170,pistolas de pintura [artículos de deporte]
-28,280170,pistolas de paintball [artículos de deporte]
-28,280171,bolas de pintura [municiones para pistolas de paintball]
-28,280172,correas para tablas de surf
-28,280173,aparatos para lanzar pelotas de tenis
-28,280174,tacos y plataformas de salida para competiciones deportivas
-28,280174,plataformas de salida para competiciones deportivas
-28,280174,tacos de salida para competiciones deportivas
-28,280175,globos de nieve
-28,280175,esferas de nieve
-28,280176,cinturones de halterofilia
-28,280176,cinturones de levantamiento de pesas [artículos de deporte]
-28,280177,tablas de bodyboard
-28,280178,cartones de bingo
-28,280179,herramientas arreglapiques [accesorios de golf]
-28,280180,reclamos de caza
-28,280181,ruletas
-28,280182,patines en línea
-28,280183,piñatas
-28,280184,sacos de boxeo
-28,280185,vehículos teledirigidos [juguetes]
-28,280185,vehículos de control remoto
-28,280186,colofonia para deportistas
-28,280187,raquetas de nieve
-28,280188,tirachinas [artículos de deporte]
-28,280188,hondas [artículos de deporte]
-28,280189,máquinas de juego automáticas que funcionan con monedas
-28,280190,caleidoscopios
-28,280191,naipes
-28,280191,barajas de cartas
-28,280192,confetis
-28,280192,papel picado
-28,280193,blancos de tiro electrónicos
-28,280193,dianas electrónicas
-28,280194,señuelos olfativos de caza y pesca
-28,280195,pantallas de camuflaje [artículos de deporte]
-28,280196,suspensorios para deportistas
-28,280197,tablas de snowboard
-28,280198,kits de modelos a escala [juguetes]
-28,280198,modelos a escala para armar [juguetes]
-28,280199,juegos de pachinko
-28,280201,ascendedores [material de montañismo]
-28,280202,máquinas para juegos de apuestas
-28,280203,tragaperras
-28,280203,tragamonedas
-28,280204,sombreros de papel para fiestas [artículos de cotillón]
-28,280205,tablas de natación
-28,280206,fichas para juegos de apuestas
-28,280207,billetes de lotería para rascar
-28,280207,billetes de lotería para raspar
-28,280208,juguetes rellenos
-28,280209,camas elásticas
-28,280210,pértigas para la práctica del salto con pértiga
-28,280210,garrochas para la práctica del salto con garrocha
-28,280211,manguitos de natación
-28,280211,brazaletes de natación
-28,280211,flotadores de brazo para nadar
-28,280212,cinturones de natación
-28,280213,chalecos de natación
-28,280214,máquinas de videojuegos
-28,280215,juegos portátiles con pantalla de cristal líquido
-28,280216,máquinas de videojuegos electrónicos para salas de juego
-28,280217,mandos para consolas de juego
-28,280218,modelos [juguetes]
-28,280218,maquetas [juguetes]
-28,280219,figuras [juguetes]
-28,280220,máquinas lanzadoras de pelotas
-28,280221,mancuernas [pesas de gimnasia]
-28,280222,máscaras [juguetes]
-28,280223,matrioskas [muñecas rusas]
-28,280224,mandos para juguetes
-28,280224,controles para juguetes
-28,280225,carritos para bolsas de golf
-28,280226,tablas de surf de remo [paddleboards]
-28,280227,giroscopios y estabilizadores de vuelo para modelos a escala de aeronaves
-28,280228,palancas de mando [joysticks] para videojuegos
-28,280229,láminas protectoras para pantallas de juegos portátiles
-28,280230,drones [juguetes]
-28,280231,robots de juguete
-28,280232,agujas de infladores para balones de juego 
-28,280233,infladores especiales para balones de juego
-28,280234,mantas de actividades para bebés
-28,280234,gimnasios para bebés [mantas de actividades]
-28,280235,mantitas de apego [dudús]
-28,280236,triciclos para niños pequeños [juguetes]
-28,280237,cosméticos de imitación, de juguete
-28,280238,objetos hinchables para flotar en piscinas
-28,280238,objetos inflables para flotar en piscinas
-28,280239,cintas de gimnasia rítmica
-28,280240,lanzadores de serpentinas y confetis
-28,280241,masilla de modelar de juguete
-28,280242,pasta de modelar de juguete
-28,280243,juegos y juguetes portátiles con funciones de telecomunicaciones integradas
-28,280244,bumeranes
-28,280245,tarjetas de intercambio para juegos
-28,280246,cinturones de ejercicio para reducir la cintura
-28,280247,aletas de buceo
-28,280248,aletas de mano
-28,280248,guantes palmeados de natación
-28,280249,juegos hinchables para piscinas
-28,280249,juegos inflables para piscinas
-28,280250,esquís de ruedas
-28,280251,palos de esquí
-28,280251,bastones de esquí
-28,280252,palos de esquí para esquís de ruedas
-28,280252,bastones de esquí para esquís de ruedas
-28,280253,columpios de yoga
-28,280254,tiendas de campaña de juguete
-28,280254,carpas de juguete
-28,280255,consolas de videojuegos
-28,280256,consolas de videojuegos portátiles
-28,280257,casas de juego para niños
-28,280258,coquillas de protección para deportes
-28,280259,etiquetas para bolsas de golf
-28,280260,trineos de skeleton
-28,280261,fundas especiales para tablas de surf
-28,280262,juguetes antiestrés
+class|name
+28|Acolchados de seguridad para postes de tenis
+28|Ajedrez chino
+28|Alas flotadoras para nadar
+28|Aletas de natación
+28|Alimentos de juguete
+28|Almohadillas de patada para Taekwondo
+28|Amortiguadores de vibraciones para raquetas de tenis
+28|Animales de juguete
+28|Animales de juguete rellenos
+28|Anteojos prismáticos de juguete
+28|Anzuelo con luces para peces
+28|Anzuelos
+28|Aparatos de aeróbica con escalones
+28|Aparatos de entrenamiento físico
+28|Aparatos de entrenamiento físico, a saber, ejercitadores de manos y dedos
+28|Aparatos de entretenimiento adaptados para su uso exclusivo con receptores de televisión
+28|Aparatos de tirolesa para uso recreativo
+28|Aparatos para recoger pelotas de golf
+28|Aparatos recogepelotas para tenis
+28|Aparejos de pesca
+28|Árboles de Navidad artificiales
+28|Árboles de Navidad de juguete
+28|Árboles de Navidad de materiales sintéticos
+28|Arcos de tiro
+28|Arcos de tiro japonés (yumi)
+28|Areneros (Equipamiento para área de juegos)
+28|Armas de esgrima
+28|Armónicas de juguete
+28|Arneses de pesca
+28|Arneses para tablas de windsurf
+28|Aros para gimnasia
+28|Arpones activados con resortes (equipos de submarinismo deportivo)
+28|Artículos de ropa para juguetes
+28|Artículos de sombrerería para muñecas
+28|Atriles hacer sentadillas con barras de pesas
+28|Aviones de juguete
+28|Aviones de juguete a control remoto
+28|Aviones de juguete con lanzador elástico
+28|Bajos de línea de pesca
+28|Balones de baloncesto
+28|Balones de balonmano
+28|Balones de fútbol americano
+28|Balones de tonificación para pilates
+28|Balones de water polo
+28|Balones para ejercicios de alivio del estrés
+28|Balones y pelotas de juego
+28|Bancas para hacer abdominales
+28|Bancos para su uso en gimnasia
+28|Bandas elásticas para su uso en ejercicios de acondicionamiento físico
+28|Bandas para mesas de billar
+28|Barajadoras de naipes
+28|Barajas de cartas
+28|Barajas de cartas comunes
+28|Barajas de cartas japonesas (hanafuda)
+28|Barajas de cartas karuta (juego de cartas japonés)
+28|Barras asimétricas para gimnasia
+28|Barras con resorte para ejercicios físicos
+28|Barras de danza portátiles
+28|Barras de equilibrio para gimnasia
+28|Barras de puerta para hacer flexiones
+28|Barras fijas para gimnasia
+28|Barras para levantar pesas
+28|Barras paralelas para gimnasia
+28|Barreras para pistas de bolos
+28|Barriles de dardos
+28|Bases de béisbol
+28|Bastones de esquí
+28|Bastones de majorette
+28|Bastones hinchables para animar
+28|Bastones inflables para animar
+28|Bastones provistos de luces LED (juguetes)
+28|Bates de béisbol
+28|Bates de cricket
+28|Bates de juegos
+28|Bates de sóftbol
+28|Biberones para muñecas
+28|Bicheros para la pesca
+28|Bicicletas de juguete para niños que no sean para transporte
+28|Biombos protectores para lanzadores de béisbol (artículos de deporte)
+28|Blancos de tiro
+28|Bloque de yoga
+28|Bloques de arranque (pistas deportivas)
+28|Bloques de construcción de juguete que pueden interconectarse
+28|Bloques de construcción imantados (juguetes)
+28|Bloques de juguete para aprender el lenguaje braille
+28|Bobsleighs (trineos de carreras)
+28|Bolas de billar
+28|Bolas de boliche
+28|Bolas de hockey sobre hierba
+28|Bolas para el lanzamiento de peso
+28|Bolas para jugar dodgeball (quemadas)
+28|Bolos (juegos)
+28|Bolos de bolera
+28|Bolsas adaptadas para palos de lacrosse
+28|Bolsas con o sin ruedas para palos de golf
+28|Bolsas de boliche
+28|Bolsas de esquí
+28|Bolsas de golf
+28|Bolsas especialmente diseñadas para tablas de surf
+28|Bolsas para cebo vivo
+28|Bolsas para palos de golf
+28|Bolsas para palos de hockey sobre hielo
+28|Bombas especialmente adaptadas para su uso con pelotas para juegos
+28|Botes con piezas de piedra para jugar al go (botes goke)
+28|Botes de juguete
+28|Boyas de pesca
+28|Broches de juguete
+28|Caballetes para gimnasia
+28|Caballitos de balancín (juguetes)
+28|Cabezas de palos de golf
+28|Cajas de salto
+28|Cajas para cebos de pesca (aparejos de pesca)
+28|Cajitas musicales de juguete (artículos de juego)
+28|Cámaras de juguete
+28|Campanitas para árboles de Navidad
+28|Cañas de dardo
+28|Cañas de palos de golf
+28|Cañas de pesca
+28|Cañas de pescar
+28|Canastas de baloncesto
+28|Canicas
+28|Canicas para jugar
+28|Cantos de esquís
+28|Carillones de juguete
+28|Carnada artificial para pesca
+28|Carretes de pesca
+28|Carriles de carreras (aparatos de natación)
+28|Cartas de juego coreanas (hwatoo)
+28|Cartas para jugar (naipes)
+28|Casas de juguete
+28|Casas de juguete modulares
+28|Casas de muñecas
+28|Cascos para muñecos
+28|Cebo artificial para la pesca
+28|Cebos artificiales de pesca
+28|Cebos para la caza de aves acuáticas
+28|Chalecos de natación
+28|Cinta de tensión para deportes de equilibrio (artículos deportivos)
+28|Cintas de correr para el ejercicio físico
+28|Cintas de sujeción para empuñaduras de palos de golf
+28|Cintas de sujeción para empuñaduras de palos de hockey sobre hielo
+28|Cintas de sujeción para empuñaduras de raquetas
+28|Cinturones de levantamiento de pesas (artículos de deporte)
+28|Cinturones de natación
+28|Cochecitos de juguete
+28|Coches de juguete
+28|Coderas de fútbol americano
+28|Cohetes de juguete
+28|Columpios
+28|Cometas
+28|Cometas flexibles (parafoils)
+28|Conos de disco para fútbol
+28|Consolas de videojuegos
+28|Coronas y guirnaldas artificiales
+28|Correas de sujeción para tablas de bodyboard
+28|Correas de yoga
+28|Correas para tablas de surf
+28|Cromos (juegos de cartas)
+28|Cuartos de muñecas
+28|Cubiertas de cabezas para palos de golf
+28|Cubiletes para dados
+28|Cucharillas (cebos) giratorias para la pesca
+28|Cuchillas de patines para hielo
+28|Cuerdas de arco
+28|Cuerdas de saltar
+28|Cuerdas de tripa para raquetas de tenis o bádminton
+28|Cuerdas para palos de lacrosse
+28|Cuerdas para raquetas
+28|Cuerdas para saltar
+28|Cuerdas para saltar que incorporan contadores digitales
+28|Dactileras para tiro con arco
+28|Dados (juegos)
+28|Damas chinas (juegos)
+28|Dameros
+28|Dianas electrónicas para juegos y deportes
+28|Dianas para dardos
+28|Dientes de vampiro de broma
+28|Dinero de juguete
+28|Discos de hockey
+28|Discos de lanzamiento (artículos de deporte)
+28|Discos para deportes de campo
+28|Discos para el juego del tejo
+28|Discos para levantamiento de pesas (artículos de deporte)
+28|Dominó coreano (glopae)
+28|Dreidels (trompos judíos)
+28|Ejes de mancuernas para levantamiento de pesas
+28|Empuñaduras de palos de golf
+28|Encordadores para arcos de tiro
+28|Epee (armas de esgrima)
+28|Equipos para billar
+28|Escalones de aeróbic
+28|Escudos para las patadas de karate
+28|Escudos protectores de kendo para el torso
+28|Espadas de bambú para kendo
+28|Espadas de madera para kendo
+28|Espinilleras para fútbol
+28|Espumillón para decorar árboles de Navidad
+28|Esquís
+28|Esquís alpinos
+28|Esquís náuticos
+28|Esteras para la práctica de lanzamientos (instrumento para golf)
+28|Estructuras de barras para parques (equipos para jugar)
+28|Estructuras de construcción de juguete y pistas para vehículos de juguete
+28|Estuches de esquís
+28|Estuches de protección especialmente adaptados para videojuegos de mano
+28|Estuches de raquetas para tenis o bádminton
+28|Estuches en forma de carcaj para artículos deportivos
+28|Estuches para bates de béisbol
+28|Estuches para cañas de pescar
+28|Estuches para pelotas de tenis
+28|Estuches para raquetas de tenis de mesa
+28|Extensores para pectorales
+28|Faldones para árboles de Navidad
+28|Fichas para juegos
+28|Figuras de acción de juguete
+28|Figuras de juguete
+28|Fijaciones de esquís
+28|Fijaciones de esquís alpinos
+28|Flechas para tiro con arco
+28|Floretes (armas de esgrima)
+28|Floretes de esgrima
+28|Flotadores inflables para nadar
+28|Flotadores para nadar
+28|Fundas adaptadas de cabezas de palos de golf
+28|Fundas de esquís
+28|Fundas para palos de golf
+28|Fundas para tacos de billar
+28|Fundas protectoras para raquetas
+28|Globos de juego
+28|Globos de juguete
+28|Guanteletes (guantes de tiro con arco)
+28|Guantes de balonmano
+28|Guantes de bateo
+28|Guantes de béisbol
+28|Guantes de billar
+28|Guantes de boliche
+28|Guantes de boxeo
+28|Guantes de esquí acuático
+28|Guantes de fútbol
+28|Guantes de fútbol americano
+28|Guantes de golf
+28|Guantes de halterofilia
+28|Guantes de kote
+28|Guantes de lacrosse
+28|Guantes de sóftbol
+28|Guantes de Taekwondo
+28|Guantes para windsurf
+28|Helicópteros a escala (juguetes)
+28|Indicadores de picada (aparejos de pesca)
+28|Jabalinas
+28|Jabalinas para deportes de campo
+28|Jaulas de insectos de juguete
+28|Joysticks para videojuegos
+28|Juego de damas
+28|Juego de los dados japonés (sugoroku)
+28|Juegos adaptados para uso con receptores de televisión
+28|Juegos de ajedrez
+28|Juegos de backgammon
+28|Juegos de baloncesto de mesa
+28|Juegos de cartas (naipes)
+28|Juegos de construcción
+28|Juegos de dados
+28|Juegos de dardos
+28|Juegos de dominó
+28|Juegos de figuras de acción
+28|Juegos de herraduras
+28|Juegos de lógica manipulables
+28|Juegos de Mahjong
+28|Juegos de mano con pantallas de cristal líquido
+28|Juegos de mesa coreanos (Yut Nori)
+28|Juegos de ordenador accionados con pilas y con pantalla de cristal líquido
+28|Juegos de sociedad
+28|Juegos de tiro de baloncesto arcade
+28|Juegos electrónicos para la enseñanza de niños
+28|Juegos electrónicos que no se utilicen con televisores
+28|Juegos go
+28|Juegos para parques de atracciones
+28|Juguetes de acción de palanca
+28|Juguetes de acción eléctricos
+28|Juguetes de acción electrónicos
+28|Juguetes de construcción para entrelazar
+28|Juguetes de cuerda de plástico
+28|Juguetes de cuerda metálicos
+28|Juguetes de cuerda que andan
+28|Juguetes de figuras de acción
+28|Juguetes de goma inflables
+28|Juguetes de infantes
+28|Juguetes de peluche
+28|Juguetes de soga para animales de compañía
+28|Juguetes didácticos electrónicos
+28|Juguetes giratorios antiestrés (fidget spinners)
+28|Juguetes hinchables para cabalgar sobre ellos
+28|Juguetes inflables
+28|Juguetes musicales
+28|Juguetes para animales domésticos
+28|Juguetes para apilar
+28|Juguetes para apretar
+28|Juguetes para cajones de arena
+28|Juguetes para la arena
+28|Juguetes para la bañera
+28|Juguetes para perros
+28|Juguetes que lanzan chorros de agua
+28|Juguetes rellenos
+28|Juguetes sonoros de fantasía para fiestas
+28|Kits de modelos a escala (juguetes)
+28|Lanzadoras (trampas) para tiro de pichón
+28|Líneas de pesca
+28|Luges (trineos de descenso)
+28|Mangas para cazar mariposas
+28|Mangos de cometa
+28|Manoplas (para esgrima)
+28|Manoplas de artes marciales
+28|Manoplas para ejercitar manos
+28|Maquetas de campos de fútbol de juguete
+28|Máquina horizontal de pinball japonés (máquinas smartball)
+28|Maquinaria y aparatos para juegos de bolos
+28|Máquinas de juego con pantallas de cristal líquido (LCD)
+28|Máquinas de juego tipo grúa
+28|Máquinas de pachinko (máquina vertical de pinball japonés)
+28|Máquinas de pinball horizontales (máquinas de juegos de korinto)
+28|Máquinas de remo
+28|Máquinas de vapor a escala de juguete
+28|Máquinas de videojuegos electrónicos para salas de juego
+28|Máquinas de videojuegos para el hogar
+28|Máquinas lanzapelotas para tenis de mesa
+28|Máquinas montadoras de bolos en boleras
+28|Máquinas para trotar
+28|Máquinas recreativas accionadas con monedas
+28|Marcadores de puntos para billares
+28|Marcadores para pelotas de golf
+28|Marionetas
+28|Marionetas manuales
+28|Martillos para uso deportivo
+28|Masa de juguete para modelar
+28|Máscaras de carnaval
+28|Máscaras de disfraz
+28|Máscaras de Halloween
+28|Mascaras de juguete
+28|Máscaras de kendo
+28|Máscaras de teatro
+28|Mascaras faciales de natación
+28|Masilla luminosa de juguete
+28|Mástiles de vela
+28|Mástiles para tablas de windsurf
+28|Material para tiro con arco estilo japonés y occidental
+28|Mazas de gimnasia
+28|Mazas para malabarismo
+28|Mesas automáticas para jugar mahjong
+28|Mesas de billar
+28|Mesas de tenis de mesa
+28|Mesas para fútbol de mesa
+28|Mesas para tenis de mesa
+28|Microscopios de juguete
+28|Modelos a escala de aviones
+28|Modelos de aviones a escala
+28|Modelos de vehículos a escala
+28|Modelos de vehículos a escala controlados por radio
+28|Molinillos de juguete
+28|Monoesquís
+28|Monopatines (equipos recreativos)
+28|Moscas artificiales para su uso en la pesca
+28|Móviles para cuna en forma de pájaros sobre un columpio
+28|Muebles de juguete
+28|Muebles para casas de muñecas
+28|Muñecas
+28|Muñecas con trajes tradicionales occidentales
+28|Muñecas de festival para niñas y sus piezas
+28|Muñecas de navidad
+28|Muñecas de trapo
+28|Muñecas en posición sentada (muñecas osuwari)
+28|Muñecas estilo europeo
+28|Muñecas japonesas tradicionales
+28|Muñecas kokeshi
+28|Muñecas para jugar
+28|Muñecas parlantes
+28|Muñecas sakura
+28|Muñecas y animales de peluche
+28|Muñecas y ropa para muñecas
+28|Muñecos bodhidharma con las pupilas sin dibujar (menashi-daruma)
+28|Muñecos con cabeza de resorte (bobble-head)
+28|Muñecos de ventrílocuo
+28|Muñequeras para levantamiento de pesas
+28|Muñequeras para uso deportivo
+28|Naipes de juego para trucos de magia
+28|Nasas de pesca
+28|Palos de floorball
+28|Palos de golf
+28|Palos de hockey
+28|Palos de lacrosse
+28|Palos para el juego de tejo
+28|Parapentes
+28|Paredes de escalada artificiales
+28|Patines de bota
+28|Patines de hielo
+28|Patines de ruedas
+28|Patines de ruedas y de hielo
+28|Patines en línea
+28|Pedales de monopatín
+28|Pelotas de béisbol
+28|Pelotas de deporte
+28|Pelotas de floorball
+28|Pelotas de golf
+28|Pelotas de goma
+28|Pelotas de goma para béisbol
+28|Pelotas de lacrosse
+28|Pelotas de netball
+28|Pelotas de pádel tenis
+28|Pelotas de petanca
+28|Pelotas de playa inflables
+28|Pelotas de racketball
+28|Pelotas de semillas de juguete (otedama)
+28|Pelotas de sepak takraw (voleibol de puntapié)
+28|Pelotas de softbol
+28|Pelotas de tenis (duras)
+28|Pelotas de tenis de mesa
+28|Pelotas de tenis suaves
+28|Pelotas de tenis y volantes de bádminton
+28|Pelotas de voleibol
+28|Pelotas para deportes
+28|Pelotas para jugar bochas
+28|Pelotas para jugar pádelbol
+28|Pelotas para malabares
+28|Pelotas y balones de juego
+28|Peluches (juguetes)
+28|Peonzas
+28|Peras de boxeo (para práctica de boxeo)
+28|Pértigas para salto de altura
+28|Pesas de ejercicio
+28|Pesas de halterofilia
+28|Pesas de tungsteno para pescar
+28|Pesas rusas
+28|Petos protectores para fútbol americano
+28|Pianos de juguete
+28|Piedras de juego go
+28|Piezas de ajedrez
+28|Piezas de ajedrez coreano (jang-gi)
+28|Piezas de madera para juegos de shogi (koma)
+28|Piscinas inflables de natación (artículos de juego)
+28|Pistolas de agua (juguetes)
+28|Pistolas de juguete
+28|Plomos de pesca
+28|Plumas de dardos
+28|Poleas de entrenamiento físico
+28|Pompones para animadoras de equipos deportivos
+28|Portavelas para árboles de Navidad
+28|Porterías de fútbol
+28|Porterías de hockey
+28|Postes para redes de mesas de tenis
+28|Protector de dedos para baloncesto
+28|Protectores abdominales para uso deportivo
+28|Protectores corporales para fútbol americano
+28|Protectores de brazo para béisbol
+28|Protectores de brazo para deportes
+28|Protectores de cadera para uso deportivo
+28|Protectores de cuchillas de patines sobre hielo
+28|Protectores de empeine para atletas
+28|Protectores de pierna para atletismo
+28|Protectores para palmas de la mano para uso deportivo
+28|Protectores para porteros de hockey sobre hielo
+28|Protectores pectorales para béisbol
+28|Protectores pectorales para hockey
+28|Puentes de descanso para tacos de billar
+28|Putters de golf
+28|Raquetas (hagoita)
+28|Raquetas de bádminton
+28|Raquetas de tenis
+28|Raquetas para tenis de mesa
+28|Raquetas para tenis o bádminton
+28|Raquetas y cuerdas para raquetas
+28|Reclamos (señuelos)
+28|Reclamos para venado
+28|Redes (artículos de deporte)
+28|Redes de camuflaje (artículos de deporte)
+28|Redes de porterías para hockey sobre hielo
+28|Redes de voleibol
+28|Redes para insectos de juguete
+28|Redes para jaulas de bateo de béisbol
+28|Redes para juegos de pelota
+28|Redes para práctica de golf
+28|Redes y postes de tenis
+28|Relojes de juguete
+28|Revestimientos de esquís
+28|Rodilleras para fútbol americano
+28|Rodillos a ruedas abdominales para hacer ejercicio
+28|Rodillos para bicicletas estáticas de ejercicio
+28|Rompecabezas
+28|Rompecabezas (puzles)
+28|Rompecabezas de lógica manipulables
+28|Rompecabezas de mosaico
+28|Rompecabezas en forma de cubos
+28|Ropa de muñecas
+28|Ropa para muñecas europeas
+28|Ropa para muñecas japonesas tradicionales
+28|Ruedas de hámsteres
+28|Ruedas de lotería
+28|Ruedas para vehículos de juguete
+28|Sables (arma de esgrima)
+28|Sacos de boxeo
+28|Salabardos de pesca
+28|Saltadores pogo
+28|Saquitos rellenos en forma de artículos de juego
+28|Sedales de pesca
+28|Sensores de picada (aparejos de pesca)
+28|Señuelos de caza o pesca
+28|Señuelos de pesca
+28|Señuelos olfativos de caza y pesca
+28|Señuelos para la caza
+28|Sets de herramientas de carpintero de juguete
+28|Silbatos de juguete
+28|Sombreros para fiestas
+28|Sonajeros de bebé
+28|Soportes de bateo para pelotas de béisbol
+28|Soportes de palos de billar
+28|Soportes especialmente adaptados para palos de golf
+28|Soportes para hacer flexiones de brazos
+28|Soportes para patear balones (rugby)
+28|Soportes protectores para hombros y codos (artículos de deporte)
+28|Subibajas
+28|Submarinos de juguete teledirigidos
+28|Sujeciones de esquí acuático
+28|Suspensorios para deportistas
+28|Tablas de esquí acuático
+28|Tablas de kiteboarding
+28|Tablas de kneeboard
+28|Tablas de natación
+28|Tablas de skimboard
+28|Tablas de surf
+28|Tablas de wakeskate
+28|Tablas de windsurf
+28|Tablas para la práctica de deportes acuáticos
+28|Tableros de ajedrez
+28|Tableros de ajedrez coreano (jang-gin)
+28|Tableros de baloncesto
+28|Tableros de juego go
+28|Tableros para juegos de shogi
+28|Taburetes para la pesca
+28|Tacos de billar
+28|Tarjetas de keno
+28|Tees de golf
+28|Tejos
+28|Telescopios de juguete
+28|Tippets para la pesca
+28|Títeres de dedos
+28|Tiza para tacos de billar
+28|Toboganes de agua
+28|Toboganes de aguas
+28|Tragamonedas
+28|Trampolines (artículos de deporte)
+28|Trampolines para gimnasia
+28|Trenes de juguete a escala
+28|Triángulos de billar
+28|Triángulos para bolas de billar
+28|Triquitraques (petardos de juguete)
+28|Túneles para jugar
+28|Utensilios de juguete para cocinar
+28|Vallas de atletismo
+28|Varillas de redes de voleibol
+28|Varillas luminosas de juguete
+28|Vehículos automóviles de juguete
+28|Vendas para las manos para uso deportivo
+28|Visores para cascos de juguete
+28|Volantes chinos (Jianzi)
+28|Volantes de bádminton
+28|Volantes para juegos de raqueta
+28|Volantes para jugar hagoita
+28|Xilófonos de juguete
+28|Zancos con fines recreativos
+28|Zapatos de muñecas

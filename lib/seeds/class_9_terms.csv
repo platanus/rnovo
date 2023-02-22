@@ -1,911 +1,1658 @@
-class,reference_id,name
-9,090001,bobinas eléctricas
-9,090002,aceleradores de partículas
-9,090003,artículos reflectantes ponibles para prevenir accidentes
-9,090004,dispositivos de protección personal contra accidentes
-9,090005,ropa de protección contra los accidentes, las radiaciones y el fuego
-9,090007,acumuladores eléctricos para vehículos
-9,090007,baterías eléctricas para vehículos
-9,090008,vasos de acumuladores
-9,090008,vasos de baterías
-9,090009,cajas de acumuladores
-9,090009,cajas de baterías
-9,090010,acidímetros para acumuladores
-9,090010,acidímetros para baterías
-9,090011,hidrómetros
-9,090012,placas para acumuladores eléctricos
-9,090012,placas para baterías
-9,090013,silbatos de alarma
-9,090014,alarmas acústicas
-9,090014,alarmas sonoras
-9,090015,conductos acústicos
-9,090016,discos acústicos
-9,090016,discos fonográficos
-9,090017,tubos acústicos
-9,090017,bocinas*
-9,090018,actinómetros
-9,090019,máquinas de sumar
-9,090020,aerómetros
-9,090021,ampliadores [fotografía]
-9,090022,aparatos electrodinámicos para el control remoto de agujas de ferrocarril
-9,090023,imanes
-9,090024,bobinas electromagnéticas
-9,090025,aparatos analizadores de aire
-9,090026,instrumentos de alarma
-9,090027,alcoholímetros
-9,090028,alidadas
-9,090029,aparatos para analizar alimentos
-9,090030,dispositivos eléctricos de encendido a distancia
-9,090031,baterías de arranque
-9,090033,altímetros
-9,090034,guantes de amianto de protección contra accidentes
-9,090034,guantes de asbesto de protección con accidentes
-9,090035,ropa de amianto ignífuga
-9,090035,ropa de asbesto ignífuga
-9,090036,amperímetros
-9,090037,amplificadores
-9,090037,aparatos amplificadores de sonido
-9,090038,tubos amplificadores
-9,090038,válvulas amplificadoras
-9,090039,anemómetros
-9,090040,anillos de calibración
-9,090041,extintores
-9,090043,ánodos
-9,090044,baterías de ánodos
-9,090044,baterías de alta tensión
-9,090045,antenas
-9,090046,gafas antideslumbrantes
-9,090046,anteojos antirreflejo
-9,090047,viseras para cascos
-9,090048,dispositivos antiparásitos [electricidad]
-9,090049,transformadores eléctricos
-9,090050,apertómetros [óptica]
-9,090053,máquinas para contar y clasificar dinero
-9,090054,armarios de distribución [electricidad]
-9,090055,instrumentos de agrimensura
-9,090055,instrumentos para el levantamiento de planos
-9,090056,cadenas de agrimensura
-9,090059,objetivos de astrofotografía
-9,090060,válvulas termoiónicas
-9,090060,tubos de cátodo caliente
-9,090060,tubos termoiónicos
-9,090061,aparatos de enseñanza audiovisual
-9,090062,tocadiscos automáticos de previo pago
-9,090062,rocolas
-9,090063,mecanismos para aparatos que funcionan con monedas
-9,090064,mecanismos para aparatos que funcionan con fichas
-9,090066,calibres
-9,090067,comparadores
-9,090068,alarmas contra incendios
-9,090069,indicadores automáticos de pérdida de presión en los neumáticos de vehículos
-9,090070,trajes especiales de protección para aviadores
-9,090071,timbres de alarma eléctricos
-9,090072,varillas de zahorí
-9,090073,balsas salvavidas
-9,090074,balanzas
-9,090075,globos meteorológicos
-9,090076,aparatos desmagnetizadores de cintas magnéticas
-9,090077,grabadoras de cinta magnética
-9,090077,magnetófonos
-9,090078,cintas magnéticas
-9,090079,barómetros
-9,090080,máquinas de pesaje
-9,090081,básculas [aparatos de pesaje]
-9,090082,batefuegos
-9,090083,cargadores para acumuladores eléctricos
-9,090085,betatrones
-9,090086,distribuidores de billetes [tickets]
-9,090086,distribuidores de boletos
-9,090087,cajas de altavoces
-9,090087,cajas de altoparlantes
-9,090088,lentes de aproximación
-9,090089,bornes [electricidad]
-9,090090,tapones indicadores de presión para válvulas
-9,090092,galvanómetros
-9,090093,botones de timbre
-9,090094,cajas de derivación [electricidad]
-9,090095,brazos de tocadiscos
-9,090096,niveles de burbuja
-9,090097,máquinas de tarjetas perforadas para oficinas
-9,090098,fundas para cables eléctricos
-9,090099,marcos para diapositivas
-9,090101,reglas de cálculo circulares
-9,090102,reglas de cálculo
-9,090103,máquinas de calcular
-9,090103,máquinas aritméticas
-9,090103,calculadoras
-9,090104,compases de corredera
-9,090104,pies de rey
-9,090105,gálibos [instrumentos de medición]
-9,090106,aparatos para fotocalcos
-9,090107,cámaras cinematográficas
-9,090109,tubos capilares
-9,090111,soportes para grabaciones sonoras
-9,090112,cascos de protección
-9,090113,máscaras respiratorias que no sean para la respiración artificial
-9,090114,caretas para soldar
-9,090115,cadenas para gafas
-9,090115,cadenas para anteojos
-9,090116,aparatos de control térmico
-9,090116,aparatos termorreguladores
-9,090117,cuartos oscuros [fotografía]
-9,090120,instrumentos de control de calderas
-9,090122,estantes de secado [fotografía]
-9,090124,dispositivos para el montaje de películas cinematográficas
-9,090125,circuitos impresos
-9,090126,luces intermitentes [señales luminosas]
-9,090127,campanas de señalización
-9,090128,cajas para portaobjetos
-9,090129,colectores eléctricos
-9,090130,instalaciones eléctricas para el control remoto de operaciones industriales
-9,090131,cajas de distribución [electricidad]
-9,090132,conmutadores
-9,090133,brújulas marinas
-9,090134,oculares
-9,090136,cuentahilos
-9,090137,podómetros
-9,090137,cuentapasos
-9,090138,contadores
-9,090139,metrónomos
-9,090140,condensadores eléctricos
-9,090141,conductores eléctricos
-9,090142,conductos eléctricos
-9,090143,coyuntores
-9,090144,conectores [electricidad]
-9,090145,cajas de empalme [electricidad]
-9,090145,cajas de conexión
-9,090146,tableros de conexión
-9,090148,contactos eléctricos
-9,090149,aparatos de control del franqueo
-9,090150,aparatos eléctricos de control
-9,090150,aparatos eléctricos de regulación
-9,090151,aparatos de vigilancia que no sean para uso médico
-9,090152,aparatos de control de velocidad para vehículos
-9,090153,convertidores eléctricos
-9,090153,conmutatrices
-9,090154,fotocopiadoras
-9,090156,cordones para gafas
-9,090156,cordones para anteojos
-9,090157,retortas
-9,090158,soportes para retortas
-9,090159,lentes correctoras [óptica]
-9,090160,objetivos [óptica]
-9,090161,instrumentos de cosmografía
-9,090162,trajes de buceo
-9,090162,escafandras
-9,090162,trajes de submarinismo
-9,090163,aparatos eléctricos de conmutación
-9,090164,interruptores
-9,090164,peras eléctricas [interruptores]
-9,090165,limitadores [electricidad]
-9,090166,enchufes macho
-9,090166,clavijas eléctricas
-9,090167,rectificadores de corriente
-9,090168,reductores [electricidad]
-9,090169,cintas métricas de costura
-9,090170,crisoles
-9,090170,copelas
-9,090171,aparatos para medir el espesor del cuero
-9,090172,ciclotrones
-9,090173,detectores de moneda falsa
-9,090174,disparadores [fotografía]
-9,090175,densímetros
-9,090176,dibujos animados
-9,090177,bandejas de laboratorio
-9,090178,detectores de metales para uso industrial o militar
-9,090179,sonares
-9,090180,detectores
-9,090181,obturadores [fotografía]
-9,090182,diafragmas [acústica]
-9,090183,aparatos para enmarcar diapositivas
-9,090184,cámaras fotográficas
-9,090185,diapositivas
-9,090186,proyectores de diapositivas
-9,090187,aparatos medidores de distancias
-9,090187,distanciómetros
-9,090188,máquinas de dictar
-9,090188,dictáfonos
-9,090189,aparatos de difracción [microscopia]
-9,090190,altavoces
-9,090190,altoparlantes
-9,090191,disyuntores
-9,090191,cortacircuitos
-9,090192,tocadiscos
-9,090193,microscopios
-9,090194,aparatos registradores de distancias
-9,090195,telémetros
-9,090197,tableros de distribución [electricidad]
-9,090198,consolas de distribución [electricidad]
-9,090200,compases de medición
-9,090201,medidores
-9,090202,aparatos de medición
-9,090203,dinamómetros
-9,090204,indicadores del nivel de agua
-9,090205,escalas de salvamento
-9,090206,flashes [fotografía]
-9,090207,auriculares telefónicos
-9,090208,pantallas fluorescentes
-9,090209,pantallas de proyección
-9,090210,pantallas de protección facial para obreros
-9,090211,pantallas [fotografía]
-9,090212,escurridores para uso fotográfico
-9,090213,indicadores de pérdida eléctrica
-9,090214,aparatos eléctricos de medición
-9,090214,dispositivos eléctricos de medición
-9,090215,cables eléctricos
-9,090216,conducciones eléctricas
-9,090217,tableros de control [electricidad]
-9,090218,celdas galvánicas
-9,090218,elementos galvánicos
-9,090219,acometidas de líneas eléctricas
-9,090220,empalmes eléctricos
-9,090220,acoplamientos eléctricos
-9,090222,relés eléctricos
-9,090226,electrolizadores
-9,090227,emisores de señales electrónicas
-9,090228,emisores [telecomunicación]
-9,090230,dispositivos de limpieza para discos acústicos
-9,090230,dispositivos de limpieza para discos fonográficos
-9,090231,cintas para grabaciones sonoras
-9,090232,cuentakilómetros para vehículos
-9,090233,carretes [fotografía]
-9,090234,letreros mecánicos
-9,090235,epidiascopios
-9,090236,probetas
-9,090237,dispositivos de equilibrado
-9,090238,termostatos
-9,090239,ergómetros
-9,090240,instrumentos y máquinas para pruebas de materiales
-9,090241,ovoscopios
-9,090242,calibradores
-9,090243,indicadores de gasolina
-9,090245,parachispas*
-9,090246,estuches especiales para aparatos e instrumentos fotográficos
-9,090249,aparatos de análisis que no sean para uso médico
-9,090250,refractómetros
-9,090251,exposímetros
-9,090252,máquinas facturadoras
-9,090253,aparatos de fermentación [aparatos de laboratorio]
-9,090254,aparatos de seguridad para el tráfico ferroviario
-9,090255,hilos eléctricos
-9,090256,hilos magnéticos
-9,090257,plomos de plomada
-9,090258,plomadas
-9,090259,redes de protección contra accidentes
-9,090260,redes de seguridad
-9,090260,redes de salvamento
-9,090261,lonas de salvamento
-9,090262,aparatos para cortar películas
-9,090263,filtros para máscaras respiratorias
-9,090264,filtros fotográficos
-9,090266,cargadores de pilas y baterías
-9,090267,aparatos de alta frecuencia
-9,090268,frecuencímetros
-9,090269,fusibles
-9,090270,aparatos de radio
-9,090270,aparatos de T.S.H.
-9,090271,cristales de galena [detectores]
-9,090272,pilas galvánicas
-9,090274,guantes de protección contra accidentes
-9,090275,guantes de buceo
-9,090275,guantes de submarinismo
-9,090276,guantes de protección contra los rayos X para uso industrial
-9,090278,aparatos para analizar gases
-9,090279,gasómetros [instrumentos de medición]
-9,090280,aparatos e instrumentos geodésicos
-9,090281,jalones [instrumentos de agrimensura]
-9,090281,piquetes [instrumentos de agrimensura]
-9,090282,aparatos para secar impresiones fotográficas
-9,090283,aparatos para satinar impresiones fotográficas
-9,090284,reglas [instrumentos de medición]
-9,090285,recipientes de vidrio graduados
-9,090286,tramas de fotograbado
-9,090287,rejillas para acumuladores eléctricos
-9,090287,rejillas para baterías
-9,090288,ropa de protección contra el fuego
-9,090288,ropa ignífuga
-9,090289,receptores [audio y vídeo]
-9,090290,aparatos heliográficos
-9,090291,hologramas
-9,090292,higrómetros
-9,090293,bridas de identificación para hilos eléctricos
-9,090294,fundas de identificación para hilos eléctricos
-9,090295,aparatos y dispositivos de salvamento
-9,090295,aparatos y dispositivos de auxilio
-9,090296,lanzas para mangas de incendio
-9,090297,autobombas contra incendios
-9,090298,bombas contra incendios
-9,090299,indicadores de pendiente
-9,090299,clinómetros
-9,090299,inclinómetros
-9,090300,taxímetros
-9,090301,indicadores de cantidad
-9,090302,vacuómetros
-9,090302,indicadores de vacío
-9,090303,indicadores de velocidad
-9,090304,inductores [electricidad]
-9,090305,inducidos [electricidad]
-9,090306,aparatos de procesamiento de datos
-9,090307,espejos de inspección para obras
-9,090308,aparatos de intercomunicación
-9,090309,intermediarios [fotografía]
-9,090310,inversores [electricidad]
-9,090311,aparatos de ionización que no sean para el tratamiento del aire ni del agua
-9,090312,mirillas ópticas para puertas
-9,090313,marcadores de dobladillos
-9,090315,mobiliario especial de laboratorio
-9,090316,lactodensímetros
-9,090317,lactómetros
-9,090317,pesaleches
-9,090318,lámparas para cuartos oscuros [fotografía]
-9,090319,lámparas ópticas
-9,090319,linternas ópticas
-9,090321,linternas mágicas
-9,090322,linternas de señales
-9,090323,láseres que no sean para uso médico
-9,090324,lentes ópticas
-9,090324,lentillas ópticas
-9,090325,pesacartas
-9,090326,correderas*
-9,090327,sondalezas
-9,090328,lupas [óptica]
-9,090329,letreros luminosos
-9,090330,tubos luminosos [publicidad]
-9,090330,letreros de neón
-9,090331,gafas [óptica]
-9,090331,anteojos [óptica]
-9,090332,instrumentos con lentes oculares
-9,090333,niveles de anteojo
-9,090334,lentes para gafas
-9,090334,lentes para anteojos
-9,090335,artículos de óptica para la vista
-9,090336,manómetros
-9,090337,periscopios
-9,090338,máscaras de protección*
-9,090339,instrumentos matemáticos
-9,090340,mecanismos que funcionan con monedas para televisores
-9,090341,megáfonos
-9,090342,memorias de ordenador
-9,090342,memorias de computadora
-9,090343,reglas de carpintero [reglas de corredera]
-9,090344,niveles de mercurio
-9,090345,aparatos para medir la velocidad [fotografía]
-9,090346,aparatos para mediciones de precisión
-9,090347,instrumentos de medición
-9,090348,instrumentos meteorológicos
-9,090349,metros [instrumentos de medición]
-9,090350,tornillos micrométricos para instrumentos ópticos
-9,090351,micrófonos
-9,090352,microtomos
-9,090353,temporizadores que no sean artículos de relojería
-9,090354,espejos [óptica]
-9,090355,aparatos de respiración para la natación subacuática
-9,090356,aparatos e instrumentos náuticos
-9,090357,aparatos de señalización naval
-9,090358,instrumentos de navegación
-9,090359,monturas de gafas
-9,090359,monturas de anteojos
-9,090360,pilas eléctricas
-9,090360,baterías eléctricas
-9,090361,acumuladores eléctricos
-9,090362,niveles [instrumentos para determinar la horizontalidad]
-9,090363,instrumentos de nivelación
-9,090365,prismas [óptica]
-9,090366,instrumentos de observación
-9,090367,octantes
-9,090368,ohmímetros
-9,090369,ondámetros
-9,090370,aparatos e instrumentos ópticos
-9,090371,cristal óptico
-9,090371,vidrio óptico
-9,090372,ordenadores
-9,090372,computadoras
-9,090373,programas informáticos grabados
-9,090374,oscilógrafos
-9,090377,aparatos para trasvasar oxígeno
-9,090378,ozonizadores
-9,090379,micrómetros
-9,090379,palmers
-9,090380,paneles de señalización luminosos o mecánicos
-9,090381,pararrayos
-9,090383,parquímetros
-9,090384,aparatos e instrumentos de astronomía
-9,090386,aparatos para medir el espesor de las pieles
-9,090387,acidímetros
-9,090388,aparatos e instrumentos de pesaje
-9,090389,salinómetros
-9,090390,cubetas de lavado [fotografía]
-9,090391,pies para aparatos fotográficos
-9,090392,visores fotográficos
-9,090393,fotómetros
-9,090394,aparatos de telefotografía
-9,090395,aparatos e instrumentos de física
-9,090396,dispositivos de conducción automática para vehículos [pilotos automáticos]
-9,090396,pilotos automáticos
-9,090397,quevedos
-9,090398,pipetas de laboratorio
-9,090399,planchetas [instrumentos de agrimensura]
-9,090400,planímetros
-9,090401,tapones auditivos para buceo
-9,090401,tapones auditivos para submarinismo
-9,090402,timbres [aparatos de alarma]
-9,090403,pesas*
-9,090404,polarímetros
-9,090407,aparatos radiotelefónicos
-9,090408,aparatos radiotelegráficos
-9,090409,medidores de presión
-9,090410,indicadores de presión
-9,090411,aparatos de proyección
-9,090412,dispositivos catódicos de protección antioxidante
-9,090414,protectores bucales*
-9,090415,pirómetros
-9,090416,radares
-9,090417,aparatos de radio para vehículos
-9,090418,aparatos de radiología para uso industrial
-9,090419,transportadores [instrumentos de medición]
-9,090420,aparatos e instalaciones para generar rayos X que no sean para uso médico
-9,090421,tubos de rayos X que no sean para uso médico
-9,090422,dispositivos de protección contra los rayos X que no sean para uso médico
-9,090423,aparatos telefónicos
-9,090424,refractores
-9,090425,aparatos de rayos X que no sean para uso médico
-9,090426,espectroscopios
-9,090427,resistencias eléctricas
-9,090429,termómetros que no sean para uso médico
-9,090430,respiradores para filtrar el aire
-9,090431,aparatos de respiración que no sean para la respiración artificial
-9,090432,reóstatos
-9,090433,romanas [balanzas]
-9,090434,señales luminosas o mecánicas
-9,090435,sacarímetros
-9,090436,sondas para uso científico
-9,090437,satélites para uso científico
-9,090439,diafragmas para aparatos científicos
-9,090440,aparatos de enseñanza
-9,090440,aparatos didácticos
-9,090440,aparatos escolares
-9,090441,bobinas de reactancia [bobinas de impedancia]
-9,090442,bornes de presión [electricidad]
-9,090443,cerraduras eléctricas
-9,090444,sextantes
-9,090445,silbatos de señalización
-9,090446,triángulos de señalización de avería para vehículos
-9,090447,aparatos electrodinámicos para el control remoto de señales
-9,090448,simuladores de conducción y control de vehículos
-9,090449,sirenas
-9,090450,aparatos de transmisión de sonido
-9,090451,aparatos de grabación de sonido
-9,090452,aparatos de reproducción de sonido
-9,090453,aparatos y máquinas de sondeo
-9,090454,plomos de sondas
-9,090454,escandallos
-9,090455,sonómetros
-9,090457,espectrógrafos
-9,090458,esferómetros
-9,090460,estereoscopios
-9,090461,aparatos estereoscópicos
-9,090462,agujas de zafiro para tocadiscos
-9,090462,púas de zafiro para tocadiscos
-9,090463,sulfitómetros
-9,090464,teletipos
-9,090464,teleimpresores
-9,090465,tacómetros
-9,090465,taquímetros
-9,090466,calibres de roscado
-9,090467,telégrafos [aparatos]
-9,090468,televisores
-9,090469,hilos telegráficos
-9,090470,aparatos de control remoto*
-9,090471,postes de T.S.H.
-9,090471,postes para antenas inalámbricas
-9,090471,postes de telefonía inalámbrica
-9,090472,teleapuntadores
-9,090473,transmisores telefónicos
-9,090474,telerruptores
-9,090475,gemelos [óptica]
-9,090475,binoculares
-9,090476,telescopios
-9,090476,catalejos
-9,090477,indicadores de temperatura
-9,090478,aparatos para registrar el tiempo
-9,090479,teodolitos
-9,090481,termostatos para vehículos
-9,090484,totalizadores
-9,090485,cuentarrevoluciones
-9,090486,reguladores de velocidad para tocadiscos
-9,090488,transmisores [telecomunicación]
-9,090489,balanzas de precisión
-9,090490,gramiles
-9,090491,tubos de vacío [radio]
-9,090492,urómetros
-9,090493,variómetros
-9,090494,nonius
-9,090495,cintas de vídeo
-9,090495,videocintas
-9,090496,viscosímetros
-9,090497,instalaciones eléctricas antirrobo
-9,090498,reguladores de voltaje para vehículos
-9,090499,máquinas de votación
-9,090500,voltímetros
-9,090503,dispositivos para cambiar agujas de tocadiscos
-9,090503,dispositivos para cambiar púas de tocadiscos
-9,090504,alambiques de laboratorio
-9,090505,alambres fusibles
-9,090507,anticátodos
-9,090508,silbatos para perros
-9,090509,miras telescópicas para armas de fuego
-9,090511,alarmas antirrobo
-9,090512,instrumentos acimutales
-9,090513,balizas luminosas
-9,090514,soportes de bobinas eléctricas
-9,090515,películas expuestas
-9,090516,balizas luminosas o mecánicas para carreteras
-9,090517,aros salvavidas
-9,090517,salvavidas
-9,090518,boyas de señalización
-9,090522,zumbadores
-9,090523,brújulas
-9,090524,señales de niebla no explosivas
-9,090525,cajas registradoras
-9,090526,pantallas radiológicas para uso industrial
-9,090529,tarjetas magnéticas de identificación
-9,090531,células fotovoltaicas
-9,090532,densitómetros
-9,090533,discos magnéticos
-9,090534,disquetes
-9,090535,cintas para limpiar cabezales de lectura
-9,090536,grabadoras de vídeo
-9,090536,aparatos de vídeo
-9,090537,teclados de ordenador
-9,090537,teclados de computadora
-9,090538,circuitos integrados
-9,090539,semiconductores
-9,090540,chips [circuitos integrados]
-9,090543,cátodos
-9,090546,chalecos salvavidas
-9,090547,cinturones salvavidas
-9,090549,aparatos e instrumentos de química
-9,090550,películas cinematográficas expuestas
-9,090553,material para conducciones eléctricas [hilos, cables]
-9,090554,lentes de contacto
-9,090554,lentillas de contacto
-9,090555,estuches para lentes de contacto
-9,090555,estuches para lentillas de contacto
-9,090556,incubadoras para cultivos bacterianos
-9,090557,pilas solares
-9,090557,baterías solares
-9,090558,hilos de cobre aislados
-9,090559,tubos de descarga eléctrica que no sean para la iluminación
-9,090562,diafragmas [fotografía]
-9,090564,aparatos de destilación para uso científico
-9,090565,dosificadores
-9,090565,aparatos de dosificación
-9,090565,dosímetros
-9,090566,timbres de puerta eléctricos
-9,090567,estuches para gafas
-9,090567,estuches para anteojos
-9,090568,hornos de laboratorio
-9,090571,fibras ópticas [filamentos conductores de ondas luminosas]
-9,090571,filamentos conductores de ondas luminosas [fibras ópticas]
-9,090572,hilos telefónicos
-9,090573,películas de rayos X expuestas
-9,090573,películas radiográficas expuestas
-9,090574,filtros de rayos ultravioleta para la fotografía
-9,090575,pabellones [conos] de altavoces
-9,090577,trípodes para cámaras fotográficas
-9,090581,lectores de códigos de barras
-9,090582,chalecos antibalas
-9,090583,boyas de localización
-9,090583,boyas de referencia
-9,090584,obleas para circuitos integrados
-9,090585,aparatos de cromatografía para laboratorios
-9,090586,cronógrafos [aparatos para registrar el tiempo]
-9,090587,discos compactos [audio y vídeo]
-9,090588,discos ópticos compactos
-9,090588,discos compactos [memorias de sólo lectura]
-9,090589,programas de sistemas operativos informáticos grabados
-9,090590,periféricos informáticos
-9,090591,software [programas grabados]
-9,090592,condensadores ópticos
-9,090593,acopladores acústicos
-9,090594,acopladores [equipos de procesamiento de datos]
-9,090595,cámaras de descompresión
-9,090596,trazadores [plóters]
-9,090596,plóters [trazadores]
-9,090597,máscaras de buceo
-9,090597,máscaras de submarinismo
-9,090598,lápices electrónicos para unidades de visualización
-9,090599,tarjetas magnéticas codificadas
-9,090600,aparatos de fax
-9,090601,barcos-bomba contra incendios
-9,090603,interfaces [informática]
-9,090604,cambiadiscos [periféricos informáticos]
-9,090605,rodilleras para trabajadores
-9,090606,reguladores de luz eléctricos
-9,090606,variadores de luz eléctricos
-9,090607,soportes magnéticos de datos
-9,090608,codificadores magnéticos
-9,090609,unidades de cinta magnética [informática]
-9,090610,microprocesadores
-9,090611,módems
-9,090612,monitores [hardware]
-9,090613,monitores [programas informáticos]
-9,090614,ratones [periféricos informáticos]
-9,090615,lectores ópticos
-9,090616,soportes ópticos de datos
-9,090617,discos ópticos
-9,090618,impresoras de ordenador*
-9,090618,impresoras de computadora*
-9,090619,procesadores [unidades centrales de proceso]
-9,090619,unidades centrales de proceso [procesadores]
-9,090620,lectores [equipos de procesamiento de datos]
-9,090621,arneses de seguridad que no sean para asientos de vehículos ni equipos de deporte
-9,090622,escáneres [equipos de procesamiento de datos]
-9,090623,detectores de humo
-9,090624,transistores [electrónica]
-9,090625,radiografías que no sean para uso médico
-9,090626,manguitos de unión para cables eléctricos
-9,090627,ábacos
-9,090628,agendas electrónicas
-9,090629,contestadores telefónicos
-9,090629,contestadores automáticos
-9,090630,cámaras de vídeo
-9,090630,videocámaras
-9,090631,lectores de casetes
-9,090631,reproductores de casetes
-9,090632,lectores de discos compactos
-9,090632,reproductores de discos compactos
-9,090633,aparatos de diagnóstico que no sean para uso médico
-9,090634,mecanismos de arrastre de discos [informática]
-9,090634,unidades de disco [hardware]
-9,090635,raíles electrificados para montar proyectores
-9,090635,rieles electrificados para montar proyectores
-9,090636,traductores electrónicos de bolsillo
-9,090637,etiquetas electrónicas para mercancías
-9,090638,mantas ignífugas
-9,090639,bombillas de flash
-9,090640,tarjetas de circuitos integrados
-9,090640,tarjetas inteligentes
-9,090641,cucharas dosificadoras
-9,090642,ordenadores portátiles
-9,090642,computadoras portátiles
-9,090643,tablones de anuncios electrónicos
-9,090644,calculadoras de bolsillo
-9,090645,calzado de protección contra los accidentes, las radiaciones y el fuego
-9,090646,rociadores automáticos contra incendios
-9,090647,cables de arranque para motores
-9,090648,gafas de sol
-9,090648,anteojos de sol
-9,090649,relojes de fichar
-9,090649,relojes de control horario
-9,090650,casetes de vídeo
-9,090651,cartuchos de videojuegos
-9,090652,pantallas de vídeo
-9,090653,videoteléfonos
-9,090654,gafas de deporte
-9,090654,anteojos de deporte
-9,090655,pinzas nasales para submarinistas y nadadores
-9,090656,cascos protectores para deportes
-9,090657,publicaciones electrónicas descargables
-9,090658,programas informáticos descargables
-9,090659,aparatos de navegación para vehículos [ordenadores de a bordo]
-9,090660,imanes decorativos
-9,090661,teléfonos inalámbricos
-9,090662,alfombrillas de ratón
-9,090663,reproductores de sonido portátiles
-9,090664,reposamuñecas para utilizar con ordenadores
-9,090664,reposamuñecas para utilizar con computadoras
-9,090665,cables coaxiales
-9,090666,cables de fibra óptica
-9,090667,tapas de enchufe
-9,090667,tapas de toma de corriente
-9,090668,ecosondas hidrográficas
-9,090669,vallas electrificadas
-9,090670,software de juegos informáticos grabado
-9,090671,auriculares de diadema
-9,090671,cascos auriculares
-9,090672,balastos para aparatos de iluminación
-9,090673,aparatos de radiobúsqueda
-9,090674,aparatos de navegación por satélite
-9,090675,válvulas solenoides [interruptores electromagnéticos]
-9,090676,protectores de sobretensión
-9,090676,protectores de sobrevoltaje
-9,090677,radioteléfonos portátiles [walkie-talkies]
-9,090678,mangas catavientos
-9,090679,punteros electrónicos luminosos
-9,090680,maniquís para ejercicios de reanimación [aparatos de enseñanza]
-9,090682,reguladores de luces de escenario
-9,090683,relojes de arena
-9,090684,chips de ADN
-9,090685,lectores de DVD
-9,090685,reproductores de DVD
-9,090686,cajeros automáticos bancarios
-9,090687,semáforos [dispositivos de señalización]
-9,090688,kits manos libres para teléfonos
-9,090689,pantallas de amianto para bomberos
-9,090689,pantallas de asbesto para bomberos
-9,090690,cascos de equitación
-9,090691,ropa especial de laboratorio
-9,090692,pulseras de identificación codificadas magnéticas
-9,090693,transpondedores
-9,090694,tonos de llamada descargables para teléfonos móviles
-9,090694,melodías de llamada descargables para teléfonos móviles
-9,090695,archivos de música descargables
-9,090696,archivos de imagen descargables
-9,090697,maniquís para pruebas de colisión
-9,090697,maniquís para pruebas de choque
-9,090698,centrífugas de laboratorio
-9,090698,centrifugadoras de laboratorio
-9,090699,tarjetas de circuitos impresos
-9,090700,memorias USB
-9,090700,memorias flash
-9,090701,aparatos de GPS [sistema mundial de determinación de la posición]
-9,090702,reproductores multimedia portátiles
-9,090703,cordones para teléfonos celulares
-9,090703,cordones para teléfonos móviles
-9,090703,correas para teléfonos celulares
-9,090703,correas para teléfonos móviles
-9,090704,diodos electroluminiscentes [ledes]
-9,090705,triodos
-9,090706,transformadores elevadores
-9,090707,ordenadores de regazo
-9,090707,computadoras de regazo
-9,090708,mangueras contra incendios
-9,090709,bolsas especiales para ordenadores portátiles
-9,090709,bolsas especiales para computadoras portátiles
-9,090710,fundas para ordenadores portátiles
-9,090711,marcos para fotos digitales
-9,090712,cajas de Petri
-9,090713,tubos de Pitot
-9,090714,estroboscopios
-9,090715,conos de tráfico
-9,090716,etiquetas indicadoras de la temperatura que no sean para uso médico
-9,090717,aplicaciones informáticas descargables
-9,090718,lectores de libros electrónicos
-9,090719,teléfonos inteligentes
-9,090720,cartuchos de tóner vacíos para impresoras y fotocopiadoras
-9,090721,dispositivos de audio y vídeo para la vigilancia de bebés
-9,090721,vigilabebés
-9,090722,monitores de vídeo para la vigilancia de bebés
-9,090722,vigilabebés con cámara
-9,090723,parasoles para objetivos fotográficos
-9,090724,tabletas electrónicas
-9,090725,tarjetas de acceso codificadas
-9,090726,gafas 3D
-9,090726,anteojos 3D
-9,090727,tarjetas de memoria para máquinas de videojuegos
-9,090728,ropa antibalas
-9,090729,acelerómetros
-9,090730,adaptadores eléctricos
-9,090731,cápsulas de salvamento para desastres naturales
-9,090732,hardware
-9,090733,paneles solares para producir electricidad
-9,090734,teléfonos celulares
-9,090734,teléfonos móviles
-9,090735,miras telescópicas de artillería
-9,090736,letreros digitales
-9,090737,monitores de actividad física ponibles
-9,090738,cargadores para cigarrillos electrónicos
-9,090739,brazaletes conectados [instrumentos de medición]
-9,090740,carcasas para teléfonos inteligentes
-9,090741,estuches para teléfonos inteligentes
-9,090742,brazos extensibles para autofotos [monopies de mano]
-9,090743,calorímetros
-9,090744,caudalímetros
-9,090745,chalecos de seguridad reflectantes
-9,090746,collares electrónicos para el adiestramiento de animales
-9,090747,palancas de mando [joysticks] de ordenador, que no sean para videojuegos
-9,090747,palancas de mando [joysticks] de computadora, que no sean para videojuegos
-9,090748,gafas inteligentes
-9,090748,anteojos inteligentes
-9,090749,relojes inteligentes
-9,090750,aparatos de extinción de incendios
-9,090751,láminas protectoras especiales para pantallas de ordenador
-9,090751,láminas protectoras especiales para pantallas de computadora
-9,090752,protectores bucales para deportes
-9,090753,protectores de cabeza para deportes
-9,090754,agujas para brújulas topográficas
-9,090755,fichas de seguridad [dispositivos de cifrado]
-9,090756,detectores de infrarrojos
-9,090757,carcasas para organizadores personales digitales [PDA]
-9,090758,pesabebés
-9,090758,básculas de bebés
-9,090759,sistemas de control de acceso electrónicos para puertas interbloqueadas
-9,090760,cámaras termográficas
-9,090761,básculas con calculadora de masa corporal
-9,090762,carcasas para tabletas electrónicas
-9,090763,cajas negras [registradores de datos]
-9,090764,estaciones meteorológicas digitales
-9,090765,estaciones de recarga para vehículos eléctricos
-9,090766,terminales interactivos con pantalla táctil
-9,090767,anillos inteligentes
-9,090768,dispositivos eléctricos y electrónicos de efectos para instrumentos musicales
-9,090769,interfaces de audio
-9,090770,ecualizadores [aparatos de audio]
-9,090771,altavoces de frecuencias ultrabajas
-9,090772,básculas para cuartos de baño
-9,090773,termohigrómetros
-9,090774,biochips
-9,090775,películas de protección para teléfonos inteligentes
-9,090776,cascos de realidad virtual
-9,090777,pizarras interactivas electrónicas
-9,090777,pizarrones interactivos electrónicos
-9,090778,robots humanoides dotados de inteligencia artificial
-9,090779,mezcladores de audio
-9,090780,baterías de cigarrillos electrónicos
-9,090781,llaveros electrónicos en cuanto mandos a distancia
-9,090782,partituras electrónicas descargables
-9,090783,reglas T graduadas
-9,090784,escuadras graduadas
-9,090785,escuadras de medición
-9,090786,dispositivos electrónicos de visualización numérica
-9,090787,robots de laboratorio
-9,090788,robots pedagógicos
-9,090789,robots de vigilancia para la seguridad
-9,090790,organizadores personales digitales [PDA]
-9,090791,plataformas de software, grabado o descargable
-9,090792,buscadores de satélites
-9,090793,medidores de anillos
-9,090794,anilleros
-9,090795,clientes ligeros [ordenadores]
-9,090796,cámaras de marcha atrás para vehículos 
-9,090796,cámaras de reversa para vehículos
-9,090797,diccionarios electrónicos de bolsillo
-9,090798,simuladores para la formación en reanimación
-9,090799,arneses de cableado eléctrico para automóviles
-9,090799,haces de cables eléctricos para automóviles
-9,090800,tubos de buceo
-9,090801,silbatos de deporte
-9,090802,software salvapantallas para ordenadores, grabado o descargable
-9,090803,objetivos para autofotos
-9,090803,lentes para autofotos
-9,090804,elementos gráficos descargables para teléfonos móviles
-9,090805,aparatos de telecomunicaciones en forma de joyas
-9,090806,ordenadores ponibles
-9,090807,monitores de visualización de vídeo ponibles
-9,090808,aparatos de imagenología por resonancia magnética [IRM] que no sean para uso médico
-9,090809,punteros láser de señalización de emergencia
-9,090810,cartuchos de tinta vacíos para impresoras y fotocopiadoras
-9,090811,pedales wah-wah
-9,090812,instrumentos para medir la estatura
-9,090813,maniquís de peluquería [aparatos de enseñanza]
-9,090814,dispositivos para proyectar teclados virtuales
-9,090815,mantas de supervivencia
-9,090816,botes salvavidas
-9,090817,dispositivos para analizar el tamaño de nanopartículas
-9,090818,almohadillas para cascos auriculares
-9,090819,guantes de datos
-9,090820,bolas de seguimiento [periféricos de ordenador]
-9,090820,bolas de desplazamiento [periféricos de ordenador]
-9,090821,emoticonos descargables para teléfonos móviles
-9,090822,robots de telepresencia
-9,090823,termostatos digitales para la climatización
-9,090824,sensores piezoeléctricos
-9,090825,diodos electroluminiscentes orgánicos [OLED]
-9,090826,diodos electroluminiscentes de puntos cuánticos [QLED]
-9,090827,cuentagotas graduados que no sean para uso médico o doméstico
-9,090827,goteros graduados que no sean para uso médico o doméstico
-9,090828,enchufes hembra
-9,090828,tomacorrientes
-9,090829,software de juegos descargable
-9,090830,luces de emergencia no explosivas ni pirotécnicas
-9,090831,soportes especiales para ordenadores portátiles
-9,090832,chichoneras
-9,090832,cubrecabezas en cuanto cascos de protección
-9,090833,candados electrónicos
-9,090834,cinturones de lastre para bucear
-9,090835,auriculares para comunicación remota
-9,090836,sensores de estacionamiento para vehículos
-9,090837,impresoras de billetes [tickets]
-9,090837,impresoras de boletos
-9,090838,arneses de sujeción corporal para levantar cargas
-9,090839,sonajeros de señalización para dirigir el ganado 
-9,090840,proyectores de vídeo
-9,090841,claves criptográficas descargables para recibir y gastar criptomonedas
-9,090842,billeteras electrónicas descargables
-9,090842,monederos electrónicos descargables
-9,090843,datáfonos
-9,090843,terminales para tarjetas de crédito
-9,090844,pasaportes biométricos
-9,090844,pasaportes electrónicos 
-9,090845,tarjetas de identidad biométricas
+class|name
+9|Ábacos
+9|Abalorios para teléfonos móviles
+9|Aceleradores de gráficos
+9|Acelerómetros
+9|Acometidas de líneas eléctricas
+9|Acopladores ópticos
+9|Acoplamientos de fibra óptica
+9|Acumuladores (baterías)
+9|Acumuladores y baterías
+9|Adaptadores (electricidad)
+9|Adaptadores de corriente eléctrica
+9|Adaptadores de corriente para su uso en casquillos de encendedor de vehículos
+9|Adaptadores de enchufe
+9|Adaptadores de prueba para probar tableros de circuitos impresos
+9|Adaptadores de redes informáticas
+9|Adaptadores de tarjetas de memoria flash
+9|Adaptadores para enchufes
+9|Adaptadores para lentes de cámaras
+9|Afinadores de radiofrecuencia de vehículos
+9|Agendas electrónicas
+9|Agujas de zafiro para tocadiscos
+9|Aireadores para uso en laboratorio
+9|Alambre y cable eléctrico
+9|Alambres de resistencia
+9|Alambres eléctricos
+9|Alambres y cables eléctricos
+9|Alargadores
+9|Alarmas acústicas
+9|Alarmas antirrobo
+9|Alarmas antirrobo eléctricas y electrónicas
+9|Alarmas antirrobo y contra incendio
+9|Alarmas contra incendios
+9|Alarmas contra intrusiones
+9|Alarmas para la detección de gases inflamables
+9|Alfombrillas de ratón
+9|Alidadas
+9|Almohadillas de enfriamiento para computadores portátiles
+9|Almohadillas de mouse (periféricos computacionales)
+9|Almohadillas nasales de silicona para anteojos
+9|Altavoces
+9|Altavoces con amplificadores incorporados
+9|Altavoces de subgraves
+9|Altavoces inalámbricos
+9|Altavoces para automóviles
+9|Altímetros
+9|Amortiguadores de vibración para equipamiento de audio electrónico
+9|Amperímetros
+9|Amplificadores de guitarra
+9|Amplificadores de poder
+9|Amplificadores de sonido
+9|Amplificadores de tubo
+9|Amplificadores de válvula
+9|Amplificadores eléctricos para su uso con instrumentos musicales
+9|Amplificadores semiconductores ópticos
+9|Analizadores de acidez
+9|Analizadores de esperma animal para uso en laboratorio
+9|Analizadores de fluorescencia de rayos X
+9|Analizadores de gas de combustión
+9|Analizadores de grasa corporal para uso doméstico
+9|Analizadores de humedad de la piel, que no sean para uso médico
+9|Analizadores de inyectores diésel
+9|Analizadores de partículas de polvo
+9|Analizadores electroscópicos de fotoelectrones (que no sean para uso médico)
+9|Analizadores informatizados para motores de vehículos
+9|Anillos adaptadores de objetivos para cámaras
+9|Antenas
+9|Antenas de autos
+9|Antenas de microondas
+9|Antenas de placa de zona
+9|Antenas de radio y televisión
+9|Antenas de radiofrecuencia
+9|Antenas de recepción para la difusión vía satélite
+9|Antenas de satélite
+9|Antenas de transmisión de ondas de radio
+9|Antenas externas
+9|Antenas para aparatos de comunicación inalámbrica
+9|Antenas para radar
+9|Antenas parabólicas
+9|Antenas parabólicas de satélite
+9|Antenas parabólicas para transmisiones por satélite
+9|Anteojos antideslumbrantes
+9|Anteojos con revestimiento antireflectante
+9|Anteojos de deporte
+9|Anticátodos
+9|Antiparras de visión nocturna
+9|Aparato de medición de nivel de láser
+9|Aparatos acopladores acústicos
+9|Aparatos analizadores de aire
+9|Aparatos basados en computadores para diseñar planos de circuitos electrónicos
+9|Aparatos científicos para analizar el contenido de agua en productos de petróleo
+9|Aparatos de alarma e instalaciones de alarma
+9|Aparatos de cierre centralizado de puertas
+9|Aparatos de codificación y decodificación
+9|Aparatos de conmutación de audio
+9|Aparatos de control de flujo de gas
+9|Aparatos de control eléctrico para calefacción y manejo de energía
+9|Aparatos de control eléctricos
+9|Aparatos de control remoto para instalaciones de aire acondicionado
+9|Aparatos de cromatografía automática
+9|Aparatos de cromatografía automáticos de intercambio de iones para uso en laboratorio
+9|Aparatos de cromatografía de gases para uso en laboratorio
+9|Aparatos de cromatografía líquida para su uso en laboratorios
+9|Aparatos de cromatografía para laboratorios
+9|Aparatos de destilación para uso científico
+9|Aparatos de detección por infrarrojos
+9|Aparatos de doblaje de audio
+9|Aparatos de fax
+9|Aparatos de fotocopiado
+9|Aparatos de grabación de imágenes y sonido
+9|Aparatos de grabación y reproducción para transportadores de sonido e imagen
+9|Aparatos de guía para aterrizaje de aeronaves
+9|Aparatos de identificación animal electrónicos
+9|Aparatos de karaoke
+9|Aparatos de localización
+9|Aparatos de medición de polvo fino
+9|Aparatos de medición de radiactividad
+9|Aparatos de medición de temperatura y niveles de humedad en gases y sustancias sólidas
+9|Aparatos de medición del polvo
+9|Aparatos de medición y control para aparatos de tecnología de aire acondicionado
+9|Aparatos de medida de parámetros de antenas
+9|Aparatos de medida digitales
+9|Aparatos de montaje para cámaras y monitores
+9|Aparatos de monturas para diapositivas
+9|Aparatos de navegación para botes
+9|Aparatos de navegación para vehículos (computadoras de a bordo)
+9|Aparatos de pantallas de vídeo colocados en la cabeza
+9|Aparatos de proyección de diapositivas o fotografías
+9|Aparatos de proyección de fotografías
+9|Aparatos de pruebas para comprobar placas de circuitos impresos
+9|Aparatos de radio para vehículos
+9|Aparatos de reconocimiento ópticos de caracteres
+9|Aparatos de registro de películas
+9|Aparatos de reproducción de sonido
+9|Aparatos de respiración para la natación subacuática
+9|Aparatos de respiración subacuática
+9|Aparatos de telefonía celular
+9|Aparatos de telefonía inalámbrica
+9|Aparatos de telefotografía
+9|Aparatos de telemetría por control remoto
+9|Aparatos de televisión para proyección
+9|Aparatos de transmisión de microondas para programas de radio y mensajes
+9|Aparatos de transmisión de sonido
+9|Aparatos de transmisión de telecomunicaciones
+9|Aparatos de transmisión de video
+9|Aparatos de transmisión telegráfica
+9|Aparatos de transmisión y recepción de fax
+9|Aparatos de video
+9|Aparatos de visualización de puntuación (electrónicos)
+9|Aparatos e instrumentos de codificación y decodificación
+9|Aparatos e instrumentos de grabación de sonido (aparatos cinematográficos)
+9|Aparatos e instrumentos de grabación y reproducción de sonido
+9|Aparatos e instrumentos de navegación y posicionamiento
+9|Aparatos e instrumentos de pesaje
+9|Aparatos e instrumentos para transportar, distribuir, transformar, almacenar, regular o controlar la corriente eléctrica
+9|Aparatos e instrumentos tocadiscos
+9|Aparatos e instrumentos xerográficos
+9|Aparatos eléctricos para la modificación genética de células para uso en investigación científica
+9|Aparatos electrónicos utilizados para localizar artículos perdidos utilizando sistemas de posicionamiento globales o redes de comunicaciones celulares
+9|Aparatos evaluadores para acumuladores
+9|Aparatos extintores de incendio para vehículos
+9|Aparatos extintores de incendios
+9|Aparatos identificadores biométricos
+9|Aparatos interruptores automáticos (para telecomunicaciones)
+9|Aparatos medidores de distancias
+9|Aparatos multifuncionales que incorporan copiadoras y funciones de facsímiles en modo autónomo
+9|Aparatos para análisis de gases, líquidos y sólidos
+9|Aparatos para analizar gases
+9|Aparatos para control de parámetros de vuelo
+9|Aparatos para difusión, grabación, transmisión o reproducción de sonido o imágenes
+9|Aparatos para el control de la iluminación
+9|Aparatos para grabación, transmisión o reproducción de imágenes
+9|Aparatos para grabación, transmisión o reproducción de sonido e imágenes
+9|Aparatos para grabación, transmisión y reproducción de imágenes
+9|Aparatos para grabación, transmisión y reproducción de sonido e imágenes
+9|Aparatos para grabación, transmisión, procesamiento y reproducción de sonido, imágenes o datos
+9|Aparatos para grabar y reproducir voz
+9|Aparatos para interferir radares
+9|Aparatos para la grabación, transmisión y reproducción de sonido e imágenes
+9|Aparatos para la reproducción de películas
+9|Aparatos para limpiar cabezales de lectura magnéticos
+9|Aparatos para medir la alineación de las ruedas
+9|Aparatos para medir la velocidad del swing en golf
+9|Aparatos para prueba de frenos de vehículos
+9|Aparatos para prueba de transmisiones de vehículos
+9|Aparatos para pruebas de alcohol
+9|Aparatos para registrar el tiempo
+9|Aparatos para secar impresiones fotográficas
+9|Aparatos para transmisión de comunicaciones
+9|Aparatos para transmisión inalámbrica de información acústica
+9|Aparatos para transmisión y reproducción de sonido o imágenes
+9|Aparatos para transmitir programas de radio y mensajes de radio
+9|Aparatos periféricos informáticos
+9|Aparatos portátiles para la reproducción de sonido
+9|Aparatos radiotelefónicos
+9|Aparatos radiotelegráficos
+9|Aparatos receptores de televisión por satélite
+9|Aparatos resonadores
+9|Aparatos telefónicos
+9|Aparatos telefónicos con pantalla y teclado incorporados
+9|Aparatos telefónicos inalámbricos
+9|Aparatos telefónicos móviles con sistemas de fax incorporados
+9|Aparatos telegráficos automáticos
+9|Aparatos telegráficos manuales
+9|Aparatos transmisores y receptores para emisiones de radio y televisión y para transmisiones de larga distancia
+9|Aparatos video grabadores y video reproductores
+9|Aparatos y receptores telefónicos
+9|Archivos de música descargables
+9|Armazones de altavoces
+9|Arranques de batería
+9|Asistentes personales digitales
+9|Atenuadores
+9|Atenuadores de luces
+9|Atriles de soporte para micrófonos
+9|Audio casetes de audio vírgenes
+9|Audio cintas con música
+9|Audio cintas pregrabadas con música
+9|Audio cintas vírgenes
+9|Audio receptores y video receptores
+9|Auriculares
+9|Auriculares de botón
+9|Auriculares de conducción ósea
+9|Auriculares de supresión de ruidos
+9|Auriculares estéreo
+9|Auriculares manos libres para celulares
+9|Auriculares para juegos de realidad virtual
+9|Auriculares para música
+9|Auriculares para teléfonos
+9|Auriculares para teléfonos móviles
+9|Auriculares personales para aparatos de transmisión de sonido
+9|Auriculares personales para su uso con sistemas de transmisión de sonido
+9|Auriculares telefónicos
+9|Autobombas contra incendios
+9|Autocolimadores
+9|Autotemporizadores para cámaras
+9|Autotransformadores
+9|Balanzas de bolsillo
+9|Balanzas de refrigerante
+9|Balanzas digitales portátiles para pesar maletas
+9|Balanzas electrónicas de cocina
+9|Balanzas electrónicas de mano
+9|Balanzas electrónicas digitales portátiles
+9|Balizas para carreteras luminosas o mecánicas
+9|Balsas salvavidas
+9|Barcos-bomba contra incendios
+9|Barras de sonido
+9|Barreras y puertas de previo pago para estacionamientos de coches
+9|Báscula de baño
+9|Básculas
+9|Básculas digitales de cuarto de baño
+9|Básculas para bebés
+9|Básculas parlantes
+9|Bases de datos (electrónicas)
+9|Bases de datos electrónicas
+9|Bases de microscopios quirúrgicos
+9|Baterías
+9|Baterías de almacenamiento eléctrico
+9|Baterías de almacenamiento níquel-cadmio
+9|Baterías de ánodos
+9|Baterías de ion litio
+9|Baterías de litio secundarias
+9|Baterías eléctricas
+9|Baterías eléctricas para vehículos
+9|Baterías eléctricas recargables
+9|Baterías para coches
+9|Baterías para linternas
+9|Baterías para teléfonos móviles
+9|Baterías para uso con ayudas auditivas
+9|Baterías para vehículos
+9|Baterías recargables
+9|Baterías y cargadores de baterías
+9|Binoculares para la caza
+9|Biomicroscopios
+9|Biorreactores de uso en laboratorio
+9|Blancos de lente ópticos
+9|Bloques de bornes eléctricos
+9|Bloques de distribución de energía eléctrica
+9|Bobinas electromagnéticas
+9|Bobinas magnéticas y electromagnéticas
+9|Bocinas, auriculares, micrófonos y lectores de CD
+9|Bolígrafos con punta conductora para dispositivos con pantalla táctil
+9|Bolígrafos para pantallas táctiles
+9|Bolsas para cámaras y equipo fotográfico
+9|Bolsos especiales para ordenadores (computadoras) portátiles
+9|Bombillas de flash
+9|Bombillas de flash para uso en fotografía
+9|Borradores de cintas magnéticas
+9|Boyas de marcación y señalización
+9|Boyas de radio
+9|Boyas salvavidas
+9|Brazaletes de identificación magnéticamente codificados
+9|Brazos de tocadiscos
+9|Brújulas direccionales
+9|Brújulas giroscópicas magnéticas
+9|Brújulas magnéticas
+9|Brújulas magnéticas para agrimensura
+9|Brújulas marinas
+9|Cabezales basculantes para cámaras
+9|Cabezales de impresión para impresoras y trazadores (aparatos de medición)
+9|Cable de telecomunicación
+9|Cables adaptadores eléctricos
+9|Cables adaptadores para auriculares
+9|Cables aéreos de alta tensión
+9|Cables alargadores
+9|Cables conectores eléctricos
+9|Cables de alimentación eléctrica submarinos
+9|Cables de arranque
+9|Cables de arranque de batería
+9|Cables de audio
+9|Cables de batería
+9|Cables de carga eléctrica
+9|Cables de conexión
+9|Cables de corriente
+9|Cables de extensión telefónicos
+9|Cables de fibra óptica
+9|Cables de micrófonos
+9|Cables de relé de radio
+9|Cables de telecomunicaciones
+9|Cables eléctricos
+9|Cables eléctricos de aislamiento mineral
+9|Cables eléctricos para uso en conexiones
+9|Cables eléctricos y ópticos
+9|Cables eléctricos, conductores y partes de los mismos
+9|Cables ópticos
+9|Cables para guitarras
+9|Cables para ordenadores
+9|Cables para sistemas de transmisión de señal eléctrica y óptica
+9|Cables para transmisión de señal eléctrica u óptica
+9|Cables para transmisión de señal óptica
+9|Cables pasa corriente
+9|Cables USB
+9|Cables USB para teléfonos celulares
+9|Cables y alambres eléctricos
+9|Cables y fibras para la transmisión de sonidos e imágenes
+9|Cadenas de agrimensura
+9|Cadenas para gafas
+9|Cadenas para gafas y gafas de sol
+9|Cadenas para quevedos
+9|Cadenas y cordones para gafas
+9|Cadenas y cordones para gafas de sol
+9|Cajas de acumuladores
+9|Cajas de conexión eléctricas
+9|Cajas de distribución de electricidad
+9|Cajas de distribución para energía eléctrica
+9|Cajas de empalme
+9|Cajas de Petri
+9|Cajas de protección para discos magnéticos
+9|Cajas para altavoces
+9|Cajas para diapositivas
+9|Cajas registradoras
+9|Cajas registradoras automáticas
+9|Cajas registradoras, máquinas calculadoras, equipo de procesamiento de datos y computadoras
+9|Cajeros automáticos
+9|Calculadoras de bolsillo
+9|Calculadoras electrónicas
+9|Calculadoras electrónicas de bolsillo
+9|Calculadoras electrónicas de escritorio
+9|Calculadoras y máquinas calculadoras
+9|Calibrador angular
+9|Calibradores de la profundidad de travesaños
+9|Calibradores de la profundidad del dibujo de los neumáticos
+9|Calibradores pasa - no pasa
+9|Calibres anulares
+9|Calibres de herradura
+9|Calibres digitales de torsión
+9|Calibres electrónicos de corredera
+9|Calibres para agujeros
+9|Calibres para medir la longitud
+9|Calibres para medir la proporción aire/combustible
+9|Calorímetros
+9|Cámaras
+9|Cámaras cinematográficas
+9|Cámaras de ángulo ciego para vehículos
+9|Cámaras de caza
+9|Cámaras de monitorización e inspección de equipo en una estación de energía nuclear
+9|Cámaras de oxígeno hiperbárico que no sean para uso médico
+9|Cámaras de película fotográfica
+9|Cámaras de películas de auto-revelado
+9|Cámaras de placa
+9|Cámaras de televisión
+9|Cámaras de video portables con grabadoras de cassettes de video incluidas
+9|Cámaras desechables
+9|Cámaras digitales
+9|Cámaras digitales para uso industrial
+9|Cámaras endoscópicas para uso industrial
+9|Cámaras fotográficas
+9|Cámaras fotográficas de revelado instantáneo
+9|Cámaras infrarrojas
+9|Cámaras para películas de autorrevelado
+9|Cámaras para usos múltiples
+9|Cámaras que contienen un sensor de imagen lineal
+9|Cámaras réflex digitales (DSLR)
+9|Cámaras sin espejo
+9|Cámaras subacuáticas
+9|Cambiadiscos (periféricos informáticos)
+9|Cambiadores automáticos para teléfonos
+9|Cambiadores de monedas
+9|Campanas de flujo laminar para laboratorios
+9|Carcasas para diskettes y discos compactos
+9|Caretas para soldar
+9|Cargadores de baterías
+9|Cargadores de baterías de teléfonos móviles para su uso en vehículos
+9|Cargadores de baterías para ordenadores portátiles
+9|Cargadores de baterías para su uso con teléfonos
+9|Cargadores de pilas solares
+9|Cargadores inalámbricos
+9|Cargadores inalámbricos para teléfonos inteligentes
+9|Cargadores para acumuladores eléctricos
+9|Cargadores para baterías de tabletas
+9|Cargadores para equipamiento recargable
+9|Cargadores por USB
+9|Cargadores USB adaptados para tomas de encendedores de cigarrillos de automóviles
+9|Carretes para cámaras
+9|Carros de bomberos
+9|Cartuchos para juegos de computador
+9|Cartuchos y casetes de videojuegos
+9|Cascos con auriculares para su uso con ordenadores
+9|Cascos de bateador
+9|Cascos de ciclismo
+9|Cascos de equitación
+9|Cascos de fútbol
+9|Cascos de hockey sobre hielo
+9|Cascos de protección
+9|Cascos de seguridad para bicicleta
+9|Cascos de snowboard
+9|Cascos para fútbol americano
+9|Cascos para soldar
+9|Cascos protectores para deportes
+9|Cascos protectores para motociclista
+9|Casquillos móviles
+9|Catalejos
+9|Cátodos
+9|Caudalímetros
+9|Caudalímetros para gas
+9|Celdas y baterías eléctricas
+9|Celostatos
+9|Células de energía solar de silicio cristalino
+9|Células fotoeléctricas
+9|Células fotovoltaicas
+9|Células solares
+9|Células y módulos fotovoltaicos
+9|Centrales telefónicas automáticas
+9|Centralitas automáticas
+9|Centralitas de telecomunicaciones
+9|Cerraduras de seguridad eléctricas
+9|Cerraduras eléctricas para vehículos
+9|Cerraduras electromagnéticas
+9|Chalecos antibalas
+9|Chalecos salvavidas
+9|Chalecos salvavidas para animales de compañía
+9|Chalecos salvavidas para perros
+9|Chips de ADN
+9|Chips de ordenador
+9|Chips electrónicos para la manufactura de circuitos integrados
+9|Chips multiprocesadores
+9|Ciclocomputadoras
+9|Cierres controlados por radiofrecuencia
+9|Cierres de circuito eléctrico
+9|Cintas magnéticas vírgenes para lectoras de cinta
+9|Cintas métricas
+9|Cintas para limpiar cabezales de video grabadoras
+9|Cinturones de pesos para buceo
+9|Cinturones salvavidas
+9|Circuito electrónicos impresos para aparatos y tarjetas con circuitos integrados
+9|Circuitos de interface para cámaras de video
+9|Circuitos electrónicos
+9|Circuitos electrónicos integrados
+9|Circuitos impresos flexibles
+9|Circuitos impresos para ordenadores
+9|Circuitos integrados
+9|Circuitos lógicos
+9|Circuitos para alta tensión
+9|Clavijas de ensayo para comprobar placas de circuitos impresos
+9|Clavijas eléctricas
+9|Clinómetros
+9|Codificadores giratorios
+9|Codificadores magnéticos
+9|Colimadores
+9|Colorímetros
+9|Columnas de cromatografía para uso en laboratorio
+9|Columnas de destilación para uso en laboratorio
+9|Combinadores de antenas
+9|Comparadores
+9|Compases de corredera
+9|Compensadores de amplificador doble
+9|Compresores eléctricos
+9|Comprobadores de emisiones para motores diésel
+9|Comprobadores de graduación (comprobadores de calibración)
+9|Comprobadores de velocímetros
+9|Comprobadores de voltaje
+9|Computadora para gestión de dispositivos de control para aviones
+9|Computadoras
+9|Computadoras de bolsillo para toma de notas
+9|Computadoras de comunicaciones
+9|Computadoras de escritorio
+9|Computadoras electrónicas
+9|Computadoras para uso en la gestión de datos
+9|Computadoras personales
+9|Computadoras portátiles
+9|Computadoras y hardware informático
+9|Computadoras y periféricos informáticos
+9|Computadores miniatura que no utilizan monitor (stick PC)
+9|Computadores notebook
+9|Computadores portátiles
+9|Computadores tablet
+9|Concentradores (hubs) USB
+9|Condensadores cerámicos monolíticos
+9|Condensadores eléctricos
+9|Condensadores eléctricos para aparatos de telecomunicación
+9|Condensadores para microscopios
+9|Conducciones para cables eléctricos
+9|Conductores eléctricos
+9|Conductores LED
+9|Conductos acústicos
+9|Conector de enchufe
+9|Conectores de alimentación (eléctricos)
+9|Conectores de cabezal eléctricos
+9|Conectores de cables
+9|Conectores de enchufes
+9|Conectores de enchufes circulares
+9|Conectores de fibra óptica
+9|Conectores eléctricos
+9|Conectores eléctricos y electrónicos
+9|Conectores para aparatos telecomunicacionales
+9|Conectores para circuitos electrónicos
+9|Conectores telefónicos
+9|Conmutador de energía
+9|Conmutadores automáticos (para las telecomunicaciones)
+9|Conmutadores de ethernet
+9|Conmutadores eléctricos de intermitentes
+9|Conos de seguridad de tránsito
+9|Contactos eléctricos
+9|Contador de horas para motores
+9|Contadores de amperios-hora
+9|Contadores de centelleos
+9|Contadores de resistencia de aislamiento
+9|Contestador automático telefónico
+9|Contestadores telefónicos
+9|Contestadores telefónicos automáticos
+9|Controladores eléctricos
+9|Controladores electrónicos de la velocidad
+9|Controladores lógicos programables
+9|Controles remotos para proyectores
+9|Controles remotos para televisores
+9|Convertidores de corriente
+9|Convertidores de digital a analógico
+9|Convertidores de electricidad
+9|Convertidores de frecuencia
+9|Convertidores de frecuencia electrónicos para electromotores de alta velocidad
+9|Convertidores de frecuencia para accionadores
+9|Convertidores de moneda electrónicos
+9|Convertidores eléctricos
+9|Convertidores giratorios
+9|Convertidores para enchufes eléctricos
+9|Copiadoras digitales a color
+9|Cordones para gafas
+9|Cordones para quevedos
+9|Cordones para teléfonos celulares
+9|Correas para teléfonos celulares
+9|Correas para teléfonos móviles
+9|Crisoles para uso en laboratorio
+9|Cristales ópticos
+9|Cristales para gafas de sol
+9|Cuadros indicadores electrónicos
+9|Cubiertas de teclas para teclados de ordenador
+9|Cucharas dosificadoras
+9|Cupones electrónicos descargables
+9|Decodificador para televisión
+9|Demoduladores
+9|Demultiplexores
+9|Densímetros
+9|Densímetros para anticongelantes
+9|Densitómetros para café
+9|Descodificadores de televisión
+9|Desfasadores ópticos
+9|Detectores de billetes falsos
+9|Detectores de captura de electrones
+9|Detectores de cristal de galena para uso en electrónica
+9|Detectores de dióxido de carbono
+9|Detectores de fallas por ultrasonido
+9|Detectores de gas
+9|Detectores de humo y de incendios
+9|Detectores de metales
+9|Detectores de metales portátiles para controles de seguridad
+9|Detectores de monóxido de carbono
+9|Detectores de movimiento
+9|Detectores de movimiento para luces de seguridad
+9|Detectores de objetos magnéticos
+9|Detectores de radar
+9|Detectores de radiación
+9|Detectores magnéticos de vigas verticales
+9|Detectores pasivos de infrarrojos
+9|Diacs (diodos para corriente alterna)
+9|Diapositivas
+9|Diapositivas fotográficas
+9|Diarios personales electrónicos
+9|Diccionarios electrónicos de mano
+9|Dictáfono
+9|Dinamómetros
+9|Diodos
+9|Diodos de carburo de silicio
+9|Diodos de láser
+9|Diodos eléctricos
+9|Diodos electroluminiscentes orgánicos
+9|Diodos emisores de luz (leds)
+9|Diodos láser superluminiscentes
+9|Diodos luminosos
+9|Discos compactos con música
+9|Discos compactos de memoria de lectura (CD-ROM)
+9|Discos compactos de sólo lectura (CD ROM)
+9|Discos compactos vírgenes
+9|Discos de audio vírgenes
+9|Discos de ordenador vírgenes
+9|Discos duros
+9|Discos duros externos
+9|Discos fonográficos con música
+9|Discos fonográficos de larga duración (LP)
+9|Discos magnéticos vírgenes
+9|Discos ópticos vírgenes
+9|Discos versátiles digitales (DVDs) de ejercicios pregrabados
+9|Discos versátiles digitales (DVDs) que contienen música pre-grabada
+9|Discos vírgenes para grabar
+9|Disipadores de calor para ordenadores
+9|Diskettes (para computadores)
+9|Dispensadores electrónicos de boletos para estacionamientos
+9|Dispositivos de entrada para ordenadores
+9|Dispositivos de fax
+9|Dispositivos de iluminación para la realización de fotografías
+9|Dispositivos de iluminación para microscopios
+9|Dispositivos de laboratorio para detectar secuencias genéticas
+9|Dispositivos de manos libres para teléfonos móviles
+9|Dispositivos de medida del diámetro de cables
+9|Dispositivos de montaje cinematográfico
+9|Dispositivos de navegación por sistema de posicionamiento global
+9|Dispositivos disyuntores termomagnéticos
+9|Dispositivos generadores de imágenes de huellas digitales
+9|Dispositivos ópticos de metrología de frecuencia
+9|Dispositivos para analizar la secuencia de proteínas utilizados como aparatos de laboratorio
+9|Dispositivos para transmisiones de radio inalámbrica
+9|Dispositivos para uso en manos libres de teléfonos móviles
+9|Dispositivos semiconductores
+9|Disyuntores
+9|Duplexores
+9|DVDs pregrabados que contienen música
+9|Electrodos
+9|Electrodos de grafito
+9|Electrodos para investigación en laboratorios
+9|Electroimanes
+9|Electrolizadores
+9|Electrolizadores (células electrolíticas)
+9|Elementos semiconductores de energía
+9|Emisores de señales electrónicas
+9|Emisores de televisión
+9|Empalmadoras para películas
+9|Empalmes eléctricos
+9|Empalmes para transmisión de líneas eléctricas
+9|Enchufes de banana
+9|Enchufes de contacto de seguridad
+9|Enchufes de salida múltiples
+9|Enchufes eléctricos
+9|Enrutadores de red
+9|Enrutadores de redes informáticas
+9|Enrutadores USB inalámbricos
+9|Ensamblajes de cerraduras electrónicas
+9|Equipo de procesamiento de textos
+9|Equipo electrónico para detección de minas
+9|Equipo endoscópico para uso industrial
+9|Equipo periférico informático
+9|Equipos de localización
+9|Equipos de música (estéreos) para coches
+9|Equipos de radio para el control del tráfico aéreo
+9|Equipos lectores de tarjetas
+9|Equipos pararrayos
+9|Escafandras autónomas
+9|Escáner de imágenes
+9|Escáneres 3D
+9|Escáneres biométricos del iris
+9|Escáneres de documentos portátiles
+9|Escáneres de huellas dactilares
+9|Escáneres de mano
+9|Escáneres de rayos X de cuerpo completo para fines de seguridad
+9|Escáneres digitales de entrada y salida
+9|Escáneres gráficos digitales
+9|Escáneres ópticos
+9|Escáneres para códigos de barra
+9|Escáneres para control automático de superficies
+9|Escáneres tridimensionales portátiles
+9|Escudos de protección de la cara
+9|Escudos de protección personal antibalas en la forma de mochilas
+9|Escudos protectores para policías
+9|Esferómetros
+9|Espectrógrafos
+9|Espectrógrafos astronómicos
+9|Espejos de inspección
+9|Estabilizadores de frecuencia
+9|Estabilizadores de tensión
+9|Estantes de secado (fotografía)
+9|Estereoscopios
+9|Estiletes capacitivos para su uso con dispositivos de pantalla táctil
+9|Estroboscopios
+9|Estuches adaptados para instrumentos de disección no para uso médico
+9|Estuches de baterías
+9|Estuches de gafas
+9|Estuches de teclado para teléfonos inteligentes
+9|Estuches de transporte de computadores notebook
+9|Estuches de transporte y contenedores para lentes de contacto
+9|Estuches especialmente adaptados para artículos de óptica
+9|Estuches especialmente adaptados para cámaras a prueba de agua
+9|Estuches impermeables para cámaras de vídeo
+9|Estuches para aparatos fotográficos
+9|Estuches para calculadoras de bolsillo
+9|Estuches para cámaras
+9|Estuches para gafas
+9|Estuches para gafas (anteojos)
+9|Estuches para gafas para niños
+9|Estuches para gafas y gafas de sol
+9|Estuches para gafas, quevedos y lentes de contacto
+9|Estuches para lentes de contacto
+9|Estuches para llevar lentes de contacto
+9|Estuches para ordenadores tipo tablilla
+9|Estuches para teléfonos
+9|Estuches para teléfonos móviles
+9|Etiquetas con información grabada o codificada de forma magnética, óptica o electrónica
+9|Etiquetas de identificación por radiofrecuencia (RFID)
+9|Etiquetas electrónicas para mercancías
+9|Etiquetas indicadoras de la temperatura que no sean para uso médico
+9|Extintores
+9|Extintores de fuego
+9|Fibras ópticas
+9|Fibras ópticas no lineales
+9|Fibroscopios, que no sean para uso médico
+9|Filamentos conductores de luz
+9|Filtros antiparasitarios para radio
+9|Filtros antirreflejo para televisores
+9|Filtros fotográficos
+9|Filtros fotográficos para cámaras
+9|Filtros ópticos para pantallas
+9|Filtros para dispositivos ópticos
+9|Filtros para laboratorios
+9|Flashes para cámaras
+9|Fonocaptores electrónicos para guitarras y bajos
+9|Fonocaptores para aparatos de telecomunicación
+9|Fonógrafos eléctricos
+9|Fotodiodos
+9|Fotómetros
+9|Fotorresistencias
+9|Frascos de laboratorio
+9|Frecuencímetros
+9|Fuentes de alimentación de conmutación de alta frecuencia
+9|Fuentes de alimentación para estabilizar el voltaje
+9|Fundas especialmente adaptadas para reproductores multimedia portátiles
+9|Fundas impermeables para teléfonos inteligentes
+9|Fundas para agendas electrónicas
+9|Fundas para cables eléctricos
+9|Fundas para ordenadores (computadoras) portátiles
+9|Fundas para teclados de ordenador
+9|Fundas para teléfonos inteligentes
+9|Fundas para teléfonos móviles
+9|Fundas y estuches especialmente adaptados para transportar teléfonos portátiles y equipamiento telefónico
+9|Fusibles eléctricos
+9|Fusibles para aparatos de telecomunicación
+9|Fusibles para corriente eléctrica
+9|Gafas
+9|Gafas (anteojos o antiparras)
+9|Gafas (anteojos) de deporte
+9|Gafas (óptica)
+9|Gafas antideslumbrantes
+9|Gafas correctoras para daltónicos
+9|Gafas de buceo
+9|Gafas de deporte
+9|Gafas de esquí
+9|Gafas de natación
+9|Gafas de niños
+9|Gafas de protección
+9|Gafas de realidad virtual
+9|Gafas de seguridad anti vaho
+9|Gafas de sol
+9|Gafas de sol para mascotas
+9|Gafas de sol y gafas
+9|Gafas de soldadura
+9|Gafas para glaciares
+9|Gafas para leer
+9|Gafas polarizadas
+9|Gafas y gafas de sol
+9|Gafas y máscaras de protección contra el polvo
+9|Galgas de deformación
+9|Galgas de espesores
+9|Galgas de separación para bujías
+9|Gasómetros (instrumentos de medición)
+9|Gemelos (óptica)
+9|Gemelos de opera
+9|Gemelos de teatro
+9|Generadores de reloj para ordenadores
+9|Girocompases
+9|Girómetros
+9|Giróscopos
+9|Globos meteorológicos
+9|Grabaciones de audio y video descargables
+9|Grabaciones de sonido musical descargables
+9|Grabaciones de vídeos musicales descargables
+9|Grabaciones descargables de video y audio con música e interpretaciones artísticas
+9|Grabaciones musicales descargables
+9|Grabadoras de audio cintas
+9|Grabadoras de casetes
+9|Grabadoras de CD-ROM
+9|Grabadoras de cinta magnética
+9|Grabadoras de discos compactos
+9|Grabadoras de DVD
+9|Grabadoras de teléfonos
+9|Grabadoras de televisión y video
+9|Grabadoras de vídeo
+9|Grabadoras de video casete
+9|Grabadoras de videocinta
+9|Grabadoras personales de video (PVRs)
+9|Grabadoras y lectores de cinta magnética
+9|Grabadores de vídeo digitales
+9|Grabadores de voz digitales
+9|Gráficos computacionales descargables
+9|Gráficos descargables para teléfonos móviles
+9|Gramiles de ebanista
+9|Gramófonos
+9|Gravímetros
+9|Guantes de protección contra accidentes
+9|Guantes resistentes al fuego
+9|Hardware de almacenamiento conectado en red (NAS)
+9|Hardware informático para telecomunicaciones
+9|Hardware informático y dispositivos periféricos
+9|Hardware informático y dispositivos periféricos informáticos
+9|Hardware informático y periféricos
+9|Hardware informático y periféricos informáticos
+9|Hardware informático y sus dispositivos periféricos
+9|Hardware para ordenadores
+9|Hardware para puesta en red de ordenadores
+9|Higrómetros
+9|Hilos de aleaciones metálicas (fusibles)
+9|Hilos de bobinado (electricidad)
+9|Hilos telefónicos
+9|Hilos telefónicos magnéticos
+9|Hilos telegráficos
+9|Hisopos de laboratorio (instrumentos de laboratorio)
+9|Hornos de laboratorio
+9|Hubs (concentradores) de redes informáticas
+9|Imanes decorativos
+9|Imanes decorativos para refrigeradores
+9|Imanes para uso industrial
+9|Impresora de computadora
+9|Impresoras a color
+9|Impresoras de documentos para computadoras
+9|Impresoras de inyección de tinta
+9|Impresoras de inyección de tinta a color
+9|Impresoras de vídeo
+9|Impresoras digitales a color
+9|Impresoras fotográficas
+9|Impresoras láser [de ordenador]
+9|Impresoras térmicas
+9|Incubadoras para cultivos bacterianos
+9|Indicadores automáticos de baja presión en neumáticos
+9|Indicadores de altitud automáticos
+9|Indicadores de fase
+9|Indicadores de nivel
+9|Indicadores de nivel (niveles de burbuja)
+9|Indicadores de pendiente
+9|Indicadores de presión de gas
+9|Indicadores de presión de neumáticos
+9|Indicadores de sobrealimentación
+9|Indicadores de temperatura
+9|Indicadores de temperatura de agua
+9|Indicadores de temperatura de los gases de escape
+9|Indicadores de velocidad
+9|Indicadores del nivel de agua
+9|Indicadores luminosos de salida
+9|Indicadores luminosos para aparatos de telecomunicación
+9|Inducidos para uso en Aparatos eléctricos
+9|Instalaciones eléctricas para el control remoto de operaciones industriales
+9|Instalaciones eléctricas y electrónicas para vigilancia por vídeo
+9|Instrucciones de uso y funcionamiento almacenadas en formato digital para ordenadores y software informático, en particular en disquetes o discos compactos
+9|Instrumentos de agrimensura
+9|Instrumentos de análisis para fotogrametría
+9|Instrumentos de control de calderas
+9|Instrumentos de detección de radiación
+9|Instrumentos de disección para fines científicos o de investigación
+9|Instrumentos de medición de resistencia
+9|Instrumentos de medida de nivel y nivel de llenado
+9|Instrumentos de medida del flujo
+9|Instrumentos de navegación eléctricos
+9|Instrumentos meteorológicos
+9|Instrumentos para la medición de parámetros de calidad de la leche
+9|Instrumentos para medir longitudes
+9|Intensificadores de imagen
+9|Intercomunicadores
+9|Intercomunicadores de emergencia portátiles
+9|Interfaces (informática)
+9|Interfaces para detectores
+9|Interfaces y dispositivos periféricos informáticos
+9|Interferómetros
+9|Interruptores
+9|Interruptores de alta frecuencia
+9|Interruptores de cambio para aparatos telefónicos
+9|Interruptores de corriente eléctrica
+9|Interruptores de luz
+9|Interruptores de mercurio
+9|Interruptores de redes computacionales
+9|Interruptores diferenciales
+9|Interruptores eléctricos
+9|Interruptores locales
+9|Interruptores para lámparas fluorescentes
+9|Interruptores piezoeléctricos
+9|Interruptores temporizados
+9|Inversores
+9|Inversores fotovoltaicos
+9|Inversores para fuentes de alimentación
+9|Jarras de medir
+9|Jirafas para micrófonos
+9|Láminas semiconductoras
+9|Lámparas de señalización de avería para vehículos
+9|Lanzas para mangas de incendio
+9|Lapiceras ópticas-magnéticas
+9|Lápices comprobadores de voltaje eléctrico
+9|Lápices ópticos
+9|Láseres para tomar medidas
+9|Láseres que no sean para uso médico
+9|LCDs (pantallas de cristal líquido)
+9|Lector de disco versátil digital
+9|Lectores biométricos
+9|Lectores biométricos de retina
+9|Lectores de audio casetes
+9|Lectores de audio casetes y discos compactos
+9|Lectores de audio y video casete
+9|Lectores de bandas magnéticas
+9|Lectores de casetes
+9|Lectores de casetes para coches
+9|Lectores de CD
+9|Lectores de cintas y videocintas
+9|Lectores de códigos de barras
+9|Lectores de códigos ópticos
+9|Lectores de discos compactos
+9|Lectores de discos ópticos
+9|Lectores de DVD
+9|Lectores de identificación por radiofrecuencia (RFID)
+9|Lectores de libros digitales
+9|Lectores de microfilmes
+9|Lectores de microplacas
+9|Lectores de tarjeta de memoria
+9|Lectores de tarjetas con chip
+9|Lectores de tarjetas de crédito
+9|Lectores de tarjetas de memoria flash
+9|Lectores de tarjetas electrónicas
+9|Lectores de tarjetas inteligentes
+9|Lectores de tarjetas magnéticas codificadas
+9|Lectores de videodiscos
+9|Lectores MP3
+9|Lectores ópticos
+9|Lectores para discos compactos digitales
+9|Lectores y grabadoras de audio y video digital
+9|Lectores y grabadoras de video combinados
+9|Lente circular
+9|Lentes antirreflectantes
+9|Lentes con clips magnéticos para gafas de sol
+9|Lentes correctoras
+9|Lentes de cámara de teléfonos inteligentes
+9|Lentes de contacto
+9|Lentes ojo de pez para cámaras
+9|Lentes para caretas de protección facial
+9|Lentes para gafas
+9|Lentes para gafas (anteojos)
+9|Lentes semiterminadas para gafas
+9|Libretas digitales
+9|Libros electrónicos descargables en el ámbito de la enseñanza del golf
+9|Limitadores de potencia
+9|Limpiadores de cinta magnética
+9|Luces de seguridad parpadeantes
+9|Luces de señalización de emergencia
+9|Luces giratorias (señalización)
+9|Luminómetros
+9|Lupas
+9|Lupas de joyeros
+9|Lupas de relojeros
+9|Magnetómetros
+9|Magnetos de borrar
+9|Magnetos de refrigerador
+9|Mangas catavientos (indicadores de dirección del viento)
+9|Mangas catavientos (indicadores del viento)
+9|Mangueras de fuego
+9|Manguitos de unión para cables eléctricos
+9|Manguitos de unión para fibra óptica
+9|Maniquíes para pruebas de colisión
+9|Manómetros
+9|Manómetros de alta presión
+9|Mantas extintoras de fuego
+9|Mantas ignífugas
+9|Mantas ignífugas y extintores de fuego
+9|Mapas de carreteras descargables
+9|Máquinas calculadoras y equipo de procesamiento de datos
+9|Máquinas calculadoras, equipos de procesamiento de datos y computadoras
+9|Máquinas codificadoras para tarjetas de crédito (periféricos informáticos)
+9|Máquinas copiadoras electroestáticas
+9|Máquinas de calcular
+9|Máquinas de contabilidad
+9|Máquinas de cribado de seguridad por rayos X
+9|Máquinas de dictar
+9|Máquinas de edición de películas
+9|Máquinas de ensayo de compresión para metales
+9|Máquinas de fax móviles o portátiles
+9|Máquinas de fotocopiado
+9|Máquinas de grabación y reproducción de imágenes y sonido
+9|Máquinas de medida de nivel para agrimensura
+9|Máquinas de navegación de larga distancia (LORAN)
+9|Máquinas de pesaje
+9|Máquinas de procesamiento de textos
+9|Máquinas de sumar
+9|Máquinas de transmisión de fax
+9|Máquinas de votación
+9|Máquinas e instrumentos automáticos de control de fluidos
+9|Máquinas e instrumentos automáticos de control de flujo de líquidos
+9|Máquinas e instrumentos automáticos de control de nivel de líquidos
+9|Máquinas e instrumentos automáticos de control de presión
+9|Máquinas e instrumentos de control de combustión automáticos.
+9|Máquinas e instrumentos de medición astrométrica
+9|Máquinas e instrumentos de medición de roscas de tornillo
+9|Máquinas electrónicas de comprobación de tickets
+9|Máquinas electrónicas para lectura de tarjetas de crédito y grabación de operaciones financieras
+9|Máquinas fotocopiadoras
+9|Máquinas para contar y clasificar dinero
+9|Máquinas parlantes
+9|Máquinas y aparatos cinematográficos
+9|Máquinas y aparatos de comunicaciones de un canal para estaciones fijas
+9|Máquinas y aparatos de radar
+9|Máquinas y aparatos de radio comunicación marítima
+9|Máquinas y aparatos de radiocomunicación para la aeronáutica
+9|Máquinas y aparatos de radiofaros
+9|Marcadores automáticos de teléfono
+9|Marcos monoculares
+9|Marcos para fotos digitales
+9|Máscaras antipolvo
+9|Máscaras de buceo
+9|Máscaras de gas
+9|Máscaras de protección
+9|Mascarillas de buzo
+9|Material volumétrico graduado de vidrio
+9|Mecanismos de previo pago para televisores
+9|Mecanismos para aparatos accionados con monedas
+9|Medidores acústicos
+9|Medidores de acidez
+9|Medidores de agua
+9|Medidores de bebidas espirituosas
+9|Medidores de concentración
+9|Medidores de electricidad
+9|Medidores de exposición para aparatos fotográficos
+9|Medidores de flujos luminosos
+9|Medidores de grosor ultrasónicos
+9|Medidores de juntas
+9|Medidores de presión del viento
+9|Medidores de presión para neumáticos
+9|Medidores de refrigerante
+9|Medidores de vibración
+9|Medidores de vibración electrotécnicos
+9|Medidores del nivel de sonido
+9|Medidores del ruido
+9|Megáfonos
+9|Memorias de disco
+9|Memorias electrónicas
+9|Memorias para equipo de procesamiento de datos
+9|Memorias para uso en computadoras
+9|Memorias semiconductoras
+9|Memorias USB en blanco
+9|Mensáfono
+9|Mesas de mezcla para video
+9|Metrónomos
+9|Metrónomos electrónicos
+9|Mezcladoras de sonido
+9|Mezcladoras de sonido con amplificadores integrados
+9|Mezcladores de gases para laboratorio
+9|Microchips
+9|Microchips (hardware)
+9|Microcomprobadores de dureza
+9|Microcomputadora
+9|Microcomputadoras
+9|Microcontroladores
+9|Microfilmes sensibilizados, expuestos
+9|Micrófonos
+9|Micrófonos binaurales
+9|Micrófonos para aparatos de telecomunicación
+9|Micrófonos para dispositivos de comunicación
+9|Micromatrices de ADN
+9|Microprocesadores
+9|Microprocesadores y semiconductores
+9|Microscopios
+9|Microscopios biológicos
+9|Microscopios con LEDs
+9|Microscopios de electrones
+9|Microscopios de fluorescencia
+9|Microscopios de sonda de barrido
+9|Microscopios electrónico de barrido
+9|Microscopios electrónicos de transmisión
+9|Microscopios incluidos los estereoscópicos
+9|Microscopios metalúrgicos
+9|Microscopios polarizantes
+9|Microscopios y sus partes
+9|Microtomos
+9|Miniproyectores
+9|Miras de arco telescópicas
+9|Miras telescópicas
+9|Miras telescópicas para armas de fuego
+9|Mirillas ópticas para puertas
+9|Módems
+9|Módems de comunicación
+9|Módems externos
+9|Módems internos
+9|Módulo de circuito integrado
+9|Módulos de circuito integrado
+9|Módulos de expansión de memoria
+9|Módulos de memoria
+9|Módulos de monitoreo de tensión
+9|Módulos de rectificador
+9|Monitores de bebés
+9|Monitores de oxígeno atmosférico
+9|Monitores de televisión
+9|Monitores de video
+9|Monitores electrónicos de dióxido de carbono (que no sean para uso médico)
+9|Monitores LCD
+9|Monitores LED
+9|Monitores para la señalización digital
+9|Monóculos
+9|Montaduras de gafas
+9|Montaduras de gafas y gafas de sol
+9|Montaduras de gafas y quevedos
+9|Monturas de gafas
+9|Monturas de gafas (anteojos)
+9|Monturas de gafas metálicas y de material sintético
+9|Monturas de quevedos
+9|Monturas para diapositivas
+9|Monturas para gafas hechas de metal o combinación de metal y plástico
+9|Monturas para objetivos de cámaras
+9|Multiplexor de video
+9|Multiplexores
+9|Multiplexores de telecomunicaciones
+9|Multiplicadores
+9|Música digital descargable de la Internet
+9|Niveles de burbuja
+9|Núcleos magnéticos
+9|Objetivos de astrofotografía
+9|Objetivos de microscopios
+9|Obleas para circuitos integrados
+9|Obleas semiconductoras estructuradas
+9|Obleas solares
+9|Obturadores (para camaras)
+9|Obturadores de cámara
+9|Obturadores de lentes
+9|Obturadores ópticos
+9|Obturadores para cámaras
+9|Odómetros
+9|Ondámetros
+9|Opacímetro
+9|Ordenadores cuánticos
+9|Ordenadores de bolsillo
+9|Ordenadores de navegación para coches
+9|Ordenadores para buceo subacuático
+9|Organizadores personales electrónicos
+9|Osciladores
+9|Oscilógrafos
+9|Oscilógrafos (osciloscopios)
+9|Osciloscopios
+9|Ovoscopios
+9|Ozonizadores
+9|Pabellones (conos) de altavoces
+9|Palancas de mando (joysticks) para ordenadores
+9|Palmers
+9|Paneles de alarma
+9|Paneles de circuitos que contienen circuitos integrados
+9|Paneles de control eléctricos
+9|Paneles de LCD
+9|Paneles digitales electrónicos
+9|Paneles táctiles
+9|Pantalla de cristal líquido de transistores de película fina (TFT-LCD)
+9|Pantalla electroforética
+9|Pantallas de computadora
+9|Pantallas de ordenador
+9|Pantallas de protección de asbesto para bomberos
+9|Pantallas de protección facial para cascos de protección
+9|Pantallas de proyección para películas cinematográficas
+9|Pantallas de radar
+9|Pantallas fluorescentes
+9|Pantallas grandes de LCD
+9|Pantallas para teléfonos inteligentes
+9|Pantallas táctiles
+9|Pararrayos
+9|Parasoles para cámaras
+9|Parasoles para objetivos de cámaras
+9|Partes metálicas de protección para zapatos y botas
+9|Patas de reemplazo para mouse de computador
+9|Patillas de gafas
+9|Película cinematográfica impresionada
+9|Películas cinematográficas expuestas
+9|Películas de cámara expuestas
+9|Películas de diapositivas impresionadas
+9|Periféricos informáticos
+9|Periféricos informáticos inalámbricos
+9|Periscopios
+9|Pértigas (jirafas) de brazo móvil para aparatos de transmisión de sonido
+9|Pesas de prueba (medición)
+9|Pesas para balanzas
+9|Pies para aparatos fotográficos
+9|Piezas para protección de los ojos
+9|Pilas de combustible
+9|Pilas galvánicas
+9|Pilas húmedas
+9|Pilas secas
+9|Pilas secas y baterías
+9|Pilas solares
+9|Pinzas nasales para natación
+9|Pizarras interactivas para ordenador
+9|Placa de circuitos electrónicos
+9|Placas de circuitos
+9|Placas de circuitos de vídeo
+9|Placas de memoria
+9|Placas de Petri para uso en investigaciones de laboratorio
+9|Placas madre
+9|Placas para acumuladores eléctricos
+9|Planetarios
+9|Planímetros
+9|Plantillas de diseño gráfico descargables
+9|Platos giratorios para tocadiscos
+9|Pletinas de grabación
+9|Plumas electrónicas
+9|Plumas magnéticas
+9|Portagafas
+9|Portapipetas para laboratorios
+9|Prendas aislantes para protección contra accidentes o lesiones
+9|Prismas para microscopios
+9|Prismas para telescopios
+9|Prismas para uso en óptica
+9|Prismáticos
+9|Probadores de circuitos
+9|Probadores de tubos al vacío
+9|Procesadores de datos y textos
+9|Procesadores de efectos para guitarras
+9|Procesadores de imágenes de trama
+9|Procesadores de señal digital
+9|Procesadores de señales de voces digitales
+9|Procesadores de vídeo
+9|Procesadores digitales de sonido
+9|Programas computacionales legibles por maquina para uso en la reproducción musical
+9|Programas computacionales para búsqueda remota de contenido en computadores y redes de computadores
+9|Programas computacionales para juegos de video y computador
+9|Programas computacionales para uso con internet y world wide web
+9|Programas computacionales para uso en diseño de interfaces
+9|Programas de computación grabados en medios de datos (software) diseñados para su uso en construcción y manufacturaautomática
+9|Programas de computación para habilitar el acceso o control de entrada
+9|Programas de computación para juegos pre-grabados
+9|Programas de computación para la búsqueda de contenidos en redes de computadores por control remoto
+9|Programas de computación utilizados para sistemas de cajas registradoras electrónicas
+9|Programas de computadora para conexión remota a computadoras o a redes informáticas
+9|Programas de computadora para la edición de imágenes, sonido y video
+9|Programas de grabación de circuitos electrónicos para aparatos de entretenimiento para uso con pantallas de cristal liquido
+9|Programas de juegos de ordenador descargables
+9|Programas de juegos de ordenador grabados
+9|Programas de juegos informáticos
+9|Programas de juegos informáticos descargables desde la Internet
+9|Programas de juegos informáticos descargables desde una red informática mundial
+9|Programas de juegos informáticos multimedia interactivos
+9|Programas de juegos informáticos para uso en teléfonos móviles
+9|Programas de juegos informáticos y videojuegos
+9|Programas de ordenador para la gestión de redes
+9|Programas de sistema operativo
+9|Programas de software para la gestión de hojas de cálculo
+9|Programas de videojuegos descargables
+9|Programas informáticos para cifrado
+9|Programas informáticos para el reconocimiento óptico de caracteres
+9|Programas informáticos para gestión de documentos
+9|Programas informáticos para la producción de modelos financieros
+9|Programas informáticos para su uso en el control de acceso a ordenadores
+9|Protecciones laterales para anteojos
+9|Protectores bucales de uso atlético
+9|Protectores bucales para el boxeo
+9|Protectores de sobrevoltaje
+9|Proyectores cinematográficos
+9|Proyectores de diapositivas
+9|Proyectores de enfoque automáticos
+9|Proyectores de imagen
+9|Proyectores de películas
+9|Proyectores de perfiles
+9|Proyectores de sonido y amplificadores
+9|Proyectores de video
+9|Proyectores digitales
+9|Proyectores en particular proyectores para la industria del entretenimiento
+9|Proyectores LCD
+9|Proyectores multimedia
+9|Proyectores para la edición de películas
+9|Proyectores planetarios
+9|Puertos paralelos de ordenador
+9|Punteros láser
+9|Punteros luminosos
+9|Quevedos
+9|Radar para patrullaje marítimo
+9|Radares
+9|Radio receptores
+9|Radio receptores y monitores para reproducción de sonido y señales
+9|Radio receptores y sintonizadores de señales de radio
+9|Radio transceptores
+9|Radio transmisores
+9|Radio transmisores y receptores para mandos a distancia y controles de radio
+9|Radiogoniómetros
+9|Radiografías que no sean para uso médico
+9|Radios bidireccionales
+9|Radios de corto alcance
+9|Radios inalámbricos de banda ancha
+9|Radios portátiles
+9|Ratones de bola
+9|Ratones de bola (dispositivos de entrada)
+9|Ratones de computadora
+9|Ratones de computadora inalámbricos
+9|Reactores de alta tensión
+9|Reactores fotoquímicos de laboratorio
+9|Reactores químicos de laboratorio
+9|Recargadores para acumuladores eléctricos
+9|Receptores audiovisuales
+9|Receptores de audio y video
+9|Receptores de radiofrecuencia
+9|Receptores de televisión (televisores)
+9|Receptores de televisión por cable
+9|Receptores de video
+9|Receptores para GPS
+9|Receptores para recepción de televisión por cable
+9|Receptores para satélites
+9|Receptores satelitales
+9|Recipientes de vidrio graduados
+9|Recipientes de vidrio para experimentos científicos en laboratorios
+9|Rectificadores de corriente
+9|Redes de protección contra accidentes
+9|Redes de seguridad
+9|Reflectores ópticos
+9|Reflectores para microscopios
+9|Reflectores para señales de tráfico
+9|Reflectores para telescopios
+9|Refractómetros
+9|Registradores de presión
+9|Reglas de cálculo
+9|Reglas de carpintero (reglas de corredera)
+9|Reglas graduadas
+9|Reglas para medir
+9|Reglas plegables de carpintero
+9|Reguladores de iluminación
+9|Reguladores de intensidad de luz
+9|Reguladores de tensión
+9|Reguladores de tensión (voltaje) para vehículos
+9|Reguladores de tensión para líneas eléctricas
+9|Reguladores de voltaje de inducción
+9|Rejillas para acumuladores eléctricos
+9|Relés coaxiales
+9|Relés de enclavamiento accionados por impulsos
+9|Relés de protección de sobretensión
+9|Relés de sobrecarga
+9|Relojes de arena
+9|Relojes de fichar
+9|Relojes de fichar informatizados con función de reconocimiento dactilar
+9|Repetidor eléctrico
+9|Repetidor eléctricos y transformadores
+9|Repetidoras para estaciones de radio y televisión
+9|Reposamuñecas para utilizar con computadoras
+9|Reproductores de discos compactos para su uso con ordenadores
+9|Reproductores mp4
+9|Reproductores multimedia portátiles
+9|Resistencias eléctricas
+9|Resistencias eléctricas (para aparatos de telecomunicaciones)
+9|Resonadores
+9|Rociadores automáticos contra incendios
+9|Ropa de protección contra accidentes
+9|Ropa de protección contra el fuego
+9|Ropa de vestir para protección contra químicos y la radiación
+9|Ropa y vestimenta para protección contra el fuego
+9|Satélites
+9|Satélites transmisores-receptores
+9|Secadores de vidrio para uso en laboratorio
+9|Semáforos (dispositivos de señalización)
+9|Semiconductores
+9|Semiconductores electrónicos
+9|Semiconductores ópticos
+9|Señales ferroviarias
+9|Sensores automáticos de seguimiento solar
+9|Sensores de aceleración
+9|Sensores de alarma
+9|Sensores de contaminantes
+9|Sensores de nivel de aceite
+9|Sensores de nivel de líquidos
+9|Sensores de pantalla táctil
+9|Sensores de posición ópticos
+9|Sensores de posición por LED
+9|Sensores de presión
+9|Sensores de proximidad
+9|Sensores de sincronización
+9|Sensores de temperatura
+9|Sensores de temperatura de refrigerantes
+9|Sensores de vibración
+9|Sensores de vibración para instalación en las carcasas de los molinos de viento
+9|Sensores eléctricos
+9|Sensores electrónicos para medir la radiación solar
+9|Sensores fotoeléctricos
+9|Sensores ópticos
+9|Sensores para determinar la posición, velocidad, aceleración y temperatura
+9|Sensores para la determinación de temperaturas, posiciones y distancias
+9|Sensores ultrasónicos
+9|Separadores magnéticos para uso científico
+9|Series de libros infantiles descargables
+9|Servidor de red
+9|Servidores de Internet
+9|Servidores de Intranet
+9|Servidores de redes informáticas
+9|Servidores informáticos
+9|Servidores para alojamiento de sitios web
+9|Sextantes
+9|Simuladores de conducción de vehículos para la enseñanza
+9|Simuladores de vuelo
+9|Simuladores de vuelo para aviones
+9|Simuladores electrónicos de entrenamiento deportivo
+9|Simuladores para manejar o controlar vehículos
+9|Sintetizadores de frecuencia
+9|Sintonizadores de modulación de amplitud
+9|Sintonizadores estéreo
+9|Sismógrafos
+9|Sistemas de control electrónicos para máquinas
+9|Sistemas de medición por láser
+9|Sistemas de megafonía
+9|Sistemas de navegación asistido por ordenador
+9|Sistemas de sonar y sus partes
+9|Software compilador
+9|Software computacional para uso en el procesamiento de obleas semiconductoras
+9|Software con una finalidad de dosimetría en el campo de la radioterapia
+9|Software de bot conversacional para simular conversaciones
+9|Software de compresión de datos
+9|Software de computación para realzar las capacidades audio visuales de aplicaciones multimedia, específicamente para la integración de texto, audio, gráficos, imágenes sin movimiento y con movimiento
+9|Software de control y mejora de la calidad sonora de equipos de audio
+9|Software de conversión de datos
+9|Software de conversión de imágenes de documentos a formato electrónico.
+9|Software de gestión de bases de datos
+9|Software de juegos de computador descargable a través de redes de computación global y dispositivos inalámbricos
+9|Software de juegos de computadora
+9|Software de juegos de realidad virtual
+9|Software de seguridad de correo electrónico
+9|Software de sistemas operativos informáticos
+9|Software descargable de juegos informáticos
+9|Software informático descargable para su uso como monedero electrónico
+9|Software informático para conservación y operación de sistemas informáticos
+9|Software informático para controlar la operación de dispositivos de audio y video
+9|Software informático para controlar y gestionar aplicaciones de servidor de acceso
+9|Software informático para crear y editar música y sonidos
+9|Software informático para el control de terminales de autoservicio
+9|Software informático para el procesamiento de archivos de música digital
+9|Software informático para el procesamiento de imágenes digitales
+9|Software informático para entrega inalámbrica de contenidos
+9|Software informático para organizar y visualizar imágenes digitales y fotografías
+9|Software informático para permitir la transmisión de fotografías a teléfonos móviles
+9|Software informático para programación de máquinas de fax
+9|Software informático para uso en relación a animación digital y efectos especiales de imágenes
+9|Software informático salvapantallas
+9|Software para el manejo operacional de tarjetas portátiles electrónicas y magnéticas
+9|Software para juegos de computador (programas grabados)
+9|Software para la autorización de acceso a bases de datos
+9|Software para la composición de música
+9|Software para procesamiento de imágenes, gráficos y texto
+9|Software para sistemas de evaluación de créditos
+9|Sonares de espera inalámbricos (timbres)
+9|Sondas de avalancha con sensores para medir la profundidad de la nieve
+9|Sondas para comprobar semiconductores
+9|Soportes de bobinas eléctricas
+9|Soportes de montaje para monitores de ordenador
+9|Soportes de montaje para ordenadores
+9|Soportes para datos magnéticos vírgenes
+9|Soportes telefónicos para automóviles
+9|Supresores de picos de tensión
+9|Supresores de sobrecargas
+9|Tableros de anuncios electrónicos
+9|Tableros de conexión
+9|Tableros de enchufe
+9|Tabletas gráficas
+9|Tablones de anuncios electrónicos
+9|Tacómetros
+9|Tanques de aire para el buceo
+9|Tapas para cámaras
+9|Tapones auditivos para buceo
+9|Tarjeta de memoria flash
+9|Tarjetas codificadas con funciones de seguridad destinadas a la identificación
+9|Tarjetas con chip
+9|Tarjetas con circuitos integrados
+9|Tarjetas con microchip
+9|Tarjetas de acceso electrónicas
+9|Tarjetas de ampliación de memoria
+9|Tarjetas de circuitos electrónicos
+9|Tarjetas de circuitos impresos
+9|Tarjetas de computador LAN (local área network) para conectar aparatos computacionales portátiles a redes computacionales
+9|Tarjetas de crédito magnéticamente codificadas
+9|Tarjetas de débito magnéticamente codificadas
+9|Tarjetas de identidad codificadas
+9|Tarjetas de identificación electrónicas y magnéticas para uso en conexión con servicios de pago
+9|Tarjetas de interfaz para equipos de tratamiento de datos en forma de circuitos impresos
+9|Tarjetas de memoria
+9|Tarjetas de memoria SD
+9|Tarjetas electrónicas para procesamiento de imágenes
+9|Tarjetas inteligentes SIM [módulo de identificación de abonado]
+9|Tarjetas magnéticas de identificación
+9|Tarjetas vírgenes de circuitos integrados
+9|Tarjetas y microprocesadores para computadoras
+9|Tazas medidoras de polietileno
+9|Teclados
+9|Teclados multifuncionales
+9|Teclados para teléfonos inteligentes
+9|Teclados para teléfonos móviles
+9|Teleapuntadores
+9|Telecámaras
+9|Teléfonos
+9|Teléfonos celulares
+9|Teléfonos con sistemas de intercomunicación
+9|Teléfonos de Internet
+9|Teléfonos de línea fija
+9|Teléfonos de voz sobre protocolo de Internet (VOIP)
+9|Teléfonos digitales
+9|Teléfonos inalámbricos
+9|Teléfonos inteligentes con pantalla expandible
+9|Teléfonos inteligentes que pueden llevarse puestos
+9|Teléfonos móviles
+9|Teléfonos móviles en braille
+9|Teléfonos para conferencias
+9|Teléfonos públicos
+9|Teleimpresores
+9|Telémetros
+9|Telémetros de cámara
+9|Telémetros de golf
+9|Telescopios
+9|Telescopios (para vigilancia)
+9|Telescopios cenitales
+9|Telescopios de circulo meridiano
+9|Telescopios ecuatoriales
+9|Telescopios reflectores
+9|Televisiones para coche
+9|Televisores
+9|Televisores de panel de plasma (PDP)
+9|Televisores de pantallas de cristal líquido (LCD)
+9|Televisores de plasma
+9|Televisores y monitores
+9|Temporizadores de cocina, no eléctricos
+9|Temporizadores electrónicos de cocina
+9|Teodolitos de precisión
+9|Terminadores eléctricos
+9|Terminal telefónica
+9|Terminales de batería
+9|Terminales de pago electrónico
+9|Terminales de punto de venta
+9|Terminales electrónicos para el cobro de peajes
+9|Terminales informáticas, teclados e impresoras
+9|Terminales informáticos con una finalidad bancaria
+9|Terminales para radioteléfonos
+9|Terminales telefónicas
+9|Terminales transacciones electrónicas segura
+9|Termistores
+9|Termómetros
+9|Termómetros infrarrojos
+9|Timbres de aviso electrónicos
+9|Tiras de cómic descargables
+9|Tiras termosensibles indicadoras de temperatura
+9|Tiristores
+9|Tocadiscos
+9|Tomas de corriente eléctricas
+9|Tonos de llamada descargables para teléfonos móviles
+9|Tornamesas
+9|Traductores de bolsillo
+9|Traductores eléctricos de bolsillo
+9|Traductores electrónicos de bolsillo
+9|Trajes de amianto ignífugos
+9|Trajes de protección contra los accidentes, las radiaciones y el fuego
+9|Trajes de supervivencia
+9|Trajes de vuelo resistentes al fuego
+9|Trajes especiales de protección para aviadores
+9|Trajes ignífugos
+9|Transductores eléctricos
+9|Transductores electro-ópticos
+9|Transductores electroacústicos
+9|Transformadores
+9|Transformadores alta tensión
+9|Transformadores de corriente
+9|Transformadores de corriente continua
+9|Transformadores de distribución
+9|Transformadores de electricidad para amplificación
+9|Transformadores de refuerzo
+9|Transformadores de salida horizontal
+9|Transformadores de voltaje eléctrico
+9|Transformadores eléctricos
+9|Transformadores eléctricos para aparatos eléctricos
+9|Transformadores reductores
+9|Transistores
+9|Transmisores de audio
+9|Transmisores de radiofrecuencia
+9|Transmisores de señales de emergencia
+9|Transmisores de telecomunicaciones
+9|Transmisores de televisión por cable
+9|Transmisores telefónicos
+9|Transmisores y receptores inalámbricos
+9|Transmisores y receptores satelitales
+9|Transparencias fotográficas
+9|Transpondedores
+9|Transportadores de datos que contienen fuentes (tipos de letra) tipográficas guardadas
+9|Trazadores digitales
+9|Trazadores electrónicos
+9|Triángulos de señalización
+9|Triángulos de señalización de avería para vehículos
+9|Trípodes para cámaras
+9|Trípodes para máquinas de agrimensura
+9|Trípodes para telescopios
+9|Tubos de descarga eléctrica que no sean para la iluminación
+9|Tubos de microscopio
+9|Tubos de Pitot
+9|Tubos de rayos catódicos
+9|Tubos de rectificadores
+9|Tubos de telescopio
+9|Tubos de vacío para radios
+9|Tubos fotomultiplicadores
+9|Tubos intensificadores de imagen
+9|Tubos termoiónicos
+9|Ultracapacitadores para almacenamiento de energía
+9|Unidad de estado sólido (SSD)
+9|Unidades centrales de alarmas
+9|Unidades centrales de procesamiento de información, datos, sonidos e imágenes
+9|Unidades de cinta magnética (informática)
+9|Unidades de codificación electrónicas
+9|Unidades de disco
+9|Unidades de disco digitales
+9|Unidades de disco ópticas
+9|Unidades de discos compactos (CD) para computadoras
+9|Unidades de memoria de semiconductores
+9|Unidades de procesamiento central de computadores
+9|Unidades de procesamiento de gráficos (GPU)
+9|Urómetros que no sean de uso médico
+9|Vallas publicitarias electrónicas
+9|Válvulas termoiónicas
+9|Varillas de nivelación (instrumentos de agrimensura)
+9|Varillas medidoras de nivel para vehículos
+9|Variómetros
+9|Vatímetros
+9|Velocímetros para bicicleta
+9|Ventiladores de refrigeración internos para ordenadores
+9|Video casetes pregrabados con música
+9|Video casetes vírgenes
+9|Video grabadoras
+9|Video grabadoras para coches
+9|Videocámaras (cámaras de video)
+9|Videocintas pregrabadas con música
+9|Videodiscos y videocintas con dibujos animados
+9|Videodiscos y videocintas grabados con animaciones
+9|Videoteléfonos
+9|Vinilos (discos con música pregrabada)
+9|Viscosímetros
+9|Visor angular
+9|Visor de puntería para rifles (telescópicos)
+9|Visores fotográficos
+9|Visores para cámaras
+9|Voltímetros
+9|Webcams
+9|Zapatillas eléctricas con enchufes movibles
+9|Zapatos para protección contra accidentes e incendios
+9|Zumbadores eléctricos

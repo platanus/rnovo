@@ -1,96 +1,349 @@
-class,reference_id,name
-44,440009,cría de animales
-44,440012,servicios de jardineros paisajistas
-44,440018,servicios de baños públicos con fines higiénicos
-44,440019,servicios de baños turcos
-44,440020,servicios de salones de belleza
-44,440021,servicios de clínicas médicas
-44,440032,quiropráctica
-44,440034,servicios de peluquería
-44,440037,confección de coronas [arte floral]
-44,440043,servicios de casas de convalecencia
-44,440059,servicios hospitalarios
-44,440060,servicios de salud
-44,440072,horticultura
-44,440077,jardinería
-44,440084,alquiler de material para explotaciones agrícolas
-44,440084,alquiler de equipos agrícolas
-44,440086,masajes
-44,440087,asistencia médica
-44,440092,servicios de ópticos
-44,440094,servicios de viveros
-44,440097,fisioterapia
-44,440097,terapia física
-44,440106,servicios de sanatorios
-44,440111,asistencia veterinaria
-44,440113,servicios de odontología
-44,440114,servicios de residencias con asistencia médica
-44,440115,pulverización aérea o terrestre de fertilizantes y otros productos químicos para uso agrícola
-44,440131,aseo de animales
-44,440133,servicios de bancos de sangre
-44,440143,arreglos florales
-44,440147,servicios de hospicios [casas de asistencia]
-44,440148,mantenimiento del césped
-44,440148,mantenimiento del pasto
-44,440151,servicios de manicura
-44,440152,servicios de comadronas
-44,440152,servicios de parteras
-44,440153,servicios de enfermeros
-44,440154,asesoramiento en materia de farmacia
-44,440156,cirugía estética
-44,440156,cirugía plástica
-44,440166,cirugía arbórea
-44,440168,exterminación de animales dañinos para la agricultura, la acuicultura, la horticultura y la silvicultura
-44,440171,eliminación de malas hierbas
-44,440173,servicios de aseo para animales domésticos
-44,440180,implantación de cabello
-44,440185,servicios de psicólogos
-44,440188,alquiler de instalaciones sanitarias
-44,440193,servicios de aromaterapia
-44,440194,servicios de inseminación artificial
-44,440195,servicios de desintoxicación para toxicómanos
-44,440195,rehabilitación de toxicómanos
-44,440196,servicios de fecundación in vitro
-44,440197,servicios de tatuaje
-44,440198,servicios de telemedicina
-44,440199,diseño de parques y jardines [paisajismo]
-44,440199,paisajismo [diseño de parques y jardines]
-44,440200,servicios de sauna
-44,440201,servicios de solárium
-44,440201,servicios de bronceado artificial
-44,440202,servicios de estaciones termales
-44,440202,servicios de spa
-44,440203,servicios de estilistas [visagistas]
-44,440203,servicios de visagistas
-44,440204,preparación de recetas médicas por farmacéuticos
-44,440205,servicios terapéuticos
-44,440206,plantación de árboles para compensar las emisiones de carbono [sumideros de carbono]
-44,440207,servicios de acuicultura
-44,440208,alquiler de equipos médicos
-44,440209,servicios de centros de salud
-44,440209,servicios de dispensarios médicos
-44,440210,servicios de medicina alternativa
-44,440211,logopedia
-44,440211,servicios de ortofonía
-44,440212,asesoramiento sobre la salud
-44,440213,depilación con cera
-44,440214,servicios de ortodoncia
-44,440215,asesoramiento médico para personas con discapacidad
-44,440216,perforación corporal
-44,440217,servicios de reforestación
-44,440218,servicios de cuidados paliativos
-44,440219,servicios de casas de reposo
-44,440220,servicios de control de plagas para la agricultura, la acuicultura, la horticultura y la silvicultura
-44,440221,servicios de bancos de tejidos humanos
-44,440222,alquiler de animales para pastar
-44,440223,alquiler de colmenas
-44,440224,terapia asistida con animales [zooterapia]
-44,440225,servicios de análisis médicos prestados por laboratorios médicos con fines diagnósticos y terapéuticos
-44,440226,exploración médica
-44,440227,servicios de viticultura
-44,440228,consultoría en el ámbito de la viticultura
-44,440229,servicios de cuidados de enfermería a domicilio
-44,440230,alquiler de aparatos de peinado
-44,440231,cultivo de plantas
-44,440232,alquiler de robots quirúrgicos
-44,440233,asesoramiento sobre dietética y nutrición
+class|name
+44|Abono aéreo de fertilizantes
+44|Acupuntura
+44|Adaptación de lentes de contacto
+44|Ajuste a dispositivos ortopédicos
+44|Ajuste de dispositivos protésicos
+44|Alquiler de aparatos de diagnóstico por ultrasonido
+44|Alquiler de aparatos de rayos X para uso médico
+44|Alquiler de aparatos e instrumentos médicos
+44|Alquiler de arreglos florales
+44|Alquiler de baños portátiles para eventos
+44|Alquiler de camas especialmente hechas para tratamientos médicos
+44|Alquiler de cortadoras de césped
+44|Alquiler de equipo para uso médico
+44|Alquiler de equipos para recortar el césped
+44|Alquiler de maquinaria de pulverización agrícola
+44|Alquiler de máquinas y aparatos para uso en salones de belleza o barberías
+44|Alquiler de máquinas y aparatos para uso médico
+44|Alquiler de material agrícola
+44|Alquiler de material para explotaciones agrícolas
+44|Alquiler de plantas en tiesto
+44|Alquiler de robots quirúrgicos
+44|Análisis del comportamiento con una finalidad médica
+44|Análisis médicos para el diagnóstico y tratamiento de personas
+44|Aplicación de extensiones de cabello tipo cortina
+44|Asesoramiento en cuidados capilares
+44|Asesoramiento en materia de masajes
+44|Asesoramiento en nutrición
+44|Asesoramiento médico para perder peso
+44|Asesoramiento psicológico
+44|Asesoramiento técnico en materia de alimentación y cría de peces, camarones y otras especies cultivadas
+44|Asistencia de enfermería a domicilio
+44|Asistencia médica ambulatoria
+44|Atención médica
+44|Atención psicológica
+44|Bancos de sangre
+44|Barberías
+44|Casas de convalecencia
+44|Casas de reposo
+44|Cirugía láser para la vista
+44|Cirugía veterinaria
+44|Clínica dental odontológica
+44|Clínicas médicas
+44|Consultoría en asistencia médica provista por doctores y personal médico especializado
+44|Consultoría en exámenes auditivos
+44|Consultoría en materia de horticultura
+44|Consultoría en materia de salud
+44|Consultoría médica
+44|Consultoría psicológica
+44|Consultoría y asesoramiento en materia de estética
+44|Control de malas hierbas
+44|Cosecha de cultivos para terceros
+44|Cría de animales
+44|Cría y cubrición de animales
+44|Cría y reproducción de ganado
+44|Cribado de ADN para fines médicos
+44|Cuidado de jardines y lechos de flores
+44|Cuidado y aseo de animales
+44|Cuidados de belleza
+44|Cuidados de higiene para personas
+44|Cuidados de higiene y belleza
+44|Cuidados estéticos de los pies
+44|Cuidados médicos de los pies
+44|Cuidados médicos, higiénicos y de belleza
+44|Cultivo de plantas para terceros
+44|Diagnóstico de enfermedades
+44|Diseño de parques y jardines (paisajismo)
+44|Eliminación de malas hierbas
+44|Evaluación de personalidad con fines psicológicos
+44|Evaluaciones y exámenes psicológicos
+44|Exámenes de rayos X para uso médico
+44|Exámenes ginecológicos de PAP
+44|Exámenes vasculares
+44|Exterminación de animales dañinos para la agricultura, horticultura o silvicultura
+44|Facilitación de información médica
+44|Facilitación de instalaciones de baños turcos
+44|Facilitación de servicios a programas de pérdida de peso
+44|Fonoaudiología
+44|Fumigación de productos fitosanitarios para fines agrícolas
+44|Gestión de servicios de asistencia sanitaria
+44|Hidroterapia
+44|Horticultura
+44|Hospicios (casas de asistencia)
+44|Implantación de cabello
+44|Información a pacientes en administración de medicamentos
+44|Información de identificación de plantas y flores para horticultura
+44|Información en relación con masajes
+44|Información médica
+44|Inseminación artificial de animales
+44|Limpieza facial (servicios cosméticos)
+44|Marcado de animales
+44|Masaje y masaje shiatsu terapéutico
+44|Masajes
+44|Masajes con piedras de calor
+44|Moxibustión
+44|Odontología estética
+44|Odontología veterinaria
+44|Orientación dietética y nutricional
+44|Orientación médica en materia de estrés
+44|Paisajismo para terceros
+44|Prestación de información relativa al tratamiento de enfermedades cardiovasculares y cerebrovascular
+44|Protetización
+44|Provisión de baños públicos
+44|Provisión de baños públicos con fines sanitarios
+44|Provisión de instalaciones de rehabilitación física
+44|Provisión de instalaciones de rehabilitación mental
+44|Pruebas (análisis) genéticos para uso médico
+44|Pruebas genéticas de animales
+44|Pruebas psicológicas
+44|Pruebas psiquiátricas
+44|Pulverización de insecticidas para la agricultura
+44|Pulverización de insecticidas para uso hortícola
+44|Pulverización terrestre de fertilizantes
+44|Quiropráctica
+44|Recolección y conservación de sangre humana
+44|Rehabilitación de pacientes adictos al alcohol
+44|Rehabilitación de pacientes drogadictos
+44|Restauración de hábitats forestales
+44|Salones de belleza
+44|Salones de belleza para corte de pelucas
+44|Salones de peluquería
+44|Salones de tatuaje
+44|Salones para el cuidado de la piel
+44|Saunas
+44|Screening (cribado) médico
+44|Screening (cribado) médico relacionado con el corazón
+44|Sembrado de árboles para jardines
+44|Servicios cosméticos para el cuidado del cuerpo
+44|Servicios de aclarado (decoloración) del cabello
+44|Servicios de acupuntura
+44|Servicios de ajuste de lentes (gafas)
+44|Servicios de análisis médico para el diagnostico de enfermedades y tratamiento médico de pacientes
+44|Servicios de análisis médicos en relación con el tratamiento de pacientes
+44|Servicios de análisis médicos en relación con el tratamiento de personas
+44|Servicios de análisis médicos para el diagnóstico del cáncer
+44|Servicios de apicultura
+44|Servicios de aplicación de maquillaje
+44|Servicios de aromaterapia
+44|Servicios de asesoramiento dietético
+44|Servicios de asesoramiento en lactancia
+44|Servicios de asesoramiento en materia de control de peso
+44|Servicios de asistencia médica
+44|Servicios de asistencia médica en residencias especialmente adaptadas para estos fines
+44|Servicios de atención geriátrica
+44|Servicios de banco de células cultivadas para trasplantes médicos
+44|Servicios de banco de células madre
+44|Servicios de banco de esperma
+44|Servicios de banco de ojos
+44|Servicios de bancos de sangre
+44|Servicios de barbero
+44|Servicios de blanqueado de dientes
+44|Servicios de borrado de tatuajes mediante láser
+44|Servicios de bronceado artificial
+44|Servicios de bronceado de la piel para personas con una finalidad cosmética.
+44|Servicios de cirugía cosmética
+44|Servicios de cirugía de visión por láser
+44|Servicios de cirugía dental
+44|Servicios de cirugía plástica
+44|Servicios de clínicas de salud
+44|Servicios de clínicas médicas móviles
+44|Servicios de consulta en línea o en persona sobre maquillaje
+44|Servicios de consulta en línea sobre maquillaje
+44|Servicios de consultas relacionadas con el cuidado de la salud
+44|Servicios de consultas relacionados con la belleza
+44|Servicios de consultoría médica provistos a pacientes
+44|Servicios de consultoría relacionados con la eliminación del vello corporal
+44|Servicios de consultoría sobre maquillaje
+44|Servicios de control de plagas para horticultura
+44|Servicios de corte de cabello
+44|Servicios de corte de césped
+44|Servicios de cosmetólogo
+44|Servicios de cría de ganado bovino
+44|Servicios de cría de gatos
+44|Servicios de cría de insectos
+44|Servicios de cría de ovejas
+44|Servicios de criaderos de caballos
+44|Servicios de crioterapia
+44|Servicios de cuidado corporal cosmético proporcionados por spas de salud
+44|Servicios de cuidado de la salud
+44|Servicios de cuidado de la salud ofrecidos a través de proveedores de cuidado de la salud en base a contratos
+44|Servicios de cuidado de las uñas
+44|Servicios de cuidado de plantas
+44|Servicios de cuidados de salud para el tratamiento del Alzheimer
+44|Servicios de cuidados higiénicos para mascotas
+44|Servicios de cultivo de huerta urbana para la agricultura
+44|Servicios de cultivos hidropónicos
+44|Servicios de depilación corporal por cera para el cuerpo humano
+44|Servicios de depilación corporal por cera para seres humanos
+44|Servicios de depilación personal
+44|Servicios de depilación por laser
+44|Servicios de depilación y reducción permanente del vello
+44|Servicios de desintoxicación para toxicómanos
+44|Servicios de diagnóstico por imagen de cáncer de próstata
+44|Servicios de diagnóstico psicológico
+44|Servicios de donación de esperma humano
+44|Servicios de enfermería pediátrica
+44|Servicios de enfermeros
+44|Servicios de estaciones termales para la salud y el bienestar del cuerpo y el espíritu
+44|Servicios de esteticista para animales
+44|Servicios de evaluación de la personalidad (servicios de salud mental)
+44|Servicios de evaluación médica para pacientes que reciben rehabilitación con el fin de orientar el tratamiento y evaluar su efectividad.
+44|Servicios de evaluaciones médicas en relación con la apnea del sueño
+44|Servicios de evaluaciones y exámenes psicológicos
+44|Servicios de examen de cáncer de cuello uterino
+44|Servicios de examen de cáncer de testículo
+44|Servicios de exámenes de cáncer intestinal
+44|Servicios de exámenes médicos
+44|Servicios de exámenes médicos en relación con el asma
+44|Servicios de exámenes oncológicos
+44|Servicios de farmacéuticos para elaborar recetas médicas
+44|Servicios de fecundación in vitro
+44|Servicios de fertilización in vitro para animales
+44|Servicios de flebotomía
+44|Servicios de ganadería
+44|Servicios de ginecología
+44|Servicios de higienistas dentales
+44|Servicios de información médica prestados por Internet
+44|Servicios de información médica provistos a través de redes mundiales de computación
+44|Servicios de información medica, a saber, información para pacientes y profesionales de la salud relacionada con condiciones médicas, tratamientos y productos farmacéuticos
+44|Servicios de información relativa al alquiler de maquinaria agrícola
+44|Servicios de información sobre quiropraxia
+44|Servicios de información veterinaria prestados por Internet
+44|Servicios de inseminación artificial
+44|Servicios de jardinería
+44|Servicios de jardinero y jardinería
+44|Servicios de jardineros paisajistas
+44|Servicios de kinesiología
+44|Servicios de laboratorio para la toma de muestras y exámenes médicos
+44|Servicios de limpieza dental
+44|Servicios de liposucción
+44|Servicios de lombricultura para la generación de compost
+44|Servicios de manicura
+44|Servicios de manicura a domicilio
+44|Servicios de masaje equino
+44|Servicios de masaje para embarazadas
+44|Servicios de masaje tailandés
+44|Servicios de masajes de pies
+44|Servicios de masajes para deportistas
+44|Servicios de masajes tradicionales japoneses
+44|Servicios de medicina alternativa
+44|Servicios de medicina deportiva
+44|Servicios de microdermoabrasión
+44|Servicios de micropigmentación
+44|Servicios de nutricionista
+44|Servicios de obstetricia
+44|Servicios de oftalmología
+44|Servicios de ondulado del cabello
+44|Servicios de ópticos
+44|Servicios de optometría
+44|Servicios de orientación psicológica en el ámbito de los deportes
+44|Servicios de ortofonía
+44|Servicios de pedicura
+44|Servicios de peinado del cabello
+44|Servicios de peluquería
+44|Servicios de peluquería femenina
+44|Servicios de peluquerías
+44|Servicios de peluquerías para hombres
+44|Servicios de planificación y supervisión nutricional de dietas para adelgazar
+44|Servicios de pruebas de mamografía
+44|Servicios de pruebas médicas para el diagnóstico y tratamiento de enfermedades
+44|Servicios de pruebas médicas, en concreto, evaluación del estado físico
+44|Servicios de pruebas psicológicas
+44|Servicios de psicoterapia
+44|Servicios de quimioterapia
+44|Servicios de quiropraxia para animales
+44|Servicios de reflexología
+44|Servicios de rizado permanente de pestañas
+44|Servicios de salón de belleza
+44|Servicios de salón de belleza para animales domésticos
+44|Servicios de salón de bronceado por pulverización
+44|Servicios de salón de peluquería para niños
+44|Servicios de salones de bronceado
+44|Servicios de sanatorio
+44|Servicios de sauna
+44|Servicios de sauna infrarrojos
+44|Servicios de sementales (monta)
+44|Servicios de sementales para ganado
+44|Servicios de solárium
+44|Servicios de tatuaje
+44|Servicios de tatuaje de animales de compañía para su identificación
+44|Servicios de telemedicina
+44|Servicios de terapia con células madre
+44|Servicios de terapia con ventosas
+44|Servicios de terapia contra el insomnio
+44|Servicios de terapia de quelación
+44|Servicios de terapia matrimonial (sicología)
+44|Servicios de terapia ocupacional
+44|Servicios de terapia ocupacional para la rehabilitación física de personas
+44|Servicios de terapias de reiki (terapias alternativas)
+44|Servicios de tinturado de cejas
+44|Servicios de tinturado de pestañas
+44|Servicios de tratamiento de belleza
+44|Servicios de tratamiento de fertilidad humana
+44|Servicios de tratamiento de las adicciones
+44|Servicios de tratamiento de pacientes hospitalizados y en régimen ambulatorio
+44|Servicios de tratamiento para dejar de fumar
+44|Servicios de trenzado de cabello
+44|Servicios de un psicólogo
+44|Servicios de unión de huesos
+44|Servicios de valoración psicológica
+44|Servicios ginecológicos
+44|Servicios hospitalarios
+44|Servicios hospitalarios para mascotas
+44|Servicios médicos
+44|Servicios médicos de terapia de moxibustión
+44|Servicios médicos en el campo de la diabetes
+44|Servicios médicos para el tratamiento del cáncer de piel
+44|Servicios médicos relacionados con la extracción, el tratamiento y la transformación de células humanas
+44|Servicios médicos relacionados con la extracción, el tratamiento y la transformación de células madre
+44|Servicios médicos relacionados con la extracción, el tratamiento y la transformación de sangre humana
+44|Servicios médicos, en concreto, fertilización in vitro
+44|Servicios móviles de cuidados dentales
+44|Servicios para el cuidado del cabello
+44|Servicios prestados por un dietista
+44|Servicios psiquiátricos
+44|Servicios quiroprácticos
+44|Servicios quiroprácticos móviles
+44|Servicios quiroprácticos para adultos
+44|Servicios quiroprácticos para niños
+44|Servicios quiroprácticos para personas con enfermedadescrónicas
+44|Servicios terapéuticos basados en sicología de atención plena (mindfulness)
+44|Servicios veterinarios
+44|Siembra agrícola por aire
+44|Siembra de cultivos
+44|Suministro de información de salud
+44|Suministro de información médica
+44|Suministro de información sobre acupuntura
+44|Suministro de información sobre instalaciones de baños públicos
+44|Suministro de información sobre la cría de animales
+44|Suministro de información sobre la eliminación de animales dañinos en la agricultura, horticultura y silvicultura
+44|Suministro de información sobre la plantación de árboles de jardín
+44|Suministro de información sobre masajes tradicionales japoneses
+44|Suministro de información sobre moxibustión
+44|Suministro de información sobre servicios de enfermería
+44|Terapia anti-tabaco
+44|Terapia de moxibustión
+44|Terapia de raspado (Gua Sha)
+44|Terapia física
+44|Terapia láser para el tratamiento de afecciones médicas
+44|Terapia musical para fines físicos, psicológicos y cognitivos
+44|Terapia para mejorar el habla y audición
+44|Tests psicológicos con fines médicos
+44|Tintado del cabello
+44|Tratamiento mediante láser para eliminar las venas varicosas
+44|Tratamiento médico o kinesiológico para la dislocación articular, esguinces, fracturas o similares (judo-seifuku)
+44|Tratamientos cosméticos de láser para la piel
+44|Tratamientos de desintoxicación para toxicómanos
+44|Tratamientos psicológicos
+44|Viveros de arboricultura

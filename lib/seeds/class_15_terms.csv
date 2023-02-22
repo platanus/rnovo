@@ -1,102 +1,116 @@
-class,reference_id,name
-15,150001,acordeones
-15,150002,afinadores de cuerdas [templadores]
-15,150002,templadores [afinadores de cuerdas]
-15,150003,lengüetas [música]
-15,150004,arcos para instrumentos musicales
-15,150005,alzas de arcos para instrumentos musicales
-15,150006,varillas de arcos para instrumentos musicales
-15,150007,crin de caballo para arcos de instrumentos musicales
-15,150008,pianos
-15,150009,batutas
-15,150010,palillos de tambor
-15,150010,baquetas
-15,150011,bandoneones
-15,150012,organillos
-15,150013,bajos [instrumentos musicales]
-15,150014,armónicas
-15,150015,cuerdas de tripa para instrumentos musicales
-15,150016,trombones Buccin
-15,150017,carillones [instrumentos musicales]
-15,150018,castañuelas
-15,150019,chinescos [instrumentos musicales]
-15,150020,pies para timbales
-15,150021,clavijas para instrumentos musicales
-15,150022,cítaras
-15,150023,clarinetes
-15,150024,teclados de instrumentos musicales
-15,150025,instrumentos musicales
-15,150026,concertinas
-15,150027,contrabajos
-15,150028,cuerdas para instrumentos musicales
-15,150029,instrumentos de cuerda
-15,150030,trompas [instrumentos musicales]
-15,150031,cornetines de pistones
-15,150032,címbalos [platillos]
-15,150033,diapasones
-15,150034,boquillas de instrumentos musicales
-15,150034,embocaduras de instrumentos musicales
-15,150035,estuches para instrumentos musicales
-15,150036,flautas
-15,150037,gongs
-15,150038,birimbaos [arpas de boca]
-15,150039,guitarras
-15,150040,armonios
-15,150041,arpas
-15,150042,cuerdas de arpa
-15,150043,oboes
-15,150044,instrumentos musicales electrónicos
-15,150045,reguladores de intensidad para pianos mecánicos
-15,150046,liras
-15,150048,plectros
-15,150048,púas para instrumentos de cuerda
-15,150049,mandolinas
-15,150050,mentoneras de violín
-15,150051,gaitas [instrumentos musicales]
-15,150052,cajas de música
-15,150053,aparatos para pasar páginas de partituras
-15,150054,puentes para instrumentos musicales
-15,150055,triángulos [instrumentos musicales]
-15,150056,ocarinas
-15,150057,órganos
-15,150058,tubos para órganos musicales
-15,150059,parches [membranas] de tambor
-15,150060,pedales de instrumentos musicales
-15,150061,teclados de piano
-15,150062,cuerdas de piano
-15,150063,teclas de piano
-15,150064,fuelles de instrumentos musicales
-15,150065,sordinas para instrumentos musicales
-15,150066,tambores [instrumentos musicales]
-15,150067,panderetas
-15,150068,tamtanes
-15,150069,timbales [instrumentos musicales]
-15,150070,trombones [instrumentos musicales]
-15,150071,clarines
-15,150072,trompetas
-15,150073,válvulas para instrumentos musicales
-15,150074,violas
-15,150075,violines
-15,150076,xilófonos
-15,150077,teclas de instrumentos musicales
-15,150078,rollos de música
-15,150078,rollos para pianolas
-15,150079,rollos de música perforados
-15,150079,rollos perforados para pianolas
-15,150080,atriles para partituras
-15,150081,huqin [violines chinos]
-15,150082,flautas de bambú
-15,150083,pipa [guitarras chinas]
-15,150084,sheng [instrumentos musicales de viento chinos]
-15,150085,suona [trompetas chinas]
-15,150086,campanillas [instrumentos musicales]
-15,150087,sintetizadores de música
-15,150088,soportes para instrumentos musicales
-15,150089,saxofones
-15,150090,balalaicas
-15,150091,banjos
-15,150092,melódicas
-15,150093,colofonia para instrumentos musicales de cuerda
-15,150094,baterías robóticas [instrumentos de música]
-15,150095,mazas para instrumentos musicales
-15,150096,correas para instrumentos musicales
+class|name
+15|Acordeones
+15|Afinadores de soplo para instrumentos musicales
+15|Almohadillas de práctica de percusión
+15|Almohadillas para baterías electrónicas
+15|Aparatos para afinar instrumentos musicales
+15|Aparatos para pasar páginas de partituras
+15|Apoyabrazos de guitarra
+15|Arcos de erhu (violín chino)
+15|Arcos para instrumentos musicales
+15|Armónicas
+15|Armonios
+15|Arneses para instrumentos musicales
+15|Arpas
+15|Atriles para partituras
+15|Bajos acústicos
+15|Bajos eléctricos
+15|Bandoleras (correas) para guitarras
+15|Bandoneones
+15|Bolsos especialmente adaptados para instrumentos musicales
+15|Bombardinos
+15|Bombos
+15|Boquillas de instrumentos musicales
+15|Cajas de música que no sean juguetes
+15|Cajas de ritmos
+15|Campanas tubulares
+15|Campanillas (instrumentos musicales)
+15|Capos (cejillas)
+15|Capos de guitarra
+15|Carillones eléctricos (instrumentos musicales)
+15|Carrillones
+15|Celestas
+15|Címbalos (platillos)
+15|Cítaras coreanas con doce cuerdas (ga-ya-geum)
+15|Cítaras coreanas con seis cuerdas (geo-mun-go)
+15|Clarinetes de bambú japoneses (shakuhachi)
+15|Clavicordios
+15|Contrabajos
+15|Contrafagotes
+15|Cornos ingleses
+15|Correas para instrumentos de música
+15|Cuerdas de erhu (violín chino)
+15|Cuerdas de guitarra
+15|Cuerdas para instrumentos de cuerda de estilo japonés
+15|Cuerdas para instrumentos musicales
+15|Cuerdas para instrumentos musicales occidentales
+15|Diapasones
+15|Djembes (instrumento musical de percusión)
+15|Dulcimeros
+15|Erhu (instrumento musical de dos cuerdas)
+15|Estuches para instrumentos musicales
+15|Fagot
+15|Flautas
+15|Flautas chinas
+15|Flautas cortas de bambú (danso)
+15|Flautas dulces (instrumentos musicales)
+15|Flautas japonesas (yokobue)
+15|Flautines
+15|Gaitas
+15|Gongs
+15|Güiros (instrumentos musicales de percusión)
+15|Guitarras
+15|Guitarras acústicas
+15|Guitarras bajo
+15|Guitarras eléctricas
+15|Guitarras japonesas de tres cuerdas (shamisen)
+15|Harpas orientales (koto)
+15|Instrumentos de percusión
+15|Instrumentos de viento de madera
+15|Instrumentos musicales
+15|Instrumentos musicales eléctricos y electrónicos
+15|Instrumentos musicales electrónicos
+15|Instrumentos musicales estilo occidental
+15|Instrumentos musicales japoneses tradicionales
+15|Laúdes
+15|Laúdes japoneses (biwa)
+15|Mandolinas
+15|Maracas
+15|Marimbas
+15|Mazas de bombo
+15|Membranas para flautas chinas
+15|Mirlitones (kazoo)
+15|Ocarinas
+15|Ocarinas Chinas (Xun)
+15|Órganos
+15|Pedales para baterías (instrumentos musicales)
+15|Pianos eléctricos automáticos
+15|Picas para violonchelos
+15|Plectros japoneses (tsume)
+15|Protectores de membranas para flauta china
+15|Púas de guitarra
+15|Púas japonesas (bachi)
+15|Púas para instrumentos de cuerda
+15|Puentes para instrumentos musicales
+15|Redoblantes (tambores)
+15|Saxofones
+15|Shofares
+15|Sistros
+15|Sordinas para instrumentos musicales
+15|Tambores (instrumentos musicales)
+15|Tambores bongó
+15|Tambores conga
+15|Tambores japoneses (taiko)
+15|Tambores metálicos (instrumentos musicales)
+15|Tapones para convertir flautas de platos abiertos en flautas de platos cerrados
+15|Timbales (instrumentos de música)
+15|Timbales (instrumentos musicales)
+15|Triángulos (instrumentos musicales)
+15|Trombones (instrumentos musicales)
+15|Trompas (corno francés)
+15|Trompetas
+15|Ukeleles
+15|Violas
+15|Violines
+15|Violines orientales (kokyu)
+15|Violoncelos

@@ -1,66 +1,127 @@
-class,reference_id,name
-32,320001,extractos de frutas sin alcohol
-32,320002,cervezas
-32,320003,cerveza de jengibre
-32,320003,bebida de jengibre
-32,320004,cerveza de malta
-32,320005,mosto de cerveza
-32,320006,bebidas de frutas sin alcohol
-32,320006,bebidas de jugos de frutas sin alcohol
-32,320006,bebidas de zumos de frutas sin alcohol
-32,320007,bebidas a base de suero de leche
-32,320008,preparaciones sin alcohol para elaborar bebidas
-32,320009,esencias sin alcohol para elaborar bebidas
-32,320010,zumos de frutas
-32,320010,jugos de frutas
-32,320011,siropes para bebidas
-32,320012,aguas [bebidas]
-32,320013,preparaciones para elaborar aguas gaseosas
-32,320013,preparaciones para elaborar aguas carbonatadas
-32,320014,agua de litines
-32,320015,aguas minerales [bebidas]
-32,320017,agua de Seltz
-32,320018,aguas de mesa
-32,320019,mostos
-32,320020,limonadas
-32,320021,extractos de lúpulo para elaborar cervezas
-32,320022,zumos vegetales [bebidas]
-32,320022,jugos vegetales [bebidas]
-32,320023,siropes para limonadas
-32,320025,mosto de malta
-32,320026,mosto de uva
-32,320027,horchata
-32,320028,sodas [aguas]
-32,320029,sorbetes [bebidas]
-32,320030,zumo de tomate [bebida]
-32,320030,jugo de tomate [bebida]
-32,320031,bebidas sin alcohol
-32,320033,pastillas para bebidas gaseosas
-32,320034,polvos para elaborar bebidas gaseosas
-32,320035,aguas gaseosas
-32,320035,aguas carbonatadas
-32,320041,zarzaparrilla [bebida sin alcohol]
-32,320042,aperitivos sin alcohol
-32,320043,cócteles sin alcohol
-32,320043,cocteles sin alcohol
-32,320044,néctares de frutas sin alcohol
-32,320045,bebidas isotónicas
-32,320047,sidra sin alcohol
-32,320048,kvas
-32,320049,bebidas sin alcohol a base de miel
-32,320050,batidos de frutas u hortalizas
-32,320050,licuados de frutas u hortalizas
-32,320051,bebidas de aloe vera sin alcohol
-32,320052,mezclas [bebidas] a base de cerveza
-32,320053,bebidas a base de soja que no sean sucedáneos de la leche
-32,320054,bebidas enriquecidas con proteínas para deportistas
-32,320055,bebidas a base de arroz, que no sean sucedáneos de la leche
-32,320056,bebidas sin alcohol con sabor a café
-32,320057,bebidas sin alcohol con sabor a té
-32,320058,bebidas refrescantes sin alcohol
-32,320058,refrescos
-32,320059,cerveza de cebada
-32,320060,bebidas energéticas
-32,320061,bebidas de frutas secas sin alcohol
-32,320062,cerveza con limonada
-32,320062,clara
+class|name
+32|Agua de abedul
+32|Agua de arce
+32|Agua de glaciar
+32|Agua de manantial
+32|Agua de mesa
+32|Agua destilada para beber
+32|Agua embotellada
+32|Agua gaseosa
+32|Agua mineral
+32|Agua mineral aromatizada
+32|Agua mineral saborizada
+32|Agua mineral y gaseosa
+32|Agua potable depurada
+32|Agua que no sea carbonatada
+32|Agua sin gas
+32|Agua tónica (bebidas no medicinales)
+32|Aguas de mesa
+32|Aguas gaseosas
+32|Aguas gaseosas (sodas)
+32|Aguas minerales
+32|Aguas minerales gaseosas
+32|Aguas minerales y gaseosas
+32|Aguas para beber
+32|Aguas saborizadas
+32|Aperitivos sin alcohol
+32|Batidos de frutas u hortalizas (smoothies)
+32|Batidos de hortalizas
+32|Bebida de jengibre
+32|Bebidas a base de frutas
+32|Bebidas a base de frutas congeladas
+32|Bebidas carbonatadas con sabor a fruta
+32|Bebidas carbónicas sin alcohol
+32|Bebidas cola
+32|Bebidas con sabor a frutas
+32|Bebidas con sabor a té no alcohólicas
+32|Bebidas de agua de coco
+32|Bebidas de deporte que contienen electrolitos
+32|Bebidas de fruta congelada
+32|Bebidas de fruta congeladas
+32|Bebidas de fruta y jugos de fruta
+32|Bebidas de frutas sin alcohol
+32|Bebidas de guaraná
+32|Bebidas de jugo de aloe vera
+32|Bebidas de jugo de manzana
+32|Bebidas de jugo de naranja
+32|Bebidas de jugo de piña
+32|Bebidas de jugo de tomate
+32|Bebidas de jugo de uva
+32|Bebidas de malta sin alcohol
+32|Bebidas gaseosas sin alcohol aromatizas con té
+32|Bebidas isotónicas no alcohólicas
+32|Bebidas no alcohólicas que contienen jugo de frutas
+32|Bebidas sin alcohol a base de miel
+32|Bebidas y jugos de fruta
+32|Cerveza ale y lager
+32|Cerveza ale y porter
+32|Cerveza ale, lager, stout y porter
+32|Cerveza bock
+32|Cerveza con sabor a café
+32|Cerveza de raíz (refresco hecho con distintas raíces)
+32|Cerveza negra (cerveza de malta tostada)
+32|Cerveza no alcohólica saborizada
+32|Cerveza saborizadas
+32|Cervezas aromatizadas
+32|Cervezas con bajo contenido en alcohol
+32|Cervezas sin alcohol
+32|Clara de cerveza
+32|Cocktails no-alcohólicos
+32|Concentrados de jugo de frutas
+32|Concentrados para hacer bebidas de frutas
+32|Concentrados para hacer jugo de frutas
+32|Concentrados para su uso en la preparación de refrescos
+32|Esencias para elaborar agua mineral saborizada (no en la naturaleza de aceites esenciales)
+32|Esencias para elaborar bebidas no alcohólicas (no en la naturaleza de aceites esenciales)
+32|Esencias para elaborar bebidas sin alcohol que no sean aceites esenciales
+32|Extracto de lúpulo para la fabricación de cerveza
+32|Extractos de frutas sin alcohol para preparar bebidas
+32|Gaseosas
+32|Granizados de frutas
+32|Jarabe de malta para hacer bebidas
+32|Jugo de arándanos
+32|Jugo de frutas
+32|Jugos de fruta y bebidas de fruta
+32|Jugos de frutas gaseosos
+32|Kvas (bebidas sin alcohol)
+32|Lagers
+32|Limonada
+32|Limonadas
+32|Mezclado de jugo de frutas
+32|Néctares de frutas
+32|Polvos utilizados en la preparación de bebidas a base de frutas
+32|Ponche de arroz seco no alcohólico (sikhye)
+32|Ponche de caqui seco con canela no alcohólico (sujeonggwa)
+32|Ponches de frutas sin alcohol
+32|Ponches sin alcohol
+32|Refrescos a base de frutas aromatizados con té
+32|Refrescos bajos en calorías
+32|Refrescos con sabor a café
+32|Refrescos de extractos de limón
+32|Refrescos no alcohólicos
+32|Refrescos sin gas
+32|Siropes para bebidas
+32|Siropes para elaborar aguas minerales saborizadas
+32|Siropes para elaborar bebidas
+32|Siropes para elaborar bebidas con sabores de frutas
+32|Siropes para elaborar bebidas no alcohólicas
+32|Siropes para hacer refrescos
+32|Smoothies (bebidas en las que predomine la fruta)
+32|Sorbetes (bebidas)
+32|Sorbetes (sorbetes)
+32|Sorbetes en forma de bebidas
+32|Sucedáneo de la cerveza
+32|Vino sin alcohol
+32|Vinos desalcoholizados
+32|Zumo condensado de ciruelas ahumadas
+32|Zumo de frutas mezclado
+32|Zumo de granada
+32|Zumo de grosella negra
+32|Zumo de guayaba
+32|Zumo de melón
+32|Zumo de naranja
+32|Zumo de sandía
+32|Zumo de uva
+32|Zumos a base de fruta congelados
+32|Zumos de frutas
+32|Zumos vegetales (bebidas)

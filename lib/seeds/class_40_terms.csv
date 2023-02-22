@@ -1,142 +1,241 @@
-class,reference_id,name
-40,400001,abrasión
-40,400002,procesamiento de películas cinematográficas
-40,400003,purificación del aire
-40,400004,magnetización
-40,400004,imantación
-40,400005,apresto de textiles
-40,400006,apresto del papel
-40,400007,plateado
-40,400008,blanqueo de tejidos
-40,400009,trabajo de la madera
-40,400010,ribeteado de telas
-40,400011,soldadura
-40,400011,soldadura fuerte
-40,400012,confección de prendas de vestir
-40,400013,chapado de cadmio
-40,400013,cadmiado
-40,400014,calandrado de telas
-40,400015,trabajo de la cerámica
-40,400015,horneado de la cerámica
-40,400016,teñido de calzado
-40,400017,cromado
-40,400018,chapado de metales
-40,400018,revestimiento [chapado] de metales
-40,400019,teñido del cuero
-40,400020,acondicionamiento de pieles
-40,400021,corte de telas
-40,400022,estampado de dibujos
-40,400023,revelado de películas fotográficas
-40,400024,dorado [doradura]
-40,400025,tratamiento del agua
-40,400026,revestimiento [chapado] por electrólisis
-40,400026,chapado [revestimiento] por electrólisis
-40,400026,galvanoplastia
-40,400027,estañado [estañadura]
-40,400028,confección de pieles a medida
-40,400029,servicios de forja
-40,400029,servicios de herrería
-40,400030,tratamiento antipolilla de pieles
-40,400031,fresado
-40,400032,prensado de frutas
-40,400033,ahumado de alimentos
-40,400034,galvanización
-40,400035,grabado
-40,400036,impermeabilización de tejidos
-40,400037,ignifugación de tejidos
-40,400037,ignifugación de telas
-40,400037,ignifugación de textiles
-40,400038,tratamiento antiarrugas de tejidos
-40,400039,tratamiento de la lana
-40,400040,laminado
-40,400041,amolado
-40,400042,tratamiento de metales
-40,400043,temple de metales
-40,400044,molienda de grano
-40,400045,niquelado
-40,400046,urdidura
-40,400047,preparación de pieles
-40,400048,pulido por abrasión
-40,400049,encuadernación
-40,400050,cepillado de materiales
-40,400051,servicios de guarnicionería
-40,400051,servicios de talabartería
-40,400052,aserrado de materiales
-40,400053,servicios de sastre
-40,400054,servicios de curtido
-40,400055,taxidermia
-40,400056,servicios de tintorería*
-40,400057,teñido de textiles
-40,400058,tratamiento de textiles
-40,400058,tratamiento de tejidos
-40,400059,tratamiento antipolilla de telas
-40,400060,teñido de telas
-40,400060,teñido de tejidos
-40,400061,tratamiento del papel
-40,400062,soplado de vidrio
-40,400063,servicios de bordado
-40,400064,trabajo del cuero
-40,400065,coloración del vidrio por tratamiento de superficie
-40,400065,entintado del vidrio por tratamiento de superficie
-40,400066,conservación de alimentos y bebidas
-40,400067,tala y corte de madera
-40,400068,reciclaje de residuos y desechos
-40,400069,preencogimiento de telas
-40,400070,lustrado de pieles
-40,400071,satinado de pieles
-40,400072,teñido de pieles
-40,400081,desodorización del aire
-40,400082,enfriamiento del aire
-40,400083,ensamblaje por encargo de materiales para terceros
-40,400084,enmarcado de obras de arte
-40,400085,chapado en oro
-40,400086,trazado por láser
-40,400087,suministro de información sobre el tratamiento de materiales
-40,400088,pulido de vidrio óptico
-40,400089,impresión de fotografías
-40,400090,fotograbado
-40,400091,tratamiento del petróleo
-40,400092,acolchado
-40,400093,refinado
-40,400094,sacrificio de animales
-40,400094,matanza de animales
-40,400094,carneo de animales
-40,400095,decapado
-40,400097,tratamiento de desechos [transformación]
-40,400098,arreglo de prendas de vestir
-40,400099,servicios de calderería
-40,400100,colada de metales
-40,400101,vulcanización [tratamiento de materiales]
-40,400102,servicios de protésicos dentales
-40,400103,producción de energía
-40,400104,alquiler de generadores
-40,400105,destrucción de residuos y desechos
-40,400106,incineración de residuos y desechos
-40,400107,tratamiento de separación de colores
-40,400108,servicios de copia de llaves
-40,400109,descontaminación de materiales peligrosos
-40,400110,impresión litográfica
-40,400111,servicios de impresión
-40,400112,alquiler de máquinas de tejer
-40,400112,alquiler de máquinas de hacer punto
-40,400113,servicios de impresión en offset
-40,400114,servicios de fotocomposición
-40,400115,serigrafía
-40,400116,selección de desechos y material reciclable [transformación]
-40,400117,congelación de alimentos
-40,400118,alquiler de aparatos de aire acondicionado
-40,400119,alquiler de aparatos de calefacción de ambientes
-40,400119,alquiler de aparatos de calefacción auxiliares
-40,400120,abatanado de telas
-40,400121,servicios de criopreservación
-40,400122,servicios de limpieza por chorro de arena
-40,400123,alquiler de calderas
-40,400124,suprarreciclaje [revalorización de materiales de desecho]
-40,400125,servicios de soldadura
-40,400126,servicios de tintado de cristales de coche
-40,400127,impresión 3D por encargo para terceros
-40,400128,elaboración de cerveza para terceros
-40,400129,fabricación de pan por encargo
-40,400130,pasteurización de bebidas y alimentos
-40,400131,servicios de vinificación para terceros
-40,400132,consultoría en el ámbito de la vinificación
+class|name
+40|Abatanado de telas
+40|Afinado de metales
+40|Alquiler de aparatos de aire acondicionado
+40|Alquiler de aparatos de calefacción de ambientes
+40|Alquiler de aparatos para purificar el agua
+40|Alquiler de equipos de tratamiento del agua
+40|Alquiler de filtros de agua
+40|Alquiler de generador de fuerza eléctrica
+40|Alquiler de generadores de electricidad
+40|Alquiler de impresoras 3D
+40|Alquiler de máquinas de coser
+40|Alquiler de máquinas de encuadernación
+40|Alquiler de máquinas de grabado láser
+40|Alquiler de máquinas de hacer punto
+40|Alquiler de máquinas para hacer zapatos
+40|Alquiler de máquinas para la fabricación de cartón corrugado
+40|Alquiler de máquinas para procesar tabaco
+40|Alquiler de máquinas y aparatos de imprimir
+40|Alquiler de máquinas y aparatos para fabricar objetos de cristal
+40|Alquiler de máquinas y aparatos para producción de chapa de madera
+40|Alquiler de máquinas y aparatos para tratar tejidos
+40|Alquiler de máquinas y herramientas para trabajar los metales
+40|Alquiler de prensas tipográficas
+40|Alquiler de soldadores de gas
+40|Alquiler de unidades de filtración de agua para uso comercial
+40|Amolado y pulido de vidrio para gafas
+40|Ampliación de fotografías
+40|Antiencogimiento para textiles o pieles
+40|Aplicación de acabados a telas
+40|Arreglo de prendas de vestir
+40|Arrendamiento de aparatos de refrigeración de espacios de uso doméstico
+40|Arrendamiento de máquinas aplastadoras de desechos
+40|Arrendamiento de máquinas compactadoras de desechos
+40|Arrendamiento de máquinas elaboradoras de vidrio
+40|Arrendamiento de máquinas procesadoras de químicos
+40|Arrendamiento de máquinas y aparatos para fabricación de pulpa y papel
+40|Arrendamiento de máquinas y aparatos para la industria maderera
+40|Arrendamiento de máquinas y aparatos para revelado de películas, impresión fotográfica, amplificación fotográfica y terminación fotográfica
+40|Arrendamiento de sistemas de neblina para enfriamiento de exteriores
+40|Arrendamiento de transformadores eléctricos
+40|Arrendamiento de ventiladores eléctricos para enfriar
+40|Blanqueado de prendas de vestir
+40|Blanqueado de tejidos
+40|Blanqueado de telas
+40|Blanqueado de textiles
+40|Blanqueo de tejidos
+40|Calandrado de telas
+40|Cincado electrolítico
+40|Coloración del vidrio
+40|Congelación de alimentos
+40|Copia de planos (blueprint)
+40|Corte de diamantes
+40|Corte de telas
+40|Costura
+40|Costura y confección de prendas de vestir
+40|Deformación de textiles
+40|Desacidificación de papel
+40|Desalinización del agua
+40|Desintoxicación de materiales peligrosos
+40|Desmagnetización
+40|Desmineralización de agua
+40|Desodorización de cortinas
+40|Destrucción de documentos
+40|Destrucción de residuos
+40|Destrucción de residuos y desechos
+40|Eliminación de basura para otros
+40|Eliminación de residuos tóxicos industriales
+40|Encuadernación
+40|Encuadernación de documentos
+40|Endurecimiento de metales
+40|Enmarcado de obras de arte
+40|Ensamblado de productos para terceros
+40|Esmaltado cerámico
+40|Esmaltado de metales
+40|Estampado de dibujos
+40|Estañado (estañadura)
+40|Fabricación a medida de ataúdes cinerarios
+40|Facilitación de información relacionada con el tratamiento de materiales
+40|Forjado de estaño
+40|Fotograbado
+40|Fresado
+40|Fundiciones de plomo y sus aleaciones
+40|Galvanizado en caliente
+40|Galvanoplastia
+40|Generación de electricidad
+40|Generación de electricidad a partir de energía eólica
+40|Grabado
+40|Grabado con láser
+40|Grabado de sellos de lacre
+40|Grabado de vidrio
+40|Ignifugación para textiles o pieles
+40|Impermeabilización de prendas de vestir
+40|Impermeabilización de tejidos
+40|Impermeabilización de telas
+40|Impermeabilización de textiles o pieles
+40|Impresión de camisetas
+40|Impresión de diseños para terceros
+40|Impresión de fotograbados
+40|Impresión de fotografías
+40|Impresión de libros
+40|Impresión de material publicitario
+40|Impresión de sellos
+40|Impresión digital
+40|Impresión litográfica
+40|Impresión serigráfica
+40|Impresión tipográfica
+40|Incineración de basura
+40|Incineración de desechos
+40|Incineración de residuos
+40|Laminado de hojas de plástico
+40|Laminado de metales
+40|Licuefacción de gas de petróleo
+40|Mezclado de lubricantes para terceros
+40|Moldeado de materiales plásticos
+40|Montaje de obras de arte como parte del proceso de enmarcado
+40|Montaje en seco (fijación de fotografías a través de adhesivos sensibles al calor)
+40|Orfebrería
+40|Procesamiento de bambú
+40|Procesamiento de caucho
+40|Procesamiento de cerámica
+40|Procesamiento de combustible nuclear
+40|Procesamiento de cortezas de árbol
+40|Procesamiento de forrajes
+40|Procesamiento de hojas de té
+40|Procesamiento de hormigón
+40|Procesamiento de materiales combustibles
+40|Procesamiento de metales
+40|Procesamiento de películas cinematográficas
+40|Procesamiento de plástico
+40|Procesamiento de ratán
+40|Procesamiento de silicona
+40|Procesamiento fotográfico
+40|Producción de electricidad
+40|Producción de electricidad a partir de energía solar
+40|Producción de energía
+40|Producción de gas y electricidad
+40|Pulido de cristal
+40|Pulido de diamantes
+40|Pulido de piedras preciosas
+40|Realce del color de películas de vídeo en blanco y negro
+40|Realce del color de películas en blanco y negro
+40|Reciclado de químicos
+40|Reciclado de residuos
+40|Reciclado de residuos y basura
+40|Reciclaje de botellas de bebidas
+40|Reciclaje de botellas de plástico PET
+40|Reciclaje de combustibles nucleares
+40|Reciclaje de desechos
+40|Reciclaje de plástico
+40|Reciclaje de residuos y desechos
+40|Refinación de combustible
+40|Refinado de materiales combustibles
+40|Refinado de metales
+40|Refinado de residuos metálicos odontológicos
+40|Reprocesado de combustibles nucleares
+40|Reproducción de obras de arte de museos
+40|Restauración digital de fotografías
+40|Retoque digital de fotografías
+40|Retratamiento de aguas residuales
+40|Revelado de películas fotográficas
+40|Rotograbado
+40|Sastrería o costura
+40|Selección de desechos y material reciclable
+40|Serigrafía
+40|Servicios contra la polilla
+40|Servicios de acolchado de textiles a medida
+40|Servicios de arenado abrasivo
+40|Servicios de bordado
+40|Servicios de bordado de camisetas
+40|Servicios de compresión de gas
+40|Servicios de conservación de alimentos
+40|Servicios de copia de llaves
+40|Servicios de criopreservación
+40|Servicios de curtido
+40|Servicios de descontaminación de áreas con radiación
+40|Servicios de destilación para bebidas espirituosas
+40|Servicios de destilería de bebidas alcohólicas
+40|Servicios de imprenta
+40|Servicios de impresión en offset
+40|Servicios de licuefacción de gas natural
+40|Servicios de mezcla de petróleo crudo y de petróleos sintéticos
+40|Servicios de mezclado de pinturas
+40|Servicios de modista (corte y confección de vestuario)
+40|Servicios de producción de gas
+40|Servicios de rallado de disco duro
+40|Servicios de reciclado de aceite de cocina y de aceite vegetal
+40|Servicios de refinación de petróleo
+40|Servicios de refinería de petróleo
+40|Servicios de restauración fotográfica
+40|Servicios de revelado y reproducción de fotografías
+40|Servicios de sastre
+40|Servicios de separación de color
+40|Servicios de tintorería para textiles o pieles
+40|Servicios de torneado de madera
+40|Servicios de tratamiento de agua
+40|Servicios de tratamiento de gas
+40|Servicios de triturado de documentos
+40|Soldadura
+40|Suministro de información sobre el alquiler de máquinas para fabricar calzado
+40|Suministro de información sobre el alquiler de máquinas para procesar tabaco
+40|Taxidermia
+40|Templado de vidrio
+40|Temple de metales
+40|Teñido de pieles artificiales
+40|Teñido de tejidos o prendas de vestir
+40|Teñido de telas
+40|Tintado de lentes de contacto
+40|Tipografía
+40|Tostado de alimentos
+40|Tostado y procesamiento de café
+40|Trabajo de la cerámica
+40|Trabajo de la madera
+40|Trabajos de ebanistería
+40|Transformación de productos alimenticios para ser utilizados en procesos de fabricación
+40|Tratamiento antiarrugas de tejidos
+40|Tratamiento antipliegues de telas
+40|Tratamiento antipolilla de materias textiles o pieles
+40|Tratamiento de agua y purificación
+40|Tratamiento de aguas residuales
+40|Tratamiento de cartón ondulado para embalaje
+40|Tratamiento de líquidos peligrosos
+40|Tratamiento de mármol
+40|Tratamiento de materiales por rayos láser
+40|Tratamiento de metales
+40|Tratamiento de pieles
+40|Tratamiento de pieles para evitar el encogimiento
+40|Tratamiento de residuos nucleares
+40|Tratamiento de residuos peligrosos
+40|Tratamiento de resina epoxi
+40|Tratamiento de tela y textiles
+40|Tratamiento de telas
+40|Tratamiento de textiles
+40|Tratamiento de textiles para prevenir el moho
+40|Tratamiento de vestimenta
+40|Tratamiento del agua
+40|Tratamiento del papel
+40|Tratamiento para conservación de la madera (que no sea pintura)
+40|Tratamiento químico de materias textiles
+40|Tratamiento térmico de metales
+40|Triturado de piedras

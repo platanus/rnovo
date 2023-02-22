@@ -1,153 +1,141 @@
-class,reference_id,name
-17,170001,acetato de celulosa semielaborado
-17,170002,resinas acrílicas semielaboradas
-17,170003,cortinas de seguridad de amianto
-17,170003,cortinas de seguridad de asbesto
-17,170004,anillos de caucho
-17,170005,pizarra de amianto
-17,170005,pizarra de asbesto
-17,170006,mangueras de riego
-17,170008,materiales de insonorización
-17,170009,anillos de impermeabilidad
-17,170009,anillos de empaque
-17,170010,balata
-17,170011,guarniciones de impermeabilidad
-17,170011,empaques de impermeabilidad
-17,170012,juntas de caucho para tarros
-17,170013,burletes
-17,170014,materiales de relleno de caucho o materias plásticas
-17,170014,materiales de acolchado de caucho o materias plásticas
-17,170015,materiales para calafatear
-17,170016,productos calorífugos
-17,170017,caucho en bruto o semielaborado
-17,170018,tapones de caucho para insertar en botellas
-17,170019,válvulas de charnela de caucho
-17,170020,caucho sintético
-17,170021,topes amortiguadores de caucho
-17,170022,tubos flexibles no metálicos
-17,170023,materiales aislantes
-17,170024,materiales para impedir la radiación térmica
-17,170024,materiales para bloquear la radiación del calor
-17,170025,mangueras de materias textiles
-17,170026,materiales para impedir la radiación térmica de calderas
-17,170029,papel para condensadores eléctricos
-17,170030,juntas para tuberías
-17,170031,cuerdas de caucho
-17,170031,cordones de caucho
-17,170032,algodón para calafatear
-17,170033,juntas de cilindros
-17,170034,aislantes dieléctricos
-17,170035,hojas de amianto
-17,170035,hojas de asbesto
-17,170036,ebonita
-17,170037,cortezas para insonorizar
-17,170037,cortezas para el aislamiento acústico
-17,170038,hilos elásticos que no sean para uso textil
-17,170039,forros de embrague
-17,170039,forros para acoplamientos
-17,170040,materiales para estopar
-17,170041,rellenos para juntas de expansión
-17,170042,compuestos químicos para reparar fugas
-17,170043,juntas*
-17,170043,empaquetaduras
-17,170044,fieltro de amianto
-17,170044,fieltro de asbesto
-17,170045,fieltro aislante
-17,170046,fibra vulcanizada
-17,170047,hilos de plástico para soldar
-17,170048,materiales semielaborados para forros de freno
-17,170049,guantes aislantes
-17,170050,gutapercha
-17,170051,aceite aislante para transformadores
-17,170052,aceites aislantes
-17,170053,hojas de celulosa regenerada que no sean para embalar
-17,170055,papel aislante
-17,170056,tejidos aislantes
-17,170057,barnices aislantes
-17,170058,compuestos aislantes contra la humedad en edificios
-17,170059,láminas metálicas aislantes
-17,170060,pinturas aislantes
-17,170061,lana de escoria [aislante]
-17,170062,lana mineral [aislante]
-17,170063,lana de vidrio para aislar
-17,170064,látex [caucho]
-17,170065,tubos de lino
-17,170066,zulaque
-17,170067,manguitos no metálicos para tubos
-17,170068,manguitos de goma para proteger partes de máquinas
-17,170068,mangas de goma para proteger partes de máquinas
-17,170069,masillas para juntas
-17,170069,compuestos de sellado para juntas
-17,170070,mica en bruto o semielaborada
-17,170071,papel de amianto
-17,170071,papel de asbesto
-17,170072,películas de materias plásticas que no sean para embalar
-17,170073,racores no metálicos para tuberías
-17,170073,empalmes no metálicos para tuberías
-17,170074,manguitos de conexión para radiadores de vehículos
-17,170074,mangueras de conexión para radiadores de vehículos
-17,170074,mangueras de empalme para radiadores de vehículos
-17,170075,resinas sintéticas semielaboradas
-17,170075,resinas artificiales semielaboradas
-17,170076,arandelas de caucho o fibra vulcanizada
-17,170077,bolsas [sobres, bolsitas] de caucho para empaquetar
-17,170078,revestimientos de amianto
-17,170078,revestimientos de asbesto
-17,170079,tejidos de amianto
-17,170079,tejidos de asbesto
-17,170080,tela de amianto
-17,170080,tela de asbesto
-17,170081,empaquetaduras de amianto
-17,170081,empaquetaduras de asbesto
-17,170081,trenzas de amianto
-17,170081,trenzas de asbesto
-17,170082,válvulas de caucho o fibra vulcanizada
-17,170083,hojas de viscosa que no sean para embalar
-17,170084,aislantes para vías férreas
-17,170085,cintas adhesivas que no sean de papelería ni para uso médico o doméstico
-17,170086,armazones no metálicos para conductos de aire comprimido
-17,170087,cartón de amianto
-17,170087,cartón de asbesto
-17,170088,fibras de amianto
-17,170088,fibras de asbesto
-17,170089,armaduras no metálicas para conductos
-17,170089,materiales no metálicos para reforzar conductos
-17,170091,amianto
-17,170091,asbesto
-17,170092,cintas autoadhesivas que no sean de papelería ni para uso médico o doméstico
-17,170093,topes de caucho
-17,170094,aislantes para cables
-17,170095,hilos de caucho que no sean para uso textil
-17,170096,fibras de carbono que no sean para uso textil
-17,170097,materias plásticas semielaboradas
-17,170098,aislantes para conductos eléctricos
-17,170099,aislantes
-17,170099,aisladores
-17,170100,moldes de ebonita
-17,170101,materiales de embalar [relleno] de caucho o materias plásticas
-17,170102,fibras de materias plásticas que no sean para uso textil
-17,170103,fibras de vidrio aislantes
-17,170104,tejidos de fibras de vidrio aislantes
-17,170105,hilos de materias plásticas que no sean para uso textil
-17,170106,materiales filtrantes de espuma plástica semielaborada
-17,170107,cintas aislantes
-17,170107,bandas aislantes
-17,170108,barreras flotantes anticontaminación
-17,170109,goma para recauchutar neumáticos
-17,170110,enlucidos aislantes
-17,170111,hojas de materias plásticas para uso agrícola
-17,170112,soportes de gomaespuma para arreglos florales [productos semiacabados]
-17,170113,caucho líquido
-17,170114,soluciones de caucho
-17,170115,películas antideslumbrantes para ventanas [películas ahumadas]
-17,170115,películas antirreflejo para ventanas [películas ahumadas]
-17,170116,materiales refractarios aislantes
-17,170117,goma en bruto o semielaborada
-17,170118,cintas adhesiva de reparación
-17,170119,topes de caucho para puertas
-17,170120,topes de caucho para ventanas
-17,170121,guarniciones no metálicas para tuberías flexibles
-17,170122,guarniciones no metálicas para tuberías rígidas
-17,170123,defensas de caucho para muelles de navegación
-17,170124,materiales filtrantes de películas plásticas semielaboradas
-17,170125,filamentos de materias plásticas para imprimir en 3D
+class|name
+17|Aceites aislantes
+17|Acoplamientos no metálicos para mangueras de incendio
+17|Aislación de fibra de vidrio
+17|Aislamiento de tubos
+17|Aislante en forma de revestimientos de pisos
+17|Aislantes cerámicos de electricidad
+17|Aislantes eléctricos, térmicos y acústicos
+17|Aislantes para cables eléctricos
+17|Amianto en polvo
+17|Anillos de caucho para su uso como sellado en la conexión de tuberías
+17|Arandelas de caucho o fibra vulcanizada
+17|Barnices aislantes
+17|Barras y varillas de caucho
+17|Barreras flotantes antipolución
+17|Bolsas de caucho para embalaje de mercancías (sobres o bolsitas)
+17|Cartón de amianto
+17|Caucho acrílico
+17|Caucho clorado
+17|Caucho crudo
+17|Caucho de estireno-butadieno
+17|Caucho de etileno-propileno
+17|Caucho de isobutileno-isopreno
+17|Caucho de nitrilo
+17|Caucho de polisulfuro
+17|Caucho de silicona
+17|Caucho en bruto o semielaborado
+17|Caucho expandido de celdas cerradas para insonorización
+17|Caucho hidroclorado
+17|Caucho natural
+17|Caucho reciclado
+17|Caucho regenerado
+17|Caucho semielaborado
+17|Caucho sintético
+17|Cinta aislantes de electricidad
+17|Cinta de enmascarar
+17|Cinta para juntas de paneles de yeso
+17|Cinta para uniones de alfombras
+17|Cinta tapajuntas para tubos
+17|Cintas aislantes
+17|Compuestos para unir tubos
+17|Cordones y cuerdas de amianto
+17|Cordones y lazos de caucho
+17|Cortina ignífuga de amianto
+17|Cortinas de barrera del tipo de deflectores o barreras flotantes para retener contaminantes
+17|Derivados de caucho
+17|Ebonita (vulcanita)
+17|Elastómeros para su unión a artículos utilizados para granallado
+17|Enlucidos aislantes
+17|Espuma de caucho
+17|Fibra vulcanizada
+17|Fibras de carbón que no sean para uso textil
+17|Fibras de vidrio para aislamiento de edificios
+17|Fibras de vidrio para aislar
+17|Fibras de vidrio para uso en la fabricación de aislantes de edificios
+17|Fieltro de amianto
+17|Filamento e hilo de caucho recubierto que no sean para uso textil
+17|Forros de embrague
+17|Fundas de identificación de caucho para tuberías
+17|Goma en bruto
+17|Guantes aislantes
+17|Gutapercha
+17|Hilo de amianto
+17|Hilo de caucho que no sean para uso textil
+17|Hilo de caucho simple y recubierto que no sea para uso textil
+17|Hilos de amianto
+17|Hilos elásticos que no sean para uso textil
+17|Hojas de caucho
+17|Hojas de materias plásticas para uso agrícola
+17|Hojas de polipropileno que no sean para embalaje
+17|Juntas de expansión elastoméricas
+17|Láminas aislantes de grafito
+17|Láminas de materias plásticas con revestimiento adhesivo para la industria manufacturera
+17|Láminas de plástico autoadhesivas para uso industrial
+17|Láminas de vinilo para su uso en la fabricación de inflables
+17|Láminas metálicas para aislamiento de edificios
+17|Lana de roca
+17|Lana de vidrio para aislar
+17|Látex para uso industrial
+17|Mangueras de caucho para uso agrícola
+17|Mangueras de empalme para inyectores de vehículos
+17|Mangueras para el césped
+17|Mangueras para regar
+17|Mantas aislantes para calentadores de agua
+17|Mantas de insonorización
+17|Mantas de materias plásticas para curar hormigón
+17|Masilla de calafatear
+17|Masillas para juntas
+17|Material de goma para recauchutado de neumáticos
+17|Material de plástico en forma extruida para su uso en fabricación
+17|Material de relleno de caucho o plástico
+17|Materiales aislantes
+17|Materiales aislantes de electricidad
+17|Materiales de aislamiento para acondicionadores de aire
+17|Materiales de insonorización
+17|Materiales insonorizantes de lana de roca que no sean para la construcción
+17|Materiales para calafatear
+17|Materiales para estopar
+17|Materiales refractarios aislantes
+17|Materias de relleno de caucho
+17|Materias plásticas en forma de láminas, películas, bloques, varillas y tubos
+17|Materias plásticas semielaboradas
+17|Mica
+17|Mica en bruto o semielaborada
+17|Paneles de barrera para el aislamiento acústico
+17|Papel de amianto
+17|Película de plástico de uso agrícola
+17|Película de poliuretano para su uso como barrera contra la humedad
+17|Película para empajado de suelos (mulching)
+17|Películas de materias plásticas para uso en ventanas
+17|Películas de materias plásticas tintadas para ventanillas de vehículos
+17|Películas de plástico anti vaho para espejos retrovisores de automóviles
+17|Películas de plástico teñido para uso en ventanas
+17|Películas plásticas para uso en papel laminado
+17|Pinturas aislantes
+17|Plástico extrudido en forma de barras, bloques, pellets, varillas, láminas y tubos para fabricación
+17|Productos de caucho aislantes de electricidad
+17|Productos de materias plásticas semielaborados
+17|Productos de mica aislantes de electricidad
+17|Racores no metálicos para tuberías flexibles
+17|Recipientes de caucho para embalaje industrial
+17|Recubrimientos aislantes
+17|Redes de amianto
+17|Rellenos para juntas de expansión
+17|Rellenos plásticos
+17|Selladores de poliuretano
+17|Selladores de silicona
+17|Sello obturador de juntas de tubo
+17|Servicios de tendido de tubos
+17|Soportes de tubo aislados
+17|Tapas y tapones de caucho para recipientes de embalaje industrial
+17|Tapones de caucho para botellas
+17|Tejidos aislantes
+17|Tejidos de amianto
+17|Tejidos de fibras de vidrio para aislar
+17|Tuberías y tubos de caucho
+17|Tubos flexibles no metálicos
+17|Tubos plásticos flexibles
+17|Tubos termorretráctiles termoplásticos para gestionar cables eléctricos
+17|Válvulas hechas de fibra de caucho o vulcanizada sin incluir elementos de máquinas
+17|Varillas y barras de materias plásticas

@@ -1,644 +1,794 @@
-class,reference_id,name
-7,070001,acoplamientos de árbol [máquinas]
-7,070002,aparatos depuradores de acetileno
-7,070003,convertidores de acería
-7,070004,máquinas distribuidoras de cinta adhesiva
-7,070005,bombas de aireación para acuarios
-7,070006,aerocondensadores
-7,070007,agitadores*
-7,070008,máquinas agrícolas
-7,070009,elevadores para uso agrícola
-7,070010,filtros de limpieza para sistemas de refrigeración de motores
-7,070011,condensadores de aire
-7,070012,equipos para tirar cerveza
-7,070013,máquinas de ajuste
-7,070014,apisonadoras
-7,070014,aplanadoras
-7,070015,alimentadores de carburador
-7,070016,dispositivos de encendido para motores de combustión interna
-7,070018,alternadores
-7,070019,válvulas [partes de máquinas]
-7,070019,compuertas [partes de máquinas]
-7,070020,árboles para máquinas
-7,070020,ejes para máquinas
-7,070021,cigüeñales
-7,070022,árboles de transmisión que no sean para vehículos terrestres
-7,070023,ascensores
-7,070024,elevadores
-7,070026,mezcladoras [máquinas]
-7,070027,rodamientos autolubricantes
-7,070028,arados
-7,070029,motores de avión
-7,070030,máquinas para encalar
-7,070031,anillos de engrase [partes de máquinas]
-7,070032,segmentos de pistón
-7,070032,anillos de pistón
-7,070033,escobillas de dínamo
-7,070034,barredoras autopropulsadas
-7,070035,caballetes para aserrar [partes de máquinas]
-7,070036,cintas para transportadores
-7,070036,cintas transportadoras
-7,070037,transportadores de cinta
-7,070038,máquinas batidoras de mantequilla
-7,070038,máquinas batidoras de manteca
-7,070039,tambores de máquinas
-7,070040,carcasas de máquinas
-7,070041,armazones de máquinas
-7,070042,molinos [máquinas]
-7,070043,trilladoras
-7,070044,máquinas para batir
-7,070045,hormigoneras
-7,070045,mezcladoras de hormigón
-7,070046,máquinas para elaborar mantequilla
-7,070046,máquinas para elaborar manteca
-7,070047,dínamos de bicicleta
-7,070048,bielas para máquinas y motores
-7,070049,rodamientos de bolas
-7,070049,cojinetes de bolas
-7,070050,máquinas para preparar bitumen
-7,070051,guadañadoras
-7,070051,cosechadoras
-7,070052,atadoras
-7,070052,agavilladoras
-7,070054,bobinas para telares
-7,070054,carretes para telares
-7,070055,máquinas de carpintería
-7,070056,máquinas para gasificar bebidas
-7,070057,telares para calcetería
-7,070058,enfardadoras de heno
-7,070059,máquinas colectoras de fangos
-7,070061,bujías de precalentamiento para motores diésel
-7,070062,fileteadoras
-7,070063,máquinas enjuagadoras
-7,070064,máquinas llenadoras de botellas
-7,070065,lavadoras de botellas
-7,070066,máquinas para la industria cervecera
-7,070067,bastidores para máquinas de bordar
-7,070068,cepillos [partes de máquinas]
-7,070069,buldóceres
-7,070069,topadoras frontales
-7,070070,palas mecánicas
-7,070071,mortajadoras
-7,070071,escopleadoras
-7,070072,cabrestantes
-7,070073,rezones automáticos para uso marino
-7,070074,correas de máquinas
-7,070075,cubiertas [partes de máquinas]
-7,070076,componedoras [imprenta]
-7,070077,inyectores para motores
-7,070078,carburadores
-7,070079,guarniciones para máquinas de cardar
-7,070080,hojas [partes de máquinas]
-7,070081,cajas para matrices [imprenta]
-7,070082,tamices para cenizas [máquinas]
-7,070083,desnatadoras
-7,070083,separadores de crema
-7,070083,descremadoras
-7,070083,separadores de nata
-7,070084,secadoras centrífugas
-7,070085,lubricadores [partes de máquinas]
-7,070085,engrasadores [partes de máquinas]
-7,070086,centrifugadoras [máquinas]
-7,070087,molinos centrífugos
-7,070088,bombas centrífugas
-7,070089,descascaradoras de cereales
-7,070090,fresadoras
-7,070091,soportes de cojinetes para máquinas
-7,070092,soportes para máquinas
-7,070092,asientos [soportes para máquinas]
-7,070093,escobillas de carbón [electricidad]
-7,070094,rozadoras de carbón
-7,070095,montacargas
-7,070096,rampas de carga
-7,070097,carros para máquinas de tejer
-7,070097,correderas para máquinas de tejer
-7,070098,tornos [máquinas herramientas]
-7,070099,polipastos
-7,070099,poleas*
-7,070100,rejas de arado
-7,070100,manceras de arado
-7,070101,accesorios para calderas de máquinas
-7,070102,prensas de vino
-7,070103,máquinas industriales para fabricar cigarrillos
-7,070104,curvadoras
-7,070105,cizallas eléctricas
-7,070106,tijeras eléctricas
-7,070107,cinceles para máquinas
-7,070108,válvulas de charnela para máquinas
-7,070109,prensas filtradoras
-7,070110,colectores de incrustaciones para calderas de máquinas
-7,070111,sistemas de accionamiento por pedal para máquinas de coser
-7,070112,fotocomponedoras
-7,070113,compresoras [máquinas]
-7,070114,turbocompresores
-7,070115,condensadores de vapor [partes de máquinas]
-7,070116,instalaciones de condensación
-7,070117,poleas [partes de máquinas]
-7,070118,juntas [partes de motores]
-7,070118,juntas de estanqueidad
-7,070119,trenzadoras de cuerdas
-7,070120,fundidoras de caracteres de imprenta
-7,070122,tundidoras [máquinas]
-7,070123,cortadoras [máquinas]
-7,070124,generadores de corriente
-7,070125,coronas de sondeo [partes de máquinas]
-7,070126,correas para dínamos
-7,070127,correas para elevadores
-7,070128,máquinas de coser pliegos
-7,070129,dispositivos para mover cargas por colchón de aire
-7,070130,cojinetes [partes de máquinas]
-7,070131,cuchillos eléctricos
-7,070132,gatos de cremallera
-7,070133,instalaciones de cribado
-7,070135,gatos [máquinas]
-7,070135,crics
-7,070136,máquinas para trabajar el cuero
-7,070137,culatas de cilindros de motor
-7,070138,cultivadoras [máquinas]
-7,070139,cilindros de máquinas
-7,070140,cilindros de imprenta
-7,070141,cilindros de laminadores
-7,070143,máquinas seleccionadoras para uso industrial
-7,070143,máquinas clasificadoras para uso industrial
-7,070145,tolvas de descarga mecánica
-7,070146,recortadoras
-7,070147,desaireadores [desgasificadores] de agua de alimentación
-7,070147,desgasificadores [desaireadores] de agua de alimentación
-7,070148,extractoras de césped
-7,070148,extractoras de pasto
-7,070149,desengrasadoras [máquinas]
-7,070150,arranques para motores
-7,070151,máquinas encajeras
-7,070151,máquinas para hacer encajes
-7,070152,separadores de aceite y vapor
-7,070153,desintegradores
-7,070154,manorreductores de presión [partes de máquinas]
-7,070155,devanadoras mecánicas
-7,070157,desbastadoras de cuero
-7,070158,máquinas de drenaje
-7,070159,máquinas desbarbadoras
-7,070159,máquinas enderezadoras
-7,070159,aparatos de mecanizado
-7,070160,dínamos
-7,070162,pulverizadores para aguas residuales
-7,070163,máquinas para gasificar el agua
-7,070164,aparatos para mineralizar el agua potable
-7,070165,calentadores de agua en cuanto partes de máquinas
-7,070166,descarnadoras
-7,070167,aterrajadoras
-7,070167,roscadoras
-7,070168,despalilladoras [máquinas]
-7,070168,separadoras de raspones
-7,070169,desgranadoras
-7,070170,eyectores
-7,070171,generadores de electricidad
-7,070172,aparatos elevadores
-7,070173,prensas de embutir
-7,070174,embragues que no sean para vehículos terrestres
-7,070175,aparatos entintadores [imprenta]
-7,070176,dispositivos de arrastre [partes de máquinas]
-7,070177,máquinas de envolver
-7,070178,escaleras mecánicas
-7,070179,bombas [partes de máquinas o motores]
-7,070180,timbradoras
-7,070181,máquinas estampadoras
-7,070181,máquinas troqueladoras
-7,070182,etiquetadoras
-7,070183,estiradoras
-7,070184,excavadoras
-7,070185,extractores para minería
-7,070186,henificadoras
-7,070187,tamices [máquinas o partes de máquinas]
-7,070188,cuchillas de segadoras
-7,070189,cuchillas [partes de máquinas]
-7,070190,hiladoras [máquinas]
-7,070191,ruecas
-7,070191,tornos de hilar
-7,070192,filtradoras
-7,070193,acabadoras [máquinas]
-7,070194,mandriles [partes de máquinas]
-7,070195,prensas para forraje
-7,070196,máquinas de fundición
-7,070197,pistones para cilindros
-7,070198,prensaestopas [partes de máquinas]
-7,070199,sopladores para comprimir, aspirar y transportar gases
-7,070201,cortadoras de césped [máquinas]
-7,070201,cortadoras de pasto [máquinas]
-7,070202,alquitranadoras
-7,070202,asfaltadoras
-7,070203,sopladores para comprimir, aspirar y transportar granos
-7,070204,cajas de engrase [partes de máquinas]
-7,070204,cajas de engrase [máquinas]
-7,070205,bombas de engrase
-7,070206,máquinas gofradoras
-7,070206,máquinas para repujar
-7,070207,máquinas de grabado
-7,070208,muescadoras [máquinas herramientas]
-7,070209,guías de máquinas
-7,070210,cortadoras de paja
-7,070211,picadoras de carne [máquinas]
-7,070212,bastidores para telares
-7,070212,engranajes para telares
-7,070213,rastras
-7,070214,pulverizadoras [máquinas]
-7,070214,atomizadoras
-7,070214,máquinas atomizadoras
-7,070215,turbinas hidráulicas
-7,070216,máquinas para imprimir sobre chapas metálicas
-7,070217,planchas de impresión
-7,070218,máquinas de imprimir
-7,070219,prensas de imprimir
-7,070220,rodillos de imprenta para máquinas
-7,070222,máquinas para la industria lechera
-7,070223,cuchillas de cortadoras de paja
-7,070224,lizos de telar
-7,070225,máquinas afiladoras de cuchillas
-7,070226,hojas de sierras [partes de máquinas]
-7,070227,portasierras [partes de máquinas]
-7,070228,máquinas laminadoras
-7,070229,lanzas térmicas [máquinas]
-7,070230,manivelas [partes de máquinas]
-7,070231,lavaplatos [máquinas]
-7,070231,lavavajillas [máquinas]
-7,070233,aparatos de lavado
-7,070234,lavadoras
-7,070234,máquinas para lavar la ropa
-7,070234,lavarropas
-7,070235,instalaciones de lavado de vehículos
-7,070236,lavadoras que funcionan con monedas
-7,070237,aparatos de levantamiento
-7,070239,escurridoras de ropa
-7,070240,máquinas alisadoras
-7,070241,máquinas motrices que no sean para vehículos terrestres
-7,070242,máquinas de vapor
-7,070243,máquinas herramientas
-7,070244,magnetos de encendido
-7,070245,aparatos de manipulación para carga y descarga
-7,070246,marginadores [imprenta]
-7,070246,alimentadores de papel
-7,070247,martillos [partes de máquinas]
-7,070248,martillos pilones
-7,070249,martillos neumáticos
-7,070250,martinetes
-7,070251,mástiles de carga
-7,070252,mecanismos de propulsión que no sean para vehículos terrestres
-7,070253,mecanismos de transmisión que no sean para vehículos terrestres
-7,070254,reguladores [partes de máquinas]
-7,070255,máquinas para procesar tabaco
-7,070256,trituradoras eléctricas para uso doméstico
-7,070257,diafragmas de bombas
-7,070258,máquinas para trabajar metales
-7,070258,máquinas para conformar metales
-7,070259,telares
-7,070260,máquinas hiladoras
-7,070262,muelas de molino
-7,070263,máquinas para moler
-7,070264,taladros de minería
-7,070265,aparatos de tratamiento de minerales metalíferos
-7,070265,aparatos de tratamiento de menas
-7,070266,máquinas para la industria harinera
-7,070267,batidoras*
-7,070268,segadoras
-7,070269,segadoras-agavilladoras
-7,070270,segadoras-trilladoras
-7,070271,montavagones
-7,070272,motores de reacción que no sean para vehículos terrestres
-7,070273,dispositivos anticontaminación para motores
-7,070274,pistones de motor
-7,070275,reguladores de velocidad para máquinas y motores
-7,070276,moldes [partes de máquinas]
-7,070277,molinillos para uso doméstico que no sean manuales
-7,070278,máquinas para hacer molduras
-7,070279,ruedas libres que no sean para vehículos terrestres
-7,070280,lanzaderas [partes de máquinas]
-7,070281,máquinas y aparatos de limpieza eléctricos
-7,070282,máquinas de aspiración para uso industrial
-7,070283,máquinas para hacer dobladillos
-7,070284,herramientas de mano que no sean accionadas manualmente
-7,070285,herramientas [partes de máquinas]
-7,070286,portaherramientas [partes de máquinas]
-7,070287,abrelatas eléctricos
-7,070288,máquinas para cortar pan
-7,070289,cajas de eje [partes de máquinas]
-7,070290,cojinetes para árboles de transmisión
-7,070291,máquinas para fabricar papel
-7,070292,calandrias [máquinas]
-7,070294,máquinas empaquetadoras
-7,070295,amasadoras mecánicas
-7,070296,máquinas eléctricas para elaborar pastas alimenticias
-7,070297,máquinas para pintar
-7,070298,pistolas para pintar
-7,070299,perforadoras*
-7,070300,taladradoras de mano eléctricas
-7,070301,máquinas para trabajar la piedra
-7,070302,pistones [partes de máquinas o de motores]
-7,070303,prensas tipográficas
-7,070304,transportadores neumáticos
-7,070305,punzones para máquinas punzonadoras
-7,070306,máquinas punzonadoras
-7,070307,molinillos de pimienta que no sean manuales
-7,070308,máquinas y aparatos de pulir eléctricos
-7,070309,bombas [máquinas]
-7,070310,bombas de aire [instalaciones para talleres de reparación de automóviles]
-7,070311,bombas para instalaciones de calefacción
-7,070312,bombas de vacío [máquinas]
-7,070313,puentes rodantes
-7,070314,bandas adhesivas para poleas
-7,070315,aparatos electromecánicos para preparar bebidas
-7,070316,prensas [máquinas para uso industrial]
-7,070317,reguladores de presión [partes de máquinas]
-7,070318,válvulas de presión [partes de máquinas]
-7,070319,máquinas de pudelar
-7,070320,purgadores automáticos
-7,070320,purgadores de vapor
-7,070321,cepilladoras
-7,070322,máquinas para colocar rieles
-7,070322,máquinas para colocar raíles
-7,070323,rastrillos para máquinas rastrilladoras
-7,070324,máquinas rastrilladoras
-7,070325,máquinas frisadoras
-7,070325,ratinadoras
-7,070326,rectificadoras
-7,070327,aparatos y máquinas de encuadernación para uso industrial
-7,070328,máquinas de planchar
-7,070329,máquinas de zurcir
-7,070330,resortes [partes de máquinas]
-7,070331,dispositivos eléctricos para correr cortinas
-7,070332,remachadoras
-7,070333,grifos [partes de máquinas o motores]
-7,070334,rotativas [máquinas]
-7,070335,engranajes de máquinas
-7,070335,mecanismos de máquinas
-7,070336,ruedas de máquinas
-7,070337,volantes de máquinas
-7,070338,cojinetes de rodillos
-7,070338,cojinetes de agujas
-7,070339,anillos de bolas para rodamientos
-7,070340,máquinas para construir carreteras
-7,070341,sierras [máquinas]
-7,070342,máquinas de explotación minera
-7,070343,correas para motores
-7,070344,máquinas de escardar
-7,070345,máquinas satinadoras
-7,070346,máquinas para fabricar salchichas
-7,070347,máquinas estampilladoras para uso industrial
-7,070348,sembradoras [máquinas]
-7,070349,soldadoras eléctricas
-7,070350,fuelles [partes de máquinas]
-7,070351,sopladores de fragua
-7,070352,hormas para zapatos [partes de máquinas]
-7,070353,máquinas de decantar
-7,070353,máquinas llenadoras
-7,070354,estatores
-7,070355,máquinas de estereotipar
-7,070356,máquinas para elaborar azúcar
-7,070357,sobrecalentadores
-7,070358,sobrealimentadores
-7,070359,mesas de máquinas
-7,070360,faldones de máquinas
-7,070360,delantales de carro
-7,070362,máquinas de teñir
-7,070364,máquinas de cardar
-7,070365,soportes de carro [partes de máquinas]
-7,070366,gorrones [partes de máquinas]
-7,070367,ordeñadoras [máquinas]
-7,070368,ventosas para ordeñadoras [máquinas]
-7,070369,transmisiones de máquinas
-7,070370,instalaciones neumáticas de transporte por tubos
-7,070371,transportadores [máquinas]
-7,070372,máquinas trenzadoras
-7,070373,cabrias
-7,070374,tejedoras [máquinas]
-7,070374,máquinas de tejer
-7,070375,turbinas que no sean para vehículos terrestres
-7,070376,enrolladores mecánicos para mangueras
-7,070376,devanadoras mecánicas para mangueras
-7,070377,tímpanos [imprenta]
-7,070378,máquinas tipográficas
-7,070379,aventadoras
-7,070380,motores para vehículos de colchón de aire
-7,070381,ventiladores para motores
-7,070382,máquinas para trabajar el vidrio
-7,070383,máquinas para construir vías férreas
-7,070384,aparatos de vulcanización
-7,070385,acoplamientos que no sean para vehículos terrestres
-7,070386,motores de aeronáutica
-7,070387,máquinas afiladoras
-7,070388,instrumentos agrícolas que no sean accionados manualmente
-7,070389,muelas de afilado [partes de máquinas]
-7,070390,bombas de cerveza
-7,070391,motores de aire comprimido
-7,070392,máquinas de aire comprimido
-7,070393,bombas de aire comprimido
-7,070394,bujías de encendido para motores de combustión interna
-7,070394,bujías de encendido para motores de explosión
-7,070395,pistones de amortiguadores [partes de máquinas]
-7,070396,cojinetes antifricción para máquinas
-7,070396,rodamientos antifricción para máquinas
-7,070396,rodamientos [partes de máquinas o motores]
-7,070397,arrancadoras [máquinas]
-7,070397,cavadoras [máquinas]
-7,070398,máquinas de aspiración de aire
-7,070400,economizadores de combustible para motores
-7,070401,máquinas de barco
-7,070402,motores de barco
-7,070402,motores de canoa
-7,070403,batidoras eléctricas
-7,070404,arietes [máquinas]
-7,070404,martinetes [máquinas]
-7,070405,forros de freno que no sean para vehículos
-7,070406,zapatas de freno que no sean para vehículos
-7,070407,segmentos de freno que no sean para vehículos
-7,070408,bobinas para máquinas
-7,070408,canillas [partes de máquinas]
-7,070409,cajas de cambio que no sean para vehículos terrestres
-7,070410,taponadoras de botellas [máquinas]
-7,070411,capsuladoras de botellas [máquinas]
-7,070412,precintadoras de botellas [máquinas]
-7,070413,escobillas eléctricas [partes de máquinas]
-7,070414,trituradoras de residuos
-7,070414,trituradoras de basura
-7,070415,molinillos de café que no sean accionados manualmente
-7,070416,tubos de humos para calderas de máquinas
-7,070417,máquinas de movimiento de tierras
-7,070418,compactadoras de desechos
-7,070418,compactadoras de residuos
-7,070419,máquinas desmenuzadoras para uso industrial
-7,070420,tornos de alfarero
-7,070421,máquinas de manipulación industriales
-7,070422,robots industriales
-7,070423,aparatos electromecánicos para preparar alimentos
-7,070424,cartuchos para máquinas de filtrar
-7,070425,cadenas de accionamiento que no sean para vehículos terrestres
-7,070426,convertidores de par que no sean para vehículos terrestres
-7,070427,cadenas de transmisión que no sean para vehículos terrestres
-7,070427,cadenas motrices que no sean para vehículos terrestres
-7,070428,portabrocas [partes de máquinas]
-7,070429,calderas de máquinas
-7,070430,alimentadores de calderas de máquinas
-7,070431,esquiladoras [máquinas]
-7,070433,motores que no sean para vehículos terrestres
-7,070434,cables de mando para máquinas o motores
-7,070435,dispositivos de mando para máquinas o motores
-7,070436,matrices de imprenta
-7,070437,compresores para refrigeradores
-7,070437,compresores para frigoríficos
-7,070439,separadores de agua
-7,070439,grifos de purga
-7,070440,máquinas de coser
-7,070441,correas de ventilador para motores
-7,070442,incubadoras de huevos
-7,070443,engranajes que no sean para vehículos terrestres
-7,070444,mezcladores eléctricos para uso doméstico
-7,070445,máquinas de cocina eléctricas
-7,070446,cilindros de motor
-7,070447,desmultiplicadores que no sean para vehículos terrestres
-7,070448,máquinas divisoras
-7,070449,coronas de perforación [partes de máquinas]
-7,070450,intercambiadores térmicos [partes de máquinas]
-7,070451,tubos de escape para motores
-7,070452,motores eléctricos que no sean para vehículos terrestres
-7,070453,grúas [aparatos de levantamiento]
-7,070454,máquinas mondadoras
-7,070455,máquinas para rallar hortalizas
-7,070456,pistolas de aire comprimido para extrudir masillas
-7,070457,filtros en cuanto partes de máquinas o motores
-7,070458,zanjadoras [arados]
-7,070458,binadores
-7,070459,batidores eléctricos para uso doméstico
-7,070460,exprimidores de fruta eléctricos para uso doméstico
-7,070461,motores hidráulicos
-7,070462,torres de perforación flotantes o no
-7,070463,convertidores de combustible para motores de combustión interna
-7,070464,radiadores de refrigeración para motores
-7,070471,tubos de calderas [partes de máquinas]
-7,070472,mandos hidráulicos para máquinas y motores
-7,070473,mandos neumáticos para máquinas y motores
-7,070474,cárteres para máquinas y motores
-7,070475,robots de cocina eléctricos
-7,070475,procesadores de alimentos eléctricos
-7,070476,pistolas de cola eléctricas
-7,070477,pistolas [herramientas con cartuchos explosivos]
-7,070478,cabrestantes para la pesca
-7,070478,máquinas para izar redes de pesca
-7,070479,juntas de cardán
-7,070480,prensas de vapor rotativas y portátiles para tejidos
-7,070481,máquinas eléctricas para lavar alfombras y moquetas
-7,070482,convertidores catalíticos
-7,070483,instalaciones centrales de limpieza al vacío
-7,070484,sierras de cadena
-7,070485,aparatos de limpieza a vapor
-7,070486,sopletes cortadores a gas
-7,070487,instalaciones de aspiración de polvo para limpiar
-7,070488,instalaciones de desempolvado para limpiar
-7,070489,martillos eléctricos
-7,070490,máquinas electromecánicas para la industria química
-7,070491,cadenas de elevador [partes de máquinas]
-7,070492,grupos electrógenos de emergencia
-7,070493,depósitos de expansión [partes de máquinas]
-7,070493,tanques de expansión [partes de máquinas]
-7,070494,diamantes de vidriero [partes de máquinas]
-7,070495,aparatos de limpieza de alta presión
-7,070496,máquinas para la industria textil
-7,070497,colectores de escape para motores
-7,070498,máquinas de refinación del petróleo
-7,070499,máquinas de empaquetar
-7,070500,enceradoras de parqué eléctricas
-7,070501,lustradoras de calzado eléctricas
-7,070502,quitanieves
-7,070503,soldadores de gas
-7,070504,sopletes de soldadura a gas
-7,070505,hierros de soldadura a gas
-7,070506,accesorios de aspiradoras para difundir perfumes y desinfectantes
-7,070506,accesorios de aspiradores para difundir perfumes y desinfectantes
-7,070507,tubos de aspiradoras
-7,070507,tubos de aspiradores
-7,070508,aspiradoras
-7,070508,aspiradores
-7,070509,vibradoras [máquinas] para uso industrial
-7,070510,máquinas y aparatos eléctricos para encerar suelos
-7,070510,máquinas y aparatos eléctricos para encerar pisos
-7,070511,máquinas de encordar raquetas
-7,070512,máquinas para montar bicicletas
-7,070513,motocultores
-7,070514,aerógrafos para colorear
-7,070515,dispositivos hidráulicos de apertura de puertas
-7,070516,arranques de pedal para motocicletas
-7,070517,máquinas mecánicas de distribución de alimentos para el ganado
-7,070518,cintas transportadoras de personas
-7,070518,pasillos mecánicos
-7,070519,silenciadores para motores
-7,070520,dispositivos neumáticos de apertura de puertas
-7,070521,bolsas para aspiradoras
-7,070522,sopletes a gas
-7,070523,turbinas eólicas
-7,070524,pastillas de freno que no sean para vehículos
-7,070525,electrodos para soldadoras
-7,070526,aparatos de soldadura eléctrica
-7,070528,soldadores eléctricos
-7,070528,aparatos de soldar eléctricos
-7,070529,hierros de soldadura eléctricos
-7,070530,aparatos de soldadura por arco eléctrico
-7,070531,aparatos de corte por arco eléctrico
-7,070532,lámparas para soldar
-7,070532,sopletes de soldadura
-7,070533,lagares
-7,070534,máquinas de soplado
-7,070535,máquinas de galvanoplastia
-7,070536,máquinas de galvanización
-7,070537,distribuidores automáticos
-7,070537,máquinas expendedoras
-7,070538,cierres eléctricos de puertas
-7,070539,dispositivos eléctricos de apertura de puertas
-7,070540,dispositivos de mando para ascensores
-7,070541,aparatos eléctricos para sellar envases plásticos
-7,070542,surtidores de combustible para estaciones de servicio [gasolineras]
-7,070543,bombas autorreguladoras de combustible
-7,070544,máquinas para el tratamiento [transformación] de materias plásticas
-7,070545,dispositivos eléctricos de apertura de ventanas
-7,070546,dispositivos eléctricos de cierre de ventanas
-7,070547,dispositivos hidráulicos de apertura de ventanas
-7,070548,dispositivos hidráulicos de cierre de ventanas
-7,070549,dispositivos neumáticos de apertura de ventanas
-7,070550,dispositivos neumáticos de cierre de ventanas
-7,070551,dispositivos hidráulicos de cierre de puertas
-7,070552,dispositivos neumáticos de cierre de puertas
-7,070553,molinillos eléctricos de cocina
-7,070554,gatos neumáticos
-7,070555,impresoras 3D
-7,070556,máquinas de tamizado
-7,070557,bancadas de motor que no sean para vehículos terrestres
-7,070557,soportes de motor que no sean para vehículos terrestres
-7,070558,extractores de clavos eléctricos
-7,070558,sacaclavos eléctricos
-7,070559,cepillos para aspiradoras
-7,070560,herramientas eléctricas para afilar cantos de esquís
-7,070561,machacadoras
-7,070562,apisonadores [máquinas]
-7,070563,boquilla de succión para aspiradoras
-7,070564,raspatubos
-7,070565,extractores de zumo eléctricos
-7,070565,extractores de jugo eléctricos
-7,070566,destornilladores eléctricos
-7,070567,palancas de mando [joysticks] en cuanto partes de máquinas, que no sean para máquinas de juego
-7,070568,árboles de levas para motores de vehículos
-7,070569,trenes de rodamiento de caucho en cuanto partes de orugas de máquinas de construcción
-7,070570,trenes de rodamiento de caucho en cuanto partes de orugas de máquinas y aparatos de carga y descarga
-7,070571,trenes de rodamiento de caucho en cuanto partes de orugas de máquinas agrícolas
-7,070572,trenes de rodamiento de caucho en cuanto partes de orugas de máquinas de explotación minera
-7,070573,trenes de rodamiento de caucho en cuanto partes de orugas de quitanieves
-7,070574,drenadores neumáticos de aceite usado
-7,070574,recuperadores neumáticos de aceite usado
-7,070575,bombas para la natación contracorriente
-7,070576,bolígrafos de impresión 3D
-7,070577,máquinas de labranza para uso agrícola
-7,070578,cortadores de verduras, hortalizas en espiral eléctricos
-7,070579,dispensadores de hidrógeno para estaciones de servicio
-7,070580,máquinas de impresión por chorro de tinta para uso industrial
-7,070581,mopas de vapor
-7,070581,trapeadores de vapor
-7,070582,trajes robóticos de exoesqueleto que no sean para uso médico
-7,070583,grúas móviles
-7,070584,unidades flotantes de producción, almacenamiento y descarga [FPAD]
-7,070585,cortadoras de queso eléctricas
-7,070586,peladores eléctricos de verduras y hortalizas
+class|name
+7|Acoplamientos de ejes como piezas de máquinas
+7|Acoplamientos de máquinas y componentes de transmisión excepto para vehículos terrestres
+7|Acoplamientos para máquinas
+7|Acoplamientos y transmisión de máquinas, excepto para vehículos terrestres
+7|Afiladores de taladros de minería
+7|Agarres y aparatos para la transmisión de electricidad que no sean para vehículos terrestres
+7|Agitadores para procesos químicos
+7|Alimentadora de sobres
+7|Alimentadores electrónicos para animales
+7|Alternadores
+7|Alternadores de arranque
+7|Amasadoras mecánicas para el procesamiento químico
+7|Amoladoras angulares
+7|Amoladoras de mano y accionadas eléctricamente
+7|Amoladoras eléctricas
+7|Amoladoras giratorias
+7|Amoladoras y pulidoras
+7|Amortiguadores (herramientas eléctricas)
+7|Aparatos de elevación mecánicos y neumáticos
+7|Aparatos de limpieza a vapor
+7|Aparatos de soldadura eléctrica al arco
+7|Aparatos para elaborar aguas minerales
+7|Aparatos vulcanizadores de caucho
+7|Aplanadoras
+7|Arados de carbón
+7|Árboles de levas
+7|Árboles para máquinas
+7|Arrancapilotes
+7|Arranques de pedal para motocicletas
+7|Arranques para motores
+7|Aspiradoras
+7|Aspiradoras eléctricas
+7|Aspiradoras manuales
+7|Aspiradoras para uso comercial e industrial
+7|Aspiradoras para uso doméstico
+7|Aspiradoras para uso industrial
+7|Aspiradoras robóticas
+7|Aspiradores inalámbricos
+7|Astilladoras de madera
+7|Atadoras
+7|Aventadoras
+7|Bandas de rodadura de goma para su uso con orugas en maquinaria agrícola
+7|Bandas de rodadura de goma para su uso con orugas en maquinaria de construcción
+7|Bandas de rodadura de goma para su uso con orugas en maquinaria de minería
+7|Bandas de rodadura de goma para su uso con orugas en maquinaria quitanieves
+7|Barredoras autopropulsadas
+7|Barredoras de caminos autopropulsadas
+7|Barredoras inalámbricas
+7|Barrenas de tierra
+7|Bastidores de lavavajillas que son piezas de un lavavajillas
+7|Batidoras eléctricas de preparaciones alimenticias para bebés para uso doméstico
+7|Batidoras eléctricas manuales de uso doméstico
+7|Batidoras eléctricas para uso doméstico
+7|Bielas para máquinas y motores
+7|Bloques de motor para automóviles
+7|Bobinas automatizadas para mangueras de jardín
+7|Bobinas de encendido para motores de automóviles
+7|Bobinas para máquinas de coser
+7|Bolsas para aspiradoras
+7|Bombas como partes de máquinas y motores
+7|Bombas de alta presión para limpieza de instalaciones y aparatos
+7|Bombas de combustible a motor
+7|Bombas de combustible para motores de vehículos terrestres
+7|Bombas de succión
+7|Bombas de tornillo
+7|Bombas de tornillo de múltiples fases
+7|Bombas de vacío
+7|Bombas de vacío (máquinas)
+7|Bombas eléctricas
+7|Bombas hidráulicas
+7|Bombas lobulares rotatorias
+7|Bombas neumáticas
+7|Bombas para acuario
+7|Bombas para la industria de bebidas
+7|Bombas para máquinas
+7|Bombas que hacen olas para acuarios
+7|Bombas y compresores como partes de máquinas para máquinas y motores
+7|Brocas de centrado que sean partes de máquinas
+7|Brocas de corona
+7|Brocas para máquinas de minería
+7|Brocas para minería
+7|Brocas para taladrar roca
+7|Brocas para taladro eléctrico
+7|Bujías de encendido para motores de vehículos terrestres
+7|Bujías de precalentamiento para motores diésel
+7|Bulldozers
+7|Cabezales de corte para cortacéspedes
+7|Cables para ascensores
+7|Cabrestantes de arrastre
+7|Cabrias
+7|Cadenas de accionamiento que no sean para vehículos terrestres
+7|Cadenas de transmisión que no sean para vehículos terrestres
+7|Cadenas transportadoras
+7|Cajas de cambio que no sean para vehículos terrestres
+7|Cajas de eje (partes de máquinas)
+7|Cajas de hilatura para máquinas hiladoras de rotor de extremo abierto
+7|Calandrias de papel
+7|Calderas de máquinas
+7|Caminadores mecánicos para caballos
+7|Carburadores
+7|Cargadores con bandas de rodamiento de oruga
+7|Cargadores con deslizadera
+7|Cárteres para máquinas y motores
+7|Catenarias de goma para su uso con cintas transportadoras en máquinas y dispositivos de carga y descarga
+7|Centrifugadoras de aceite
+7|Centrífugas
+7|Cepilladoras eléctricas
+7|Cepilladoras para trabajar metales
+7|Cepillos eléctricos como partes de máquinas
+7|Cepillos para máquinas aspiradoras
+7|Cepillos que sean partes de máquinas
+7|Cestas de utensilios para máquinas lavavajillas (como partes de las mismas)
+7|Cierres eléctricos de puertas
+7|Cilindros de motor para automóviles
+7|Cinceladoras (máquinas herramientas)
+7|Cintas transportadoras
+7|Cintas transportadoras de malla metálica
+7|Cintas transportadoras para personas
+7|Cizallas eléctricas (máquinas)
+7|Cizallas mecánicas para metalistería
+7|Cizallas neumáticas
+7|Cojinetes de deslizamiento para máquinas
+7|Cojinetes para motores
+7|Colectores de admisión para motores de combustión interna
+7|Colectores de escape para motores
+7|Componentes de acoplamientos y transmisión de máquinas, excepto para vehículos terrestres, y sus piezas
+7|Compresores como partes de máquinas y motores
+7|Compresores de aire
+7|Compresores de aire para vehículos
+7|Compresores para aires acondicionados
+7|Compresores para máquinas
+7|Compresores para máquinas deshumidificadoras
+7|Compresores para recuperación y el reciclado de gases refrigerantes
+7|Compresores para refrigeradores
+7|Convertidores catalíticos
+7|Convertidores hidráulicos de par (elementos de máquinas que no sean para vehículos terrestres)
+7|Correas de distribución para máquinas
+7|Correas de máquinas
+7|Correas de motores
+7|Correas de tiempo para motores de vehículos terrestres
+7|Correas de transmisión eléctricas para máquinas y motores empleados en aplicaciones industriales
+7|Correas de transmisión que no sean para vehículos terrestres
+7|Correas para máquinas de vehículos agrícolas
+7|Corredores neumáticos de tuerca
+7|Cortacéspedes eléctricos
+7|Cortadoras de cepas de árboles
+7|Cortadoras de césped
+7|Cortadoras de césped a gasolina
+7|Cortadoras de césped mecánicas
+7|Cortadoras de forraje eléctricas
+7|Cortadoras de fresadoras de rosca (máquinas herramientas)
+7|Cortadoras de setos eléctricas
+7|Cortadoras de trincheras
+7|Cortadores eléctricos de alimentos
+7|Cosechadoras (máquinas agrícolas)
+7|Cuadernales eléctricos
+7|Cubos cargadores para excavadoras
+7|Cuchillos eléctricos
+7|Culatas de cilindros de motor
+7|Cultivadoras eléctricas
+7|Descascaradoras de cereales
+7|Descascarilladoras de arroz
+7|Descortezadoras de cereales
+7|Desintegradores para procesamiento químico
+7|Desmotadoras de algodón
+7|Destornilladores de aire comprimido
+7|Destornilladores eléctricos
+7|Destornilladores neumáticos
+7|Diafragmas de bombas
+7|Diamantes de vidriero como partes de máquinas
+7|Dínamos
+7|Dínamos para bicicleta
+7|Discos de aletas para rectificadoras eléctricas
+7|Dispositivos cierra puertas hidráulicos
+7|Dispositivos cierra puertas neumáticos
+7|Dispositivos de accionamiento para elevadores
+7|Dispositivos de corte que sean partes de máquinas
+7|Dispositivos de encendido para motores de vehículos terrestres
+7|Dispositivos eléctricos de apertura de puertas
+7|Dispositivos eléctricos para correr cortinas
+7|Distribuidores automáticos
+7|Distribuidores frigoríficos automáticos
+7|Elevadores
+7|Elevadores de escalera
+7|Elevadores mecánicos e hidráulicos
+7|Elevadores para coches
+7|Elevadores y partes de elevadores
+7|Elevadores y sus partes
+7|Embaladoras para uso agrícola
+7|Embaladoras para uso industrial
+7|Embragues para máquinas
+7|Embragues que no sean para vehículos terrestres
+7|Embutidoras de salchichas
+7|Empacadora
+7|Empaquetadoras al vacío
+7|Encendidos electrónicos para vehículos
+7|Enceradoras eléctricas para uso industrial
+7|Escaleras mecánicas
+7|Escariadores (máquinas herramientas)
+7|Escobas eléctricas
+7|Escobillas de dínamo
+7|Esmeril angular (herramientas de mano que no sean accionadas manualmente)
+7|Espumadores de leche eléctricos
+7|Estatores como piezas de máquinas
+7|Excavadoras hidráulicas
+7|Exprimidores de fruta eléctricos para uso doméstico
+7|Exprimidores eléctricos de zumo de frutas
+7|Exprimidores eléctricos para frutas y verduras
+7|Extractoras de miel (máquinas)
+7|Extractores de jugo
+7|Extractores de jugo de frutas eléctricos
+7|Fileteadoras
+7|Filtros de aceite para motores
+7|Filtros de aire para motores de vehículos
+7|Filtros de combustible para motores de vehículos
+7|Filtros para aceite
+7|Filtros para motores
+7|Filtros para polvo y bolsas para aspiradoras
+7|Flejadoras
+7|Fotocomponedoras
+7|Fregadores de suelo automáticos
+7|Frenos de cinta (elementos de máquinas que no sean para vehículos terrestres)
+7|Frenos para máquinas industriales
+7|Fresadoras
+7|Fresadoras de fieltro
+7|Fresadoras para madera
+7|Fresadoras para trabajar metales
+7|Fresas como partes de máquinas
+7|Fresas de módulo (máquinas herramientas)
+7|Fresas para máquinas fresadoras
+7|Fundidoras de caracteres de imprenta
+7|Gatos eléctricos
+7|Gatos hidráulicos
+7|Generador de alto voltaje
+7|Generador de energía operados por gas
+7|Generadores de corriente
+7|Generadores de corriente alterna (alternadores)
+7|Generadores de corriente directa
+7|Generadores de electricidad
+7|Generadores de electricidad móviles
+7|Generadores de electricidad que utilizan el calor residual
+7|Generadores de electricidad que utilizan energía geotérmica
+7|Generadores de energía eléctrica para barcos
+7|Generadores eléctricos accionados por vapor
+7|Generadores eléctricos para emergencias
+7|Generadores electrostáticos
+7|Generadores para turbinas de viento
+7|Gofradoras
+7|Grúa de pluma
+7|Grúas
+7|Grúas con mástil en celosía
+7|Grúas de cable
+7|Grúas de muelle móviles
+7|Grúas de torre
+7|Grúas fijas y móviles
+7|Grúas flotantes
+7|Grúas locomotoras
+7|Grúas móviles
+7|Grúas para camiones
+7|Grúas para descarga
+7|Grúas pórtico (grúas de puente)
+7|Grúas portuarias montadas
+7|Grúas sobre orugas
+7|Henificadoras
+7|Herramientas de afilado para máquinas rectificadoras
+7|Impresoras offset
+7|Impulsores de bomba
+7|Incubadoras de huevos
+7|Instalaciones de elevación para el transporte de personas y productos
+7|Instalaciones de lavado de vehículos
+7|Inyectores de motor
+7|Jaulas de cojinetes como partes de máquinas
+7|Juntas metálicas de motores para vehículos
+7|Laminadores para metalistería
+7|Lámparas para soldar
+7|Laves inglesas hidráulicas de torsión
+7|Lijadoras de suelos
+7|Lijadoras operadas manualmente
+7|Lijadoras para trabajar la madera
+7|Limpiadoras de vapor multiusos
+7|Líneas transportadoras
+7|Llaves de trinquete neumáticas
+7|Llaves de tuerca eléctricas
+7|Machos de roscar (máquinas-herramienta)
+7|Magnetos de encendido para motores
+7|Mandriles para taladros eléctricos
+7|Mangos eléctricos
+7|Mangueras para aspiradoras
+7|Máquina de pavimentación con asfalto
+7|Máquina de pavimentación con hormigón
+7|Maquinaria de aserradero portátil
+7|Maquinaria de coser
+7|Maquinaria de fundición
+7|Maquinaria de procesado de láminas de semiconductores
+7|Máquinas afiladoras
+7|Máquinas apiladoras
+7|Máquinas atomizadoras
+7|Máquinas automáticas para doblar ropa para uso industrial
+7|Máquinas batidoras para procesamiento químico
+7|Máquinas bobinadoras de hilo
+7|Máquinas capsuladoras de botellas
+7|Máquinas clasificadoras (alzadoras de imprenta)
+7|Máquinas clasificadoras de arena
+7|Máquinas clasificadoras de granos de arroz
+7|Máquinas clasificadoras para procesamiento químico
+7|Máquinas colectoras de polvo para procesamiento químico
+7|Máquinas colocadoras de hormigón
+7|Máquinas compactadoras de tierra
+7|Máquinas compactadoras y acabadoras para la superficie del suelo
+7|Máquinas compaginadoras automáticas
+7|Máquinas comprobadoras de cemento
+7|Máquinas cortacésped con asiento
+7|Máquinas cortadoras de alimentos para uso comercial
+7|Máquinas cortadoras de fibra
+7|Máquinas cortadoras de hojas de moreras
+7|Máquinas cortadoras de papel
+7|Máquinas cortadoras de piedras
+7|Máquinas de aire comprimido
+7|Máquinas de amolado de tornillo
+7|Máquinas de arado
+7|Máquinas de arqueado
+7|Máquinas de barrenado para trabajar el metal
+7|Máquinas de bobinado de hilo de seda
+7|Máquinas de bombeo para pozos petroleros
+7|Máquinas de bordar
+7|Máquinas de calcinado para el procesamiento químico
+7|Máquinas de cardar
+7|Máquinas de cardar fieltro
+7|Máquinas de clavar
+7|Máquinas de colada continua de metales
+7|Máquinas de compostaje de residuos orgánicos
+7|Máquinas de comprobación de materias plásticas
+7|Máquinas de comprobación de materias textiles
+7|Máquinas de comprobación para hormigón
+7|Máquinas de conformado de alambres
+7|Máquinas de conformado de metales
+7|Máquinas de conformado para metalistería
+7|Máquinas de corte de barras de refuerzo
+7|Máquinas de corte de fibra básica
+7|Máquinas de corte de forraje (cortadoras de piensos)
+7|Máquinas de corte de rastrojos
+7|Máquinas de corte para mecanizado de metales
+7|Máquinas de corte y soldadura con oxiacetileno
+7|Máquinas de coser
+7|Máquinas de costura para uso industrial
+7|Máquinas de descortezado de madera
+7|Máquinas de descortezar ramio
+7|Máquinas de dibujado de planos
+7|Máquinas de disolución para el procesamiento químico
+7|Máquinas de dragado
+7|Máquinas de elaboración de goma
+7|Máquinas de embalaje
+7|Máquinas de embalaje para alimentos
+7|Máquinas de enlatado
+7|Máquinas de enrollado para enrollar metales
+7|Máquinas de envasado al vacío
+7|Máquinas de envasado automático de comida
+7|Máquinas de escardar
+7|Máquinas de escariado para metalistería
+7|Máquinas de estampado automático
+7|Máquinas de extrusión de alambre
+7|Máquinas de extrusión para materias plástica
+7|Máquinas de fabricación de chips de memoria
+7|Máquinas de fabricación de pañales de papel
+7|Máquinas de fijación de dientes de sierra para trabajar la madera
+7|Máquinas de fijación de dientes de sierra para trabajos en madera y aserradura
+7|Máquinas de fotograbado
+7|Máquinas de fragüe
+7|Máquinas de fregado y blanqueado continuo
+7|Máquinas de fundición continua
+7|Máquinas de galvanización
+7|Máquinas de grabado computarizadas
+7|Máquinas de grabar con láser
+7|Máquinas de hacer fieltro
+7|Máquinas de hilatura de seda
+7|Máquinas de impresión flexográfica
+7|Máquinas de impresión intaglio
+7|Máquinas de impresión para materias textiles
+7|Máquinas de impresión para uso industrial
+7|Máquinas de impresión planográfica
+7|Máquinas de inserción de láminas
+7|Máquinas de insertar y llenar sobres (máquinas de empaquetado)
+7|Máquinas de labranza para jardín
+7|Máquinas de ladrillos
+7|Máquinas de lapeado
+7|Máquinas de lapeado para metalistería
+7|Máquinas de lavado a presión
+7|Máquinas de lavado de vehículos
+7|Máquinas de lavandería de secado
+7|Máquinas de limpieza de arena
+7|Máquinas de limpieza para estanques
+7|Máquinas de limpieza para motores de aviación
+7|Máquinas de moldeo por compresión
+7|Máquinas de moldeo por extrusión
+7|Máquinas de moldeo por inyección
+7|Máquinas de moldeo por inyección de plásticos
+7|Máquinas de molienda de alimentos
+7|Máquinas de movimiento de tierras
+7|Máquinas de perforación de madera
+7|Máquinas de procesado de obleas de semiconductores
+7|Máquinas de rebobinado de hilo de seda
+7|Máquinas de refinado de pasta de papel
+7|Máquinas de sacudido de madera
+7|Máquinas de satinado de textiles
+7|Máquinas de sinterización para procesamiento químico
+7|Máquinas de soldadura con gas
+7|Máquinas de soldadura de alambre
+7|Máquinas de soldadura eléctrica
+7|Máquinas de soldadura por láser
+7|Máquinas de teñido por inmersión
+7|Máquinas de trefilar
+7|Máquinas de trituración de madera
+7|Máquinas de vapor que no sean para vehículos terrestres
+7|Máquinas decatizadoras de humedad
+7|Máquinas desgranadoras
+7|Máquinas desmenuzadoras para uso industrial
+7|Máquinas elaboradoras de artículos de vidrio
+7|Máquinas elaboradoras de cajas de papel
+7|Máquinas elaboradoras de leche condensada
+7|Máquinas eléctricas de cortar con cizalla
+7|Máquinas eléctricas de planchado para ropa
+7|Máquinas eléctricas deshuesadoras de dátiles par uso doméstico
+7|Máquinas eléctricas deshuesadoras de dátiles par uso industrial
+7|Máquinas eléctricas para cortar y astillar troncos para leña
+7|Máquinas eléctricas para encerar de uso doméstico
+7|Máquinas eléctricas para lavar ventanas
+7|Máquinas eléctricas para triturar hielo
+7|Máquinas empaquetadoras
+7|Máquinas emulsionantes para el procesamiento químico
+7|Máquinas encuadernadoras de uso industrial
+7|Máquinas enrolladoras de papel
+7|Máquinas ensobretadoras
+7|Máquinas espigadoras
+7|Máquinas excavadoras
+7|Máquinas expendedoras de bolas de chicle
+7|Máquinas extractoras de café
+7|Máquinas extractoras para procesamiento químico
+7|Máquinas filtradoras de leche
+7|Máquinas filtradoras para procesamiento químico
+7|Máquinas fresadoras para el tratamiento de cerámicos y metales
+7|Máquinas fresadoras y rectificadoras para el tratamiento de cerámica y metal
+7|Máquinas fresadoras-perforadoras
+7|Máquinas gaseadoras de hilo
+7|Máquinas granuladoras para procesamiento químico
+7|Máquinas herramientas metalúrgicas
+7|Máquinas herramientas para eliminar material residual
+7|Máquinas herramientas para separar material superficial de carreteras
+7|Máquinas hiladoras
+7|Máquinas hiladoras de fibra química
+7|Máquinas homogeneizadoras de leche
+7|Máquinas industriales de prensado
+7|Máquinas lavadoras de huevos de gusanos de seda
+7|Máquinas lavadoras de materias textiles para uso industrial
+7|Máquinas lavadoras de ropa
+7|Máquinas lavadoras eléctricas para uso industrial
+7|Máquinas lavadoras para uso doméstico
+7|Máquinas lavaplatos
+7|Máquinas lavavajillas para uso doméstico
+7|Máquinas lavavajillas para uso industrial
+7|Máquinas lijadoras de cinta
+7|Máquinas lijadoras orbitales
+7|Máquinas limpiadoras de algodón
+7|Máquinas limpiadoras de pisos
+7|Máquinas mezcladoras
+7|Máquinas mezcladoras de caucho
+7|Máquinas mezcladoras de forraje (mezcladoras de pienso)
+7|Máquinas moldeadoras de zuecos de madera estilo japonés
+7|Máquinas neumáticas de encuadernación
+7|Máquinas ordeñadoras
+7|Máquinas para afilar taladros
+7|Máquinas para aplastar basura
+7|Máquinas para apretar balas de paja
+7|Máquinas para aserrar madera
+7|Máquinas para aserrar metales
+7|Máquinas para carga y descarga
+7|Máquinas para cepillar madera
+7|Máquinas para cepillar ramio
+7|Máquinas para construcción de hormigón
+7|Máquinas para copia de llaves
+7|Máquinas para cortar en copos carne de pescado (máquinas para preparar kezuri-bushi)
+7|Máquinas para cortar tela
+7|Máquinas para cortar y quitar azulejos
+7|Máquinas para curtir el cuero
+7|Máquinas para descortezar
+7|Máquinas para devanar hilo
+7|Máquinas para dispersar arena
+7|Máquinas para dragado del fango
+7|Máquinas para el acabado de cuerdas de paja
+7|Máquinas para el acabado de madera contrachapada
+7|Máquinas para el rameado de textiles
+7|Máquinas para el tratamiento (transformación) de materias plásticas
+7|Máquinas para elaborar bebidas gaseosas
+7|Máquinas para elaborar mantequilla
+7|Máquinas para embolsar
+7|Máquinas para embotellar
+7|Máquinas para empaquetar hilo de seda
+7|Máquinas para encolar madera contrachapada
+7|Máquinas para encordar raquetas
+7|Máquinas para enrollar alambres
+7|Máquinas para envolver
+7|Máquinas para espadillar textiles
+7|Máquinas para estampado en caliente
+7|Máquinas para extraer madera
+7|Máquinas para fabricar agujas
+7|Máquinas para fabricar bolsas de papel
+7|Máquinas para fabricar cartón ondulado
+7|Máquinas para fabricar cigarrillos
+7|Máquinas para fabricar cremalleras
+7|Máquinas para fabricar cuerdas de paja
+7|Máquinas para fabricar encajes y sus partes
+7|Máquinas para fabricar fósforos
+7|Máquinas para fabricar papel
+7|Máquinas para forjar formas libres
+7|Máquinas para forjar metales
+7|Máquinas para fregar los suelos
+7|Máquinas para hacer barras de filtro
+7|Máquinas para hacer bebidas gaseosas
+7|Máquinas para hacer bolas de masa cocida
+7|Máquinas para hacer fideos
+7|Máquinas para hacer leche en polvo
+7|Máquinas para hacer llaves
+7|Máquinas para hacer miso
+7|Máquinas para hacer pastas comestibles
+7|Máquinas para hacer salsa de soya
+7|Máquinas para la fabricación de cigarrillos de uso de fumadores
+7|Máquinas para la fabricación de pasta de pescado
+7|Máquinas para la fabricación de quesos
+7|Máquinas para la fabricación de semiconductores
+7|Máquinas para la industria azucarera
+7|Máquinas para lavar fruta
+7|Máquinas para lavar pelotas de golf
+7|Máquinas para limpiar billetes de banco
+7|Máquinas para limpieza en seco
+7|Máquinas para manipular mercancías
+7|Máquinas para marcar líneas de carretera
+7|Máquinas para peinar y torcer el hilo
+7|Máquinas para pintar
+7|Máquinas para procesar tabaco
+7|Máquinas para pulir cueros
+7|Máquinas para quitar la fibra del algodón
+7|Máquinas para rallar hortalizas
+7|Máquinas para recortar contrachapados
+7|Máquinas para revestimiento con papel
+7|Máquinas para separar materiales reciclables
+7|Máquinas para serigrafia
+7|Máquinas para soldadura autógena
+7|Máquinas para soldar operadas a gas
+7|Máquinas para tallar madera
+7|Máquinas para tallar y acabar engranajes
+7|Máquinas para teñir textiles
+7|Máquinas para trabajar la piedra
+7|Máquinas para trabajar materias plásticas
+7|Máquinas para trabajar metales
+7|Máquinas para trabajos de cimentaciones
+7|Máquinas para transportar sólidos
+7|Máquinas para tratar los alimentos
+7|Máquinas para unir madera contrachapada
+7|Máquinas peladoras de alimentos para uso comercial
+7|Máquinas perforadoras
+7|Máquinas perforadoras de pozos
+7|Máquinas perforadoras para metalistería
+7|Máquinas perforadoras para trabajar el metal
+7|Máquinas procesadoras de algas comestibles
+7|Máquinas procesadoras de bebidas
+7|Máquinas procesadoras de cereales
+7|Máquinas procesadoras de plástico
+7|Máquinas procesadoras de seda cruda
+7|Máquinas pulidoras de arroz
+7|Máquinas pulidoras de arroz o cebada
+7|Máquinas pulidoras de suelos
+7|Máquinas pulverizadoras humectantes para tratamiento de tejidos
+7|Máquinas rebanadoras de alimentos para uso comercial
+7|Máquinas rectificadoras con abrasivo para metalistería
+7|Máquinas rectificadoras con engranajes de bisel en espiral
+7|Máquinas rectificadoras evolventes
+7|Máquinas rectificadoras para el tratamiento de cerámica y metal
+7|Máquinas rectificadoras para metalistería
+7|Máquinas reparadoras de calzado
+7|Máquinas rotativas para materias textiles
+7|Máquinas secavajillas para uso industrial
+7|Máquinas secuenciadoras de continuidad de láminas
+7|Máquinas sembradoras de semillas agrícolas
+7|Máquinas separadoras de arroz con cáscara
+7|Máquinas separadoras para procesamiento químico
+7|Máquinas sopladoras
+7|Máquinas taladradoras de láser para trabajo en piedra
+7|Máquinas taponadoras
+7|Máquinas tejedoras
+7|Máquinas torcedoras de hilo
+7|Máquinas transportadoras de material de residuo
+7|Máquinas transportadoras para líneas de montaje
+7|Máquinas transportadores
+7|Máquinas trilladoras de cebada
+7|Máquinas trituradoras de forraje apelmazado (trituradoras de piensos)
+7|Máquinas trituradoras de tallos
+7|Máquinas urdidoras de hilo
+7|Máquinas y aparatos pulidores de suelos eléctricos
+7|Martillos eléctricos
+7|Martillos eléctricos (herramientas de mano)
+7|Martillos giratorios eléctricos
+7|Martillos hidráulicos
+7|Martillos neumáticos (herramientas de mano)
+7|Martinete
+7|Martinetes para hincado de pilotes
+7|Mástiles de carga
+7|Matrices de prensado para la conformación de metales
+7|Mecanismos de ascensores
+7|Mezcladores de asfalto
+7|Mini-cultivadores eléctricos
+7|Moldes de forja
+7|Moledores móviles para minería
+7|Molinillos de pimienta eléctricos
+7|Molinillos de pimientaeléctricos
+7|Molinillos de sal eléctricos
+7|Molinillos eléctricos para alimentación
+7|Molinos de café eléctricos
+7|Molinos de viento
+7|Molinos para el procesamiento químico
+7|Molinos para la fabricación de tubos para metalistería
+7|Montacargas
+7|Montacargas eléctricos de barcos
+7|Montacargas eléctricos o neumáticos
+7|Montacargas mecánicos
+7|Mopas eléctricas a vapor
+7|Motores a gasolina que no sean para vehículos terrestres
+7|Motores a reacción que no sean para vehículos terrestres
+7|Motores de aeronáutica
+7|Motores de arranque con retroceso para motores no destinados a vehículos
+7|Motores de avión
+7|Motores de barco
+7|Motores de cabrestante
+7|Motores de cohetes no para vehículos terrestres
+7|Motores de corriente directa
+7|Motores de elevador
+7|Motores de tracción
+7|Motores de vapor marinos que no sean para vehículos terrestres
+7|Motores de variación de la presión de vapor
+7|Motores diésel que no sean para vehículos terrestres
+7|Motores eléctricos para frigoríficos
+7|Motores eléctricos que no sean para vehículos terrestres
+7|Motores eléctricos y sus partes que no sean para vehículos terrestres
+7|Motores lineales
+7|Motores para aerostación
+7|Motores para afilado de fresas
+7|Motores para la producción de electricidad
+7|Motores para modelos a escala
+7|Motores para modelos a escala de vehículos, aviones y barcos
+7|Motores que no sean para vehículos terrestres
+7|Operadores de puerta hidráulicas
+7|Operadores de puertas eléctricas
+7|Palas mecánicas
+7|Partes de inyector de combustible para motores de vehículos terrestres y acuáticos
+7|Partes de máquinas, a saber, rodamientos
+7|Pasillos móviles
+7|Pastillas de freno que no sean para vehículos
+7|Pilones (máquinas)
+7|Pistolas de clavos eléctricas
+7|Pistolas grapadoras eléctricas
+7|Pistolas para pegar en caliente
+7|Pistolas pulverizadoras de revestimiento en polvo
+7|Pistolas pulverizadoras para pintura
+7|Placas de zinc para impresión en ófset
+7|Plataformas de trabajo elevadoras incluidas las móviles
+7|Polipastos de alambre
+7|Portaherramientas para máquinas de metalurgia (partes de máquinas)
+7|Prensas de embutir
+7|Prensas de extrusión de metales
+7|Prensas de imprenta de fotograbado
+7|Prensas hidráulicas de aceite para metalistería
+7|Prensas hidráulicas para metalistería
+7|Prensas mecánicas para metalistería
+7|Prensas para contrachapado
+7|Prensas para forraje
+7|Prensas para procesamiento químico
+7|Prensas punzonadoras
+7|Prensas punzonadoras para metalistería
+7|Prensas tipográficas
+7|Procesadores eléctricos de alimentos
+7|Puentes grúa
+7|Puertas de elevador
+7|Pulidoras para trabajar metales
+7|Pulverizadores automáticos para pintura electroestática
+7|Pulverizadores eléctricos para insecticidas
+7|Quitanieves
+7|Radiadores de enfriamiento para motores
+7|Radiadores para motores
+7|Radiadores para vehículos
+7|Ralladores eléctricos
+7|Ranuradoras para metalistería
+7|Recolector de hojas de té (máquinas)
+7|Recortadoras
+7|Recortadoras de jardín eléctricas
+7|Recortadoras de oxígeno
+7|Rectificadoras internas
+7|Reductores de presión como partes de máquinas
+7|Refrigeradores de aceite (piezas de motores de vehículos)
+7|Remachadoras eléctricas
+7|Revolvedoras de hormigón
+7|Robots de costura
+7|Robots para uso industrial
+7|Rodamientos como partes de máquinas
+7|Rodamientos de inserción para máquinas
+7|Rodamientos de rodillos para máquinas
+7|Rodillos de prensa de cebada
+7|Rodillos para máquinas de impresión rotativa
+7|Roscadoras
+7|Rozadoras de carbón
+7|Segadoras (máquinas agrícolas)
+7|Segadoras-trilladoras
+7|Selladores eléctricos de vacío para uso doméstico
+7|Sembradora para máquinas agrícolas
+7|Separadores ciclónicos
+7|Separadores de aceite
+7|Serradoras
+7|Servo motores de corriente alterna
+7|Servo-válvulas
+7|Servomotores
+7|Sierras caladoras eléctricas
+7|Sierras circulares para trabajar la madera
+7|Sierras de cadena
+7|Sierras de cinta
+7|Sierras de cinta para madera
+7|Sierras eléctricas
+7|Sierras eléctricas de cadena
+7|Sierras eléctricas de sable
+7|Sierras eléctricas para madera
+7|Sierras hidráulicas de alambre
+7|Silenciadores para motores
+7|Sistemas de inyección de combustible para motores
+7|Sistemas de tratamiento de gases de escape para motores diésel
+7|Soldadoras eléctricas para trabajar metales
+7|Sondas desatascadoras eléctricas para fontanería
+7|Sopladores de nieve
+7|Sopladores eléctricos
+7|Sopladores operados eléctricamente
+7|Sopletes a gas
+7|Sopletes de corte
+7|Sopletes de soldadura
+7|Soportes de cojinetes para máquinas
+7|Taladradoras eléctricas de mano
+7|Taladradoras radiales
+7|Taladros de minería
+7|Taladros eléctricos
+7|Taladros eléctricos (herramientas de mano)
+7|Taladros eléctricos para el hielo utilizados en la pesca en hielo
+7|Taladros neumáticos (herramientas de mano)
+7|Taladros para la industria minera
+7|Taladros para roca
+7|Telares automáticos
+7|Telares eléctricos
+7|Telares para calcetería
+7|Tijeras eléctricas para setos recargables
+7|Tornos (máquinas herramientas)
+7|Tornos de alfareros mecánicos
+7|Tornos de elevación eléctricos
+7|Tornos de madera
+7|Tornos de mano
+7|Tornos para trabajar metales
+7|Torres de perforación
+7|Transmisiones de máquinas
+7|Transmisiones para máquinas
+7|Transmisiones y mecanismos eléctricos para máquinas excepto vehículos de tierra
+7|Transportadoras por fases y segmentadas
+7|Transportadores
+7|Transportadores de cinta
+7|Transportadores de rodillo
+7|Transportadores hidráulicos
+7|Transportadores mecánicos de elevación con raíles
+7|Transportadores neumáticos
+7|Transportadores sinfín
+7|Trenes de transmisión de aviación
+7|Trilladoras
+7|Trituradoras (máquinas) para residuos
+7|Trituradoras de aspiración para eliminar escombros
+7|Trituradoras de basura
+7|Trituradoras de desechos
+7|Trituradoras de mandíbula (máquinas)
+7|Trituradoras para uso industrial
+7|Tubos de escape para vehículos terrestres
+7|Turbinas de aire que no sean para vehículos terrestres
+7|Turbinas de vapor que no sean para vehículos terrestres
+7|Turbinas hidráulicas
+7|Turbinas que no sean para vehículos terrestres
+7|Unidades convertidoras catalíticas para escapes de vehículos
+7|Válvulas como componente de máquina
+7|Válvulas componente partes de máquina
+7|Válvulas de control de bombas
+7|Válvulas de control termostáticas para máquinas
+7|Válvulas hidráulicas (partes de máquinas)
+7|Ventiladores eléctricos para aspiradoras
+7|Ventiladores para motores
+7|Vibradoras de hormigón
+7|Vibradores para concreto eléctricos

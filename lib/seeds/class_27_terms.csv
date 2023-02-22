@@ -1,37 +1,61 @@
-class,reference_id,name
-27,270001,alfombrillas de baño
-27,270001,tapetes de baño
-27,270002,revestimientos de suelos
-27,270002,revestimientos de pisos
-27,270003,césped artificial
-27,270003,pasto artificial
-27,270004,colchonetas de gimnasia
-27,270006,esteras*
-27,270007,papel pintado
-27,270007,empapelados
-27,270007,papel tapiz
-27,270008,felpudos
-27,270008,limpiabarros [felpudos]
-27,270008,tapetes de puerta [felpudos]
-27,270009,esteras de junco
-27,270010,alfombrillas para automóviles
-27,270010,tapetes para automóviles
-27,270011,alfombras*
-27,270011,tapetes [alfombras]
-27,270012,alfombras antideslizantes
-27,270012,tapetes [alfombras] antideslizantes
-27,270013,tapices murales que no sean de materias textiles
-27,270014,linóleo
-27,270014,tela encerada [linóleo]
-27,270015,bajo alfombras
-27,270016,revestimientos de vinilo para suelos
-27,270016,revestimientos de vinilo para pisos
-27,270017,alfombras de cuerda trenzada para pistas de esquí
-27,270018,papel pintado de materias textiles
-27,270018,empapelados de materias textiles
-27,270018,papel tapiz de materias textiles
-27,270019,alfombras ignífugas para chimeneas y barbacoas
-27,270020,esteras de yoga
-27,270020,tapetes de yoga
-27,270021,tatamis
-27,270022,revestimientos murales de materias textiles
+class|name
+27|Acolchados de subsuelo para césped artificial
+27|Alfombras
+27|Alfombras de área
+27|Alfombras de baño de diatomita
+27|Alfombras de cuerda trenzada para pistas de esquí
+27|Alfombras orientales no tejidas (mosen)
+27|Alfombras y tapetes
+27|Alfombrillas antideslizantes para duchas
+27|Alfombrillas de baño
+27|Alfombrillas de baño de materias plásticas
+27|Alfombrillas de baño de tela
+27|Alfombrillas de paja
+27|Alfombrillas para vehículos
+27|Bajo alfombras
+27|Bases antideslizantes para alfombras
+27|Césped artificial
+27|Colchonetas (esterillas) de gimnasia
+27|Colchonetas de gimnasia
+27|Colchonetas de lucha
+27|Esteras (goza)
+27|Esteras de corcho
+27|Esteras de goma
+27|Esteras de junco
+27|Esteras de junco con motivos florales (hana-mushiro)
+27|Esteras de paja (mushiro)
+27|Esteras de paja de arroz japonesa (tatamis)
+27|Esteras para suelos de establos
+27|Felpudos
+27|Felpudos para orar
+27|Hierba artificial para poner en la superficie de áreas recreativas
+27|Limpiabarros de materias textiles
+27|Linóleo
+27|Linóleo para pisos
+27|Moqueta cortada en baldosas
+27|Moqueta de textiles en baldosas
+27|Moqueta en baldosas para cubrir suelos
+27|Papel pintado
+27|Papel pintado con revestimiento de materias textiles
+27|Papel pintado de vinilo
+27|Papel pintado que no sea de materias textiles
+27|Papel tapiz con efectos visuales en 3D
+27|Papeles pintados
+27|Pistas de esgrima
+27|Recubrimiento mural a modo de papel, hecho de corcho
+27|Recubrimientos murales a modo de papel, hechos de plástico
+27|Revestimientos antideslizantes de suelos para su uso en escaleras
+27|Revestimientos de corcho para paredes
+27|Revestimientos de materias plásticas para paredes
+27|Revestimientos de materias textiles para paredes
+27|Revestimientos de papel para paredes
+27|Revestimientos de suelos
+27|Revestimientos de suelos para suelos existentes
+27|Revestimientos de vinilo para suelos
+27|Revestimientos murales de vinilo
+27|Revestimientos para paredes que no sean de materias plásticas
+27|Tapetes de baño antideslizantes
+27|Tapetes de piel
+27|Tapetes para baño de materias textiles
+27|Tapetes para vehículos
+27|Tapizados murales que no sean de materias textiles

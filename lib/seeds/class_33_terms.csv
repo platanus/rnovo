@@ -1,40 +1,83 @@
-class,reference_id,name
-33,330001,licor de menta
-33,330001,alcohol de menta
-33,330002,extractos de frutas con alcohol
-33,330003,amargos [licores]
-33,330004,anís [licor]
-33,330005,anisete
-33,330006,aperitivos*
-33,330007,arac
-33,330008,bebidas destiladas
-33,330009,sidras
-33,330010,cócteles*
-33,330010,cocteles*
-33,330011,curaçao
-33,330011,curasao
-33,330011,curazao
-33,330012,digestivos [licores y bebidas espirituosas]
-33,330013,vinos
-33,330014,ginebra
-33,330015,licores
-33,330016,aguamiel [hidromiel]
-33,330016,hidromiel [aguamiel]
-33,330017,kirsch
-33,330018,bebidas espirituosas
-33,330019,aguardientes
-33,330019,brandy
-33,330020,aguapié
-33,330021,perada
-33,330022,sake
-33,330023,whisky
-33,330024,esencias alcohólicas
-33,330025,extractos alcohólicos
-33,330026,bebidas alcohólicas, excepto cervezas
-33,330031,bebidas alcohólicas que contienen frutas
-33,330032,alcohol de arroz
-33,330033,ron
-33,330034,vodka
-33,330035,bebidas alcohólicas premezcladas que no sean a base de cerveza
-33,330036,bebidas alcohólicas a base de caña de azúcar
-33,330037,bebidas de alcohol destilado a base de cereales
+class|name
+33|Aguamiel (hidromiel)
+33|Anís (licor)
+33|Anisete
+33|Aperitivos a base de alcohol destilado
+33|Aperitivos a base de vino (bebidas)
+33|Arac
+33|Arak
+33|Bebidas a base de ron
+33|Bebidas a base de vino
+33|Bebidas alcohólicas (sangría)
+33|Bebidas alcohólicas a base de azúcar de caña
+33|Bebidas alcohólicas carbonatadas, excepto cervezas
+33|Bebidas alcohólicas de fruta
+33|Bebidas alcohólicas destiladas a base de grano
+33|Bebidas alcohólicas excepto cerveza
+33|Bebidas alcohólicas premezcladas
+33|Bebidas alcohólicas que contienen frutas
+33|Bebidas espirituosas
+33|Bebidas espirituosas y licores
+33|Bebidas japonesas de alta graduación alcohólica aromatizadas con extracto de agujas de pino
+33|Bebidas japonesas de alta graduación alcohólica aromatizadas con extracto de ciruela asiática
+33|Cachaza
+33|Cocktails alcohólicos en la forma de jaleas enfriadas
+33|Cócteles alcohólicos que contienen leche
+33|Cócteles de frutas con alcohol
+33|Cremas de licor
+33|Destilados de cereza
+33|Espirituoso chino de sorgo (gaolian-jiou)
+33|Espirituosos destilados coreanos (soju)
+33|Espirituosos destilados de arroz (awamori)
+33|Extractos alcohólicos
+33|Extractos de bebidas espirituosas
+33|Ginebra
+33|Grapa
+33|Jerez
+33|Kirsch
+33|Licor blanco japonés (shochu)
+33|Licor chino (baiganr)
+33|Licor de grosella
+33|Licor de jengibre
+33|Licor mezclado a base de arroz dulce estilo japonés (shiro-zake)
+33|Licor mezclado chino (wujiapie-jiou)
+33|Licor preparado chino (laojiou)
+33|Licor tonificante a base de extractos de serpiente mamushi (mamushi-zake)
+33|Licores
+33|Licores a base de café
+33|Licores amargos alcohólicos
+33|Licores regenerados japoneses (naoshi)
+33|Mezclas con alcohol para cócteles
+33|Ponche de huevo con alcohol
+33|Ponche de ron
+33|Ponche de vino
+33|Ponches alcohólicos
+33|Refrescos alcohólicos
+33|Ron (bebida alcohólica)
+33|Ron de jugo de caña de azúcar
+33|Sake
+33|Sidra seca
+33|Sochu (espirituosos)
+33|Vino caliente
+33|Vino de arroz coreano tradicional (makgeoli)
+33|Vino de fresa
+33|Vino de frutas
+33|Vino de mesa
+33|Vino de mora (bokbunjaju)
+33|Vino de uva
+33|Vinos blancos espumosos
+33|Vinos dulces
+33|Vinos espirituosos
+33|Vinos espumosos
+33|Vinos espumosos de frutas
+33|Vinos espumosos de uva
+33|Vinos espumosos naturales
+33|Vinos tintos
+33|Vinos tintos espumosos
+33|Vinos tranquilos
+33|Vinos y licores
+33|Vinos y vinos espirituosos
+33|Vinos y vinos espumosos
+33|Vodka
+33|Whisky
+33|Whisky de malta

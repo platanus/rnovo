@@ -1,205 +1,294 @@
-class,reference_id,name
-31,310002,cítricos frescos
-31,310003,algas sin procesar para la alimentación humana o animal
-31,310004,frutos secos sin procesar
-31,310005,animales de zoológico
-31,310006,animales vivos
-31,310007,alimentos para animales
-31,310007,productos alimenticios para animales
-31,310008,árboles [plantas]
-31,310009,árboles de Navidad*
-31,310010,troncos de árbol
-31,310011,arbustos
-31,310012,avena*
-31,310013,bayas frescas
-31,310014,sal para el ganado
-31,310015,remolachas frescas
-31,310015,betabeles frescos
-31,310016,salvado de cereales
-31,310017,madera en bruto
-31,310018,virutas de madera para fabricar pasta de madera
-31,310018,virutas para fabricar pasta de madera
-31,310019,madera sin desbastar
-31,310020,granos de cacao sin procesar
-31,310020,habas de cacao sin procesar
-31,310021,caña de azúcar
-31,310022,algarrobas en bruto
-31,310023,cereales en grano sin procesar
-31,310024,champiñones frescos
-31,310024,hongos frescos
-31,310024,setas frescas
-31,310025,micelio de hongos para la reproducción
-31,310026,tortas oleaginosas para el ganado
-31,310027,castañas frescas
-31,310028,cal de forraje
-31,310029,raíces de achicoria
-31,310030,escarola fresca
-31,310031,galletas para perros
-31,310032,limones frescos
-31,310033,cáscara de coco
-31,310034,cocos
-31,310035,alimentos para pájaros
-31,310036,tortas de colza para el ganado
-31,310037,pepinos frescos
-31,310038,conos de lúpulo
-31,310039,afrecho para la alimentación animal
-31,310039,salvado para la alimentación animal
-31,310040,copra
-31,310041,mariscos vivos
-31,310042,verduras, hortalizas y legumbres frescas
-31,310043,calabazas frescas
-31,310044,coronas de flores naturales
-31,310045,huevos fertilizados para incubar
-31,310046,pajote [cobertura de humus]
-31,310048,residuos de destilería para la alimentación animal
-31,310049,residuos de cebada para fabricar cervezas
-31,310050,productos para la cría de animales
-31,310052,productos para el engorde de animales
-31,310052,productos para cebar animales
-31,310053,harina de arroz [pienso]
-31,310054,habas frescas
-31,310054,alubias frescas
-31,310054,frijoles frescos
-31,310054,judías frescas
-31,310054,porotos frescos
-31,310055,flores naturales
-31,310056,flores secas para decorar
-31,310057,polen [materia prima]
-31,310058,heno
-31,310059,fortificantes para la alimentación animal
-31,310059,piensos fortificantes
-31,310060,piensos
-31,310060,forraje
-31,310060,pastos [alimentos para el ganado]
-31,310060,alimentos para el ganado
-31,310061,trigo
-31,310061,trigo candeal
-31,310062,frutas frescas
-31,310063,césped natural
-31,310063,pasto natural
-31,310064,bayas de enebro
-31,310065,semillas [botánica]
-31,310066,granos [cereales]
-31,310067,granos para la alimentación animal
-31,310068,granos de siembra
-31,310068,semillas de siembra
-31,310069,granos de cereales para aves de corral
-31,310070,hierbas aromáticas frescas
-31,310071,plantas
-31,310072,plantones
-31,310073,lúpulo
-31,310074,nueces de cola
-31,310075,lechugas frescas
-31,310076,lentejas frescas
-31,310077,levadura para la alimentación animal
-31,310078,corcho en bruto
-31,310079,harina de lino [pienso]
-31,310080,arena higiénica para animales
-31,310081,turba para lechos de animales
-31,310082,maíz*
-31,310083,tortas de maíz para el ganado
-31,310084,malta para elaborar cervezas y licores
-31,310086,orujo [residuo de frutos]
-31,310087,avellanas frescas
-31,310088,harinas para animales
-31,310089,huevas
-31,310090,huevos de gusano de seda
-31,310091,bulbos de flores
-31,310092,cebollas frescas
-31,310093,aceitunas frescas
-31,310094,naranjas frescas
-31,310095,cebada*
-31,310096,ortigas
-31,310097,huesos de sepia para pájaros
-31,310098,paja [tallos de cereales]
-31,310098,paja [tallos de cereales] para camas de animales
-31,310099,paja [forraje]
-31,310100,palmas [hojas de palmera]
-31,310101,palmeras
-31,310102,cebos [comida para el ganado]
-31,310103,peces
-31,310104,vides
-31,310105,piñas de pino
-31,310106,pimientos [plantas]
-31,310107,plantas secas para decorar
-31,310108,puerros frescos
-31,310108,ajoporros frescos
-31,310109,guisantes frescos
-31,310109,arvejas frescas
-31,310109,chícharos frescos
-31,310110,patatas frescas
-31,310110,papas frescas
-31,310111,productos de puesta para la avicultura
-31,310112,cebo con sustancias harinosas para el ganado
-31,310114,raíces comestibles para la alimentación animal
-31,310115,uvas frescas
-31,310116,ruibarbo fresco
-31,310117,rosales
-31,310118,centeno
-31,310119,gusanos de seda
-31,310120,sésamo comestible sin procesar
-31,310121,trufas frescas
-31,310122,vinaza [residuos de la vinificación]
-31,310123,aves de corral vivas
-31,310124,algarrobilla [alimentos para animales]
-31,310125,almendras [frutos]
-31,310126,cacahuetes frescos
-31,310126,cacahuates frescos
-31,310126,maníes frescos
-31,310127,harina de cacahuete para animales
-31,310127,harina de cacahuate para animales
-31,310127,harina de maní para animales
-31,310128,tortas de cacahuete para animales
-31,310128,tortas de cacahuate para animales
-31,310128,tortas de maní para animales
-31,310129,subproductos del procesamiento de cereales para la alimentación animal
-31,310131,bagazo de caña de azúcar en bruto
-31,310132,carnadas vivas para la pesca
-31,310133,cangrejos de río vivos
-31,310133,acamayas vivas
-31,310134,crustáceos vivos
-31,310135,bogavantes vivos
-31,310136,mejillones vivos
-31,310137,ostras vivas
-31,310137,ostrones vivos
-31,310138,alimentos para animales de compañía
-31,310139,cortezas en bruto [árboles]
-31,310140,langostas vivas
-31,310141,objetos comestibles y masticables para animales
-31,310142,bebidas para animales de compañía
-31,310143,harina de pescado para la alimentación animal
-31,310144,arroz sin procesar
-31,310145,pepinos de mar [cohombros de mar] vivos
-31,310146,papel granulado para lechos de animales de compañía
-31,310147,arena aromática para lechos de animales de compañía
-31,310148,plantas de aloe vera
-31,310149,espinacas frescas
-31,310150,semillas de lino para la alimentación animal
-31,310150,linaza para la alimentación animal
-31,310151,harina de linaza para la alimentación animal
-31,310152,germen de trigo para la alimentación animal
-31,310153,alcachofas frescas
-31,310154,arenques vivos
-31,310155,salmones vivos
-31,310156,sardinas vivas
-31,310157,atunes vivos
-31,310158,ajos frescos
-31,310159,calabacines frescos
-31,310159,zapallos frescos
-31,310160,semillas de lino comestibles sin procesar
-31,310160,linaza comestible sin procesar
-31,310161,arreglos de fruta fresca
-31,310162,anchoas vivas
-31,310163,insectos comestibles vivos
-31,310164,mazorcas de maíz dulce sin procesar [desgranadas o no]
-31,310165,quinoa sin procesar
-31,310166,trigo sarraceno sin procesar
-31,310167,carpas koi vivas
-31,310168,moluscos vivos
-31,310169,cebos liofilizados para la pesca
-31,310170,flores comestibles, frescas
-31,310171,jengibre fresco
-31,310172,granos de soja frescos
-31,310172,granos de soya frescos
-31,310173,plantas de cánnabis
-31,310174,cánnabis sin procesar
+class|name
+31|Abulones vivos
+31|Aceitunas frescas
+31|Aceitunas sin elaborar
+31|Achicoria roja fresca
+31|Agar no procesado (alga de tengusa)
+31|Aguacates frescos
+31|Ajo fresco
+31|Ajos verdes frescos
+31|Alfalfa (alimento para animales)
+31|Alforfón no procesado
+31|Alga café no procesada (alga de hijiki)
+31|Alga marina no procesada (alga kombu)
+31|Alga marina no procesada (wakame)
+31|Alga nori comestible sin procesar
+31|Algas en polvo para consumo animal
+31|Algas para la alimentación animal
+31|Algas sin preparar para consumo humano
+31|Alimento para el ganado
+31|Alimento para peces de acuario
+31|Alimento para roedores
+31|Alimentos de base láctea para animales
+31|Alimentos para animales
+31|Alimentos para animales con extractos botánicos
+31|Alimentos para carpas doradas
+31|Alimentos para hámsteres
+31|Alimentos para peces
+31|Almendras frescas
+31|Anguilas vivas
+31|Animales de caza vivos
+31|Animales de laboratorio vivos
+31|Arándanos frescos
+31|Árboles de Navidad cortados
+31|Árboles de Navidad cortados y vivos
+31|Árboles enanos en maceta (bonsái)
+31|Arbustos
+31|Arbustos vivos
+31|Arena aromática para animales
+31|Arena higiénica para gatos y animales pequeños
+31|Arena para gatos
+31|Arreglos de flores vivas
+31|Arroz natural destinado a pienso para animales
+31|Arroz sin procesar
+31|Aves de corral vivas
+31|Bacalao (vivos)
+31|Bagazo de caña de azúcar crudo
+31|Batatas frescas (camote)
+31|Bebidas para animales
+31|Bebidas para canes
+31|Berenjenas frescas
+31|Bloques de lamer sal para ganado
+31|Bogavantes vivos
+31|Bonsáis naturales
+31|Brotes de frijol frescos
+31|Bulbos de flores y bulbos
+31|Bulbos de lirios comestibles, frescos
+31|Bulbos para uso agrícola
+31|Bulbos para uso hortícola
+31|Caballa española viva
+31|Cabras vivas
+31|Cactus comestibles frescos
+31|Calabacín fresco
+31|Caña de azúcar
+31|Cangrejos de nieve vivos
+31|Capelán vivo
+31|Capullos para la producción de huevos
+31|Caquis frescos japoneses
+31|Caracoles (vivos)
+31|Caracoles de mar no vivos
+31|Carnada viva
+31|Carnadas vivas para la pesca
+31|Carpas plateadas vivas
+31|Carpines vivos
+31|Castañas de agua frescas
+31|Castañas frescas
+31|Cebada sin procesar
+31|Cebo vivo
+31|Cebollas frescas
+31|Cebollino fresco
+31|Cebos (comida para el ganado)
+31|Cerdos vivos
+31|Cereales sin procesar
+31|Chalotes no procesados
+31|Champiñones frescos
+31|Champiñones sin elaborar
+31|Chícharos frescos
+31|Chiles frescos
+31|Chirivías frescas
+31|Chucherías para perros (comestibles)
+31|Ciruelas frescas
+31|Cocos frescos
+31|Col fresca
+31|Coles de Bruselas frescas
+31|Coles de brusselas frescos
+31|Comida para animales
+31|Comida para gatos
+31|Copra
+31|Corales vivos
+31|Corales vivos de acuario
+31|Corcho en bruto
+31|Coronas de flores naturales
+31|Corvinas amarillas vivas
+31|Crisantemos coronados comestibles frescos
+31|Espárragos frescos
+31|Espinacas frescas
+31|Esporas y huevas para uso agrícola
+31|Flores cortadas
+31|Flores frescas comestibles
+31|Flores naturales
+31|Flores secas
+31|Flores vivas
+31|Forraje para caballos
+31|Frijoles frescos
+31|Fruta fresca
+31|Frutas orgánicas frescas
+31|Frutas sin elaborar
+31|Frutas, legumbres, verduras y hortalizas frescas
+31|Frutillas frescas
+31|Frutos frescos de espino
+31|Galletas para perros
+31|Gallinas vivas
+31|Gambas vivas
+31|Ganado
+31|Ganado vivo
+31|Gírgolas, frescas
+31|Goji sin procesar
+31|Golosinas comestibles para mascotas
+31|Granos de cacao sin procesar
+31|Granos sin procesar
+31|Guirnaldas de flores naturales
+31|Hámsteres
+31|Harina de grano de soja (alimentación animal)
+31|Harina de pescado para la alimentación animal
+31|Helechos frescos (gosari)
+31|Heno
+31|Hierbas aromáticas orgánicas frescas
+31|Hierbas de jardín frescas
+31|Hierbas para uso culinario frescas
+31|Hierbas secas para la decoración
+31|Higos frescos
+31|Hojas frescas de batata
+31|Hongo velo de novia alargado fresco
+31|Hongos gelatinosos blancos comestibles
+31|Hongos negros comestibles frescos
+31|Huesos de jibia para pájaros
+31|Huesos masticables digestivos para perros
+31|Huesos masticables para perros
+31|Huevos de gusano de seda
+31|Huevos fertilizados para incubar
+31|Huevos para incubar
+31|Jengibre crudo
+31|Jengibre fresco
+31|Kiwis frescos
+31|Langostas vivas
+31|Langostinos vivos
+31|Leche en polvo para animales
+31|Leche en polvo para mascotas
+31|Lechuga de mar no procesada (alga de aosa)
+31|Legumbres frescas
+31|Lenguados vivos
+31|Lentejas frescas
+31|Levadura para pienso de animales
+31|Lichis frescos
+31|Liebres de mar, vivas
+31|Limas frescas
+31|Limones frescos
+31|Linaza para la alimentación animal
+31|Lirios de día comestibles, frescos
+31|Longkong (fruta asiática) fresco
+31|Madera en bruto
+31|Madera no descortezada
+31|Maíz sin elaborar
+31|Mamíferos vivos, peces (no para alimentación), pájaros e insectos
+31|Mandarinas frescas
+31|Maní fresco
+31|Manzanas frescas
+31|Mariscos árticos, vivos
+31|Mariscos vivos
+31|Mejillones azules vivos
+31|Melocotones frescos
+31|Melón fresco oriental (cham-oe)
+31|Melones espinudos frescos (fruto del paraíso)
+31|Melones frescos
+31|Membrillo fresco
+31|Menta fresca
+31|Mijo de cola de zorro no procesado
+31|Mijo de corral japonés no procesado
+31|Mijo de prosa no procesado
+31|Moras frescas (bokbunja)
+31|Murtilla fresca
+31|Naranjas mandarinas frescas
+31|Nísperos frescos
+31|Nueces frescas
+31|Nueves frescas
+31|Objetos comestibles y masticables para animales
+31|Ojo de dragón fresco (longan)
+31|Ovejas vivas
+31|Papas dulces frescas (camote)
+31|Papel granulado para animales domésticos (lechos higiénicos)
+31|Papel granulado para la higiene de animales domésticos
+31|Pasto natural
+31|Patatas sin elaborar
+31|Patos vivos
+31|Peces de colores
+31|Peces para acuario
+31|Pelo de conejo
+31|Pepinos de mar (cohombros de mar) vivos
+31|Pepinos frescos
+31|Peras frescas
+31|Percas vivas
+31|Perifollo fresco
+31|Perros
+31|Pescado para comida animal
+31|Pieles en bruto
+31|Piensos mezclados para animales
+31|Piensos para perros
+31|Piensos sintéticos para animales
+31|Pimientos frescos
+31|Piñones frescos
+31|Pistachos frescos
+31|Plantas de floración
+31|Plantas de fruta viva
+31|Plantas secas para decoración
+31|Plantas vivas
+31|Plantas y flores naturales
+31|Plantones
+31|Plátanos frescos
+31|Platijas (peces) vivas
+31|Pollos de hueso negro vivos
+31|Pomarrosas frescas
+31|Pomelos frescos
+31|Porotos rojos crudos
+31|Productos masticables comestibles para perros
+31|Puerros frescos
+31|Pulpa de almidón (alimentos para animales)
+31|Pupas vivas de abejas
+31|Quingombós frescos
+31|Quinoa no procesada
+31|Rabanitos picantes, frescos
+31|Radicchio fresco
+31|Raíces de alcachofa china fresca, para su uso como vegetales
+31|Raíces de yacón frescas
+31|Raíz de bardana fresca
+31|Raíz de rábano cruda
+31|Ramilletes de flores naturales
+31|Remolachas frescas
+31|Repollos de napa frescos (baechu)
+31|Rizomas frescos comestibles
+31|Rosas
+31|Rúcula fresca
+31|Salacas (frutas) frescas
+31|Salvado de arroz (alimentos para animales)
+31|Sandías frescas
+31|Semillas de árbol de manzana
+31|Semillas de árbol urushi
+31|Semillas de cereal sin procesar
+31|Semillas de césped
+31|Semillas de chía no procesadas
+31|Semillas de cultivos
+31|Semillas de flores
+31|Semillas de fruta
+31|Semillas de lino no procesadas
+31|Semillas de urushi
+31|Semillas para frutas, verduras, hortalizas y legumbres
+31|Semillas para pájaros
+31|Semillas para plantas
+31|Semillas para uso agrícola
+31|Semillas para uso hortícola
+31|Semillas sin procesar para uso agrícola
+31|Semillas y bulbos
+31|Señuelos vivos para pesca
+31|Setos y arbustos vivos, podados en formas decorativas
+31|Soja fresca y tierna en vaina (edamame)
+31|Sollas vivas
+31|Sorgo no procesado
+31|Spirulina no procesada
+31|Spirulina procesada
+31|Subproductos del procesamiento de cereales para la alimentación animal
+31|Sucedáneos de leche para animales
+31|Tallos de ajo frescos
+31|Tomates cereza (cherry) frescos
+31|Tomates frescos
+31|Tomates no procesados
+31|Tortas de salsa de soja (alimentación animal)
+31|Trigo sin elaborar
+31|Truchas vivas
+31|Trufas frescas
+31|Uvas frescas
+31|Verdolaga, planta fresca
+31|Verduras no procesadas
+31|Verduras, hortalizas y legumbres frescas
+31|Verduras, hortalizas y legumbres orgánicas frescas
+31|Virutas de madera para fabricar pasta de madera
+31|Zanahorias frescas

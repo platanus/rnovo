@@ -1,69 +1,93 @@
-class,reference_id,name
-34,340001,fósforos
-34,340001,cerillas
-34,340001,cerillos
-34,340002,embocaduras de boquillas de ámbar amarillo para puros y cigarrillos
-34,340002,embocaduras de boquillas de ámbar amarillo para cigarros y cigarrillos
-34,340003,tabaco
-34,340004,petacas para tabaco
-34,340005,boquillas de cigarrillo
-34,340005,boquillas de cigarro [cigarrillo]
-34,340006,filtros para cigarrillos
-34,340006,filtros para cigarros [cigarrillos]
-34,340007,encendedores para fumadores
-34,340007,mecheros [encendedores de bolsillo]
-34,340008,depósitos de gas para encendedores
-34,340008,depósitos de gas para mecheros [encendedores de bolsillo]
-34,340009,pipas
-34,340010,librillos de papel de fumar
-34,340011,papel absorbente para pipas
-34,340012,tabaco de mascar
-34,340013,puros
-34,340014,cortapuros
-34,340015,pureras
-34,340015,cajas para puros
-34,340015,cigarreras para puros
-34,340015,petacas para puros
-34,340016,pitilleras
-34,340016,estuches para cigarrillos
-34,340016,petacas para cigarrillos
-34,340017,boquillas para puros
-34,340019,cigarrillos que contengan sucedáneos del tabaco que no sean para uso médico
-34,340019,cigarros [cigarrillos] que contengan sucedáneos del tabaco que no sean para uso médico
-34,340020,cigarrillos*
-34,340020,cigarros [cigarrillos]
-34,340021,aparatos de bolsillo para liar cigarrillos
-34,340021,aparatos de bolsillo para liar cigarros [cigarrillos]
-34,340022,boquillas para cigarrillos
-34,340022,boquillas para cigarros [cigarrillos]
-34,340023,embocaduras de boquillas para cigarrillos
-34,340024,papel de fumar
-34,340025,puritos
-34,340026,limpiapipas
-34,340027,piedras de encendedor de bolsillo
-34,340027,piedras de mechero [encendedor de bolsillo]
-34,340028,hierbas para fumar*
-34,340030,portapipas
-34,340030,soportes para pipas
-34,340031,fosforeras
-34,340031,cerilleros
-34,340032,botes para tabaco
-34,340033,rapé [tabaco en polvo]
-34,340034,tabaqueras [cajas para rapé]
-34,340035,cajas para fósforos
-34,340035,cajas para cerillas
-34,340035,cajas para cerillos
-34,340036,ceniceros para fumadores
-34,340037,escupideras para consumidores de tabaco
-34,340038,cajas con humidificador para puros
-34,340039,cigarrillos electrónicos
-34,340040,soluciones líquidas para cigarrillos electrónicos
-34,340041,vaporizadores bucales para fumadores
-34,340042,aromatizantes, que no sean aceites esenciales, para tabaco
-34,340042,saborizantes, que no sean aceites esenciales, para tabaco
-34,340043,aromatizantes, que no sean aceites esenciales, para cigarrillos electrónicos
-34,340043,saborizantes, que no sean aceites esenciales, para cigarrillos electrónicos
-34,340044,mechas especiales para encendedores de cigarrillos
-34,340045,shishas
-34,340045,narguiles
-34,340045,hookahs
+class|name
+34|Aparatos de bolsillo para liar cigarrillos
+34|Aparatos de bolsillo para liar sus propios cigarrillos
+34|Aromatizantes para cigarrillos electrónicos, que no sean aceites esenciales
+34|Boquillas de metales preciosos para cigarrillos
+34|Boquillas para cigarrillos
+34|Boquillas para cigarrillos que no sean de metales preciosos
+34|Boquillas para puros
+34|Botes para tabaco
+34|Cajas de metales preciosos para puros y cigarrillos
+34|Cajas humidificadas para puros
+34|Cajas para cerillos que no sean de metales preciosos
+34|Cajas para fósforos
+34|Cajas para fósforos de metales preciosos
+34|Cajas para fósforos que no sean de metales preciosos
+34|Ceniceros
+34|Ceniceros de metales preciosos
+34|Ceniceros para fumadores de metales preciosos
+34|Ceniceros para fumadores que no sean de metales preciosos
+34|Ceniceros que no sean de metales preciosos
+34|Cerillos de azufre
+34|Cerillos de fósforo amarillo
+34|Cerillos de parafina
+34|Cigarreras que no sean de metales preciosos
+34|Cigarrillos
+34|Cigarrillos electrónicos
+34|Cigarrillos electrónicos para su uso como una alternativa a los cigarrillos tradicionales
+34|Cigarrillos mentolados
+34|Cortapuros
+34|Dispositivos de bolsillo para liar sus propios cigarrillos
+34|Dispositivos electrónicos y sus partes (comprendidos en esta clase) para calentar cigarrillos o tabaco para liberar aerosol que contiene nicotina para inhalar
+34|Dispositivos para calentar tabaco para su inhalación
+34|Encendedores de cigarrillos que no sean de metales preciosos ni para automóviles
+34|Encendedores de cigarros
+34|Encendedores para fumadores (encendedores de cigarrillos) que no sean para automóviles
+34|Encendedores que no sean de metales preciosos ni para automóviles
+34|Estuches de puros que no sean de metales preciosos
+34|Filtros para cigarrillos
+34|Filtros para tabaco
+34|Fosforeras
+34|Fósforos
+34|Fósforos de seguridad
+34|Fundas para pipas largas de tabaco asiáticas
+34|Hojas de tabaco
+34|Humidificadores para puros
+34|Latas de tabaco
+34|Limpiapipas
+34|Máquinas de bolsillo para liar cigarrillos
+34|Máquinas para liar cigarrillos
+34|Molinillos de tabaco
+34|Narguiles (pipa oriental)
+34|Narguilés electrónicos
+34|Papel absorbente para pipas
+34|Papel de fumar
+34|Papel para enrollar cigarrillos
+34|Petacas para tabaco
+34|Piedras de encendedor de bolsillo
+34|Piedras de encendedor y pedernales
+34|Pipas de fumar electrónicas
+34|Pipas de madera
+34|Pipas largas para tabaco asiáticas (kiseru)
+34|Pipas mentoladas
+34|Pipas para fumar
+34|Pipas para tabaco que no sean de metales preciosos
+34|Pitilleras
+34|Pitilleras automáticas
+34|Pitilleras hechas de metales preciosos
+34|Prensadores para pipas
+34|Puntas de filtros de cigarrillos
+34|Pureras
+34|Puros
+34|Puros electrónicos
+34|Rapé (tabaco en polvo)
+34|Soluciones de nicotina líquida para su uso en cigarrillos electrónicos
+34|Sucedáneos del tabaco
+34|Sucedáneos del tabaco que no sean para uso médico
+34|Tabaco
+34|Tabaco aromatizado
+34|Tabaco de hookah
+34|Tabaco de mascar
+34|Tabaco de pipa mentolado
+34|Tabaco desmenuzado japonés (kizami tobacco)
+34|Tabaco mentolado
+34|Tabaco para cigarrillos
+34|Tabaco para fumar
+34|Tabaco para liar
+34|Tabaco para pipas
+34|Tabaco sin humo
+34|Tabaco, puros y cigarrillos
+34|Tabaqueras (cajas para rapé)
+34|Tabaqueras (cajas para rapé) de metales preciosos
+34|Tabaqueras (cajas para rapé) que no sean de metales preciosos
+34|Tubos para cigarrillos

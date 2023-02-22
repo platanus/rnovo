@@ -1,165 +1,397 @@
-class,reference_id,name
-41,410002,academias [educación]
-41,410003,servicios de parques de atracciones
-41,410003,servicios de parques de diversiones
-41,410004,servicios de entretenimiento
-41,410005,doma y adiestramiento de animales
-41,410005,adiestramiento de animales
-41,410006,alquiler de aparatos cinematográficos
-41,410007,servicios de artistas del espectáculo
-41,410008,servicios de estudios de cine
-41,410009,representación de espectáculos de circo
-41,410010,organización de concursos [actividades educativas o recreativas]
-41,410011,cursos por correspondencia
-41,410011,enseñanza por correspondencia
-41,410012,servicios de educación física
-41,410013,alquiler de decorados para espectáculos
-41,410014,puesta a disposición de instalaciones recreativas
-41,410015,programas de entretenimiento por radio
-41,410016,publicación de textos que no sean publicitarios
-41,410017,educación
-41,410017,servicios educativos
-41,410017,enseñanza
-41,410017,instrucción [enseñanza]
-41,410018,alquiler de grabaciones sonoras
-41,410019,alquiler de películas cinematográficas
-41,410020,producción de películas que no sean publicitarias
-41,410021,enseñanza de gimnasia
-41,410023,servicios de bibliotecas de préstamo
-41,410024,publicación de libros
-41,410025,alquiler de aparatos de radio y televisión
-41,410026,producción de programas de radio y televisión
-41,410027,representación de espectáculos de variedades
-41,410028,servicios de orquestas
-41,410029,representaciones teatrales
-41,410030,producción de espectáculos
-41,410031,programas de entretenimiento por televisión
-41,410032,alquiler de decorados de teatro
-41,410032,alquiler de escenografía
-41,410033,servicios de parques zoológicos
-41,410033,servicios de jardines zoológicos
-41,410035,explotación de instalaciones deportivas
-41,410036,agencias de modelos para artistas
-41,410041,servicios de bibliotecas ambulantes
-41,410042,servicios de casinos [juego]
-41,410042,explotación de casinos [juego]
-41,410043,servicios de clubes [educación o entretenimiento]
-41,410044,organización y dirección de coloquios
-41,410045,organización y dirección de conferencias
-41,410046,organización y dirección de congresos
-41,410047,servicios de discotecas
-41,410048,suministro de información sobre educación
-41,410049,servicios de pruebas pedagógicas
-41,410050,suministro de información sobre actividades de entretenimiento
-41,410051,organización de exposiciones con fines culturales o educativos
-41,410052,servicios de juegos de apuestas
-41,410053,explotación de campos de golf
-41,410054,clubes deportivos [entrenamiento y mantenimiento físico]
-41,410055,servicios de campamentos de vacaciones [actividades recreativas]
-41,410056,representación de espectáculos en vivo
-41,410057,exhibición de películas cinematográficas
-41,410058,jardines de infancia
-41,410058,guarderías [educación]
-41,410059,organización de competiciones deportivas
-41,410060,organización de fiestas y recepciones
-41,410061,formación práctica [demostración]
-41,410062,servicios de museos [presentaciones, exposiciones]
-41,410063,servicios de estudios de grabación
-41,410064,suministro de información sobre actividades recreativas
-41,410065,alquiler de equipos de buceo
-41,410065,alquiler de equipos de submarinismo
-41,410066,alquiler de equipos deportivos, excepto vehículos
-41,410067,alquiler de estadios
-41,410068,alquiler de aparatos de vídeo
-41,410069,alquiler de cintas de vídeo
-41,410070,organización y dirección de seminarios
-41,410071,servicios de campamentos deportivos
-41,410072,organización y dirección de simposios
-41,410073,cronometraje de eventos deportivos
-41,410075,educación en internados
-41,410076,organización y dirección de talleres de formación
-41,410077,organización de concursos de belleza
-41,410078,reserva de localidades para espectáculos
-41,410079,doblaje
-41,410080,educación religiosa
-41,410081,organización de loterías
-41,410082,organización de bailes
-41,410083,organización de espectáculos [servicios de empresarios]
-41,410084,servicios de salas de juegos
-41,410085,alquiler de equipos de audio
-41,410086,alquiler de equipos de iluminación para escenarios de teatro o estudios de televisión
-41,410087,alquiler de pistas de tenis
-41,410087,alquiler de canchas de tenis
-41,410088,alquiler de cámaras de vídeo
-41,410088,alquiler de videocámaras
-41,410089,redacción de guiones que no sean publicitarios
-41,410090,montaje de cintas de vídeo
-41,410091,publicación en línea de libros y revistas especializadas en formato electrónico
-41,410092,microedición
-41,410093,subtitulado
-41,410094,servicios de juegos disponibles en línea por una red informática
-41,410095,servicios de karaoke
-41,410097,servicios de composición musical
-41,410098,servicios de clubes nocturnos [entretenimiento]
-41,410099,suministro de publicaciones electrónicas en línea no descargables
-41,410100,reportajes fotográficos
-41,410101,servicios fotográficos
-41,410102,orientación profesional [asesoramiento sobre educación o formación]
-41,410102,orientación vocacional [asesoramiento sobre educación o formación]
-41,410103,servicios de reporteros
-41,410104,servicios de traducción
-41,410105,interpretación del lenguaje de los signos
-41,410105,interpretación del lenguaje de señas
-41,410106,grabación [filmación] en cintas de vídeo
-41,410182,microfilmación
-41,410183,servicios de taquilla [espectáculos]
-41,410183,servicios de venta de boletos [espectáculos]
-41,410184,redacción de textos*
-41,410185,organización y dirección de conciertos
-41,410186,servicios de caligrafía
-41,410187,servicios de composición de página que no sean con fines publicitarios
-41,410188,organización de desfiles de moda con fines recreativos
-41,410189,coaching [formación]
-41,410190,alquiler de campos de deporte
-41,410191,servicios de disc-jockey
-41,410191,servicios de pinchadiscos
-41,410192,interpretación lingüística
-41,410193,servicios de preparador físico personal [mantenimiento físico]
-41,410194,clases de mantenimiento físico
-41,410195,cursos de reciclaje profesional
-41,410196,producción musical
-41,410197,alquiler de juguetes
-41,410198,alquiler de material para juegos
-41,410199,servicios educativos prestados por escuelas
-41,410200,suministro en línea de música no descargable
-41,410201,suministro en línea de vídeos no descargables
-41,410202,servicios de tutoría [instrucción]
-41,410203,organización y dirección de foros presenciales educativos
-41,410204,servicios de compositores y autores de música
-41,410205,redacción de guiones televisivos y cinematográficos
-41,410206,servicios de guías turísticos
-41,410207,servicios de formación mediante simuladores
-41,410208,suministro de películas, no descargables, mediante servicios de vídeo a la carta
-41,410209,suministro de programas de televisión, no descargables, mediante servicios de vídeo a la carta
-41,410210,sado [enseñanza de la ceremonia japonesa del té]
-41,410211,enseñanza del aikido
-41,410212,alquiler de obras de arte
-41,410213,alquiler de acuarios de interior
-41,410214,realización de excursiones de escalada guiadas
-41,410215,organización de eventos recreativos en torno a juegos de disfraces [cosplay]
-41,410216,servicios culturales, educativos y recreativos de galerías de arte
-41,410217,distribución de películas
-41,410218,transferencia de conocimientos especializados
-41,410219,servicios de asistencia educativa prestados por asistentes escolares
-41,410220,enseñanza de judo
-41,410221,servicios de exámenes pedagógicos de cualificación para pilotar drones
-41,410222,servicios de ingenieros de sonido para eventos
-41,410223,servicios de montaje de vídeo para eventos
-41,410224,servicios de técnicos de iluminación para eventos
-41,410225,realización de películas no publicitarias
-41,410226,suministro de comentarios de usuarios con fines culturales o de entretenimiento
-41,410227,suministro de clasificaciones de usuarios con fines culturales o de entretenimiento
-41,410227,suministro de evaluaciones de usuarios con fines culturales o de entretenimiento
-41,410228,alquiler de simuladores de entrenamiento
-41,410229,servicios de evaluación de la forma física con fines de entrenamiento
-41,410230,servicios de pintura facial
+class|name
+41|Agencias de modelos para artistas plásticos
+41|Alquiler de aparatos de audio
+41|Alquiler de aparatos de iluminación para escenarios de teatro
+41|Alquiler de aparatos de iluminación para escenarios de teatro o estudios de televisión
+41|Alquiler de aparatos de iluminación para estudios de televisión
+41|Alquiler de aparatos de radio y televisión
+41|Alquiler de aparatos de televisión
+41|Alquiler de aparatos de vídeo
+41|Alquiler de cámaras de vídeo
+41|Alquiler de cámaras fotográficas
+41|Alquiler de campos de deporte
+41|Alquiler de cintas de vídeo
+41|Alquiler de cintas de vídeo, videocasetes y videogramas
+41|Alquiler de cintas magnéticas pregrabadas con imágenes
+41|Alquiler de cometas
+41|Alquiler de decorados de teatro
+41|Alquiler de discos y cintas magnéticas pregrabadas
+41|Alquiler de DVD
+41|Alquiler de equipo de skí en tabla
+41|Alquiler de equipo para buceo
+41|Alquiler de equipos de buceo
+41|Alquiler de equipos de esquí
+41|Alquiler de equipos deportivos, excepto vehículos
+41|Alquiler de equipos para la práctica del golf
+41|Alquiler de grabaciones fonográficas y de música
+41|Alquiler de grabaciones sonoras
+41|Alquiler de instalaciones de juegos para niños
+41|Alquiler de instrumentos musicales
+41|Alquiler de juguetes
+41|Alquiler de libros
+41|Alquiler de máquinas de fuego controlado para espectáculos
+41|Alquiler de máquinas de fuego ficticio para espectáculos
+41|Alquiler de máquinas de humo para espectáculos
+41|Alquiler de máquinas de nieve artificial para espectáculos
+41|Alquiler de máquinas de nube de piso para espectáculos
+41|Alquiler de máquinas lanza confeti
+41|Alquiler de máquinas para correr
+41|Alquiler de máquinas y aparatos cinematográficos
+41|Alquiler de máquinas y aparatos de juegos
+41|Alquiler de máquinas y aparatos de recreativos
+41|Alquiler de pantallas de video
+41|Alquiler de patines
+41|Alquiler de patines de ruedas
+41|Alquiler de patinetas
+41|Alquiler de películas
+41|Alquiler de películas cinematográficas
+41|Alquiler de películas cinematográficas y de registros sonoros
+41|Alquiler de películas de cine
+41|Alquiler de películas en DVD
+41|Alquiler de películas reversibles
+41|Alquiler de películas y videos de cine
+41|Alquiler de pinturas y trabajos caligráficos
+41|Alquiler de pistas de tenis
+41|Alquiler de proyectores cinematográficos y sus accesorios
+41|Alquiler de proyectores y accesorios cinematográficos
+41|Alquiler de radios y televisiones
+41|Alquiler de retroproyectores
+41|Alquiler de revistas
+41|Alquiler de rocolas
+41|Alquiler de salas de conciertos
+41|Alquiler de snorkels
+41|Alquiler de tablas de snowboard
+41|Alquiler de tablas de surf
+41|Alquiler de teatros para las artes escénicas
+41|Alquiler de videocámaras
+41|Alquiler de videocintas y películas cinematográficas
+41|Alquiler de videojuegos
+41|Análisis de puntuaciones de tests y datos educativos para terceros
+41|Arrendamiento de equipo para juegos
+41|Arrendamiento de motos de juguete
+41|Arrendamiento de proyectores de películas cinematográficas
+41|Bibliotecas de referencia de publicaciones y registros documentales
+41|Campamentos (cursillos) de perfeccionamiento deportivo
+41|Capacitación de especialistas en la industria de la fontanería
+41|Capacitación en el campo del diseño, publicidad y tecnologías de la comunicación
+41|Capacitación en mediación
+41|Capacitación en relaciones públicas y en el combate de la falsificación con miras a reconocer falsos
+41|Capacitación práctica en el campo de la soldadura
+41|Capacitación y enseñanza médica
+41|Celebración de seminarios en el ámbito de la oncología
+41|Circos
+41|Clases de submarinismo
+41|Clases de velerismo
+41|Clubes nocturnos
+41|Coaching en el campo de los deportes
+41|Corrección de manuscritos
+41|Cursos de ábaco
+41|Cursos de boxeo
+41|Cursos de formación sobre planificación estratégica en relación con publicidad, promoción, marketing y empresas
+41|Cursos de gimnasia
+41|Cursos de revisión para exámenes estatales
+41|Desarrollo de programas de intercambio estudiantil internacional
+41|Dirección de la producción de programas de radio y de televisión
+41|Dirección de obras de teatro
+41|Distribución de películas
+41|Distribución de programas de televisión para otros
+41|Doblaje
+41|Doblaje de películas
+41|Doma y adiestramiento de animales
+41|Edición de grabaciones de sonidos e imágenes
+41|Edición de libros
+41|Edición de libros y revisiones
+41|Edición de libros y revistas
+41|Edición de periódico
+41|Edición de programas de televisión y radio
+41|Edición de publicaciones electrónicas
+41|Edición de revisiones
+41|Edición de revistas
+41|Edición de revistas en la web
+41|Edición de videocintas
+41|Edición electrónica de libros y publicaciones periódicas en línea
+41|Edición fotográfica
+41|Edición y emisión de documentos científicos en relación a tecnología médica
+41|Enseñanza de arreglo floral
+41|Enseñanza de caligrafía
+41|Enseñanza de conducción de vehículos
+41|Enseñanza de confección de kimonos
+41|Enseñanza de danza
+41|Enseñanza de habilidades de belleza
+41|Enseñanza de judo
+41|Enseñanza de karate
+41|Enseñanza de kendo (enseñanza de esgrima japonesa
+41|Enseñanza de la ceremonia del té
+41|Enseñanza de las bellas artes
+41|Enseñanza de lenguaje
+41|Enseñanza de natación
+41|Enseñanza de piano
+41|Enseñanza de sastrería o costura
+41|Enseñanza de tenis
+41|Enseñanza del yoga
+41|Enseñanza en academias
+41|Enseñanza en el uso formal del kimono
+41|Enseñanza en escuelas primarias
+41|Enseñanza en escuelas secundarias
+41|Enseñanza en institutos de educación secundaria
+41|Enseñanza en materia de quiropráctica
+41|Enseñanza en teneduría de libros
+41|Enseñanza en universidades o escuelas superiores
+41|Enseñanza y capacitación en negocios, industria y tecnología de la información
+41|Entrenamiento canino para guiar personas no videntes
+41|Entrenamiento para el control de perros
+41|Entretenimiento del tipo de parque acuático y centro de recreo
+41|Entretenimiento en forma de carreras automovilísticas
+41|Entretenimiento en forma de competiciones de lanzamiento de hacha
+41|Entretenimiento en forma de competiciones de patinaje
+41|Entretenimiento en la forma de concursos de belleza
+41|Escuelas de baile
+41|Espectáculos de circo
+41|Espectáculos de danza
+41|Espectáculos de variedades
+41|Espectáculos teatrales y musicales proveídos en lugares de actuación
+41|Estudio de películas cinematográficas
+41|Estudios de cine
+41|Estudios de grabación
+41|Exámenes educativos
+41|Exhibición de películas
+41|Explotación de baños de natación
+41|Explotación de campamentos deportivos
+41|Explotación de instalaciones deportivas
+41|Explotación de salas de juegos
+41|Exposiciones de animales
+41|Exposiciones de animales y adiestramiento de animales
+41|Exposiciones de arte
+41|Exposiciones de plantas
+41|Facilitación de campos de béisbol
+41|Facilitación de canchas de tenis
+41|Facilitación de cursos de instrucción de idiomas
+41|Facilitación de cursos en materia de gestión del agua
+41|Facilitación de estudios de audio o video
+41|Facilitación de gimnasios
+41|Facilitación de instalaciones de campo y pista
+41|Facilitación de instalaciones de golf
+41|Facilitación de instalaciones de pistas de tenis
+41|Facilitación de instalaciones para torneos deportivos
+41|Facilitación de instalaciones recreativas
+41|Facilitación de noticias e información sobre lucha libre a través de una red informática global
+41|Facilitación de parques de recreo para niños en estaciones de servicios
+41|Facilitación de parques recreativos
+41|Facilitación de piscinas de natación
+41|Facilitación de pistas de esquí
+41|Facilitación de pistas de patinaje
+41|Facilitación de salas de juego
+41|Facilitación de servicios de ejercicio físico para animales
+41|Facilitación de servicios de parque acuático
+41|Formación en artes marciales
+41|Formación en seguridad de la conducción
+41|Formación para manipular instrumentos y aparatos científicos para la investigación en laboratorios
+41|Formación sobre seguridad vial
+41|Grabación de discos originales (masters)
+41|Grabaciones de audio y video sobre tenis
+41|Impartición de cursos de educación dietética
+41|Información sobre actividades de entretenimiento
+41|Instalaciones para deportes de invierno
+41|Instrucción (enseñanza) sobre Hapkido
+41|Instrucción de ábaco japonés
+41|Instrucción de baloncesto (basketball)
+41|Instrucción de forma física para golf
+41|Instrucción de peluquería
+41|Instrucción de pilates
+41|Instrucción de taekwondo
+41|Instrucción de técnicas de forestación
+41|Instrucción de tenis de mesa (ping-pong)
+41|Instrucción en baile acrobático en barra
+41|Instrucción en conducción de motocicletas
+41|Instrucción en fitness aéreo
+41|Instrucción en materia de fisioterapia
+41|Instrucción para jugar ajedrez japonés (instrucción para el shogi)
+41|Internados
+41|Interpretación de idiomas
+41|Interpretación del lenguaje de los signos
+41|Jardines botánicos
+41|Microedición (autoedición electrónica)
+41|Microfilmación
+41|Modelaje para artistas
+41|Montaje de programas de radio y televisión
+41|Operación de equipos de video y audio para la producción de programas de radio y televisión.
+41|Operación de una discoteca
+41|Organización de actividades artísticas realizadas por un dueto (conjunto) musical
+41|Organización de carreras ciclistas
+41|Organización de carreras de atletismo
+41|Organización de carreras de barcos
+41|Organización de carreras hípicas
+41|Organización de ceremonias de entrega de premios con fines educacionales
+41|Organización de combates de boxeo
+41|Organización de competencias de polo acuático (water polo)
+41|Organización de competencias deportivas
+41|Organización de competiciones de juegos electrónicos
+41|Organización de competiciones de pesca deportiva
+41|Organización de competiciones de sumo
+41|Organización de competiciones deportivas
+41|Organización de concursos
+41|Organización de concursos de belleza
+41|Organización de conferencias y simposios en el campo de la ciencia médica
+41|Organización de cursos de capacitación en instituciones educativas
+41|Organización de desfiles de modas con fines de entretenimiento
+41|Organización de espectáculos con fines culturales
+41|Organización de espectáculos culturales
+41|Organización de eventos con fines culturales
+41|Organización de eventos culturales y artísticos
+41|Organización de eventos de baile
+41|Organización de eventos de carreras automovilísticas
+41|Organización de eventos deportivos en el campo del fútbol
+41|Organización de exposiciones con fines culturales o educativos
+41|Organización de juegos
+41|Organización de loterías
+41|Organización de maratones
+41|Organización de partidos de béisbol
+41|Organización de partidos de fútbol
+41|Organización de seminarios
+41|Organización de seminarios, grupos de trabajo, grupos de estudio y convenciones en el campo de la medicina
+41|Organización de talleres profesionales y cursos de capacitación
+41|Organización de torneos de golf
+41|Organización de torneos de golf profesionales
+41|Organización de triatlones
+41|Organización y conducción de competencias deportivas universitarias y eventos atléticos
+41|Organización y conducción de competencias y campeonatos de patinaje de velocidad y artístico
+41|Organización y dirección de carreras de bicicletas
+41|Organización y dirección de carreras de caballos
+41|Organización y dirección de conciertos
+41|Organización y dirección de conferencias educacionales
+41|Organización y dirección de juegos de béisbol
+41|Organización y dirección de regatas
+41|Organización y preparación de exposiciones con fines de entretenimiento
+41|Organización y provisión de instalaciones de deporte para competencias de patinaje de velocidad y artístico
+41|Organización y realización de seminarios de oncología
+41|Organización, preparación y realización de juegos de tenis de mesa (ping pong)
+41|Organización, preparación y realización de partidos de baloncesto (basketball)
+41|Organización, preparación y realización de partidos de tenis
+41|Pintura de retratos (servicios artísticos)
+41|Planificación de fiestas
+41|Preparación de subtítulos para películas
+41|Presentación de espectáculos de teatro musical en vivo
+41|Presentación de espectáculos humorísticos en directo
+41|Presentación de espectáculos musicales
+41|Presentación de obras de teatro
+41|Préstamo de libros
+41|Préstamo de libros y publicaciones periódicas
+41|Préstamos de libros
+41|Producción de animaciones
+41|Producción de canciones para películas cinematográficas
+41|Producción de cintas de video de películas
+41|Producción de efectos especiales para películas
+41|Producción de grabaciones sonoras
+41|Producción de grabaciones sonoras y de imagen en soportes de sonido e imagen
+41|Producción de películas
+41|Producción de películas cinematográficas
+41|Producción de películas en cintas de vídeo
+41|Producción de películas y videos
+41|Producción de programas de radio
+41|Producción de programas de radio o televisión
+41|Producción de programas de radio y televisión
+41|Producción de programas televisión
+41|Producción de vídeos musicales
+41|Producción y distribución de programas de radio
+41|Provisión de cursos de educación relativos a la industria de los viajes
+41|Provisión de información de entretenimiento via sitios web
+41|Provisión de información sobre educación
+41|Provisión de información sobre educación online
+41|Provisión de instalaciones de cines
+41|Provisión de instalaciones de parques temáticos
+41|Provisión de instrucciones de juegos de mesa Go
+41|Provisión de juegos de computador online
+41|Provisión salones de bolos
+41|Publicación de calendarios
+41|Publicación de documentos en el ámbito de la formación, la ciencia, la legislación pública y los asuntos sociales
+41|Publicación de libros
+41|Publicación de libros de texto
+41|Publicación de libros y revisiones
+41|Publicación de libros, revistas, almanaques y diarios
+41|Publicación de libros, revistas, diarios, periódicos, catálogos y brochures
+41|Publicación de manuales
+41|Publicación de material impreso
+41|Publicación de periódico
+41|Publicación de periódicos electrónicos accesibles a través de una red informática mundial
+41|Publicación de revistas
+41|Publicación de revistas electrónicas
+41|Publicación de revistas, libros y manuales en el ámbito de la medicina
+41|Publicación de textos, libros, revistas y otras publicaciones impresas
+41|Publicación y edición de material impreso
+41|Realización de seminarios en el ámbito de la oncología
+41|Redacción de guiones
+41|Redacción de textos que no sean publicitarios
+41|Reportajes fotográficos
+41|Representación de espectáculos en vivo
+41|Representaciones de la ópera de Pekín
+41|Reserva de asientos para espectáculos y eventos deportivos
+41|Reserva de localidades para espectáculos
+41|Reserva de localidades para espectáculos y reserva de boletos de teatro
+41|Reserva de salas de entretenimiento
+41|Retratos fotográficos
+41|Salas cinematográficas
+41|Salas de baile
+41|Servicios de agencia de boletos para eventos de entretenimiento
+41|Servicios de alquiler de equipo de audio y video
+41|Servicios de biblioteca
+41|Servicios de bibliotecas ambulantes
+41|Servicios de cabaret (entretenimiento)
+41|Servicios de caddie de golf
+41|Servicios de caligrafía
+41|Servicios de campamento de baloncesto
+41|Servicios de campamento de deportes
+41|Servicios de club de la comedia
+41|Servicios de composición de página que no sean con fines publicitarios
+41|Servicios de composición musical
+41|Servicios de conservador (curador) de museos
+41|Servicios de consultoría relativos a la formación empresarial
+41|Servicios de edición de posproducción en música, vídeos y películas
+41|Servicios de educación física
+41|Servicios de educación y entrenamiento en técnicas de atención plena (mindfulness)
+41|Servicios de enseñanza impartida a través de diplomados
+41|Servicios de entretenimiento en la forma de carreras de yates
+41|Servicios de entretenimiento prestados por artistas de espectáculos
+41|Servicios de entretenimiento prestados por dúos musicales, cantantes y artistas del espectáculo para televisión
+41|Servicios de entretenimiento prestados por grupos musicales
+41|Servicios de entretenimiento prestados por un grupo musical
+41|Servicios de estudios cinematográficos
+41|Servicios de estudios de grabación
+41|Servicios de exámenes pedagógicos
+41|Servicios de exposiciones de arte
+41|Servicios de formación deportiva
+41|Servicios de fotografía
+41|Servicios de grabación de audio y video
+41|Servicios de instrucción de esquí
+41|Servicios de instrucción de golf
+41|Servicios de instrucción en fútbol
+41|Servicios de instrucción en patinaje sobre ruedas
+41|Servicios de instrucción sobre Jujitsu
+41|Servicios de instrucción sobre snowboard
+41|Servicios de instrucción y entrenamiento en la forma de mentoría (mentoring)
+41|Servicios de interpretación de lenguas
+41|Servicios de intérpretes lingüísticos
+41|Servicios de juegos de realidad virtual prestados en línea desde una red informática
+41|Servicios de juegos electrónicos proveídos a través de internet
+41|Servicios de museo
+41|Servicios de orquestas
+41|Servicios de parques recreativos y parques temáticos
+41|Servicios de producción de presentaciones audiovisuales
+41|Servicios de publicación de música
+41|Servicios de redacción de guiones
+41|Servicios de reporteros de noticias
+41|Servicios de reserva de entradas y contratación de eventos de ocio, deportivos y culturales
+41|Servicios de salas de juego de realidad virtual
+41|Servicios de salas de videojuegos
+41|Servicios de traducción
+41|Servicios de videograbación
+41|Servicios para campos de prácticas de golf
+41|Subtitulado
+41|Suministro de áreas de recreo en forma de áreas de juego para niños
+41|Suministro de información sobre resultados de combates de artes marciales
+41|Suministro de información sobre resultados de combates de boxeo
+41|Suministro de salas de billar
+41|Suministro de salas de máquinas tragaperras
+41|Suministro de salas de pachinko
+41|Suministro de salones de go o shogi
+41|Suministro de salones de mahjong
+41|Transcripción musical para terceros

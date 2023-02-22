@@ -1,139 +1,185 @@
-class,reference_id,name
-2,020001,pinturas*
-2,020002,mordientes*
-2,020003,barnices*
-2,020004,colorantes para bebidas
-2,020005,colorantes para alimentos
-2,020005,colorantes alimentarios
-2,020006,colorantes de alizarina
-2,020007,pinturas de aluminio
-2,020008,aluminio en polvo para pintar
-2,020009,pinturas de amianto
-2,020009,pinturas de asbesto
-2,020010,preparaciones anticorrosivas
-2,020011,fijadores para acuarelas
-2,020014,plata en pasta
-2,020015,emulsiones de plata [pigmentos]
-2,020016,polvos para platear
-2,020017,barnices de asfalto
-2,020018,auramina
-2,020019,pinturas bactericidas
-2,020020,estuco
-2,020021,cintas anticorrosivas
-2,020022,bálsamo del Canadá
-2,020023,colorantes para mantequilla
-2,020023,colorantes para manteca [mantequilla]
-2,020024,colorantes para cerveza
-2,020025,barnices de betún
-2,020026,enlucidos para madera [pinturas]
-2,020027,mordientes para madera
-2,020028,tintes para madera
-2,020029,tierra de Siena
-2,020031,lacas para broncear
-2,020032,polvo de bronce para pintar
-2,020033,tintas para el cuero
-2,020034,caramelo [colorante alimentario]
-2,020035,malta acaramelada [colorante alimentario]
-2,020036,enlucidos para fieltro de techado [pinturas]
-2,020037,pinturas para cerámica
-2,020037,pinturas cerámicas
-2,020038,cerusa
-2,020039,negro de carbón [pigmento]
-2,020040,revestimientos de protección para chasis de vehículos
-2,020040,revestimientos de base para chasis de vehículos
-2,020041,tintes para el calzado
-2,020042,lechada de cal
-2,020043,pastas de imprenta [tintas]
-2,020044,óxido de cobalto [colorante]
-2,020045,carmín de cochinilla
-2,020046,colofonia*
-2,020047,colorantes*
-2,020047,materias tintóreas
-2,020048,colorantes de malta
-2,020048,malta tostada [colorante]
-2,020049,productos para conservar la madera
-2,020050,copal
-2,020052,colorantes de anilina
-2,020053,diluyentes para pinturas
-2,020054,diluyentes para lacas
-2,020055,espesantes para pinturas
-2,020056,creosota para conservar la madera
-2,020057,mordientes para el cuero
-2,020057,tinturas para el cuero
-2,020058,tintes*
-2,020059,pigmentos
-2,020060,cúrcuma [colorante]
-2,020061,resinas naturales en bruto
-2,020062,pinturas al temple
-2,020062,témperas
-2,020064,esmaltes [barnices]
-2,020065,esmaltes para pintar
-2,020065,pinturas al esmalte
-2,020066,tintas de imprenta
-2,020067,tintas para marcar animales
-2,020068,secantes [agentes de secado] para pinturas
-2,020070,enlucidos [pinturas]
-2,020072,fijadores [barnices]
-2,020073,negro de humo [pigmento]
-2,020074,fustete [colorante]
-2,020075,vidriados [barnices vítreos]
-2,020076,gutagamba para pintura
-2,020077,goma laca
-2,020078,gomorresinas
-2,020079,grasas antiherrumbre
-2,020080,tintas para grabado
-2,020081,óxido de zinc [pigmento]
-2,020081,gris de zinc [pigmento]
-2,020082,aceites para conservar la madera
-2,020083,aceites antiherrumbre
-2,020085,pinturas ignífugas
-2,020086,añil [colorante]
-2,020087,aglutinantes para pinturas
-2,020088,colorantes para licores
-2,020089,litargirio
-2,020089,minio anaranjado
-2,020089,óxido de plomo [litargirio]
-2,020090,metales en polvo para la pintura, la decoración, la imprenta y trabajos artísticos
-2,020091,mástique [resina natural]
-2,020092,metales en hojas para la pintura, la decoración, la imprenta y trabajos artísticos
-2,020093,productos contra el deslustre de los metales
-2,020094,productos para proteger metales
-2,020095,minio
-2,020095,plomo rojo
-2,020096,papel para teñir huevos de Pascua
-2,020098,bija
-2,020098,achiote [materia tintórea]
-2,020099,azafrán [colorante]
-2,020100,sandáraca [resina]
-2,020101,hollín [colorante]
-2,020102,zumaque para barnices
-2,020106,anhídrido titánico [pigmento]
-2,020106,dióxido de titanio [pigmento]
-2,020107,preparaciones antiherrumbre
-2,020108,pinturas de imprimación
-2,020110,blanco de cal
-2,020111,madera colorante
-2,020111,palo de Campeche
-2,020111,madera de tinte
-2,020112,extractos de madera colorante
-2,020112,extractos de madera de tinte
-2,020112,extractos de palo de Campeche
-2,020113,carbonilo para conservar la madera
-2,020114,barniz de copal
-2,020115,lacas*
-2,020121,tinta para impresoras y fotocopiadoras
-2,020122,pinturas antiincrustantes
-2,020122,pinturas antisuciedad
-2,020123,cartuchos de tóner llenos para impresoras y fotocopiadoras
-2,020124,trementina [diluyente para pinturas]
-2,020125,pintura en parches reubicables
-2,020126,acuarelas para trabajos artísticos
-2,020127,pinturas al óleo para trabajos artísticos
-2,020128,tintas comestibles
-2,020129,cartuchos de tinta comestible llenos para impresoras
-2,020130,colorantes en forma de marcadores para restaurar muebles
-2,020131,pinturas antigrafiti
-2,020132,tóner para impresoras y fotocopiadoras
-2,020133,cartuchos de tinta rellenos para impresoras y fotocopiadoras
-2,020134,vitrificadores para suelos de madera
-2,020135,pinturas antiorines
+class|name
+2|Aceites antioxidantes
+2|Aceites para conservar la madera
+2|Aceites Tung para la preservación de la madera
+2|Achiote (urucú u onoto)
+2|Agentes abrillantadores fluorescentes (tintes)
+2|Agentes de secado para pinturas y masillas
+2|Aglutinantes para pinturas
+2|Aglutinantes para pinturas y masillas
+2|Aluminio en polvo para pinturas
+2|Añil
+2|Añil como colorante
+2|Anticorrosivos en forma de revestimiento
+2|Azul de Prusia
+2|Barnices
+2|Barnices para uso en ebanistería
+2|Barnices que no sean barnices aislantes
+2|Bermellón
+2|Bernices para protección de pisos
+2|Blanco de cal
+2|Blanco titanio
+2|Brillantina
+2|Carmín de cochinilla
+2|Cartuchos de chorro de tinta (llenos)
+2|Cartuchos llenos de toner para impresoras y fotocopiadoras
+2|Cerusa
+2|Colorantes
+2|Colorantes ácidos
+2|Colorantes alimentarios
+2|Colorantes de anilina
+2|Colorantes directos
+2|Colorantes para fabricación de bebidas
+2|Colorantes para hormigón
+2|Colorantes para la fabricación de alimentos
+2|Colorantes para la fabricación de cosméticos
+2|Colorantes sintéticos
+2|Colorantes solubles en aceite
+2|Colorantes textiles
+2|Colores de aceite
+2|Conservante para cemento
+2|Copal
+2|Cúrcuma para uso como colorante
+2|Diluyentes para colores
+2|Diluyentes para lacas
+2|Diluyentes para pintura
+2|Esmaltes de cerámica
+2|Esmaltes para pintar
+2|Esmaltes vítreos
+2|Espesantes para colores
+2|Espesantes para pinturas
+2|Extracto de palo campeche (tintes)
+2|Extractos de palo de Campeche
+2|Goma laca
+2|Goma laca para pulido francés
+2|Grasas antioxidantes
+2|Hojas de metal para su uso por decoradores
+2|Imprimaciones
+2|Imprimaciones para preparar superficies que van a pintarse
+2|Laca japonesa (urushi)
+2|Lacas
+2|Lacas para impresión
+2|Lacas para la madera
+2|Lacas para pintores
+2|Lacas para revestir papeles
+2|Madera para su uso como tinte
+2|Materias tintóreas
+2|Metales en hoja y polvo para pintores
+2|Metales en hoja y polvo para pintores y decoradores
+2|Metales en hoja y polvo para pintores, decoradores, impresores y artistas
+2|Metales en hojas y polvos para pintores, decoradores, impresores y artistas
+2|Metales no ferrosos en hoja o polvo para para pintores, decoradores, impresores y artistas
+2|Metales preciosos en hoja o en polvo para pintores, decoradores y artistas
+2|Metales preciosos en hoja para pintores, decoradores y artistas
+2|Metales preciosos en polvo para pintores, decoradores, impresores y artistas
+2|Minio
+2|Mordientes para tintorería
+2|Negro de carbón (pigmento)
+2|Óxido de cobalto como colorante
+2|Papeles anticorrosivos
+2|Pastas de imprenta (tintas)
+2|Pigmentos
+2|Pigmentos colorantes
+2|Pigmentos fosforescentes
+2|Pigmentos fotocromáticos
+2|Pigmentos inorgánicos
+2|Pigmentos orgánicos
+2|Pigmentos para su uso en la preparación de tintas
+2|Pigmentos termocrómicos
+2|Pintura a prueba de fuego
+2|Pintura base para superficies que se van a pintar
+2|Pintura de imprimación
+2|Pintura en parches reubicables
+2|Pintura para artistas
+2|Pintura para suelos
+2|Pintura para suelos de hormigón
+2|Pintura sin disolventes
+2|Pinturas
+2|Pinturas a prueba de productos químicos
+2|Pinturas acrílicas
+2|Pinturas acrílicas para artistas
+2|Pinturas al temple
+2|Pinturas anticorrosivas
+2|Pinturas arquitectónicas
+2|Pinturas bactericidas
+2|Pinturas como revestimientos para madera
+2|Pinturas de aceite
+2|Pinturas de esmalte
+2|Pinturas de imprimación
+2|Pinturas de resina sintética
+2|Pinturas en polvo
+2|Pinturas en pulverizador
+2|Pinturas fluorescentes
+2|Pinturas ignífugas
+2|Pinturas impermeabilizantes
+2|Pinturas impermeables
+2|Pinturas luminosas
+2|Pinturas mezcladas
+2|Pinturas para automóviles
+2|Pinturas para camuflar equipo militar
+2|Pinturas para cerámica
+2|Pinturas para el casco inferior
+2|Pinturas protectoras de la herrumbre
+2|Pinturas reflectantes en aerosol
+2|Pinturas repelentes al agua
+2|Pinturas retardantes de fuego
+2|Pinturas y lacas
+2|Pinturas, lacas y barnices
+2|Polvo de cobre para pintar (pinturas)
+2|Polvo de magnesio para pintar (pinturas)
+2|Polvo de niobio para pintar (pinturas)
+2|Polvo de tantalio para pintar (pinturas)
+2|Polvo de zinc para pintar (pinturas)
+2|Polvos de imprimación (jinoko)
+2|Polvos de imprimación (kiriko)
+2|Polvos de metales preciosos para su uso por pintores, decoradores, impresores y artistas
+2|Preparaciones para revestimiento con propiedades repelentes al agua (pintura)
+2|Preparaciones para tratar y conservar la madera
+2|Preparados antioxidantes en forma de recubrimiento para su uso en vehículos
+2|Productos para conservar la madera
+2|Recubrimientos endurecibles por radiación para hormigón
+2|Resinas naturales en bruto
+2|Resinas naturales para su uso en la fabricación de adhesivos
+2|Revestimiento de superficie coloreado no metálico para fabricación de piscinas y spas de fibra de vidrio
+2|Revestimiento decorativo de pulverización
+2|Revestimientos de pintura anticorrosiva para uso comercial marino
+2|Revestimientos de protección para chasis de vehículos
+2|Revestimientos de resina epoxi para su uso sobre pavimentos industriales de hormigón
+2|Revestimientos en forma de pinturas
+2|Revestimientos impermeabilizantes (pinturas)
+2|Revestimientos protectores transparentes para vehículos
+2|Revestimientos utilizados para el acabado de muebles
+2|Rubia
+2|Sandáraca (resina)
+2|Secantes para colores
+2|Témperas
+2|Tinta de imprenta intaglio
+2|Tinta de impresión
+2|Tinta de mimeógrafos
+2|Tinta para tatuaje
+2|Tinta planográfica
+2|Tintas de copiado
+2|Tintas de fragancias microencapsuladas para impresión flexográfica
+2|Tintas de imprenta
+2|Tintas metálicas
+2|Tintas para grabado
+2|Tintas para impresoras de chorro de tinta
+2|Tintas para tatuar
+2|Tintas secas
+2|Tintas termocrómicas para impresión
+2|Tintes básicos (tintes catiónicos)
+2|Tintes de azufre
+2|Tintes de naftol
+2|Tintes disolubles en alcohol
+2|Tintes naturales
+2|Tintes para madera
+2|Tintes rápidos
+2|Tóner
+2|Tóner (tinta) para fotocopiadoras
+2|Tóner de impresión
+2|Tóner de tinta
+2|Tóner xerográfico
+2|Tóneres
+2|Trementina (diluyente para pinturas)
+2|Trementina de resina para su uso como diluyente de pintura
+2|Vidriados (barnices vítreos)

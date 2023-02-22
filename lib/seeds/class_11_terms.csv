@@ -1,394 +1,431 @@
-class,reference_id,name
-11,110001,instalaciones automáticas para abrevar
-11,110002,acumuladores de calor
-11,110003,mecheros de acetileno
-11,110003,quemadores de acetileno
-11,110004,generadores de acetileno
-11,110005,faros de acetileno
-11,110006,campanas de ventilación
-11,110007,instalaciones de alumbrado para vehículos aéreos
-11,110008,aerotermos
-11,110008,hornos de aire caliente
-11,110009,aparatos para desodorizar el aire
-11,110010,dispositivos para el enfriar el aire
-11,110011,filtros de aire para sistemas de climatización
-11,110011,filtros para sistemas de aire acondicionado
-11,110012,recalentadores de aire
-11,110013,secadores de aire
-11,110014,instalaciones de aire acondicionado
-11,110015,instalaciones de filtrado de aire
-11,110016,aparatos de aire caliente
-11,110017,aparatos para baños de aire caliente
-11,110018,encendedores de fricción para encender el gas
-11,110019,encendedores de gas
-11,110020,encendedores*
-11,110021,bombillas de iluminación
-11,110022,bombillas eléctricas
-11,110023,lámparas de arco
-11,110024,lámparas eléctricas
-11,110025,armazones de horno
-11,110026,armarios frigoríficos
-11,110027,luces para vehículos
-11,110031,faros para automóviles
-11,110032,recipientes refrigerantes para hornos
-11,110033,bañeras
-11,110035,bañeras para baños de asiento
-11,110036,cabinas transportables para baños turcos
-11,110037,aparatos para baños
-11,110038,calentadores de baño
-11,110038,calientabaños
-11,110039,instalaciones de baño
-11,110040,lámparas [aparatos de iluminación]
-11,110041,faroles de alumbrado
-11,110042,manguitos de lámparas
-11,110043,mecheros de incandescencia
-11,110043,quemadores de incandescencia
-11,110044,mecheros de lámparas
-11,110044,quemadores de lámparas
-11,110045,luces para bicicletas
-11,110046,bidés
-11,110047,calderas que no sean partes de máquinas
-11,110048,cocederos
-11,110049,bocas de riego
-11,110050,tapones de radiador
-11,110051,linternas eléctricas
-11,110052,calentadores de agua*
-11,110053,hornos de panadería
-11,110055,rompechorros
-11,110055,aireadores para grifos
-11,110056,asadores giratorios
-11,110057,espetones para asadores
-11,110058,quemadores de laboratorio
-11,110059,antorchas para la industria petrolera
-11,110060,quemadores*
-11,110061,quemadores germicidas
-11,110063,calderas de lavandería
-11,110064,retretes transportables
-11,110065,ventiladores [climatización]
-11,110066,torrefactores de café
-11,110067,caloríferos
-11,110068,grifos para tuberías y canalizaciones
-11,110068,llaves de paso para tuberías y canalizaciones
-11,110069,recuperadores de calor
-11,110069,regeneradores de calor
-11,110070,piezas accesorias de arcilla refractaria [chamota] para hornos
-11,110071,bombillas de indicadores de dirección para vehículos
-11,110071,bombillas de intermitentes para vehículos
-11,110072,carbón para lámparas de arco
-11,110073,instalaciones de calefacción
-11,110074,aparatos de carga para hornos
-11,110075,depósitos de descarga de agua
-11,110075,cisternas [depósitos de agua] de inodoro
-11,110076,instalaciones de calefacción por agua caliente
-11,110077,calderas de calefacción
-11,110078,tubos de calderas de calefacción
-11,110079,instalaciones de climatización para vehículos
-11,110079,instalaciones de aire acondicionado para vehículos
-11,110080,aparatos de calefacción por combustible sólido, líquido o gaseoso
-11,110081,instalaciones de calefacción para vehículos
-11,110082,aparatos de calefacción eléctricos
-11,110083,radiadores de calefacción central
-11,110084,humidificadores para radiadores de calefacción central
-11,110085,elementos calefactores
-11,110086,calienta-hierros
-11,110086,calentadores de tenacillas
-11,110087,calientapiés eléctricos o no
-11,110088,folgos calentados eléctricamente
-11,110089,calientaplatos
-11,110090,calentadores de inmersión
-11,110091,cristales de lámparas
-11,110092,tubos de lámparas
-11,110093,humeros de chimenea
-11,110093,conductos de humo [conductos de chimenea]
-11,110094,tiros de chimenea
-11,110095,secadores de pelo
-11,110095,secadores de cabello
-11,110096,instalaciones de distribución de agua
-11,110097,secadores [aparatos]
-11,110099,aparatos de aire acondicionado
-11,110100,aparatos para calentar cola [pegamento]
-11,110101,columnas de destilación
-11,110103,tuberías [partes de instalaciones sanitarias]
-11,110103,cañerías [partes de instalaciones sanitarias]
-11,110104,instalaciones de conductos de agua
-11,110105,inodoros
-11,110105,váteres [inodoros]
-11,110106,congeladores
-11,110107,utensilios de cocción eléctricos
-11,110108,cocinas [aparatos]
-11,110109,aparatos e instalaciones de cocción
-11,110110,luces de motocicleta
-11,110111,tubos de descarga eléctrica para la iluminación
-11,110112,dispositivos antihielo para vehículos
-11,110112,descarchadores para vehículos
-11,110114,distribuidores de desinfectante para baños
-11,110115,aparatos de desinfección
-11,110116,plantas desalinizadoras de agua de mar
-11,110116,instalaciones de desalinización del agua de mar
-11,110117,aparatos de desecación
-11,110118,difusores de luz
-11,110119,aparatos para enfriar bebidas
-11,110120,aparatos de destilación*
-11,110121,duchas*
-11,110122,casquillos [portalámparas] de lámparas eléctricas
-11,110122,casquillos de lámparas eléctricas [portalámparas]
-11,110123,instalaciones de depuración de agua
-11,110123,instalaciones depuradoras de agua
-11,110124,aparatos para filtrar el agua
-11,110125,instalaciones para enfriar el agua
-11,110126,fuentes de agua
-11,110127,depósitos de agua a presión
-11,110128,esterilizadores de agua
-11,110129,intercambiadores térmicos que no sean partes de máquinas
-11,110130,aparatos e instalaciones de alumbrado
-11,110133,arañas de luces
-11,110135,instalaciones de depuración de aguas residuales
-11,110135,instalaciones depuradoras de aguas residuales
-11,110136,plafones [lámparas]
-11,110137,radiadores eléctricos
-11,110138,aparatos de depuración de gases
-11,110138,aparatos depuradores de gases
-11,110141,aparatos para secar el forraje
-11,110142,evaporadores
-11,110143,estufas [aparatos de calefacción]
-11,110145,filamentos de lámparas eléctricas
-11,110147,filtros para agua potable
-11,110148,antorchas
-11,110149,forjas portátiles
-11,110150,hornos que no sean de laboratorio
-11,110151,piezas accesorias conformadas para hornos
-11,110152,rejillas de incinerador
-11,110153,hogares
-11,110153,chimeneas [hogares]
-11,110154,ceniceros para hogares de chimenea
-11,110155,aparatos y máquinas frigoríficos
-11,110156,cámaras frigoríficas
-11,110157,recipientes frigoríficos
-11,110158,lámparas para rizar
-11,110159,tostadores de frutos
-11,110160,lavadores de gas [partes de instalaciones de gas]
-11,110161,mecheros de gas
-11,110161,quemadores de gas
-11,110162,calderas de gas
-11,110163,lámparas de gas
-11,110165,generadores de vapor que no sean partes de máquinas
-11,110166,lámparas germicidas para purificar el aire
-11,110167,aparatos y máquinas de hielo
-11,110168,neveras portátiles eléctricas
-11,110168,heladeras portátiles eléctricas
-11,110169,globos de lámparas
-11,110170,placas calentadoras
-11,110171,tostadores de pan
-11,110172,parrillas [utensilios de cocción]
-11,110172,aparatos para tostar
-11,110173,incineradores
-11,110174,aparatos de ionización para el tratamiento del aire o del agua
-11,110175,fuentes de agua ornamentales
-11,110176,lámparas de laboratorio
-11,110177,instalaciones para enfriar la leche
-11,110178,pasteurizadores
-11,110179,lámparas de aceite
-11,110180,lámparas de rayos ultravioleta que no sean para uso médico
-11,110182,lámparas de seguridad
-11,110183,reflectores de lámparas
-11,110185,farolillos
-11,110185,lampiones
-11,110186,lavabos
-11,110186,lavamanos
-11,110188,instalaciones para enfriar líquidos
-11,110189,tubos luminosos de alumbrado
-11,110190,filamentos de magnesio [iluminación]
-11,110191,torrefactores de malta
-11,110192,lámparas de minero
-11,110193,instalaciones para el tratamiento de combustibles nucleares y moderadores nucleares
-11,110194,válvulas reguladoras de nivel para depósitos
-11,110194,válvulas reguladoras de nivel para tanques [depósitos]
-11,110195,luces eléctricas para árboles de Navidad
-11,110196,números luminosos para casas
-11,110197,quemadores oxhídricos
-11,110198,radiadores [calefacción]
-11,110199,quemadores de aceite
-11,110199,quemadores de fueloil
-11,110200,faros para vehículos
-11,110201,placas de calefacción
-11,110202,proyectores de luz
-11,110203,instalaciones de polimerización
-11,110204,cocinas profesionales [aparatos]
-11,110205,purgadores de aire no automáticos para instalaciones de calefacción de vapor
-11,110206,aparatos y máquinas para purificar el agua
-11,110207,aparatos y máquinas para purificar el aire
-11,110208,torres de refinado para la destilación
-11,110209,instalaciones y máquinas de enfriamiento
-11,110210,hornillos
-11,110210,anafes
-11,110212,reflectores para vehículos
-11,110213,aparatos e instalaciones de refrigeración
-11,110214,aparatos e instalaciones de enfriamiento
-11,110215,registros de tiro [calefacción]
-11,110215,reguladores de tiro [calefacción]
-11,110216,accesorios de regulación para aparatos y conducciones de agua o gas
-11,110217,accesorios de seguridad para aparatos y conducciones de agua o gas
-11,110218,grifos*
-11,110219,arandelas para grifos de agua
-11,110220,asadores
-11,110221,aparatos e instalaciones sanitarias
-11,110222,aparatos e instalaciones de secado
-11,110223,secamanos para lavabos
-11,110224,serpentines [partes de instalaciones de destilación, calefacción o enfriamiento]
-11,110225,ventiladores [partes de instalaciones de aire acondicionado]
-11,110226,esterilizadores
-11,110227,instalaciones enfriadoras de tabaco
-11,110228,tostadores de tabaco
-11,110229,aparatos de iluminación para vehículos
-11,110230,aparatos de torrefacción
-11,110230,tostadores
-11,110231,instalaciones automáticas para transportar ceniza
-11,110232,instalaciones de producción de vapor
-11,110233,aparatos e instalaciones de ventilación [aire acondicionado]
-11,110234,instalaciones de ventilación [climatización] para vehículos
-11,110235,tazas de inodoro
-11,110235,tazas de váter
-11,110236,asientos de inodoro
-11,110236,asientos de váter [inodoro]
-11,110237,pantallas de lámpara
-11,110238,portapantallas para lámparas
-11,110239,grifos mezcladores para tuberías de agua
-11,110240,accesorios de regulación y seguridad para conductos de gas
-11,110241,accesorios de regulación y seguridad para aparatos de agua
-11,110242,acumuladores de vapor
-11,110243,aparatos e instalaciones para ablandar el agua
-11,110244,campanas de ventilación para laboratorios
-11,110245,esterilizadores de aire
-11,110246,alambiques*
-11,110247,mecheros de alcohol
-11,110247,quemadores de alcohol
-11,110249,dispositivos antideslumbrantes para vehículos [accesorios para lámparas]
-11,110249,dispositivos antiencandilantes para vehículos [accesorios para lámparas]
-11,110250,dispositivos calentadores antiescarcha para vehículos
-11,110251,apliques para mecheros de gas
-11,110251,apliques para quemadores de gas
-11,110252,instalaciones de suministro de agua
-11,110253,reactores nucleares
-11,110254,ollas a presión eléctricas
-11,110254,ollas exprés eléctricas
-11,110256,luces para automóviles
-11,110257,calientabiberones eléctricos
-11,110258,gofreras eléctricas
-11,110258,barquilleros [moldes para hacer barquillos] eléctricos
-11,110258,moldes de hierro eléctricos para pastelería
-11,110259,accesorios de regulación y seguridad para aparatos de gas
-11,110261,cafeteras de filtro eléctricas
-11,110262,cafeteras eléctricas
-11,110263,farolas
-11,110264,humeros para calderas de calefacción
-11,110265,barbacoas
-11,110266,freidoras eléctricas
-11,110267,chimeneas para viviendas
-11,110268,bombas de calor
-11,110269,colectores solares térmicos [calefacción]
-11,110270,hornos solares
-11,110271,aparatos de bronceado
-11,110271,camas solares
-11,110272,aparatos o instalaciones de descarga de agua
-11,110273,alimentadores de calderas de calefacción
-11,110274,refrigeradores
-11,110274,frigoríficos
-11,110275,aparatos de desodorización que no sean para uso personal
-11,110276,aparatos de toma de agua
-11,110277,aparatos para depurar el aceite
-11,110278,aparatos de fumigación que no sean para uso médico
-11,110279,soportes de carga de hornos
-11,110280,calentadores de bolsillo
-11,110291,bañeras de hidromasaje
-11,110292,aparatos de cromatografía para uso industrial
-11,110293,filamentos eléctricos calentadores
-11,110294,condensadores de gas que no sean partes de máquinas
-11,110296,almohadillas electrotérmicas que no sean para uso médico
-11,110297,instalaciones de sauna
-11,110298,cabinas de ducha
-11,110299,fregaderos
-11,110300,vaporizadores faciales [saunas]
-11,110301,urinarios
-11,110302,bolsas de agua caliente
-11,110303,hervidores eléctricos
-11,110304,calientacamas
-11,110305,mantas eléctricas que no sean para uso médico
-11,110305,cobertores eléctricos que no sean para uso médico
-11,110305,cobijas eléctricas que no sean para uso médico
-11,110306,calentadores de cama
-11,110307,aparatos de filtración para acuarios
-11,110308,aparatos de calefacción para acuarios
-11,110309,luces para iluminar acuarios
-11,110310,alfombras electrotérmicas
-11,110311,hornos dentales
-11,110312,yogurteras eléctricas
-11,110312,aparatos eléctricos para hacer yogur
-11,110313,depósitos de expansión para instalaciones de calefacción central
-11,110314,campanas extractoras para cocinas
-11,110315,ventiladores eléctricos para uso personal
-11,110316,secadoras de ropa eléctricas
-11,110317,hornos de microondas [aparatos de cocina]
-11,110318,aparatos de cloración para piscinas
-11,110318,aparatos de cloración para albercas de natación
-11,110318,aparatos de cloración para piletas de natación
-11,110319,válvulas termostáticas [partes de instalaciones de calefacción]
-11,110320,aparatos para producir chorros de hidromasaje
-11,110321,aparatos de deshidratación de residuos alimenticios
-11,110322,lámparas de buceo
-11,110322,lámparas de submarinismo
-11,110323,aspersores de riego por goteo [accesorios de riego]
-11,110325,cámaras blancas [instalaciones sanitarias]
-11,110326,piedras de lava para barbacoas
-11,110327,máquinas de riego para uso agrícola
-11,110328,hornos de microondas para uso industrial
-11,110329,hornos de pan
-11,110330,vitrinas frigoríficas
-11,110331,aparatos vaporizadores para planchar tejidos
-11,110332,máquinas para hacer pan
-11,110333,aparatos de iluminación con diodos electroluminiscentes [ledes]
-11,110333,aparatos de alumbrado con diodos electroluminiscentes [ledes]
-11,110334,aparatos para bañeras de hidromasaje
-11,110335,vitrinas calentadoras
-11,110336,ollas eléctricas multifuncionales
-11,110337,vaporeras eléctricas
-11,110338,prensas eléctricas para tortillas
-11,110339,aparatos para esterilizar libros
-11,110340,pistolas de aire caliente
-11,110341,fuentes de chocolate eléctricas
-11,110342,aparatos de desinfección para uso médico
-11,110343,armarios refrigeradores eléctricos para vino
-11,110344,guirnaldas de luces decorativas para fiestas
-11,110345,calcetines electrotérmicos
-11,110346,linternas frontales
-11,110346,linternas de cabeza
-11,110347,lámparas de manicura
-11,110348,máquinas de cocción al vacío eléctricas
-11,110349,generadores de microburbujas para bañeras
-11,110350,aparatos de calentamiento y refrigeración para la distribución de bebidas calientes y frías
-11,110351,prendas de vestir electrotérmicas
-11,110352,máquinas eléctricas de uso doméstico para la preparación de pasteles de arroz molido
-11,110353,mechas especiales para estufas de petróleo
-11,110354,placas de cocción eléctricas
-11,110355,faroles de vela
-11,110356,freidoras de aire caliente
-11,110357,máquinas para preparar helados cremosos
-11,110358,luces indicadoras de dirección para bicicletas
-11,110359,refrigeradores, aparatos de enfriamiento y congeladores para almacenamiento médico
-11,110360,lámparas de curado que no sean para uso médico
-11,110361,sistemas de cultivo hidropónico
-11,110362,recipientes calorífugos eléctricos
-11,110363,deshidratadores eléctricos de alimentos
-11,110364,calentadores de manos alimentados por USB
-11,110365,calentadores de tazas alimentados por USB
-11,110366,cuscuseras eléctricas
-11,110367,lámparas de pie
-11,110368,cazuelas de tajín eléctricas
-11,110369,proyectores de luces
-11,110370,máquinas de niebla
-11,110371,aparatos e instalaciones de calefacción por suelo radiante
-11,110371,aparatos e instalaciones de calefacción por piso radiante
-11,110372,humidificadores
-11,110373,máquinas eléctricas para elaborar leche de soja
-11,110374,cápsulas de café, vacías, para cafeteras eléctricas
-11,110375,dispensadores de bebidas calientes eléctricos
-11,110376,deshumidificadores
+class|name
+11|Accesorios de regulación para aparatos y conducciones de agua o gas
+11|Ahumadores de barbacoa
+11|Aires acondicionados de ventana para uso industrial
+11|Alcachofas de ducha
+11|Alfombras electrotérmicas
+11|Almohadillas de calefacción eléctricas, que no sean para tratamiento médico
+11|Altos hornos para uso industrial
+11|Antorchas eléctricas de iluminación
+11|Aparatos de aire acondicionado para sellado de ventilación
+11|Aparatos de aire acondicionado por inducción local para uso industrial
+11|Aparatos de alumbrado eléctricos
+11|Aparatos de calefacción de aire caliente para uso industrial
+11|Aparatos de calefacción de pavimentos
+11|Aparatos de calefacción para acuarios
+11|Aparatos de calefacción por agua caliente para uso industrial
+11|Aparatos de calefacción por vapor para uso industrial
+11|Aparatos de climatización para uso industrial
+11|Aparatos de cromatografía para uso industrial
+11|Aparatos de descongelación para vehículos
+11|Aparatos de desinfección para billetes de banco
+11|Aparatos de destilación
+11|Aparatos de filtración para acuarios
+11|Aparatos de iluminación de pantalla plana
+11|Aparatos de iluminación para vehículos
+11|Aparatos de ionización para tratar el aire
+11|Aparatos de purificación de agua
+11|Aparatos de purificación de aire instalados en vehículos
+11|Aparatos de purificación y filtración de agua
+11|Aparatos de secado de manos eléctricos para baños
+11|Aparatos de secado de uñas mediante led
+11|Aparatos desalinizadores de agua
+11|Aparatos desinfectantes de lavavajillas para uso industrial
+11|Aparatos e instalaciones de aire acondicionado
+11|Aparatos e instalaciones de refrigeración
+11|Aparatos e instalaciones para ablandar el agua
+11|Aparatos e instrumentos de aire acondicionado, refrigeración del aire y ventilación
+11|Aparatos eléctricos de calor para baños de cera de parafina, que no sean para uso médico
+11|Aparatos eléctricos japoneses para calentar las piernas para fines domésticos (kotatsu eléctricos)
+11|Aparatos eléctricos para cocer huevos
+11|Aparatos eléctricos para purificar el agua de bañeras para uso doméstico
+11|Aparatos para calentar espacios
+11|Aparatos para enfriar bebidas
+11|Aparatos para filtrar el agua
+11|Aparatos para filtrar el agua potable
+11|Aparatos para la generación de vapor
+11|Aparatos para la purificación de agua para uso industrial
+11|Aparatos para purificar el agua del grifo
+11|Aparatos para purificar el aire
+11|Aparatos para secar de manos libres
+11|Aparatos para secar el forraje
+11|Aparatos purificadores de aguas residuales
+11|Aparatos y máquinas de hielo
+11|Aparatos y máquinas para purificar el aire
+11|Apliques de luces por infrarrojos
+11|Arañas de luces
+11|Arandelas para grifos de agua
+11|Armarios frigoríficos
+11|Arroceras eléctricas
+11|Arroceras para uso industrial
+11|Asadores de carbón para uso doméstico
+11|Asadores de pescado
+11|Asadores giratorios eléctricos
+11|Asadores para hornos de cocina
+11|Asadores y parrillas de asador
+11|Asientos de inodoro para uso con fuentes de baño estilo japonés
+11|Asientos de retrete para niños
+11|Aspersores de riego
+11|Autoclaves eléctricas
+11|Bandejas de ducha
+11|Bañeras
+11|Bañeras de ducha
+11|Bañeras de entrada lateral para personas con discapacidad física
+11|Bañeras de hidromasaje
+11|Bañeras y bandejas de ducha
+11|Baños de asiento
+11|Baños de pies eléctricos
+11|Baños eléctricos portátiles para los pies
+11|Barras quimioluminiscentes (luces)
+11|Bases de ducha
+11|Bases para lámparas
+11|Bidés
+11|Bolas de cisternas de baño
+11|Bolas luminosas para discotecas
+11|Bolsas de agua caliente eléctricas
+11|Bolsas de agua para calentar camas
+11|Bombillas de iluminación
+11|Bombillas de iluminación en miniatura
+11|Bombillas de iluminación halógena
+11|Bombillas de iluminación LED
+11|Bombillas fluorescentes
+11|Cafeteras eléctricas
+11|Cafeteras eléctricas para uso doméstico
+11|Calderas de baño
+11|Calderas de calefacción
+11|Calderas para instalaciones de calefacción
+11|Calefactores halógenos
+11|Calefactores radiantes eléctricos (para uso doméstico)
+11|Calentadores continuos
+11|Calentadores de agua
+11|Calentadores de agua por bombeo eólico
+11|Calentadores de agua por inducción
+11|Calentadores de bebidas eléctricos
+11|Calentadores de cama,
+11|Calentadores de cocina no eléctricos de uso doméstico
+11|Calentadores de gas para agua de uso doméstico
+11|Calentadores de inmersión
+11|Calentadores de pies eléctricos
+11|Calentadores de tazas eléctricos
+11|Calentadores eléctricos de bolsillo para calentar las manos
+11|Calentadores eléctricos para toallitas húmedas para bebés
+11|Calentadores para agua de alimentación para uso industrial
+11|Calentadores para piscinas
+11|Calentadores para platos
+11|Calentadores por convección
+11|Calentadores solares para agua
+11|Calienta biberones eléctricos
+11|Calientapiés eléctricos para uso personal
+11|Calientaplatos
+11|Calientaplatos eléctricos
+11|Camas de bronceado
+11|Campanas extractoras de humos para uso doméstico
+11|Campanas extractoras para cocinas
+11|Candelabros eléctricos
+11|Cazuelas eléctricas
+11|Chorros para bañeras de hidromasaje
+11|Cocinas a gas (calefactores para uso doméstico)
+11|Cocinas a leña
+11|Cocinas de combustión lenta (de uso doméstico)
+11|Cocinas de fideos ramen eléctricas
+11|Cocinas de gas
+11|Cocinas eléctricas
+11|Colectores solares para calefacción
+11|Congeladores
+11|Congeladores criogénicos
+11|Congeladores eléctricos (para uso doméstico)
+11|Congeladores eléctricos (para uso industrial)
+11|Contenedores frigoríficos para el transporte
+11|Convectores de calor
+11|Cubículos de ducha y baño
+11|Cubiertas protectoras de grifos de bañera para prevención de accidentes de niños
+11|Cúpulas de refrigeración
+11|Depósitos de descarga de agua
+11|Depuradores de aire para automóviles
+11|Desempañadores para vehículos
+11|Deshumidificadores para uso doméstico
+11|Deshumidificadores para uso industrial
+11|Destiladoras para procesamiento químico
+11|Dispositivos de iluminación
+11|Dispositivos de iluminación para vitrinas
+11|Dispositivos de riego agrícola
+11|Dispositivos para el enfriar el aire
+11|Duchas
+11|Duchas de emergencia
+11|Duchas de mano
+11|Duchas y cabinas de ducha
+11|Elementos calefactores
+11|Enfriadores de aire portátiles por evaporación
+11|Enfriadores de espacio eléctricos (para uso doméstico)
+11|Estaciones de lavado de ojos de emergencia
+11|Esterilizadores de agua
+11|Esterilizadores de aire
+11|Esterilizadores de inodoros mediante rayos uva para uso doméstico
+11|Esterilizadores de leche
+11|Esterilizadores de platos
+11|Esterilizadores de zapatos con fines domésticos
+11|Esterilizadores para cepillos de dientes
+11|Esterilizadores ultrasónicos de uso doméstico
+11|Estufas de aceite (calefactores de uso doméstico)
+11|Estufas de carbón para calefacción de ambientes para uso doméstico
+11|Estufas de cocina de aceite para uso doméstico
+11|Estufas de cocina eléctricas para uso doméstico
+11|Estufas de gas
+11|Estufas de queroseno
+11|Estufas japonesas de carbón para uso doméstico (hibachi)
+11|Evaporadores de refrigeración
+11|Evaporadores para aires acondicionados
+11|Evaporadores para procesamiento químico
+11|Extractores de aire
+11|Extractores de humo
+11|Farolas
+11|Faroles de alumbrado
+11|Faroles de vela
+11|Farolillos chinos eléctricos
+11|Faros para automóviles
+11|Faros para vehículos
+11|Filtros de agua
+11|Filtros de agua del grifo de uso doméstico
+11|Filtros de aire para campanas extractoras
+11|Filtros de aire para sistemas de climatización
+11|Filtros de aire para unidades de aire acondicionado
+11|Filtros para agua potable
+11|Filtros para aparatos de iluminación
+11|Focos delanteros para automóviles
+11|Focos para su uso en vehículos
+11|Fogones portátiles
+11|Fosas sépticas
+11|Fregaderos de cocina
+11|Freidoras eléctricas
+11|Freidoras eléctricas sin aceite
+11|Freidoras industriales
+11|Fuentes de agua
+11|Fuentes de agua ornamentales
+11|Generadores nucleares
+11|Grifos
+11|Grifos automáticos
+11|Grifos de agua
+11|Grifos economizadores de agua
+11|Grifos monomando para fregaderos
+11|Grifos para lavabos
+11|Hervidores de huevo eléctricos
+11|Hervidores eléctricos
+11|Hervidores plegables, eléctricos
+11|Hornos calentadores para uso industrial
+11|Hornos de calcinación para uso industrial
+11|Hornos de carbonización para uso industrial
+11|Hornos de cocina de gas para uso doméstico
+11|Hornos de cocina de inducción
+11|Hornos de cocina eléctricos para uso doméstico
+11|Hornos de cocina japoneses (kamado)
+11|Hornos de cocina para uso doméstico
+11|Hornos de cocina para uso industrial
+11|Hornos de convección
+11|Hornos de foso para uso industrial
+11|Hornos de fundición para uso industrial
+11|Hornos de microondas
+11|Hornos de microondas (aparatos de cocina)
+11|Hornos de microondas para uso doméstico
+11|Hornos de microondas para uso industrial
+11|Hornos de pan
+11|Hornos de recalentamiento
+11|Hornos dentales
+11|Hornos generadores de gas (para uso industrial)
+11|Hornos japoneses de carbón para cocinar con fines domésticos (shichirin)
+11|Hornos para fundir metales
+11|Hornos para la industria química y de fabricación de vidrios
+11|Hornos para recuperar chatarra de metales
+11|Hornos para uso industrial
+11|Hornos refractarios
+11|Hornos rotatorios para uso industrial
+11|Humeros de chimenea
+11|Humidificadores
+11|Humidificadores con generador de aniones
+11|Humidificadores con USB para uso doméstico
+11|Humidificadores para uso industrial
+11|Iluminadores infrarrojos
+11|Incineradores de basura
+11|Incineradores de basura para uso doméstico
+11|Incineradores de basura para uso industrial
+11|Incineradores de residuos
+11|Inodoros
+11|Inodoros ahorradores de agua
+11|Inodoros con sistema de chorro de agua
+11|Instalaciones de aire acondicionado
+11|Instalaciones de aire acondicionado central para uso industrial
+11|Instalaciones de aire acondicionado para automóviles
+11|Instalaciones de aire acondicionado para vehículos
+11|Instalaciones de calefacción
+11|Instalaciones de calefacción para vehículos
+11|Instalaciones de climatización para vehículos
+11|Instalaciones de depuración de agua
+11|Instalaciones de depuración de aguas residuales
+11|Instalaciones de filtrado de aire
+11|Instalaciones de humectación ambiental
+11|Instalaciones de iluminación para vehículos
+11|Instalaciones de producción de vapor
+11|Instalaciones de sauna
+11|Instalaciones purificadoras de aguas residuales
+11|Intercambiadores de calor para procesamiento químico
+11|Ionizadores de agua para uso doméstico
+11|Jarras calentadas eléctricamente
+11|Lámparas (aparatos de iluminación)
+11|Lámparas de bicicleta
+11|Lámparas de buceo
+11|Lámparas de descarga y sus partes
+11|Lámparas de dínamo para vehículos
+11|Lámparas de escritorio
+11|Lámparas de gas
+11|Lámparas de lectura
+11|Lámparas de mercurio
+11|Lámparas de papel portátiles (chochin)
+11|Lámparas de pie de papel (andon)
+11|Lámparas de rayos solares
+11|Lámparas de rayos ultravioleta que no sean para uso médico
+11|Lámparas de seguridad LED
+11|Lámparas de seguridad para uso subterráneo
+11|Lámparas de suelo
+11|Lámparas de techo
+11|Lámparas de vapor de metal halógenas de rayos ultravioletas
+11|Lámparas descendentes
+11|Lámparas eléctricas
+11|Lámparas estroboscópicas (para efectos de iluminación)
+11|Lámparas fluorescentes
+11|Lámparas germicidas para purificar el aire
+11|Lámparas halógenas
+11|Lámparas incandescentes
+11|Lámparas infrarrojas
+11|Lámparas LED
+11|Lámparas para tiendas de campaña
+11|Lámparas para uso en exteriores
+11|Lámparas ultravioletas utilizadas para acuarios
+11|Lavacabezas para su uso en peluquerías
+11|Limpiadores de vapor de uso doméstico
+11|Linternas (lámparas de mano)
+11|Linternas de bolsillo
+11|Linternas eléctricas
+11|Luces de arco de carbono (klieg)
+11|Luces de freno de vehículos
+11|Luces decorativas para su uso en interiores
+11|Luces eléctricas nocturnas
+11|Luces indicadoras de dirección para automóviles
+11|Luces LED de paisajismo
+11|Luces LED subacuáticas
+11|Luces para iluminar acuarios
+11|Luces para la decoración festiva
+11|Luces para leer
+11|Luces para vehículos
+11|Luces traseras para vehículos
+11|Luminarias
+11|Luminarias de LED
+11|Mandos para grifos
+11|Mantas eléctricas para uso doméstico
+11|Mantas eléctricas que no sean para uso médico
+11|Máquinas de café expreso eléctricas
+11|Máquinas de enfriado de bebidas y dispensadores de hielo
+11|Máquinas de filtrado de aire industriales
+11|Máquinas de hielo
+11|Máquinas de para uso agrícola
+11|Máquinas de secado para la agricultura
+11|Máquinas frigoríficas
+11|Máquinas para hacer cubitos de hielo
+11|Máquinas para hacer pan
+11|Máquinas para la purificación del agua
+11|Máquinas para purificar gas
+11|Máquinas productoras de vapor
+11|Mecanismos de suspensión para lámparas
+11|Mecheros de gas
+11|Mecheros de lámparas
+11|Neveras de bebidas para su uso en automóviles
+11|Olla arrocera eléctrica
+11|Ollas de cocina eléctricas
+11|Ollas de inducción electromagnética para uso doméstico
+11|Ollas de inducción electromagnética para uso industrial
+11|Palancas (pulsadores) de cisterna de inodoros
+11|Paneles para duchas
+11|Panificadoras eléctricas
+11|Pantallas de lámparas
+11|Parrillas de asador
+11|Parrillas de gas
+11|Parrillas eléctricas
+11|Parrillas eléctricas de exterior
+11|Percoladores de café eléctricos
+11|Placas calentadoras
+11|Placas calentadoras para uso doméstico
+11|Placas de cocción eléctricas
+11|Plafones (lámparas)
+11|Planchas eléctricas (aparatos de cocina)
+11|Planchas sandwicheras eléctricas
+11|Plataformas de ducha
+11|Proyectores de luz
+11|Purificadores de agua de uso doméstico
+11|Purificadores de aire
+11|Purificadores de aire de uso doméstico
+11|Purificadores de aire para cochecitos
+11|Purificadores de aire para uso doméstico
+11|Purificadores de aire para uso industrial
+11|Purificadores de aire robóticos para uso doméstico
+11|Purificadores eléctricos de agua de uso doméstico
+11|Radiadores (calefacción)
+11|Radiadores de calefacción central
+11|Radiadores eléctricos
+11|Radiadores eléctricos para calefaccionar edificios
+11|Radiadores para aires acondicionados industriales
+11|Reactores nucleares (pilas atómicas)
+11|Reflectores de bicicleta
+11|Reflectores para vehículos
+11|Refrigeradores de gas
+11|Refrigeradores eléctricos para uso doméstico
+11|Refrigeradores para congelar de uso doméstico
+11|Refrigeradores para cosméticos
+11|Refrigeradores-congeladores
+11|Reguladores de temperatura automáticos para radiadores de calefacción central
+11|Rociadores de ducha
+11|Salamandras (aparatos de calefacción)
+11|Samovares eléctricos
+11|Sandwicheras eléctricas
+11|Sartenes eléctricas
+11|Secador de aire caliente eléctrico portátil
+11|Secadoras de cabello para uso doméstico
+11|Secadoras de cabello para uso en salón de belleza
+11|Secadoras de zapatos eléctricas para uso doméstico
+11|Secadoras eléctricas de ropa
+11|Secadores de lavandería, eléctricos o de uso doméstico
+11|Secadores de pelo eléctricos
+11|Sistemas de iluminación con focos sobre rieles
+11|Surtidores de agua para bañeras de hidromasaje
+11|Tapones de radiador
+11|Tazas de inodoro
+11|Teteras (eléctricas)
+11|Teteras eléctricas inalámbricas
+11|Toalleros de calefacción eléctrica
+11|Torrefactores de café
+11|Torres de iluminación móviles
+11|Tostadoras de sándwiches eléctricas
+11|Tostadores eléctricos para uso doméstico
+11|Tubos de calderas de calefacción
+11|Tubos de descarga eléctrica para la iluminación
+11|Tubos de lámparas
+11|Tubos de lámparas fluorescentes
+11|Tubos fluorescentes para iluminación
+11|Unidades de destilación de agua
+11|Urinarios
+11|Válvulas termostáticas como partes de instalaciones de calefacción
+11|Vaporeras de alimentos eléctricas
+11|Vaporizador eléctrico para verduras
+11|Vaporizadores para prendas de vestir
+11|Velas para iluminación
+11|Velas sin flama
+11|Ventiladores de cielo
+11|Ventiladores de techo con luces integradas
+11|Ventiladores de ventana eléctricos
+11|Ventiladores eléctricos
+11|Ventiladores eléctricos con dispositivos de enfriamiento por evaporación
+11|Ventiladores eléctricos de uso personal
+11|Ventiladores eléctricos para uso doméstico
+11|Ventiladores eléctricos sin aspas
+11|Ventiladores para aparatos de aire acondicionado
+11|Ventiladores para uso industrial
+11|Vitrinas frigoríficas
+11|Woks eléctricos
+11|Yogurteras eléctricas

@@ -1,294 +1,657 @@
-class,reference_id,name
-3,030001,adhesivos para postizos capilares
-3,030002,piedras para suavizar
-3,030003,productos para afilar
-3,030003,productos para amolar
-3,030005,piedras para el afeitado [astringentes]
-3,030005,piedras astringentes para después del afeitado
-3,030006,aceite de almendras
-3,030007,jabón de almendras
-3,030008,ámbar [productos de perfumería]
-3,030009,almidón para dar brillo
-3,030009,almidón de lavandería para dar brillo
-3,030010,almidón [apresto]
-3,030010,almidón de apresto [lavandería]
-3,030010,engrudo [almidón]
-3,030011,rojo para pulir
-3,030011,rojo de joyero
-3,030012,jabones*
-3,030013,jabones para avivar los colores de materias textiles
-3,030014,añil de lavandería
-3,030014,añil para azulear la ropa
-3,030014,azulete
-3,030015,esencia de badiana
-3,030016,preparaciones cosméticas para el baño
-3,030017,jabón de afeitar
-3,030018,lápices de labios [pintalabios]
-3,030018,pintalabios
-3,030019,bastoncillos de algodón para uso cosmético
-3,030019,hisopos para uso cosmético
-3,030020,mascarillas de belleza
-3,030021,esencia de bergamota
-3,030022,blanco de España
-3,030022,blanco de tiza
-3,030023,crema para aclarar la piel
-3,030025,productos blanqueadores para el cuero
-3,030026,sales blanqueadoras
-3,030027,soda para blanquear
-3,030027,sosa para blanquear
-3,030028,productos blanqueadores [lavandería]
-3,030028,productos blanqueadores para lavar la ropa
-3,030029,productos de glaseado para lavar la ropa
-3,030030,maderas aromáticas
-3,030031,enjuagues bucales que no sean para uso médico
-3,030032,esmaltes de uñas
-3,030032,lacas de uñas
-3,030033,productos de maquillaje
-3,030034,lociones capilares*
-3,030035,carburos metálicos [abrasivos]
-3,030036,carburo de silicio [abrasivo]
-3,030037,aceites esenciales de cedro
-3,030038,cenizas volcánicas para limpiar
-3,030039,cremas para el calzado
-3,030040,colorantes para el cabello
-3,030040,tintes para el cabello
-3,030041,preparaciones para ondular el cabello
-3,030042,pestañas postizas
-3,030043,cosméticos para pestañas
-3,030045,preparaciones para pulir
-3,030046,cera para el calzado
-3,030047,encáusticos
-3,030047,productos para pulir muebles y pisos
-3,030047,productos para pulir muebles y suelos
-3,030048,productos para dar brillo
-3,030049,cera de zapatero
-3,030050,pez de zapatero
-3,030052,cera para el bigote
-3,030053,cera para parqué
-3,030054,cera para pulir
-3,030055,cera de sastre
-3,030056,aceites esenciales de limón
-3,030058,agua de Colonia
-3,030060,colorantes de tocador
-3,030060,tintes de tocador
-3,030061,conservantes para el cuero [betunes]
-3,030062,corindón [abrasivo]
-3,030063,cosméticos para animales
-3,030064,neceseres de cosmética
-3,030065,cosméticos
-3,030066,algodón para uso cosmético
-3,030066,guata para uso cosmético
-3,030067,tiza para limpiar
-3,030068,quitamanchas
-3,030069,lápices para uso cosmético
-3,030070,cremas para pulir
-3,030071,cremas cosméticas
-3,030072,soda [cenizas] para limpiar
-3,030072,sosa [cenizas] para limpiar
-3,030073,pastas para suavizadores de navajas de afeitar
-3,030074,cremas para el cuero
-3,030074,ceras para el cuero
-3,030075,detergentes que no sean para procesos de fabricación ni para uso médico
-3,030076,soluciones decapantes
-3,030077,productos desengrasantes que no sean para procesos de fabricación
-3,030078,desmaquilladores
-3,030079,dentífricos*
-3,030081,desincrustantes para uso doméstico
-3,030082,diamantina [abrasivo]
-3,030083,productos antiestáticos para uso doméstico
-3,030084,papel de esmeril
-3,030085,productos para quitar lacas
-3,030086,tela de esmeril
-3,030087,productos para quitar tintes
-3,030088,productos para quitar barnices
-3,030089,lejía
-3,030090,agua de lavanda
-3,030091,aguas perfumadas
-3,030092,aguas de tocador
-3,030093,corteza de quillay para lavar
-3,030094,esmeril
-3,030095,incienso*
-3,030096,productos depilatorios
-3,030096,depilatorios
-3,030097,cera depilatoria
-3,030098,productos para remojar la ropa
-3,030099,esencias etéreas
-3,030100,aceites esenciales
-3,030100,aceites etéreos
-3,030101,extractos de flores [productos de perfumería]
-3,030102,maquillaje
-3,030104,productos de limpieza
-3,030105,bases para perfumes de flores
-3,030106,productos de fumigación [perfumes]
-3,030107,aromatizantes de pastelería [aceites esenciales]
-3,030107,saborizantes de pastelería [aceites esenciales]
-3,030108,aceite de gaulteria
-3,030109,jalea de petróleo para uso cosmético
-3,030110,geraniol
-3,030111,grasas para uso cosmético
-3,030112,peróxido de hidrógeno para uso cosmético
-3,030113,heliotropina
-3,030114,aceites para uso cosmético
-3,030115,aceite de jazmín
-3,030116,aceite de lavanda
-3,030117,aceites de limpieza
-3,030118,aceites de perfumería
-3,030118,aceites para perfumes y fragancias
-3,030119,aceite de rosas
-3,030120,aceites de tocador
-3,030121,iononas [productos de perfumería]
-3,030122,lociones para uso cosmético
-3,030123,leches limpiadoras de tocador
-3,030124,preparaciones de lavandería
-3,030125,preparaciones de tocador*
-3,030126,líquidos limpiaparabrisas
-3,030127,productos para alisar [lavandería]
-3,030128,esencia de menta [aceite esencial]
-3,030129,menta para perfumería
-3,030131,cosméticos para las cejas
-3,030132,almizcle [producto de perfumería]
-3,030133,productos neutralizantes para permanentes
-3,030134,champús*
-3,030135,perfumes
-3,030136,uñas postizas
-3,030137,productos para el cuidado de las uñas
-3,030138,productos para limpiar papel pintado
-3,030138,productos para limpiar papel tapiz
-3,030139,papel para pulir
-3,030140,papel de lija
-3,030140,papel de vidrio [lija]
-3,030141,productos de perfumería
-3,030142,productos cosméticos para el cuidado de la piel
-3,030143,jabones antitranspirantes para los pies
-3,030144,piedras para pulir
-3,030145,piedra pómez
-3,030146,pomadas para uso cosmético
-3,030147,polvos de maquillaje
-3,030148,productos de afeitar
-3,030149,jabones desodorantes
-3,030150,productos para perfumar la ropa
-3,030150,bolsitas para perfumar la ropa
-3,030151,safrol
-3,030152,pastillas de jabón
-3,030153,lejía de soda
-3,030153,lejía de sosa
-3,030154,lápices de cejas
-3,030155,talco de tocador
-3,030156,tintes cosméticos
-3,030157,trementina para desengrasar
-3,030158,esencia de trementina para desengrasar
-3,030158,aceite de trementina para desengrasar
-3,030159,terpenos [aceites esenciales]
-3,030160,tela abrasiva
-3,030161,tela de vidrio [tela abrasiva]
-3,030162,productos antitranspirantes [artículos de tocador]
-3,030163,jabones antitranspirantes
-3,030164,trípoli para pulir
-3,030165,abrasivos*
-3,030166,papeles abrasivos
-3,030167,amoniaco [álcali volátil] [detergente]
-3,030167,álcali volátil [amoniaco] [detergente]
-3,030167,amoníaco [álcali volátil] [detergente]
-3,030168,piedras de alumbre [astringentes]
-3,030169,leche de almendras para uso cosmético
-3,030170,productos desoxidantes
-3,030171,preparaciones cosméticas para el bronceado de la piel
-3,030172,aromas [aceites esenciales]
-3,030173,aromatizantes para bebidas [aceites esenciales]
-3,030173,saborizantes para bebidas [aceites esenciales]
-3,030174,productos químicos de uso doméstico para avivar los colores [lavandería]
-3,030175,sales de baño que no sean para uso médico
-3,030176,tintes para la barba
-3,030177,preparaciones cosméticas adelgazantes
-3,030178,adhesivos para pestañas postizas
-3,030179,productos para quitar pinturas
-3,030180,desodorantes para personas o animales [productos de perfumería]
-3,030181,motivos decorativos para uso cosmético
-3,030181,calcomanías decorativas para uso cosmético
-3,030191,astringentes para uso cosmético
-3,030192,decolorantes para uso cosmético
-3,030193,suavizantes para la ropa
-3,030194,preparaciones para limpiar prótesis dentales
-3,030194,preparaciones para limpiar dentaduras postizas
-3,030195,preparaciones para desatascar desagües
-3,030196,champús para animales de compañía [preparaciones higiénicas no medicinales]
-3,030197,toallitas impregnadas de lociones cosméticas
-3,030198,preparaciones para pulir prótesis dentales
-3,030198,preparaciones para pulir dentaduras postizas
-3,030199,adhesivos [pegamentos] para uso cosmético
-3,030200,lociones para después del afeitado
-3,030201,lacas para el cabello
-3,030202,máscara de pestañas
-3,030203,popurrís aromáticos
-3,030204,productos en aerosol para refrescar el aliento
-3,030205,productos de limpieza en seco
-3,030206,decapantes para cera de parqué
-3,030207,cera antideslizante para suelos
-3,030207,cera antideslizante para pisos
-3,030208,líquidos antideslizantes para suelos
-3,030208,líquidos antideslizantes para pisos
-3,030209,aire comprimido enlatado para limpiar y quitar el polvo
-3,030210,geles blanqueadores para uso dental
-3,030211,paños de limpieza impregnados con detergente
-3,030212,preparaciones para dar brillo a las hojas de las plantas
-3,030213,varillas de incienso
-3,030214,agentes de secado para lavaplatos
-3,030214,agentes de secado para lavavajillas
-3,030215,productos para perfumar el ambiente
-3,030216,tiras para refrescar el aliento
-3,030217,desodorantes para animales de compañía
-3,030218,preparaciones de higiene íntima para uso sanitario o utilizadas como desodorantes
-3,030219,preparaciones de aloe vera para uso cosmético
-3,030220,geles de masaje que no sean para uso médico
-3,030221,brillos de labios
-3,030222,bálsamos que no sean para uso médico
-3,030223,champús en seco*
-3,030224,pegatinas decorativas para uñas
-3,030224,calcomanías decorativas para uñas
-3,030225,preparaciones con filtro solar
-3,030226,aceites esenciales de cidra
-3,030227,henna [tinte cosmético]
-3,030227,alheña [tinte cosmético]
-3,030228,betún para el calzado
-3,030229,estuches para pintalabios
-3,030229,estuches para lápices de labios
-3,030230,preparaciones para el baño que no sean para uso médico
-3,030231,acondicionadores para el cabello
-3,030232,preparaciones para alisar el cabello
-3,030233,toallitas impregnadas de preparaciones desmaquillantes
-3,030234,preparaciones de colágeno para uso cosmético
-3,030235,tiras blanqueadoras dentales
-3,030236,aromatizantes alimentarios [aceites esenciales]
-3,030236,saborizantes alimentarios [aceites esenciales]
-3,030237,preparaciones fito-cosméticas
-3,030238,preparaciones limpiadoras no medicinales para la higiene íntima
-3,030239,extractos de plantas para uso cosmético
-3,030240,quitaesmaltes
-3,030241,ceras para suelos
-3,030241,ceras para pisos
-3,030242,champús para animales [preparaciones higiénicas no medicinales]
-3,030243,preparaciones para baños oculares que no sean para uso médico
-3,030244,duchas vaginales para la higiene íntima o en cuanto desodorantes
-3,030245,preparaciones químicas de limpieza para uso doméstico
-3,030246,difusores de perfumes de ambiente con varillas
-3,030247,preparaciones blanqueadoras [decolorantes] para uso doméstico
-3,030248,velas de masaje para uso cosmético
-3,030249,productos cosméticos para niños
-3,030250,preparaciones de higiene personal para refrescar el aliento
-3,030251,toallitas para bebés impregnadas de preparaciones de limpieza
-3,030252,basma [tinte para uso cosmético]
-3,030253,parches de gel para los ojos de uso cosmético
-3,030254,purpurina para las uñas
-3,030254,brillantina para las uñas
-3,030254,escarcha para las uñas
-3,030255,agua micelar
-3,030256,pintura corporal para uso cosmético
-3,030257,pintura corporal de látex líquido para uso cosmético
-3,030258,pastas de dientes*
-3,030259,algodón impregnado de preparaciones desmaquillantes
-3,030260,toallitas atrapacolor para la ropa
-3,030261,toallitas antiestáticas para secadoras de ropa
-3,030262,purpurina corporal
-3,030262,brillantina corporal
-3,030262,escarcha corporal
-3,030263,cintas adhesivas de doble párpado
+class|name
+3|Ablandadores de cutículas (preparaciones)
+3|Aceite de amla con fines cosméticos
+3|Aceite de baño
+3|Aceite de bergamota
+3|Aceite de coco para uso cosmético
+3|Aceite de lavanda
+3|Aceite de malagueta de uso cosmético
+3|Aceite de menta (artículos de perfumería)
+3|Aceite de ricino para uso cosmético
+3|Aceite de rosa para uso cosmético
+3|Aceite fijador japonés para el cabello (bintsuke-abura)
+3|Aceite para masaje
+3|Aceites aromáticos
+3|Aceites aromáticos para el baño
+3|Aceites aromáticos usados para producir aromas al calentarse
+3|Aceites bronceadores
+3|Aceites bronceadores (cosméticos)
+3|Aceites bronceadores para uso cosmético
+3|Aceites cosméticos
+3|Aceites cosméticos para la epidermis
+3|Aceites de baño
+3|Aceites de baño para el cuidado del cabello
+3|Aceites de baño para uso cosmético
+3|Aceites de baño y sales de baño
+3|Aceites de bebé
+3|Aceites de limpieza
+3|Aceites de perfumería
+3|Aceites de tocador
+3|Aceites esenciales
+3|Aceites esenciales aromáticos
+3|Aceites esenciales como perfume para uso en lavandería
+3|Aceites esenciales de cidra
+3|Aceites esenciales naturales
+3|Aceites esenciales para aromaterapia
+3|Aceites esenciales para la fabricación de productos perfumados
+3|Aceites esenciales para uso doméstico
+3|Aceites esenciales para uso personal
+3|Aceites etéreos
+3|Aceites faciales
+3|Aceites para cutículas de uso cosmético
+3|Aceites para después del sol (cosméticos)
+3|Aceites para el acondicionamiento del cabello
+3|Aceites para el cabello
+3|Aceites para el cuerpo
+3|Aceites para el sol de uso cosmético
+3|Aceites para masaje
+3|Aceites para uso cosmético
+3|Aceites perfumados para la fabricación de preparaciones cosméticas
+3|Aceites y lociones bronceadoras
+3|Aclaradores del cabello
+3|Acondicionador para el cabello
+3|Acondicionadores labiales
+3|Acondicionadores para el cabello
+3|Acondicionadores para el cabello de bebés
+3|Acondicionadores para la cutícula
+3|Acondicionadores para la piel
+3|Adhesivos para fijar uñas postizas
+3|Adhesivos para pestañas postizas
+3|Adhesivos para pestañas postizas, cabello y uñas
+3|Adhesivos para postizos capilares
+3|Adhesivos para uso cosmético
+3|Aditivos de lavandería para ablandar el agua
+3|Agentes de enjuague para lavavajillas
+3|Agentes desparafinadores para limpieza
+3|Agentes y preparaciones de limpieza
+3|Agua de Colonia
+3|Agua de colonia que contiene aceite de serpiente
+3|Agua de lavanda
+3|Agua de perfume
+3|Agua de tocador
+3|Agua de tocador y agua de Colonia
+3|Aguas de Colonia
+3|Aguas de tocador
+3|Aire en lata a presión para finalidades de limpieza
+3|Algodón hidrófilo cosmético
+3|Algodón hidrófilo y bastoncillos de algodón para uso cosmético
+3|Algodón para uso cosmético
+3|Almidón de apresto (lavandería)
+3|Almohadillas de algodón impregnadas de preparados para desmaquillar
+3|Almohadillas de limpieza impregnadas con cosméticos
+3|Almohadillas de limpieza impregnadas con productos de tocador
+3|Ámbar gris
+3|Amoníaco para limpieza
+3|Añil de lavandería
+3|Añil para azulear la ropa
+3|Antitranspirantes
+3|Antitranspirantes para uso personal
+3|Antitranspirantes y desodorantes para uso personal
+3|Aromatizadores de la piel (cosméticos)
+3|Artículos de perfumería
+3|Astringentes para uso cosmético
+3|Bálsamo para después del afeitado
+3|Bálsamo para el cabello
+3|Bálsamo para labios
+3|Bálsamos labiales (no medicinales)
+3|Baños de burbujas
+3|Barnices de uñas
+3|Barnices de uñas para uso cosmético
+3|Barros cosméticos para el cuerpo
+3|Base de maquillaje
+3|Base líquida (mizu-oshiroi)
+3|Bastoncillos de algodón impregnados con preparaciones desmaquillantes
+3|Bastoncillos de algodón para uso cosmético
+3|Betunes para zapatos y botas
+3|Betunes y cremas para calzado
+3|Blanqueador para el cabello
+3|Blanqueadores para el cabello
+3|Bloqueadores solares a prueba de agua
+3|Bloques de alumbre para el afeitado
+3|Bolas de algodón para uso cosmético
+3|Bolas de lavado con detergente
+3|Bolsitas con fragancias
+3|Bolsitas para perfumar (sachets)
+3|Brillantina para uso cosmético
+3|Brillo para labios
+3|Brillos de labios
+3|Brillos de uñas
+3|Calcomanías para uñas
+3|Ceniza volcánica
+3|Cera antideslizante para suelos
+3|Cera de lavandería
+3|Cera de sastre
+3|Cera de zapatero
+3|Cera depilatoria
+3|Cera para calzado
+3|Cera para el bigote
+3|Cera para el cabello
+3|Cera para parqué
+3|Cera para pulir
+3|Ceras de masaje
+3|Ceras para el automóvil
+3|Champú de bebé
+3|Champú para alfombras
+3|Champús
+3|Champús en seco
+3|Champús para animales de compañía
+3|Champús para bebés
+3|Champús para el cabello
+3|Champús y acondicionadores para el cabello
+3|Cinta de doble faz para párpados
+3|Cintas para el blanqueado de dientes impregnadas con preparaciones para blanquear los dientes (cosméticos)
+3|Colonia
+3|Colonia para después del afeitado
+3|Colonias, perfumes y cosméticos
+3|Colorantes para el cabello
+3|Colorantes y tintes para el cabello
+3|Colores para las cejas
+3|Colorete
+3|Coloretes cosméticos
+3|Composiciones decapantes de pintura
+3|Composiciones decapantes de pintura, laca y barniz
+3|Compuestos pulidores de pisos
+3|Corrector facial
+3|Cosméticos
+3|Cosméticos para animales
+3|Cosméticos para las cejas
+3|Cosméticos para uñas
+3|Cosméticos que no sean medicinales
+3|Cosméticos y maquillaje
+3|Cosméticos y preparaciones cosméticas
+3|Crema de afeitar
+3|Crema de ducha
+3|Crema de manos
+3|Crema de noche
+3|Crema de retinol para uso cosmético
+3|Crema facial
+3|Crema hidratante para después del afeitado
+3|Crema no medicada para las ronchas del pañal
+3|Crema para aclarar la piel
+3|Crema para contorno de ojos
+3|Crema para la cutícula
+3|Crema para la piel
+3|Crema para manos
+3|Crema para zapatos y botas
+3|Cremas acondicionadoras de la piel para uso cosmético
+3|Cremas antiarrugas
+3|Cremas antienvejecimiento
+3|Cremas bronceadoras
+3|Cremas bronceadoras (cremas autobronceadoras)
+3|Cremas conservantes para el cuero
+3|Cremas cosméticas
+3|Cremas cosméticas para el cuidado de la piel
+3|Cremas de afeitar
+3|Cremas de belleza
+3|Cremas de belleza para el cuidado del cuerpo
+3|Cremas de belleza para la cara y el cuerpo
+3|Cremas de mano cosméticas
+3|Cremas de masaje cosméticas
+3|Cremas depilatorias
+3|Cremas exfoliantes
+3|Cremas limpiadoras (cosméticos)
+3|Cremas líquidas y sólidas para la piel
+3|Cremas nutritivas cosméticas
+3|Cremas para antes del afeitado
+3|Cremas para calzado
+3|Cremas para cutis claro
+3|Cremas para después del afeitado
+3|Cremas para después del sol
+3|Cremas para el cabello
+3|Cremas para el cuero
+3|Cremas para el cuerpo
+3|Cremas para el cuidado del cabello
+3|Cremas para la cara para uso cosmético
+3|Cremas para la cara y el cuerpo
+3|Cremas para la piel
+3|Cremas para la piel que no sean medicinales
+3|Cremas para los labios
+3|Cremas para peinar el cabello
+3|Cremas para protección solar
+3|Cremas para reducir la celulitis
+3|Cremas perfumadas
+3|Cremas reductoras de manchas de la piel
+3|Cremas reductoras de manchas de uso cosmético
+3|Cremas y betunes para zapatos
+3|Decapantes de pintura
+3|Decolorantes para el cabello
+3|Delineador
+3|Delineador de labios
+3|Delineador de ojos
+3|Delineadores de ojos
+3|Dentífricos en forma de goma de mascar
+3|Dentífricos en forma de pastillas sólidas
+3|Dentífricos ingeribles
+3|Dentífricos no medicinales
+3|Dentífricos y enjuagues bucales
+3|Depilatorios
+3|Desincrustantes para uso doméstico
+3|Desmaquilladores
+3|Desodorantes corporales (artículos de perfumería)
+3|Desodorantes para cuidado personal
+3|Desodorantes para uso personal
+3|Desodorantes para uso personal (artículos de perfumería)
+3|Desodorantes y antitranspirantes para uso personal
+3|Detergentes para lavandería
+3|Detergentes para lavar los platos
+3|Detergentes para lavavajillas
+3|Detergentes para tazas de inodoro
+3|Detergentes para uso doméstico
+3|Detergentes para vehículos
+3|Detergentes preparados de petróleo
+3|Detergentes sintéticos para ropa
+3|Disimuladores de ojeras
+3|Emolientes cutáneos
+3|Emolientes para el cabello
+3|Emulsiones para después del afeitado
+3|Endurecedores de uñas
+3|Enjuague bucal
+3|Enjuagues bucales
+3|Enjuagues bucales que no sean medicinales
+3|Enjuagues para el cabello
+3|Enjuagues para el cabello (acondicionadores para el cabello)
+3|Esencias etéreas
+3|Esmaltes de uñas
+3|Espuma de afeitar
+3|Espuma de baño
+3|Espuma de baño para bebés
+3|Espuma de ducha y baño
+3|Exfoliante corporal
+3|Exfoliantes para la cara
+3|Fijadores de cabello
+3|Fluidos para lavar parabrisas
+3|Fragancias
+3|Fragancias en formato de recarga para dispensadores de aroma no eléctricos
+3|Fragancias para automóviles
+3|Fragancias y artículos de perfumería
+3|Gel de afeitar
+3|Gel de aloe vera para uso cosmético
+3|Gel de ducha
+3|Gel de ducha y baño
+3|Gel para cejas
+3|Gel para después del afeitado
+3|Gel para el cabello
+3|Gel para el peinado del cabello
+3|Gel para uñas
+3|Gel y mousse para el cabello
+3|Gelatina de alga para uso en lavandería (funori)
+3|Geles blanqueadores para uso dental
+3|Geles bronceadores (cosméticos)
+3|Geles de afeitar
+3|Geles de baño
+3|Geles de belleza
+3|Geles de ducha
+3|Geles limpiadores de inodoros
+3|Geles para después del sol (cosméticos)
+3|Geles para el cabello
+3|Geles para el peinado
+3|Geles para uso cosméticos
+3|Geles retardantes de la edad
+3|Geles y sales para baño y ducha que no sean para uso médico
+3|Glaseado del cabello
+3|Grasa para calzado
+3|Henna para uso cosmético
+3|Hidratantes para después del sol
+3|Hidratantes para el cabello
+3|Hidratantes para la piel
+3|Hierbas para el baño
+3|Hisopos para uso cosmético
+3|Incienso
+3|Jabón crema para cuerpo
+3|Jabón de afeitar
+3|Jabón de almendras
+3|Jabón de belleza
+3|Jabón de tocador
+3|Jabón en barra
+3|Jabón líquido
+3|Jabón líquido para lavandería
+3|Jabón para lavandería
+3|Jabón perfumado
+3|Jabones antitranspirantes
+3|Jabones antitranspirantes para los pies
+3|Jabones cosméticos
+3|Jabones de afeitar
+3|Jabones de baño
+3|Jabones de baño en forma líquida, solida o gel
+3|Jabones de tocador
+3|Jabones desodorantes
+3|Jabones en crema
+3|Jabones en polvo
+3|Jabones granulados
+3|Jabones líquidos
+3|Jabones líquidos de baño
+3|Jabones líquidos para manos y cara
+3|Jabones para el cuidado corporal
+3|Jabones para uso personal
+3|Jabones perfumados
+3|Jalea de petróleo para uso cosmético
+3|Labiales cremosos
+3|Labiales líquidos (cosméticos)
+3|Laca para el cabello
+3|Lacas de uñas
+3|Lacas para el cabello
+3|Lacas para el peinado del cabello
+3|Lacas y geles para el cabello
+3|Lápices cosméticos
+3|Lápices de cejas
+3|Lápices de labios (pintalabios)
+3|Lápices de maquillaje
+3|Lápices de ojos
+3|Lápices de rubor
+3|Lápices delineadores de ojos
+3|Lápices para uso cosmético
+3|Lápiz labial
+3|Leche de almendras para uso cosmético
+3|Leche hidratante
+3|Leche limpiadora
+3|Leche limpiadora facial
+3|Leche limpiadora para uso cosmético
+3|Leche para el cuerpo
+3|Leche para la cara y el cuerpo
+3|Leche para uso cosmético
+3|Leche y lociones para la cara
+3|Leche, gel, lociones y cremas desmaquillantes
+3|Leches bronceadoras (cosméticos)
+3|Leches de belleza
+3|Leches desmaquillantes
+3|Leches limpiadoras de tocador
+3|Leches para después del sol (cosméticos)
+3|Leches para el cuerpo
+3|Leches, geles y aceites para el bronceado y para después del sol (cosméticos)
+3|Limpiadores de alfombras
+3|Limpiadores de hornos
+3|Limpiadores de manos (preparaciones para limpieza de manos)
+3|Limpiadores en aerosol para refrescar protectores bucales
+3|Limpiadores faciales
+3|Limpiadores para la piel
+3|Líquidos antideslizantes para suelos
+3|Líquidos de limpieza en seco
+3|Líquidos limpiaparabrisas
+3|Líquidos para refrescar el aliento
+3|Loción facial
+3|Loción para el cabello
+3|Loción para la piel
+3|Loción para limpieza de la piel
+3|Loción tónica para cara, cuerpo y manos
+3|Lociones capilares
+3|Lociones colorantes para el cabello
+3|Lociones corporales
+3|Lociones cosméticas para el bronceado
+3|Lociones de afeitar
+3|Lociones de baño
+3|Lociones de belleza
+3|Lociones de mano
+3|Lociones de protección solar
+3|Lociones desmaquillantes
+3|Lociones para contorno de ojos
+3|Lociones para después del afeitado
+3|Lociones para después del sol
+3|Lociones para el blanqueado de dientes
+3|Lociones para el bronceado de la piel
+3|Lociones para el cuerpo
+3|Lociones para el cuidado de la cara y el cuerpo
+3|Lociones para el cuidado del cabello
+3|Lociones para el peinado
+3|Lociones para el sol de uso cosmético
+3|Lociones para fortalecer las uñas
+3|Lociones para la barba
+3|Lociones para la cara y el cuerpo
+3|Lociones para la piel
+3|Lociones para la reducción de la celulitis
+3|Lociones para permanentes
+3|Lociones para uso cosmético
+3|Lociones y cremas corporales perfumadas
+3|Maderas aromáticas
+3|Manteca de cacao con una finalidad cosmética
+3|Maquillaje
+3|Maquillaje base
+3|Maquillaje base cremoso
+3|Maquillaje de ojos
+3|Maquillaje oleoso para actores
+3|Maquillaje para cara y cuerpo
+3|Maquillajes base
+3|Máscara de pestañas
+3|Máscaras de barro cosméticas
+3|Máscaras de pestañas
+3|Máscaras para cabello
+3|Mascarillas cosméticas para el cuidado de la piel de las manos
+3|Mascarillas de belleza
+3|Mascarillas de belleza faciales
+3|Mascarillas de belleza para el cabello
+3|Mascarillas para cerrar los poros utilizadas como cosméticos
+3|Mascarillas para el cuidado de la piel de las manos
+3|Mascarillas para el cuidado de la piel de los pies
+3|Mechas que desprenden fragancia para perfumar habitaciones
+3|Mezclas personalizadas de aceites esenciales de uso en aromaterapia
+3|Mousse de afeitar
+3|Mousse para el cabello
+3|Mousse para el peinado
+3|Mousses para el cabello
+3|Paletas de sombras de ojos (maquillaje)
+3|Palos de incienso
+3|Paños de limpieza impregnados con detergente
+3|Paños o pañuelos impregnados con limpiadores de cosméticos
+3|Papel abrasivo (papel de lija)
+3|Papel de esmeril
+3|Papel de lija
+3|Papel para pulir
+3|Papel secante de aceite con una finalidad cosmética
+3|Parches impregnados de preparaciones de bloqueador solar de uso cosmético
+3|Pasta abrasiva
+3|Pasta de dientes
+3|Pasta de zapatos
+3|Pasta dental
+3|Pasta dentífrica
+3|Pasta perfumada
+3|Pastas dentales
+3|Pastas dentales y enjuagues bucales
+3|Pastas dentífricas blanqueadoras
+3|Pastillas de jabón
+3|Pegatinas decorativas para uñas
+3|Perfume
+3|Perfumes
+3|Perfumes en forma sólida
+3|Perfumes líquidos
+3|Perfumes para uso industrial
+3|Perfumes y aguas de tocador
+3|Perfumes y colonias
+3|Perlas de baño
+3|Peróxido de hidrógeno para uso cosmético
+3|Pestañas postizas
+3|Pez de zapatero
+3|Piedra pómez
+3|Piedra pómez para uso personal
+3|Piedras cerámicas aromáticas
+3|Piedras de afeitar (astringentes para uso cosmético)
+3|Piedras para pulir
+3|Pintalabios
+3|Pintura de uñas (cosméticos)
+3|Pinturas para la cara
+3|Polveras con maquillaje
+3|Polvo base para la cara en papel
+3|Polvo de baño (cosméticos)
+3|Polvo de maquillaje comprimido para la cara
+3|Polvo de maquillaje cremoso para la cara
+3|Polvo de maquillaje en pasta para la cara
+3|Polvo de maquillaje para la cara
+3|Polvo dentífrico
+3|Polvo para las cejas
+3|Polvo para lavado de cabello
+3|Polvo perfumado
+3|Polvo sólido para polveras (cosméticos)
+3|Polvos cosméticos
+3|Polvos de maquillaje
+3|Polvos faciales cosméticos
+3|Polvos perfumados
+3|Polvos sólidos para estuches de compactos (cosméticos)
+3|Pomadas en barra
+3|Pomadas para el cabello
+3|Popurrís aromáticos
+3|Preparaciones blanqueadoras de uso en lavandería
+3|Preparaciones bloqueadoras del sol
+3|Preparaciones bronceadoras
+3|Preparaciones colorantes con fines cosméticos
+3|Preparaciones colorantes para el cabello
+3|Preparaciones cosméticas
+3|Preparaciones cosméticas bloqueadoras
+3|Preparaciones cosméticas contra el bronceado
+3|Preparaciones cosméticas de protección solar
+3|Preparaciones cosméticas en aerosol para el cabello
+3|Preparaciones cosméticas para ducha y baño
+3|Preparaciones cosméticas para el bronceado
+3|Preparaciones cosméticas para el cuidado de la boca y los dientes
+3|Preparaciones cosméticas para el cuidado de la piel
+3|Preparaciones cosméticas para el cuidado de las uñas
+3|Preparaciones cosméticas para el cuidado del cabello y del cuero cabelludo
+3|Preparaciones cosméticas para peluquería
+3|Preparaciones cosméticas para pestañas
+3|Preparaciones cosméticas para protección de la piel de los rayos solares
+3|Preparaciones cosméticas para secado de uñas
+3|Preparaciones de autobronceadoras (cosméticos}
+3|Preparaciones de espuma limpiadora
+3|Preparaciones de limpieza de hornos
+3|Preparaciones de limpieza para uso doméstico
+3|Preparaciones de limpieza, lavado y pulido
+3|Preparaciones de maquillaje para cara y cuerpo
+3|Preparaciones de protección solar
+3|Preparaciones de protección solar para uso cosmético
+3|Preparaciones de tocador que no sean para uso médico
+3|Preparaciones desengrasantes para uso doméstico
+3|Preparaciones desmaquillantes
+3|Preparaciones en aerosol para fijar el maquillaje
+3|Preparaciones exfoliantes de uso cosmético
+3|Preparaciones inhibidoras del crecimiento de vello cosméticas
+3|Preparaciones limpiadoras de automóviles
+3|Preparaciones limpiadoras de vidrio
+3|Preparaciones limpiadoras para la cara
+3|Preparaciones no medicadas para baños de pies
+3|Preparaciones para alisar el cabello
+3|Preparaciones para baño de burbujas que no sean medicinales
+3|Preparaciones para blanquear el cabello
+3|Preparaciones para blanquear la piel
+3|Preparaciones para blanquear para uso cosmético
+3|Preparaciones para después del afeitado
+3|Preparaciones para el cuidado de la piel, el cabello y el cuero cabelludo que no sean medicinales
+3|Preparaciones para el cuidado del cabello
+3|Preparaciones para el peinado del cabello
+3|Preparaciones para el tratamiento del cabello no medicinales con fines cosméticos
+3|Preparaciones para fijar el cabello
+3|Preparaciones para la decoloración del cabello
+3|Preparaciones para la limpieza de moquetas y alfombras
+3|Preparaciones para lavado y blanqueado de lavandería
+3|Preparaciones para limpiar automóviles
+3|Preparaciones para limpiar de drenajes (desagues)
+3|Preparaciones para limpiar prótesis dentales
+3|Preparaciones para limpieza de los dientes
+3|Preparaciones para limpieza de manos
+3|Preparaciones para limpieza y pulido
+3|Preparaciones para limpieza, pulido y fregado
+3|Preparaciones para ondular el cabello
+3|Preparaciones para ondular y rizar el cabello permanentemente
+3|Preparaciones para pulido, fregado y abrasión
+3|Preparaciones para pulir
+3|Preparaciones para pulir automóviles
+3|Preparaciones para pulir prótesis dentales
+3|Preparaciones para remover barnices
+3|Preparaciones para remover ceras
+3|Preparaciones para retirar uñas de gel
+3|Preparaciones para rizar el cabello
+3|Preparaciones quitamanchas
+3|Preparaciones removedoras de cutícula
+3|Preparaciones removedoras del color del cabello
+3|Preparaciones texturizadoras para el cabello
+3|Preparaciones y substancias para limpieza, fregado y pulido
+3|Preparaciones y sustancias depilatorias
+3|Preparados dentales blanqueadores
+3|Preparados no medicinales para el cuidado de la piel
+3|Preparados para lavavajillas
+3|Preparados para perfumar salas
+3|Preparados reparadores de uñas
+3|Productos blanqueadores (lavandería)
+3|Productos cosméticos en aerosol para el cuidado de la piel
+3|Productos cosméticos para el cuidado de la piel
+3|Productos de afeitar
+3|Productos de glaseado para lavar la ropa
+3|Productos de limpieza
+3|Productos de limpieza en seco
+3|Productos de limpieza nasal para fines sanitarios personales
+3|Productos de limpieza para cristal
+3|Productos de maquillaje
+3|Productos de perfumería
+3|Productos de perfumería sintéticos
+3|Productos de tocador que no sean medicinales
+3|Productos depilatorios
+3|Productos desoxidantes
+3|Productos en aerosol para refrescar el aliento
+3|Productos hidratantes antienvejecimiento utilizados como cosméticos
+3|Productos para dar brillo
+3|Productos para el cuidado de las uñas
+3|Productos para perfumar la ropa
+3|Productos para quitar pinturas
+3|Protectores solares en barra (preparaciones)
+3|Pulidores de automóviles
+3|Pulidores de calzado
+3|Pulidores de dientes
+3|Pulidores preservantes del cuero
+3|Pulverizador desodorante para los pies
+3|Purpurina facial y corporal
+3|Purpurina para el cuerpo
+3|Quitaesmaltes para las uñas
+3|Quitamanchas
+3|Refrescantes de la piel cosméticos
+3|Removedor de esmalte de uñas
+3|Removedores de cera de pisos
+3|Removedores de maquillaje de ojos
+3|Rollos abrasivos
+3|Rubor de mejillas
+3|Saborizantes de alimentos preparados a partir de aceites esenciales
+3|Saborizantes que sean aceites esenciales para alimentos
+3|Sales blanqueadoras
+3|Sales de baño
+3|Sales de baño cosméticas
+3|Sales de baño perfumadas
+3|Sales de baño que no sean medicinales
+3|Salvado de arroz para pulir la piel (arai-nuka)
+3|Sangre falsa como maquillaje teatral
+3|Servilletas de paño para quitar el maquillaje
+3|Soda para blanquear
+3|Soluciones decapantes
+3|Soluciones limpiadoras para aparatos odontológicos de esterilización por ultrasonidos
+3|Sombra de ojos
+3|Sombras de ojos
+3|Suavizantes para la ropa
+3|Suavizantes para tejidos
+3|Sueros de belleza
+3|Tabletas sólidas de pasta de dientes
+3|Talco de bebé
+3|Talco de tocador
+3|Talco perfumado
+3|Talcos de bebé
+3|Tatuajes temporales
+3|Tela de esmeril
+3|Tela para pulir
+3|Tela y papel para pulir
+3|Tintes de pestañas
+3|Tintes labiales (cosméticos)
+3|Tintes para el cabello
+3|Tintes para la barba
+3|Tintura de cabello
+3|Tiras abrasivas
+3|Tiras de cera para eliminar el vello corporal
+3|Tiras para refrescar el aliento
+3|Tiza para maquillaje
+3|Tiza para uso cosmético
+3|Toallitas antiestáticas para secadora
+3|Toallitas húmedas impregnadas con detergente
+3|Toallitas impregnadas con preparaciones limpiadoras
+3|Toallitas impregnadas con un limpiador de piel
+3|Toallitas impregnadas de lociones cosméticas
+3|Toallitas para gafas impregnadas con detergente
+3|Toallitas pre-humedecidas con detergente lavalozas
+3|Tónicos para el cabello
+3|Tónicos para la piel
+3|Tónicos para la piel que no sean medicinales
+3|Uñas artificiales
+3|Uñas postizas
+3|Uñas postizas de metales preciosos
+3|Varillas de incienso
