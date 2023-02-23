@@ -3,7 +3,13 @@ class Term < ApplicationRecord
 
   belongs_to :nice_class
 
-  pg_search_scope :search_by_name, against: :name, using: :trigram, ignoring: :accents
+  pg_search_scope :search_by_name,
+                  against: :name,
+                  using: {
+                    tsearch: { prefix: true },
+                    trigram: {}
+                  },
+                  ignoring: :accents
 end
 
 # == Schema Information
