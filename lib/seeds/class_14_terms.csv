@@ -1,118 +1,227 @@
-class,reference_id,name
-14,140001,ágatas
-14,140002,manecillas de reloj
-14,140002,agujas de reloj
-14,140003,lingotes de metales preciosos
-14,140004,joyas de ámbar amarillo
-14,140005,perlas de ámbar prensado
-14,140006,amuletos [joyería]
-14,140008,plata hilada
-14,140009,hilos de plata [joyería]
-14,140009,hilados de plata [joyería]
-14,140011,relojes que no sean de uso personal
-14,140013,péndulos [piezas de reloj]
-14,140014,tambores de reloj
-14,140015,pulseras [joyería]
-14,140016,relojes de pulsera
-14,140017,pulseras de reloj
-14,140017,extensibles de reloj
-14,140018,dijes [joyería]
-14,140019,broches [joyería]
-14,140021,esferas [piezas de reloj]
-14,140022,relojes de sol
-14,140023,maquinarias de reloj
-14,140024,cadenas [joyería]
-14,140025,cadenas de reloj
-14,140027,cronógrafos [relojes de pulsera]
-14,140028,cronómetros
-14,140029,cronoscopios
-14,140030,instrumentos cronométricos
-14,140031,collares [joyería]
-14,140032,relojes eléctricos
-14,140033,pasadores de corbata
-14,140033,sujetacorbatas
-14,140034,monedas
-14,140035,diamantes*
-14,140040,hilos de metales preciosos [joyería]
-14,140040,hilados de metales preciosos [joyería]
-14,140042,relojes atómicos
-14,140043,relojes de control [relojes maestros]
-14,140043,relojes magistrales
-14,140044,cajas de reloj
-14,140045,iridio
-14,140046,joyas de marfil
-14,140047,adornos de azabache
-14,140048,azabache en bruto o semiacabado
-14,140049,fichas de cobre
-14,140050,artículos de joyería
-14,140051,medallones [joyería]
-14,140052,medallas
-14,140055,metales preciosos en bruto o semielaborados
-14,140057,relojes de uso personal
-14,140058,resortes de reloj
-14,140058,muelles de reloj
-14,140059,cristales de reloj
-14,140060,mecanismos de relojería
-14,140062,olivino [piedras preciosas]
-14,140062,peridoto [piedras preciosas]
-14,140063,oro en bruto o batido
-14,140064,hilos de oro [joyería]
-14,140064,hilados de oro [joyería]
-14,140066,osmio
-14,140067,paladio
-14,140069,alfileres de adorno
-14,140070,perlas [joyería]
-14,140073,piedras semipreciosas
-14,140074,piedras preciosas
-14,140074,pedrería [piedras preciosas]
-14,140075,platino [metal]
-14,140082,despertadores
-14,140083,rodio
-14,140085,rutenio
-14,140095,espinelas [piedras preciosas]
-14,140096,estatuas de metales preciosos
-14,140097,estrás
-14,140097,bisutería [joyería]
-14,140104,aleaciones de metales preciosos
-14,140106,áncoras [artículos de relojería]
-14,140107,anillos [joyería]
-14,140107,sortijas [joyería]
-14,140109,obras de arte de metales preciosos
-14,140113,cajas de metales preciosos
-14,140117,artículos de joyería para la sombrerería
-14,140118,pendientes
-14,140118,aretes
-14,140119,artículos de joyería para el calzado
-14,140122,gemelos*
-14,140122,mancuernas [gemelos]
-14,140123,bustos de metales preciosos
-14,140144,carcasas de reloj de uso personal
-14,140145,estuches de presentación para relojes de uso personal
-14,140146,figuritas de metales preciosos
-14,140146,estatuillas de metales preciosos
-14,140150,alfileres [joyería]
-14,140151,alfileres de corbata
-14,140151,fistoles
-14,140152,insignias de metales preciosos
-14,140162,llaveros [anillas partidas con dijes o abalorios]
-14,140163,plata en bruto o batida
-14,140164,cronómetros manuales
-14,140165,joyas de esmalte alveolado
-14,140166,joyeros
-14,140167,cuentas para confeccionar joyas
-14,140168,cierres [broches] para joyería
-14,140169,insumos de joyería
-14,140170,joyeros enrollables
-14,140171,cabujones
-14,140172,anillas abiertas de metales preciosos para llaves
-14,140173,estuches de presentación para artículos de joyería
-14,140174,manecillas de reloj de uso personal
-14,140175,misbaha [collares de oración]
-14,140176,pulseras de materias textiles bordadas [joyería]
-14,140177,dijes para llaveros
-14,140178,rosarios
-14,140179,crucifijos de metales preciosos que no sean artículos de joyería
-14,140180,crucifijos en cuanto artículos de joyería
-14,140181,llaveros retráctiles
-14,140182,alfileres de joyería para sombreros
-14,140182,prendedores de joyería para sombreros
+class|name
+14|Adornos de metales preciosos en la forma de joyas
+14|Adornos de metales preciosos para calzado
+14|Ágata y ónice (en bruto)
+14|Aleaciones de metales preciosos
+14|Aleaciones de plata en bruto
+14|Alfileres de adorno de metales preciosos
+14|Alfileres de adorno para solapa
+14|Alfileres de corbata
+14|Alfileres de corbata de metales preciosos
+14|Alfileres de joyería
+14|Alfileres de joyería para su uso en sombreros
+14|Alfileres de solapa (joyería)
+14|Alianzas de boda
+14|Amuletos (artículos de joyería)
+14|Anillos (artículos de joyería)
+14|Anillos chapados en oro
+14|Anillos de boda
+14|Anillos de compromiso
+14|Aparatos e instrumentos cronométricos
+14|Aparatos para cronometraje de eventos deportivos
+14|Aros para perforaciones corporales
+14|Artículos de bisutería
+14|Artículos de joyería
+14|Artículos de joyería chapados con metales preciosos
+14|Artículos de joyería de diamantes
+14|Artículos de joyería de imitación
+14|Artículos de joyería e imitaciones de artículos de joyería
+14|Artículos de joyería para la cabeza
+14|Artículos de joyería y piedras preciosas
+14|Artículos de joyería y relojes
+14|Artículos de relojería e instrumentos cronométricos y sus estuches
+14|Artículos de relojería e instrumentos cronométricos y sus partes
+14|Biseles de reloj
+14|Brazalete (artículos de joyería)
+14|Brazaletes
+14|Brazaletes de plástico en forma de joyas
+14|Broches para bufandas con joyas
+14|Bustos de metales preciosos
+14|Cadenas de joyería
+14|Cadenas de joyería de metales preciosos para pulseras
+14|Cadenas de reloj
+14|Cadenas para llaves como joyería (dijes o llaveros)
+14|Cadenas para llevar al cuello
+14|Cajas de metales preciosos
+14|Cajas de presentación para piedras preciosas
+14|Cajas de presentación para relojes
+14|Cajas de reloj
+14|Cajas de reloj de pulsera
+14|Cajas decorativas hechas de metales preciosos
+14|Cajas exhibidoras especiales para relojes (watch winders)
+14|Calcedonia
+14|Camafeos (joyería)
+14|Cápsulas de metales preciosos para botellas
+14|Carcasas de reloj
+14|Cierres de relojes
+14|Clips de joyería para adaptar aros de piercing a aros de clip
+14|Cofres para relojes y joyas
+14|Colgantes de ámbar (joyería)
+14|Colgantes de ámbar prensado (joyería)
+14|Collares
+14|Collares (artículos de joyería)
+14|Collares con peto
+14|Coronas de reloj
+14|Cristales de reloj
+14|Cronógrafos como relojes
+14|Cronómetros
+14|Cronómetros manuales
+14|Despertadores
+14|Diademas
+14|Diales para fabricas relojes y relojes de pulsera
+14|Diamantes cortados
+14|Diamantes en bruto
+14|Dijes de joyería de metales preciosos o chapados
+14|Dijes de metales preciosos o chapados con los mismos
+14|Esferas de reloj de pulsera
+14|Esmeralda
+14|Espinelas
+14|Estatuas de metales preciosos
+14|Estatuas de metales preciosos y sus aleaciones
+14|Estatuillas de metales preciosos
+14|Estatuillas de metales preciosos y sus aleaciones
+14|Estuches adaptados para anillos de joyería para protegerlos del impacto, la abrasión y el daño a las argollas y piedras
+14|Estuches de madera para artículos de joyería
+14|Estuches para joyas
+14|Estuches para joyas de metales preciosos
+14|Estuches para relojería
+14|Estuches para relojes
+14|Extensibles de reloj
+14|Extensibles metálicos, cuero o de materias plásticas para reloj
+14|Extensibles para reloj de cuero
+14|Extensibles y correas para reloj
+14|Figuras de metales preciosos
+14|Figuras modelo (adornos) de metales preciosos
+14|Gargantillas
+14|Gemas
+14|Gemas preciosas o semipreciosas
+14|Gemelos
+14|Gemelos de metales preciosos
+14|Gemelos de porcelana
+14|Gemelos y pasadores de corbata
+14|Hebillas para extensibles de reloj
+14|Insignias de metales preciosos
+14|Instrumentos cronométricos y relojes
+14|Iridio y sus aleaciones
+14|Jade (artículos de joyería)
+14|Joyas
+14|Joyas preciosas
+14|Joyería de filigrana de oro
+14|Joyería identificativa institucional
+14|Joyería para damas
+14|Joyería, incluyendo bisutería y bisutería de plástico
+14|Joyeros
+14|Joyeros (estuches para joyas) de metales preciosos
+14|Joyeros de metales preciosos
+14|Joyeros musicales
+14|Joyeros que no sean de metales preciosos
+14|Leontinas
+14|Lingotes de aleaciones de oro
+14|Lingotes de aleaciones de plata
+14|Lingotes de aleaciones de platino
+14|Lingotes de oro
+14|Lingotes de plata
+14|Lingotes de platino
+14|Llaveros como joyería (dijes o llaveros de aro)
+14|Llaveros de cuero
+14|Llaveros de metales comunes
+14|Llaveros de metales preciosos
+14|Llaveros metálicos
+14|Manecillas de reloj
+14|Medallas
+14|Medallas conmemorativas
+14|Medallas y medallones
+14|Medallones
+14|Medallones (artículos de joyería)
+14|Metales preciosos
+14|Metales preciosos en bruto o semielaborado
+14|Metales preciosos y las aleaciones de estos
+14|Monedas coleccionables
+14|Monedas conmemorativas
+14|Obras de arte de metales preciosos
+14|Olivina (peridoto)
+14|Ópalo
+14|Oro
+14|Oro en bruto o semielaborado
+14|Oro y sus aleaciones
+14|Osmio y sus aleaciones
+14|Paladio y sus aleaciones
+14|Partes de reloj
+14|Pasadores de corbata
+14|Pasadores de corbata de metales preciosos
+14|Pendientes
+14|Pendientes chapados en oro
+14|Pendientes con agujero
+14|Pendientes de aro
+14|Pendientes de gota
+14|Pendientes de joyería
+14|Pendientes de presión
+14|Péndulos para relojes
+14|Pequeños joyeros de metales preciosos
+14|Perlas (artículos de joyería)
+14|Perlas cultivadas
+14|Perlas de imitación
+14|Piedras preciosas
+14|Piedras preciosas artificiales
+14|Piedras preciosas en bruto
+14|Piedras preciosas o semipreciosas
+14|Piedras preciosas sintéticas
+14|Piedras preciosas y relojes
+14|Piedras preciosas y semipreciosas
+14|Piedras preciosas y sus imitaciones en bruto o semielaboradas
+14|Piedras semipreciosas
+14|Piedras semipreciosas semielaboradas y sus imitaciones
+14|Pinzas de corbata
+14|Plata
+14|Plata en lingotes
+14|Plata y sus aleaciones
+14|Platino
+14|Platino y sus aleaciones
+14|Productos de relojería
+14|Pulseras
+14|Pulseras con fines solidarios
+14|Pulseras de cuentas de madera
+14|Pulseras de tobillo
+14|Relojes
+14|Relojes atómicos
+14|Relojes de bolsillo
+14|Relojes de buceo
+14|Relojes de deportes
+14|Relojes de escritorio
+14|Relojes de mesa
+14|Relojes de metales preciosos o chapados con los mismos
+14|Relojes de pared
+14|Relojes de pared y relojes de pulsera para colombófilos
+14|Relojes de péndulo
+14|Relojes de pie
+14|Relojes de pulsera
+14|Relojes de pulsera para deportes
+14|Relojes de sol
+14|Relojes de vestir
+14|Relojes de viaje
+14|Relojes e instrumentos cronométricos
+14|Relojes mecánicos y automáticos
+14|Relojes para damas
+14|Relojes para uso en exteriores
+14|Relojes para vehículos
+14|Relojes pequeños
+14|Relojes y artículos de joyería
+14|Relojes y extensibles para reloj
+14|Relojes y partes de los mismos
+14|Relojes, artículos de joyería
+14|Relojes, artículos e imitaciones de joyería
+14|Resortes de relojes
+14|Rodio y sus aleaciones
+14|Rollos organizadores de joyas para viaje
+14|Rubí
+14|Rutenio y sus aleaciones
+14|Saquitos de joyería a medida
+14|Saquitos para relojes
+14|Sardónice (no tallado)
+14|Tanzanita (gemas)
+14|Tobilleras (artículos de joyería)
+14|Topacio
+14|Trofeos de metales preciosos
+14|Turmalinas (piedras semi-preciosas)
+14|Zafiro
+14|Zarcillos

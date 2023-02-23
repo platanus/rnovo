@@ -1,164 +1,486 @@
-class,reference_id,name
-35,350001,asistencia en la dirección de negocios
-35,350002,indagaciones sobre negocios
-35,350003,fijación de carteles publicitarios
-35,350005,servicios de agencias de importación-exportación
-35,350006,servicios de agencias de información comercial
-35,350007,análisis del precio de costo
-35,350008,difusión de anuncios publicitarios
-35,350009,servicios de fotocopia
-35,350012,servicios de oficinas de empleo
-35,350012,servicios de agencias de colocación
-35,350013,alquiler de máquinas y aparatos de oficina*
-35,350015,contabilidad
-35,350015,teneduría de libros
-35,350016,elaboración de estados de cuenta
-35,350017,auditorías empresariales
-35,350018,consultoría sobre organización y dirección de negocios
-35,350019,consultoría sobre gestión de personal
-35,350020,consultoría sobre dirección de negocios
-35,350022,servicios de mecanografía
-35,350022,servicios de dactilografía
-35,350023,demostración de productos
-35,350024,distribución de material publicitario [folletos, prospectos, impresos, muestras]
-35,350024,publicidad por correo directo
-35,350024,difusión de material publicitario [folletos, prospectos, impresos, muestras]
-35,350025,asistencia en la dirección de empresas comerciales o industriales
-35,350027,actualización de documentación publicitaria
-35,350028,distribución de muestras
-35,350029,servicios de expertos en eficiencia empresarial
-35,350030,ventas en pública subasta
-35,350031,estudios de mercado
-35,350032,valoración de negocios comerciales
-35,350033,investigación comercial
-35,350035,alquiler de material publicitario
-35,350036,consultoría sobre organización de negocios
-35,350038,publicación de textos publicitarios
-35,350039,publicidad
-35,350040,publicidad radiofónica
-35,350041,búsqueda de negocios
-35,350042,relaciones públicas
-35,350043,servicios de taquigrafía
-35,350043,servicios de estenografía
-35,350044,publicidad televisada
-35,350045,transcripción de comunicaciones
-35,350046,decoración de escaparates
-35,350046,decoración de vidrieras [escaparates]
-35,350047,servicios de agencias de publicidad
-35,350048,asesoramiento sobre dirección de empresas
-35,350049,servicios de modelos para publicidad o promoción de ventas
-35,350051,investigación de marketing
-35,350061,servicios de gestión informática de archivos
-35,350062,consultoría profesional sobre negocios comerciales
-35,350063,previsiones económicas
-35,350064,organización de exposiciones con fines comerciales o publicitarios
-35,350065,suministro de información sobre negocios
-35,350066,sondeos de opinión
-35,350067,preparación de nóminas
-35,350068,selección de personal
-35,350069,servicios administrativos para la reubicación de empresas
-35,350070,alquiler de espacios publicitarios
-35,350071,promoción de ventas para terceros
-35,350072,servicios de secretariado
-35,350073,preparación de declaraciones tributarias
-35,350074,servicios de contestador automático para abonados ausentes
-35,350075,tratamiento de textos
-35,350076,servicios de suscripción a periódicos para terceros
-35,350076,servicios de abono a periódicos para terceros
-35,350077,publicidad por correspondencia
-35,350078,gerencia administrativa de hoteles
-35,350079,gestión empresarial de artistas intérpretes o ejecutantes
-35,350080,compilación de información en bases de datos informáticas
-35,350081,sistematización de información en bases de datos informáticas
-35,350082,organización de ferias comerciales
-35,350083,alquiler de fotocopiadoras
-35,350084,publicidad en línea por una red informática
-35,350085,servicios de abastecimiento para terceros [compra de productos y servicios para otras empresas]
-35,350086,búsqueda de datos en archivos informáticos para terceros
-35,350087,alquiler de tiempo publicitario en medios de comunicación
-35,350088,servicios de comunicados de prensa
-35,350089,alquiler de distribuidores automáticos
-35,350089,alquiler de máquinas expendedoras
-35,350090,servicios de tests psicotécnicos para la selección de personal
-35,350090,tests psicotécnicos para la selección de personal
-35,350091,servicios de comparación de precios
-35,350092,presentación de productos en cualquier medio de comunicación para su venta minorista
-35,350093,suministro de información y asesoramiento comerciales al consumidor en la selección de productos y servicios
-35,350094,suscripción a servicios de telecomunicaciones para terceros
-35,350095,tramitación administrativa de pedidos de compra
-35,350096,gestión comercial de licencias de productos y servicios de terceros
-35,350097,servicios de externalización [asistencia comercial]
-35,350097,servicios de subcontratación [asistencia comercial]
-35,350098,facturación
-35,350099,redacción de textos publicitarios
-35,350100,recopilación de estadísticas
-35,350101,servicios de composición de página con fines publicitarios
-35,350102,búsqueda de patrocinadores
-35,350103,organización de desfiles de moda con fines promocionales
-35,350104,producción de películas publicitarias
-35,350105,servicios de representación de deportistas
-35,350106,marketing
-35,350106,mercadotecnia
-35,350107,servicios de telemarketing
-35,350108,servicios de venta minorista de preparaciones farmacéuticas, veterinarias y sanitarias, así como de suministros médicos
-35,350109,alquiler de puestos de venta
-35,350110,suministro de información de contacto de comercios y empresas
-35,350111,optimización de motores de búsqueda con fines de promoción de ventas
-35,350112,optimización del tráfico en sitios web
-35,350113,servicios publicitarios de pago por clic
-35,350114,servicios de intermediación comercial
-35,350115,gestión de trabajadores autónomos [porte salarial]
-35,350116,negociación y conclusión de transacciones comerciales para terceros
-35,350117,actualización y mantenimiento de datos en bases de datos informáticas
-35,350118,servicios de gestión de proyectos comerciales en el marco de proyectos de construcción
-35,350119,suministro de información comercial por sitios web
-35,350120,suministro de espacios de venta en línea para vendedores y compradores de productos y servicios
-35,350121,desarrollo de conceptos publicitarios
-35,350122,gestión administrativa externalizada para empresas
-35,350123,servicios de presentación de declaraciones tributarias
-35,350124,gestión comercial de planes de reembolso para terceros
-35,350125,alquiler de vallas publicitarias
-35,350126,redacción de currículos para terceros
-35,350127,indexación de páginas web con fines comerciales o publicitarios
-35,350128,administración de programas de viajero frecuente 
-35,350129,servicios de programación de citas [trabajos de oficina]
-35,350130,servicios de recordatorio de citas [trabajos de oficina]
-35,350131,administración de programas de fidelización de consumidores
-35,350132,redacción de guiones publicitarios 
-35,350133,registro de datos y de comunicaciones escritas
-35,350134,actualización y mantenimiento de información en los registros
-35,350135,compilación de índices de información con fines comerciales o publicitarios
-35,350136,servicios de intermediarios comerciales en el marco de la puesta en relación de potenciales inversores privados con empresarios que necesitan financiación
-35,350137,producción de programas de televenta
-35,350138,consultoría sobre estrategias de comunicación [relaciones públicas]
-35,350139,consultoría sobre estrategias de comunicación [publicidad]
-35,350140,negociación de contratos de negocios para terceros
-35,350141,promoción de productos y servicios mediante el patrocinio de eventos deportivos
-35,350142,servicios de inteligencia competitiva
-35,350143,servicios de inteligencia de mercado
-35,350144,auditorías contables y financieras
-35,350145,servicios de venta minorista en línea de música digital descargable
-35,350146,servicios de venta minorista en línea de tonos de llamada descargables
-35,350147,servicios de venta minorista en línea de música y películas pregrabados y descargables
-35,350148,servicios de venta mayorista de preparaciones farmacéuticas, veterinarias y sanitarias, así como suministros médicos
-35,350149,servicios de registro de listas de regalos
-35,350150,marketing selectivo
-35,350151,gestión interina de negocios comerciales
-35,350152,publicidad exterior
-35,350153,servicios de venta minorista de obras de arte suministradas por galerías de arte
-35,350154,asistencia administrativa para responder a convocatorias de licitación
-35,350154,asistencia administrativa para responder a solicitudes de propuestas [RFPs]
-35,350155,marketing en el marco de la edición de software
-35,350156,servicios de relaciones de prensa
-35,350157,servicios de comunicaciones corporativas
-35,350158,alquiler de equipos de oficina en instalaciones de cotrabajo
-35,350159,servicios de grupos de presión comercial
-35,350159,servicios de cabildeo comercial
-35,350160,suministro de comentarios de usuarios con fines comerciales o publicitarios
-35,350161,suministro de clasificaciones de usuarios con fines comerciales o publicitarios
-35,350161,suministro de evaluaciones de usuarios con fines comerciales o publicitarios
-35,350162,servicios de centrales telefónicas
-35,350162,servicios de atención telefónica
-35,350163,servicios de venta minorista en relación con productos de panadería
-35,350164,creación de perfiles de consumidores con fines comerciales o de marketing
-35,350165,servicios administrativos de derivación médica
+class|name
+35|Administración de archivos computarizado central
+35|Administración de negocios
+35|Administración de negocios de deportistas
+35|Administración de negocios en el campo del transporte y reparto
+35|Administración de programas de descuento que permiten a los participantes obtener descuentos en productos y servicios a través del uso de una tarjeta de membresía de descuento
+35|Administración y gestión de negocios
+35|Agencias de colocación
+35|Agencias de empleo temporal
+35|Agencias de exportación e importación
+35|Agencias de importación y exportación
+35|Agencias de importación y exportación en el campo de la energía
+35|Agencias de importación-exportación de productos
+35|Agencias de información comercial para la facilitación de información de negocios, incluyendo datos demográficos o mercadotécnicos
+35|Agencias de talento (gestión o empleo)
+35|Agentes de publicidad
+35|Alquiler de distribuidores automáticos
+35|Alquiler de espacios publicitarios
+35|Alquiler de espacios publicitarios en sitios web
+35|Alquiler de espacios publicitarios y material publicitario
+35|Alquiler de maquinaria y equipo de oficina
+35|Alquiler de máquinas de escribir y máquinas copiadoras
+35|Alquiler de máquinas o aparatos para oficinas
+35|Alquiler de material publicitario
+35|Alquiler de stands para ventas
+35|Alquiler de todo tipo de material de publicidad y materiales de presentación de marketing
+35|Alquiler de vallas publicitarias
+35|Análisis de costos
+35|Análisis de datos de negocios
+35|Análisis de datos y estadísticas de investigación de mercado
+35|Análisis de dirección de negocios
+35|Análisis de mercado
+35|Análisis de respuesta a la publicidad
+35|Análisis de trabajo para determinar aptitudes y otros requisitos de trabajadores
+35|Análisis publicitarios
+35|Análisis y tasación de empresas
+35|Archivo de documentos o cintas magnéticas (trabajos de oficina)
+35|Arrendamiento de vallas publicitarias
+35|Asesoramiento de eficiencia empresarial
+35|Asesoramiento de negocios e información comercial
+35|Asesoramiento de negocios e información de negocios para empresas
+35|Asesoramiento de negocios y análisis de mercados
+35|Asesoramiento e información relativa a la gestión de negocios comerciales
+35|Asesoramiento e información sobre servicios de clientes y gestión de productos y precios en sitios de Internet en relación con compras realizadas a través de Internet
+35|Asesoramiento en el campo de la gestión de negocios y marketing
+35|Asesoramiento en fusiones y adquisiciones
+35|Asesoramiento en gestión de negocios comerciales franquiciados
+35|Asesoramiento en gestión de negocios y comercialización de productos en el marco de un contrato de franquicia
+35|Asesoramiento en gestión de personal
+35|Asesoramiento en materia de organización y gestión de los negocios comerciales
+35|Asesoramiento en organización de negocios
+35|Asesoramiento relativo al marketing de productos químicos
+35|Asesoramiento, indagación o información de negocios
+35|Asesoría en el análisis de los hábitos y necesidades de compra de consumidores con la ayuda de datos sensoriales, cuantitativos y cualitativos
+35|Asesoría en la administración de establecimientos de franquicias
+35|Asistencia a empresas industriales o comerciales en la gestión de su negocio
+35|Asistencia comercial en gestión de negocios
+35|Asistencia comercial en relación a implementación e integración de sistemas
+35|Asistencia en administración comercial
+35|Asistencia en gestión comercial e industrial
+35|Asistencia en gestión corporativa
+35|Asistencia en gestión de actividades de negocios
+35|Asistencia en gestión de negocios para empresas industriales y comerciales
+35|Asistencia en gestión de negocios y en particular la realización de las tareas necesarias para el buen desarrollo de ventas por subasta
+35|Asistencia en gestión y planificación de negocios
+35|Asistencia en la gestión y operación de negocios comerciales
+35|Asistencia en operación de negocios para empresas
+35|Asistencia y asesoramiento en relación a organización y gestión de negocios
+35|Auditoría de tasas de servicios para terceros
+35|Auditorías empresariales (análisis de negocios)
+35|Ayuda en la gestión de asuntos de negocios o funciones comerciales de una empresa industrial o comercial
+35|Búsqueda de mercados
+35|Búsqueda de patrocinadores
+35|Búsquedas de negocios
+35|Celebración de sondeos de opinión pública
+35|Clasificación, manipulación y recepción de correo
+35|Colocación de personal
+35|Colocación laboral y de personal
+35|Colocación profesional
+35|Colocación y selección de personal
+35|Compilación de directorios de empresas
+35|Compilación de estadísticas con fines de negocios o comerciales
+35|Compilación de información en bases de datos informáticas
+35|Compilación y análisis de estadísticas para determinar los índices de audiencia de programas de radio y televisión
+35|Compilación y sistematización de información en bancos de datos
+35|Compilación y sistematización de información en bases de datos
+35|Compilación, producción y diseminación de anuncios publicitarios
+35|Consultoría comercial
+35|Consultoría contable
+35|Consultoría de gestión de negocios en relación con la estrategia, la mercadotecnia, la producción, el personal y cuestiones de ventas al por menor
+35|Consultoría de gestión industrial incluyendo análisis de costes/rendimiento
+35|Consultoría de personal
+35|Consultoría e información económica para el sector industrial y comercial (también proveida en línea) para planificar, organizar y monitorear proyectos únicos y complejos en diferentes sectores de una o varias empresas
+35|Consultoría e información relativa a la contabilidad
+35|Consultoría en adquisición de negocios
+35|Consultoría en adquisición y fusión de negocios
+35|Consultoría en el campo de adquisiciones de negocios
+35|Consultoría en fusión de negocios
+35|Consultoría en gestión de negocios
+35|Consultoría en gestión de negocios en el campo del transporte y reparto
+35|Consultoría en gestión de negocios incluido vía la Internet
+35|Consultoría en marketing
+35|Consultoría en organización de negocios
+35|Consultoría en organización y gestión de negocios
+35|Consultoría en organización y gestión de negocios incluida la gestión de personal
+35|Consultoría en organización y operación de negocios
+35|Consultoría en publicidad
+35|Consultoría en recursos humanos
+35|Consultoría en relación a la organización o la gestión de una empresa comercial
+35|Consultoría en segmentación de mercado
+35|Consultoría en selección de personal
+35|Consultoría en técnicas de ventas y programas de ventas
+35|Consultoría organizacional de negocios
+35|Consultoría profesional de negocios
+35|Consultoría sobre contratación de personal
+35|Consultoría sobre dirección de negocios en el campo de viajes corporativos
+35|Consultoría, gestión, planificación y supervisión de negocios
+35|Consultoría, indagación o información de negocios
+35|Contabilidad administrativa
+35|Contabilidad de costes
+35|Contabilidad para terceros
+35|Control de inventario
+35|Copiado de documentos para terceros
+35|Creación y mantenimiento de material publicitario
+35|Decoración de vidrieras (escaparates)
+35|Demostración de productos
+35|Demostración de productos y servicios por medios electrónicos, también aplicable a los servicios de venta telemática
+35|Desarrollo de campañas publicitarias para negocios
+35|Desarrollo de conceptos de marketing
+35|Desarrollo de conceptos para economía y negocios
+35|Desarrollo de estrategias y conceptos de marketing
+35|Desarrollo de planes de mercadotecnia
+35|Determinación de índices de audiencia para emisiones de radio y televisión
+35|Difusión de anuncios publicitarios
+35|Difusión de material publicitario (folletos e impresos)
+35|Difusión de material publicitario en la calle
+35|Diseminación de anuncios publicitarios
+35|Diseminación de anuncios publicitarios y material publicitario (volantes, folletos, catálogos y muestras)
+35|Diseminación de publicidad para terceros vía la Internet
+35|Distribución de anuncios publicitarios y comerciales
+35|Distribución de correo publicitario y complementos publicitarios adjuntos a ediciones regulares
+35|Distribución de material publicitario (folletos, prospectos, muestras, en particular para ventas por catálogo) transfronteriza o no
+35|Distribución de materiales publicitarios
+35|Distribución de materiales publicitarios (volantes, prospectos, folletos, muestras), en particular para ventas a larga distancia por catálogo, transfronteriza o no
+35|Distribución de muestras
+35|Distribución de muestras con fines publicitarios
+35|Distribución de productos con fines publicitarios
+35|Distribución de prospectos y muestras
+35|Distribución de volantes (folletos) publicitarios para terceros
+35|Distribución y difusión de materiales publicitarios (folletos, prospectos, impresos y muestras)
+35|Duplicación de documentos
+35|Edición y posproducción de anuncios y publicidad
+35|Elaboración de declaraciones tributarias
+35|Encuestas de opinión pública
+35|Escritura de direcciones en sobres
+35|Estudios de investigación de mercado
+35|Estudios de marketing
+35|Estudios de marketing de cosméticos, perfumería y productos de belleza
+35|Estudios de mercado y análisis de estudios de mercado
+35|Estudios de sondeos de opinión de los mercados
+35|Estudios de viabilidad de negocios
+35|Evaluación de personalidad con fines comerciales
+35|Evaluación en relación a asuntos comerciales
+35|Evaluación estadística de datos de marketing
+35|Evaluaciones e informes expertos relacionados con asuntos de negocios
+35|Exposiciones de desfiles de modas con fines comerciales
+35|Facilitación de espacios de publicidad por medios electrónicos y red informática mundial
+35|Facilitación de espacios publicitarios en publicaciones periódicas, periódicos y revistas
+35|Facilitación de información de estudios de mercado
+35|Facilitación de información relativa a las ventas comerciales
+35|Facilitación de información sobre comercio
+35|Facilitación de información sobre empleo
+35|Facilitación de información sobre negocios comerciales e información comercial vía una red informática mundial
+35|Facilitación de informes de marketing
+35|Facilitación de subastas en línea
+35|Facilitación de un directorio comercial en línea en la Internet
+35|Facilitación y alquiler de espacio publicitario en la Internet
+35|Facturación
+35|Facturación médica
+35|Gestión administrativa de hospitales
+35|Gestión administrativa de hotel
+35|Gestión administrativa y comercial de museos
+35|Gestión comercial
+35|Gestión de archivos informáticos
+35|Gestión de bases de datos
+35|Gestión de empresas incluida la consultoría en materia demográfica
+35|Gestión de hotel para terceros
+35|Gestión de negocios comerciales
+35|Gestión de negocios de hoteles para terceros
+35|Gestión de negocios de logística para terceros
+35|Gestión de negocios en el campo del transporte y reparto
+35|Gestión de negocios para una empresa comercial y para una empresa de servicios
+35|Gestión de negocios y consultoría en organización de empresas
+35|Gestión de personal
+35|Gestión de recursos humanos
+35|Gestión de relaciones con los clientes
+35|Gestión de una empresa aérea
+35|Gestión empresarial de tiendas
+35|Gestión y asesoramiento de negocios comerciales
+35|Gestión y compilación de bases de datos informáticas
+35|Indagaciones e investigaciones de negocios
+35|Información comercial
+35|Información de clasificación de ventas de productos
+35|Información e indagación de negocios
+35|Información e investigación, evaluación y peritajes de negocios
+35|Información empresarial a través de redes informáticas mundiales
+35|Información en materia de negocios
+35|Información sobre métodos de ventas
+35|Información sobre ventas de productos
+35|Información y asesoramiento a los consumidores sobre la selección de productos y artículos a la venta
+35|Información y asesoramiento comerciales al consumidor
+35|Información, compilación de datos y análisis en relación a gestión de negocios
+35|Inventario de mercancías
+35|Investigación comercial
+35|Investigación de consumo
+35|Investigación de mercado
+35|Investigación de mercado por medio de una computadora
+35|Investigación de mercado y análisis de negocios
+35|Investigación de mercados y negocios
+35|Investigación publicitaria
+35|Marketing de afiliación
+35|Marketing directo
+35|Mediación de acuerdos en relación con la venta y compra de productos
+35|Mediación de negocios comerciales para terceros
+35|Mediación de publicidad
+35|Mediación y cierre de negocios comerciales para terceros
+35|Modelaje para publicidad o promoción de ventas
+35|Negociación y cierre de transacciones comerciales para terceros a través de sistemas de telecomunicación
+35|Negociación y resolución de transacciones comerciales para terceros
+35|Operación de negocios, administración de negocios y funciones de oficina
+35|Organización de competiciones de negocios
+35|Organización de desfiles de moda para promoción de ventas
+35|Organización de desfiles de modas con fines comerciales
+35|Organización de exposiciones con fines comerciales o publicitarios
+35|Organización de exposiciones y eventos con fines comerciales o publicitarios
+35|Organización de exposiciones y ferias con fines comerciales o publicitarios
+35|Organización de ferias con fines comerciales y publicitarios
+35|Organización de ferias y exposiciones con fines comerciales y publicitarios
+35|Organización de promociones utilizando medios audiovisuales
+35|Organización de servicios comerciales contractuales con terceros
+35|Organización de servicios de bienvenida telefónica de terceros y de servicios de recepcionista telefónica para terceros
+35|Organización de subastas
+35|Organización de subastas por internet
+35|Organización de ventas en subasta
+35|Organización de ventas en subastas
+35|Organización y dirección de exposiciones de arte con fines comerciales o publicitarios
+35|Organización y dirección de presentaciones de producto
+35|Organización y realización de eventos de marketing promocional para terceros
+35|Organización y realización de ferias y exposiciones con fines de negocios y publicitarios
+35|Organización y realización de subastas
+35|Organización y realización de ventas en subasta pública
+35|Planificación de la sucesión de negocios
+35|Planificación de negocios
+35|Planificación de negocios en materia de gestión, en concreto, búsqueda de socios para fusiones y absorciones de negocios
+35|Planificación en gestión de negocios
+35|Planificación y realización de ferias comerciales, exposiciones y presentaciones con fines económicos o publicitarios
+35|Preparación de anuncios publicitarios para terceros
+35|Preparación de estados de cuentas y análisis para negocios comerciales
+35|Preparación de estudios de mercado
+35|Preparación de informes comerciales
+35|Preparación de nóminas
+35|Preparación de nóminas salariales
+35|Preparación de reportes de negocios
+35|Preparación de sondeos de opinión pública
+35|Preparación y colocación de anuncios publicitarios para terceros
+35|Preparación y realización de planes y conceptos de medios de comunicación y publicitarios
+35|Previsiones sobre asuntos económicos
+35|Previsiones y análisis económicos
+35|Procesamiento administrativo de pedidos de compra en el marco de los servicios prestados por empresas de pedidos por correo
+35|Producción de cintas de vídeo, discos de vídeo y grabaciones audiovisuales con fines promocionales
+35|Producción de material publicitario
+35|Producción de material publicitario y comerciales
+35|Producción de películas publicitarias
+35|Producción de publicidad televisada
+35|Promoción (publicidad) de los beneficios de tecnologías de iluminación eficientes a profesionales de la iluminación
+35|Promoción de productos y servicios para terceros a través de la distribución de tarjetas de descuento
+35|Promoción de una serie de películas para terceros
+35|Promoción de ventas de productos y servicios de terceros mediante la distribución de material impreso y concursos de promoción
+35|Promoción de ventas para terceros a través de la distribución y la administración de tarjetas de usuarios privilegiados
+35|Promoción en línea de redes informáticas y sitios web
+35|Provisión de consultoría de marketing en el campo de los medios sociales
+35|Provisión de información de negocios en el campo de los medios sociales
+35|Provisión de información de negocios via sitios web
+35|Provisión de información en el campo del marketing
+35|Pruebas para determinar la capacitación profesional
+35|Publicación de material publicitario
+35|Publicación de textos publicitarios
+35|Publicidad a través de anuncios en techos de taxis
+35|Publicidad a través de banderines
+35|Publicidad callejera
+35|Publicidad de bienes inmuebles comerciales o residenciales
+35|Publicidad en cine
+35|Publicidad en la Internet para terceros
+35|Publicidad en línea en redes informáticas
+35|Publicidad en línea vía redes informáticas de comunicación
+35|Publicidad en periódicos
+35|Publicidad en prensa popular y profesional
+35|Publicidad en publicaciones periódicas, folletos y periódicos
+35|Publicidad en revistas
+35|Publicidad incluida la promoción de productos y servicios de terceros a través de acuerdos de patrocinio y acuerdos de licencia en relación eventos deportivos internacionales
+35|Publicidad por transmisión de publicidad en línea para terceros a través de redes electrónicas de comunicación
+35|Publicidad radiofónica
+35|Publicidad relativa a productos farmacéuticos y productos de imagen in vivo
+35|Publicidad televisada
+35|Publicidad y consultoría en gestión de negocios
+35|Publicidad y consultoría en mercadotecnia
+35|Publicidad y mercadotecnia
+35|Publicidad y promoción de ventas en relación con productos y servicios, ofrecidos y pedidos a través de telecomunicaciones o medios electrónicos
+35|Publicidad y servicios de publicidad por televisión, radio y correo
+35|Publicidada través de todos los medios de comunicación
+35|Pujas en subastas online en nombre de terceros
+35|Recolección de información de investigación de mercado
+35|Recolección y sistematización de información en bases de datos informáticas
+35|Recopilación de anuncios para su uso como páginas web en Internet
+35|Recopilación y facilitación de información de precios y estadísticas sobre comercio y negocios
+35|Redacción de textos publicitarios
+35|Relaciones públicas
+35|Reportes y estudios de mercado
+35|Representación de artistas del espectáculo
+35|Representación de deportistas profesionales
+35|Reproducción de documentos
+35|Reproducción de documentos (servicios de fotocopiado)
+35|Reubicación de personal
+35|Seguimiento del volumen de ventas para terceros
+35|Selección de personal utilizando pruebas psicológicas
+35|Servicio como departamento de recursos humanos para terceros
+35|Servicio de decoración de escaparates
+35|Servicio de investigación de mercado
+35|Servicios asistencia y consultoría en el campo de la gestión negocios de empresas del sector energético
+35|Servicios de administración de negocios para el procesamiento de ventas en la Internet
+35|Servicios de adquisición de bebidas alcohólicas para terceros (compra de productos para otras empresas)
+35|Servicios de agencias de publicidad
+35|Servicios de agencias de talento (representación comercial de artistas del espectáculo)
+35|Servicios de análisis de marketing
+35|Servicios de análisis e investigación de mercado
+35|Servicios de anuncios publicitarios clasificados
+35|Servicios de asesoramiento de negocios en el campo de la agricultura
+35|Servicios de asesoramiento de preparación y realización de transacciones comerciales
+35|Servicios de asesoramiento en materia de gestión de negocios y operaciones de negocios
+35|Servicios de asesoramiento, consultoría e información de negocios
+35|Servicios de asesoría para asuntos organizacionales y administración de negocios, con y sin la ayuda de bases de datos electrónicos
+35|Servicios de asistencia, asesoramiento y consultoría en relación a planificación de negocios, análisis de negocios, gestión de negocios y organización de negocios
+35|Servicios de asistencia, gestión e información de negocios
+35|Servicios de club de clientes y fidelidad de clientes para propósitos comerciales, promocionales o de publicidad
+35|Servicios de comercio electrónico, en concreto, suministro de información sobre productos a través de redes de telecomunicaciones con una finalidad publicitaria y de ventas
+35|Servicios de comercio en línea en los cuales el vendedor publica productos para su subasta y donde las pujas se realizan de manera electrónica a través de Internet
+35|Servicios de comparación de precios
+35|Servicios de composición de página con fines publicitarios
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 1
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 10
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 11
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 12
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 13
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 14
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 15
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 16
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 17
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 18
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 19
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 2
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 20
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 21
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 22
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 23
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 24
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 25
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 26
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 27
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 28
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 29
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 3
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 30
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 31
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 32
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 33
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 34
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 4
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 5
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 6
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 7
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 8
+35|Servicios de compra y venta al por mayor y al detalle de productos de la clase 9
+35|Servicios de compra y venta al por mayor y al detalle de productos de las clases 1 a la 34
+35|Servicios de consultoría de negocios
+35|Servicios de consultoría e información sobre negocios
+35|Servicios de consultoría en el ámbito del desarrollo de conceptos publicitarios
+35|Servicios de consultoría en gestión de negocios
+35|Servicios de consultoría en organización y gestión de negocios
+35|Servicios de consultoría en relación con estrategias de negocio
+35|Servicios de consultoría para la búsqueda de patrocinadores
+35|Servicios de consultoría relativa a la publicidad
+35|Servicios de consultoría y asesoramiento en estrategia empresarial
+35|Servicios de consultoría y asesoramiento en gestión de negocios
+35|Servicios de contabilidad
+35|Servicios de contabilidad forense
+35|Servicios de contabilidad para fondos de pensiones
+35|Servicios de contabilidad para fusiones y adquisiciones
+35|Servicios de contabilidad relativos a costes para explotaciones agrícolas
+35|Servicios de contestador automático para abonados ausentes
+35|Servicios de contratación de ejecutivos y colocación
+35|Servicios de demostración de productos en escaparates por modelos en vivo
+35|Servicios de desarrollo de estrategias para negocios
+35|Servicios de desarrollo de negocios
+35|Servicios de edición de textos publicitarios
+35|Servicios de estenografía
+35|Servicios de estudios de mercado informatizados
+35|Servicios de evaluación de costes
+35|Servicios de evaluación de marca
+35|Servicios de evaluación de mercados
+35|Servicios de expertos en la eficiencia empresarial
+35|Servicios de exposición para la comercialización dirigidos a negocios
+35|Servicios de facilitación de información sobre comercio exterior
+35|Servicios de facturación
+35|Servicios de facturación para negocios
+35|Servicios de gestión de registro, a saber, indexación de documentos para terceros
+35|Servicios de gestión y asesoramiento de negocios
+35|Servicios de gestión y asesoramiento de negocios en relación a franquicias
+35|Servicios de imagen corporativa
+35|Servicios de información de negocios y asesoramiento contable
+35|Servicios de información en relación a asuntos de negocios
+35|Servicios de información y tasación de negocios
+35|Servicios de información, asesoramiento y consultoría en relación a negocios y gestión o administración de negocios incluidos los servicios prestados en línea o vía la Internet
+35|Servicios de ingreso de datos computacionales(a bases de datos)
+35|Servicios de investigación de marketing
+35|Servicios de marketing comercial
+35|Servicios de marketing en el ámbito de la optimización del tráfico en sitios web
+35|Servicios de mecanografía
+35|Servicios de modelos para publicidad o promoción de ventas
+35|Servicios de oficina de empleo
+35|Servicios de planificación estratégica de negocios
+35|Servicios de posicionamiento de marcas
+35|Servicios de procesamiento de textos y dactilografía
+35|Servicios de promoción comercial (merchandising)
+35|Servicios de promoción de productos y servicios de terceros
+35|Servicios de promoción de ventas
+35|Servicios de publicidad
+35|Servicios de publicidad de una agencia de publicidad de radio y televisión
+35|Servicios de publicidad e información comercial vía la Internet
+35|Servicios de publicidad para la promoción de la correduría de acciones y otros valores
+35|Servicios de publicidad por correo directo
+35|Servicios de publicidad y de promoción
+35|Servicios de publicidad y promoción de ventas
+35|Servicios de publicidad y promoción y consultoría relacionada
+35|Servicios de recepción de pedidos telefónicos para terceros
+35|Servicios de reclutamiento de ejecutivos
+35|Servicios de recolocación laboral
+35|Servicios de reubicación para empresas
+35|Servicios de secretariado taquigráfico
+35|Servicios de selección de personal y agencias de empleo
+35|Servicios de subastas
+35|Servicios de subastas online a través de Internet
+35|Servicios de subastas prestados en Internet
+35|Servicios de suscripción a periódicos para terceros
+35|Servicios de taquigrafía
+35|Servicios de trámite de declaraciones fiscales
+35|Servicios de traslado de negocios
+35|Servicios de valoración de riesgos para negocios
+35|Servicios prestados por un franquiciador, a saber, asistencia en el funcionamiento o gestión de empresas industriales o comerciales
+35|Servicios publicitarios y de propaganda
+35|Servicios que comprenden el registro, la transcripción, composición, recopilación y sistematización de comunicaciones y grabaciones escritas, así como la recopilación de datos matemáticos o estadísticos
+35|Servicios que consisten en el registro, recopilación, transcripción y sistematización de comunicaciones escritas y datos
+35|Servicios relacionados con la presentación de productos al público
+35|Servicios secretariales y de oficina
+35|Sistematización de datos en bases de datos informáticas
+35|Sondeo de opinión pública
+35|Subasta a través de redes de telecomunicaciones
+35|Subasta de propiedades
+35|Subastas en línea
+35|Subastas por teléfono y televisión
+35|Suministro de consejos y recomendaciones a consumidores sobre productos con fines comerciales
+35|Suministro de información comercial, a través de Internet, redes por cable u otras formas de transferencia de datos
+35|Suministro de recomendaciones de productos a consumidores
+35|Supervisión de negocios
+35|Supervisión en gestión de negocios
+35|Suscripción a periódicos electrónicos
+35|Suscripción a un canal de televisión
+35|Suscripción a un paquete de medios informativos
+35|Suscripción a un servicio telemático, telefónico o informático (internet)
+35|Suscripciones a libros, revistas, diarios y libros de historietas
+35|Suscripciones a periódicos
+35|Tests psicotécnicos para la selección de personal
+35|Tramitación administrativa de pedidos de compra
+35|Transcripción de mensajes
+35|Transcripción taquigráfica
+35|Valoración de negocios comerciales
+35|Valoraciones en negocios comerciales y evaluaciones en asuntos de negocios

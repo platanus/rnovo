@@ -1,299 +1,512 @@
-class,reference_id,name
-29,290001,albúmina para uso culinario
-29,290002,extractos de algas para uso alimenticio
-29,290003,gelatina*
-29,290005,grasas comestibles
-29,290006,anchoas que no estén vivas
-29,290007,mantequilla de cacahuete
-29,290007,mantequilla de cacahuate
-29,290007,mantequilla de maní
-29,290008,mantequilla
-29,290008,manteca [mantequilla]
-29,290009,manteca de cacao para uso alimenticio
-29,290010,mantequilla de coco
-29,290011,crema de mantequilla
-29,290011,crema de manteca [mantequilla]
-29,290012,clara de huevo
-29,290013,morcillas
-29,290013,morongas
-29,290014,caldos
-29,290015,preparaciones para hacer caldo
-29,290016,caviar
-29,290017,frutas en conserva
-29,290018,productos de charcutería
-29,290019,patatas fritas
-29,290019,papas fritas
-29,290020,chucrut
-29,290021,coco deshidratado
-29,290022,aceite de colza para uso alimenticio
-29,290023,concentrados de caldo
-29,290024,confituras
-29,290025,frutas congeladas
-29,290026,sopas
-29,290026,consomés
-29,290027,pasas [uvas]
-29,290028,pepinillos
-29,290029,verduras, hortalizas y legumbres en conserva
-29,290030,verduras, hortalizas y legumbres cocidas
-29,290031,verduras, hortalizas y legumbres secas
-29,290032,aceites para uso alimenticio
-29,290033,nata
-29,290033,crema [producto lácteo]
-29,290034,quesos
-29,290035,frutas confitadas
-29,290035,frutas cristalizadas
-29,290035,frutas escarchadas
-29,290036,croquetas
-29,290037,crustáceos que no estén vivos
-29,290038,dátiles
-29,290039,leche
-29,290040,cangrejos de río que no estén vivos
-29,290040,acamayas que no estén vivas
-29,290041,filetes de pescado
-29,290042,cuajo
-29,290043,frutas estofadas
-29,290044,jaleas de fruta
-29,290044,gelatinas de fruta
-29,290045,pulpa de fruta
-29,290046,carne
-29,290047,pescado
-29,290048,jaleas comestibles
-29,290049,gelatinas de carne
-29,290050,carne de caza
-29,290051,mermelada de jengibre
-29,290052,granos de soja en conserva para uso alimenticio
-29,290052,granos de soya en conserva para uso alimenticio
-29,290053,materias grasas para fabricar grasas alimenticias
-29,290054,mezclas que contienen grasa para untar
-29,290055,arenques [pescado]
-29,290057,bogavantes que no estén vivos
-29,290058,aceite de maíz para uso alimenticio
-29,290059,aceite de nuez de palma para uso alimenticio
-29,290060,aceite de sésamo para uso alimenticio
-29,290061,ostras que no estén vivas
-29,290061,ostrones que no estén vivos
-29,290062,cola de pescado para uso alimenticio
-29,290063,jamón
-29,290064,yema de huevo
-29,290065,yogur
-29,290066,sopas juliana
-29,290066,sopas vegetales
-29,290067,jugos vegetales para uso culinario
-29,290068,extractos de carne
-29,290070,kéfir
-29,290071,kumis
-29,290072,bebidas lácteas en las que predomina la leche
-29,290073,suero de leche
-29,290074,productos lácteos
-29,290075,langostas que no estén vivas
-29,290076,panceta ahumada
-29,290076,beicon
-29,290076,tocino
-29,290077,lentejas en conserva
-29,290078,margarina
-29,290079,mermeladas
-29,290081,tuétano para uso alimenticio
-29,290081,caracú para uso alimenticio
-29,290082,mariscos que no estén vivos
-29,290083,mejillones que no estén vivos
-29,290084,aceite de palma para uso alimenticio
-29,290085,frutos secos preparados
-29,290086,huevos*
-29,290087,huevos en polvo
-29,290088,patés de hígado
-29,290089,cebollas en conserva
-29,290090,aceitunas en conserva
-29,290091,aceite de oliva para uso alimenticio
-29,290092,aceite de hueso para uso alimenticio
-29,290093,pectina para uso culinario
-29,290095,encurtidos
-29,290096,guisantes en conserva
-29,290096,arvejas en conserva
-29,290096,chícharos en conserva
-29,290097,salchichas
-29,290097,salchichones
-29,290098,salazones
-29,290098,cecinas [salazones]
-29,290099,preparaciones para hacer sopa
-29,290101,puré de tomate
-29,290102,ensaladas de verduras, hortalizas y legumbres
-29,290103,manteca [grasa] de cerdo
-29,290103,grasa de cerdo
-29,290104,ensaladas de frutas
-29,290104,macedonias de frutas
-29,290106,sardinas [pescado]
-29,290107,salmón [pescado]
-29,290108,sebo para uso alimenticio
-29,290109,atún [pescado]
-29,290110,jugo de tomate para uso culinario
-29,290111,aceite de girasol para uso alimenticio
-29,290112,tripas [callos]
-29,290112,mondongo [tripas]
-29,290113,trufas en conserva
-29,290114,carne de ave
-29,290115,cáscaras de fruta
-29,290115,cortezas de fruta
-29,290116,alginatos para uso culinario
-29,290117,almendras molidas
-29,290118,cacahuetes preparados
-29,290118,cacahuates preparados
-29,290118,maníes preparados
-29,290120,champiñones en conserva
-29,290120,hongos en conserva
-29,290120,setas en conserva
-29,290121,grasa de coco
-29,290122,aceite de coco para uso alimenticio
-29,290123,habas en conserva
-29,290123,alubias en conserva
-29,290123,frijoles en conserva
-29,290123,judías en conserva
-29,290123,porotos en conserva
-29,290124,hígado
-29,290125,alimentos a base de pescado
-29,290131,rodajas de fruta deshidratada
-29,290132,almejas que no estén vivas
-29,290133,frutas conservadas en alcohol
-29,290134,polen preparado para uso alimenticio
-29,290135,langostinos que no estén vivos
-29,290136,pescado en conserva
-29,290137,carne en conserva
-29,290138,gambas que no estén vivas
-29,290138,camarones que no estén vivos
-29,290139,huevos de caracol para uso alimenticio
-29,290140,tofu
-29,290141,nata montada
-29,290141,crema batida
-29,290142,carne de cerdo
-29,290143,nidos de pájaro para uso alimenticio
-29,290144,pescado enlatado [conservas]
-29,290145,harina de pescado para la alimentación humana
-29,290146,fruta enlatada [conservas]
-29,290147,carne enlatada [conservas]
-29,290148,buñuelos de patata
-29,290148,buñuelos de papa
-29,290149,pescado en salazón
-29,290149,pescado en salmuera
-29,290150,pepinos de mar [cohombros de mar] que no estén vivos
-29,290151,crisálidas de gusano de seda para la alimentación humana
-29,290152,verduras, hortalizas y legumbres enlatadas [conservas]
-29,290153,salchichas rebozadas
-29,290154,copos de patata
-29,290154,copos de papa
-29,290154,hojuelas de papa
-29,290155,compota de manzana
-29,290155,puré de manzana
-29,290156,compota de arándanos
-29,290157,tahini
-29,290158,hummus
-29,290159,algas nori [porphyra] en conserva
-29,290160,refrigerios a base de fruta
-29,290161,cuajada
-29,290162,kimchi
-29,290163,leche de soja
-29,290163,leche de soya
-29,290164,batidos de leche
-29,290165,pimientos en conserva
-29,290166,semillas de girasol preparadas
-29,290167,mousse de pescado
-29,290168,bebida a base de huevo sin alcohol
-29,290169,mousse de verduras y hortalizas
-29,290170,huevas de pescado preparadas
-29,290171,semillas preparadas*
-29,290172,aloe vera preparado para la alimentación humana
-29,290173,ajo en conserva
-29,290174,leche albuminosa
-29,290175,aceite de linaza para uso alimenticio
-29,290175,aceite de lino para uso alimenticio
-29,290176,patatas fritas con bajo contenido en grasa
-29,290176,papas fritas con bajo contenido en grasa
-29,290177,lecitina para uso culinario
-29,290178,fermentos lácteos para uso culinario
-29,290179,compotas
-29,290180,leche condensada
-29,290181,smetana
-29,290182,leche fermentada y horneada
-29,290183,leche agria
-29,290184,concentrado de tomate
-29,290185,pasta de calabacín
-29,290186,pasta de berenjena
-29,290187,leche de cacahuete para uso culinario
-29,290187,leche de cacahuate para uso culinario
-29,290187,leche de maní para uso culinario
-29,290188,leche de almendras para uso culinario
-29,290189,leche de arroz
-29,290190,alcachofas en conserva
-29,290191,arreglos de frutas procesadas
-29,290192,leche en polvo*
-29,290193,yakitori
-29,290194,bulgogi
-29,290195,frutos secos confitados
-29,290196,frutos secos aromatizados
-29,290197,avellanas preparadas
-29,290198,bayas en conserva
-29,290199,guacamole
-29,290200,aros de cebolla rebozados
-29,290200,anillos de cebolla rebozados
-29,290201,falafel
-29,290202,zumo de limón para uso culinario
-29,290202,jugo de limón para uso culinario
-29,290203,carne liofilizada
-29,290204,leche de avena
-29,290205,crema a base de verduras, hortalizas y legumbres
-29,290206,verduras, hortalizas y legumbres liofilizadas
-29,290207,aceite de oliva virgen extra para uso alimenticio
-29,290209,larvas de hormiga comestibles, preparadas
-29,290210,insectos comestibles que no estén vivos
-29,290211,maíz dulce procesado
-29,290212,pastas para untar a base de frutos secos
-29,290213,bolas de masa guisada a base de patata
-29,290214,salchichas para perritos calientes
-29,290214,salchichas para perros calientes
-29,290215,banderillas de salchicha
-29,290216,aceite de soja para uso alimenticio
-29,290217,sucedáneos de la leche
-29,290218,leche de almendras
-29,290219,leche de cacahuete
-29,290220,leche de coco
-29,290221,leche de coco para uso culinario
-29,290222,bebidas a base de leche de coco
-29,290223,leche de arroz para uso culinario
-29,290224,bebidas a base de leche de almendras
-29,290225,bebidas a base de leche de cacahuete
-29,290225,bebidas a base de leche de cacahuate
-29,290225,bebidas a base de leche de maní
-29,290226,tripas para embutidos, naturales o artificiales
-29,290227,bacalao seco salado [clipfish]
-29,290228,buñuelos de requesón
-29,290229,pasta de fruta prensada
-29,290230,piel de soja
-29,290230,nata de soja
-29,290231,hamburguesas de soja
-29,290232,hamburguesas de tofu
-29,290233,tajín [plato preparado a base de carne, pescado o verduras]
-29,290234,tempeh
-29,290235,saté
-29,290236,verduras, hortalizas y legumbres procesadas
-29,290237,frutas procesadas
-29,290238,ratatouille
-29,290239,confits de pato
-29,290240,andouillettes
-29,290241,morcillas blancas
-29,290242,cassoulet
-29,290243,chucrut con guarnición
-29,290244,tortitas de patata
-29,290245,tortillas francesas
-29,290245,omelettes
-29,290246,rollitos de col rellenos de carne
-29,290247,concentrados a base
-de verduras, hortalizas y legumbres para cocinar
-29,290248,concentrados a base de frutas para cocinar
-29,290249,pastas para untar a base de verduras, hortalizas y legumbres
-29,290250,agar-agar para uso culinario
-29,290251,moluscos que no estén vivos
-29,290252,queso quark
-29,290253,queso cottage
-29,290254,bebidas de ácidos lácticos
-29,290255,flores comestibles secas
-29,290256,jengibre cristalizado
-29,290257,jengibre en conserva
-29,290258,jengibre en vinagre
+class|name
+29|Aceite comestible
+29|Aceite de cacahuate para uso alimenticio
+29|Aceite de canola
+29|Aceite de colza
+29|Aceite de colza (para alimentación)
+29|Aceite de fibra de arroz (para alimentación)
+29|Aceite de girasol para uso alimenticio
+29|Aceite de huesos comestible
+29|Aceite de huesos para uso alimenticio
+29|Aceite de maíz
+29|Aceite de oliva para uso alimenticio
+29|Aceite de palma (producto alimenticio)
+29|Aceite de palma para uso alimenticio
+29|Aceite de salvado de arroz para uso alimenticio
+29|Aceite de semilla de uva
+29|Aceite de semillas de chía para uso alimentario
+29|Aceite de sésamo
+29|Aceite de sésamo para uso alimenticio
+29|Aceite de soja
+29|Aceite de soja para uso alimenticio
+29|Aceite y grasa de ballena para uso alimenticio
+29|Aceite y grasa de coco para uso alimenticio
+29|Aceites comestibles
+29|Aceites curtidos (aceite hidrogenado para alimentos)
+29|Aceites de oliva
+29|Aceites y grasas animales para uso alimenticio
+29|Aceites y grasas comestibles
+29|Aceites y grasas en polvo para uso alimenticio
+29|Aceites y grasas para uso alimenticio
+29|Aceites y grasas preparadas para uso alimenticio
+29|Aceites y grasas vegetales para uso alimenticio
+29|Aceitunas en conserva, secas y cocinadas
+29|Aceitunas enlatadas
+29|Aceitunas preparadas
+29|Aceitunas preparadas enlatadas
+29|Alas de pollo
+29|Albóndigas de carne
+29|Albóndigas de pollo
+29|Alga condimentada (jaban-gim)
+29|Algas deshidratadas comestibles (hoshi-wakame)
+29|Algas nori (porphyra) tostadas
+29|Algas preparadas para consumo humano
+29|Almendra molida
+29|Almendras preparadas
+29|Ancas de rana congeladas
+29|Anguilas, no vivas
+29|Arándanos secos
+29|Arrollado de huaso (embutidos)
+29|Aspic
+29|Atunes que no estén vivos
+29|Bacalao (que no esté vivo)
+29|Ballenas que no estén vivas
+29|Barritas a base de semillas y frutos secos
+29|Batatas procesadas
+29|Batidos de leche
+29|Bebidas a base de leche
+29|Bebidas a base de productos lácteos
+29|Bebidas a base de soya utilizadas como sucedáneos de la leche
+29|Bebidas a base de yogur
+29|Bebidas de leche con alto contenido de leche
+29|Bebidas de leche con cacao
+29|Bebidas de leche que contengan frutas
+29|Bebidas de yogur
+29|Bebidas hechas de yogurt
+29|Bebidas lácteas con sabor a cacao
+29|Bebidas que consisten principalmente en leche
+29|Bloques de bonito cocido, ahumado y seco (katsuobushi)
+29|Bocadillos a base de vegetales
+29|Bogavantes que no estén vivos
+29|Brotes de bambú deshidratados
+29|Brotes de bambú fermentado y preservados en sal (menma)
+29|Brotes de lirios de día comestibles deshidratados
+29|Bulbos de lirios comestibles, secos
+29|Butifarras
+29|Caballa española seca encurtida
+29|Caballa española, no viva
+29|Cacahuates preparados
+29|Calamar seco
+29|Calamares (preparados)
+29|Caldillo de congrio (sopa a base de pescado y verduras)
+29|Caldo de carne picante (yukgaejang)
+29|Caldo de hueso de buey (seolleongtang)
+29|Caldo de pescado
+29|Caldo de pollo granulado
+29|Caldo de ternera
+29|Caldos de carne
+29|Caldos preparados
+29|Camarones al coco
+29|Cangrejos de nieve, no vivos
+29|Capelán, no vivo
+29|Caquis secos (got-gam)
+29|Caracoles cocinados
+29|Caracoles de mar en rodajas
+29|Caracoles enlatados
+29|Carbonada (sopa a base de carne y verduras)
+29|Carne cocinada embotellada
+29|Carne cocinada enlatada
+29|Carne congelada
+29|Carne de ave
+29|Carne de ave y carne de caza
+29|Carne de camarón en polvo
+29|Carne de cangrejo
+29|Carne de caza
+29|Carne de cerdo deshidratada
+29|Carne de pescado en polvo
+29|Carne de ternera lechal
+29|Carne en conserva
+29|Carne enlatada
+29|Carne envasada
+29|Carne frita
+29|Carne hervida en salsa de soya (tsukudani meat)
+29|Carne preparada
+29|Carne rebanada
+29|Carne seca
+29|Carne seca (cecina)
+29|Carne y extractos de carne
+29|Carne y pescado en conserva
+29|Carne, carne de ave y carne de caza
+29|Carne, carne de ave y carne de caza en conserva
+29|Carne, pescado, fruta, verduras, hortalizas y legumbres en conserva
+29|Carne, pescado, frutas, verduras, hortalizas y legumbres enlatadas
+29|Carnes curadas
+29|Carnes y salchichas en conserva
+29|Carpas plateadas (no vivas)
+29|Carpines, no vivos
+29|Cáscaras de fruta
+29|Castañas de cajú saladas
+29|Castañas salteadas con azúcar
+29|Caviar
+29|Cazuela (sopa a base de carne o pollo, verduras y arroz)
+29|Cebollas preparadas
+29|Cebolletas encurtidas
+29|Cerdo enlatado
+29|Chalotes procesados (usados como vegetales, no como aliños)
+29|Champiñones shiitake secos
+29|Charquicán (guiso a base de charqui y verduras)
+29|Charquis (salazones) de yak (buey)
+29|Chícharos en conserva
+29|Chiles en conserva
+29|Chiles en conserva (que no sean saborizantes ni condimentos)
+29|Chips de camote morado
+29|Chips de verduras y hortalizas
+29|Chirivías procesadas
+29|Chuletas de cerdo
+29|Chunchules (interiores)
+29|Ciruelas en conserva
+29|Ciruelas pasas
+29|Claras de huevo
+29|Coco deshidratado
+29|Coco en polvo
+29|Coco rallado
+29|Codillo de jamón
+29|Col china seca
+29|Coles de Bruselas procesadas
+29|Coles de brusselas procesados
+29|Colirrábanos en escabeche
+29|Compota
+29|Compotas
+29|Concentrados de caldo
+29|Confituras y mermeladas
+29|Conservas de fruta
+29|Consomés
+29|Copos de carne de pescado secos (kezuri-bushi)
+29|Copos de kiwi
+29|Copos de melocotón
+29|Copos de papas
+29|Copos secos de alga laver para esparcir sobre arroz en agua caliente (ochazuke-nori)
+29|Corvinas amarillas, no vivas
+29|Crema artificial (sucedáneos lácteos)
+29|Crema de cacahuate para untar
+29|Crema de zapallo (hobak-juk)
+29|Crema en polvo
+29|Crema fresca
+29|Cremas de queso para untar
+29|Cremas lácteas
+29|Cremas no-lácteas
+29|Cremas para bebidas
+29|Crisálidas de gusano de seda para la alimentación humana
+29|Crustáceos que no estén vivos
+29|Cuajada
+29|Cuajo
+29|Cubitos de caldo
+29|Cubitos de sopa
+29|Curanto (plato a base de mariscos cocidos)
+29|Damasco turco
+29|Dátiles deshidratados
+29|Dátiles secos
+29|Dulce de alcayota (mermelada)
+29|Duraznos procesados
+29|Durianes secos
+29|Encurtidos
+29|Ensalada Cesar
+29|Ensalada de huevas de mújol
+29|Ensaladas antipasto
+29|Ensaladas de frutas y ensaladas de verduras, hortalizas y legumbres
+29|Ensaladas de frutas, verduras, hortalizas y legumbres
+29|Ensaladas de legumbres
+29|Escamoles (larvas de hormiga comestibles preparadas)
+29|Estofado instantáneo o precocinado
+29|Extractos de carne
+29|Extractos de carne de ave
+29|Extractos de tomate
+29|Extractos para sopas
+29|Fiambres
+29|Filete en barbacoa trozado y aliñado (bulgogi)
+29|Filetes de cerdo
+29|Filetes de pescado a la parrilla
+29|Filetes de ternera
+29|Flores de gardenia deshidratadas comestibles
+29|Foie gras
+29|Fresas secas
+29|Frittatas (tortillas italianas)
+29|Fruta confitada
+29|Fruta seca o aromatizada
+29|Frutas cocidas
+29|Frutas confitadas
+29|Frutas congeladas
+29|Frutas conservadas en alcohol
+29|Frutas cristalizadas
+29|Frutas cristalizadas, congeladas y en conserva
+29|Frutas en conserva
+29|Frutas en polvo
+29|Frutas encurtidas
+29|Frutas enlatadas
+29|Frutas enlatadas o embotelladas
+29|Frutas fermentadas
+29|Frutas secas
+29|Frutas, verduras, hortalizas y legumbres cocinadas
+29|Frutas, verduras, hortalizas y legumbres deshidratadas
+29|Frutas, verduras, hortalizas y legumbres en conserva
+29|Frutas, verduras, hortalizas y legumbres enlatadas
+29|Frutas, verduras, hortalizas y legumbres preparadas
+29|Frutos secos preparados
+29|Frutos secos tostados
+29|Gambas que no estén vivas
+29|Gambas secas
+29|Gírgolas, secas
+29|Grasa de cerdopara uso alimenticio
+29|Guisantes elaborados
+29|Harina de pescado para la alimentación humana
+29|Hígado de cerdo
+29|Hígado de rape
+29|Hojas de col verde procesadas
+29|Hojas tostadas de algas (yaki-nori)
+29|Hojuelas de mandioca
+29|Hongo velo de novia alargado seco
+29|Huevas de cangrejo, preparadas
+29|Huevas de pescado procesadas
+29|Huevas de salmonete, preparadas
+29|Huevos
+29|Huevos con sabor a té
+29|Huevos congelados
+29|Huevos de codorniz
+29|Huevos de codorniz en lata
+29|Huevos de gallina
+29|Huevos de pato
+29|Huevos en polvo
+29|Huevos marinados
+29|Huevos preparados
+29|Jalea hecha de raíz de lengua del diablo (konnyaku)
+29|Jaleas (para el pan)
+29|Jaleas comestibles
+29|Jaleas de frutas (no de confitería)
+29|Jaleas y confituras
+29|Jamón
+29|Jengibre escarchado
+29|Jugos vegetales para uso culinario
+29|Kéfir
+29|Kimchi de pepino (oi-sobagi)
+29|Kimchi de rábanos en cubos (kkakdugi)
+29|Láminas de algas secas (hoshi-nori)
+29|Langostas que no estén vivas
+29|Langostinos que no estén vivos
+29|Langostinos secos
+29|Leche
+29|Leche acidófila
+29|Leche condensada
+29|Leche de cabra
+29|Leche de cabra en polvo
+29|Leche de oveja
+29|Leche de soja
+29|Leche de soja (leche de soya)
+29|Leche de soya en polvo
+29|Leche de vaca
+29|Leche deshidratada
+29|Leche deshidratada para uso alimenticio
+29|Leche en polvo
+29|Leche en polvo para uso alimenticio
+29|Leche evaporada
+29|Leche fermentada
+29|Leche orgánica
+29|Leche saborizada
+29|Lenguados, no vivos
+29|Lentejas secas
+29|Lichis secos
+29|Liebres de mar deshidratadas (mariscos)
+29|Longan seco
+29|Maíz dulce congelado
+29|Maíz en conserva
+29|Malaya (embutidos)
+29|Mangos deshidratados
+29|Maní japonés (maní preparado)
+29|Manteca (grasa) de cerdo
+29|Mantequilla
+29|Mantequilla clarificada
+29|Mantequilla de cacahuete
+29|Mantequilla de miel
+29|Mantequillas de cacahuete en polvo
+29|Manzanas procesadas
+29|Margarina
+29|Margarina, aceites y grasas comestibles
+29|Marisco procesado
+29|Mariscos enlatados
+29|Mariscos hervidos en salsa de soya (tsukudani)
+29|Mariscos que no estén vivos
+29|Medusas saladas
+29|Mermelada de arándano
+29|Mermeladas
+29|Mermeladas de arándanos
+29|Mermeladas y jaleas
+29|Mezcla de aceite para uso alimenticio
+29|Mezcla de frutas secas
+29|Mezclas para elaborar caldos
+29|Mezclas para elaborar sopa
+29|Mezclas para sopas
+29|Mollejas de pato
+29|Mollejas de pollo
+29|Mortadela
+29|Mousse de pollo
+29|Muslos de pollo
+29|Nabo deshidratado
+29|Ñames chinos secos
+29|Naranjas en conserva y aplastadas
+29|Naranjas procesadas
+29|Nata montada
+29|Nueces confitadas
+29|Nueces de macadamia preparadas
+29|Nueces de pecan, preparadas
+29|Nueces de torreya china preparadas
+29|Nueces preparadas
+29|Nuggets de pollo
+29|Okra deshidratada
+29|Paila marina (sopa a base de pescado y mariscos)
+29|Panceta ahumada
+29|Panceta de cerdo grillada (samgyeopsal)
+29|Papas dulces procesadas (camote)
+29|Papas fritas
+29|Papas peladas
+29|Papas rellenas
+29|Papayas secas
+29|Pasas rubias
+29|Pasta de frijol aliñada
+29|Pasta de gambas
+29|Pasta de garbanzo (humus)
+29|Pastas de aceituna
+29|Pastas para hacer sopa
+29|Pastas para untar hechas a base de legumbres
+29|Pastel de choclo (plato en base a pasta de maíz relleno con carne o pollo y huevo)
+29|Pastelera de choclo (plato en base a pasta de maíz)
+29|Pasteles de carne preparados
+29|Pasteles de pescado
+29|Pastrami
+29|Patas de cerdo encurtidas
+29|Patas de pato para consumo humano
+29|Patas de pollo para consumo humano
+29|Patatas fritas
+29|Patatas fritas con bajo contenido en grasas
+29|Patatas fritas en forma de gofre
+29|Patés de hígado
+29|Patos salados prensados
+29|Pepinos de mar (cohombros de mar) que no estén vivos
+29|Percas, no vivas
+29|Pescado
+29|Pescado ahumado
+29|Pescado embotellado
+29|Pescado en conserva
+29|Pescado enlatado
+29|Pescado procesado
+29|Piel de tofu
+29|Piezas de jalea de agar secas (kanten)
+29|Piezas de tofu fritas (abura age)
+29|Piezas de tofu liofilizadas (kohri dofu)
+29|Piñas secas
+29|Piñones confitados
+29|Piñones preparados
+29|Pistachos preparados
+29|Platijas (pescado), no vivas
+29|Plato cocinado consistente en carne frita y salsa de soya fermentada (sogalbi)
+29|Platos cocinados consistentes en pollo frito y pasta de pimentones fermentada (dak-galbi)
+29|Platos cocinados elaborados con carne
+29|Polen de pino preparado para uso alimenticio
+29|Polen preparado para uso alimenticio
+29|Porotos cocidos
+29|Porotos de soya en conserva de uso alimenticio
+29|Preparaciones de legumbres como sucedáneos de la carne para hamburguesas
+29|Preparaciones para elaborar sopas
+29|Preparaciones para sopas
+29|Prietas (embutidos)
+29|Productos cárnicos procesados
+29|Prosciutto (jamón)
+29|Pulpa de fruta
+29|Pulpas de fruta
+29|Pupas de abejas procesadas para consumo humano
+29|Puré de aceitunas preparado
+29|Puré de champiñones
+29|Puré de verduras, hortalizas y legumbres
+29|Purés de patata
+29|Queso blanco
+29|Queso blanco curado suave
+29|Queso blanco suave
+29|Queso cheddar
+29|Queso crema
+29|Queso curado
+29|Queso de oveja
+29|Queso en polvo
+29|Queso madurado
+29|Queso madurado en moho
+29|Queso mezclado
+29|Queso preparado
+29|Quesos
+29|Quesos de pasta blanda
+29|Quesos frescos sin madurar
+29|Quesos madurados
+29|Quesos madurados con mohos
+29|Ragú de carne de vacuno
+29|Ratatouille (hortalizas guisadas)
+29|Refrigerios a base de maíz dulce
+29|Rellenos a base de frutas para pasteles y tartas
+29|Requesón de soja
+29|Rodajas de carne
+29|Rodajas de manzana
+29|Rodajas de plátano o banana
+29|Salami
+29|Salazones
+29|Salchicha blanca
+29|Salchichas
+29|Salchichas polacas
+29|Salchichas secadas al aire
+29|Salchichas sin cocinar
+29|Salchichas vegetarianas
+29|Sebo vacuno paras uso alimenticio
+29|Semillas de chía procesadas para alimentación
+29|Semillas de girasol procesadas
+29|Semillas de sandía procesadas
+29|Semillas de sésamo cocidas, que no sean condimentos ni saborizantes
+29|Semillas de sésamo tostadas y molidas
+29|Shashliks (brochetas de carne)
+29|Sólidos de leche
+29|Solla, no viva
+29|Sopa de miso
+29|Sopa de miso instantánea o precocinada
+29|Sopa instantánea o precocinada
+29|Sopas y preparaciones para hacer sopas
+29|Soya fermentada (natto)
+29|Sucedáneos de carne de cangrejo
+29|Sucedáneos de la carne, a saber carne a base de verduras
+29|Sucedáneos de la leche a base de plantas
+29|Sucedáneos de leche para café consistentes principalmente de productos lácteos
+29|Sucedáneos de queso
+29|Sucedáneos de yogur hechos a base de frutas
+29|Sucedáneos de yogur hechos a base de frutos secos
+29|Sucedáneos de yogur hechos a base de vegetales
+29|Sucedáneos no lácteos de la leche
+29|Suero de leche
+29|Suero de leche seco
+29|Ternera
+29|Tofu
+29|Tofu fermentado
+29|Tofu no coagulado (Tofu nao)
+29|Tomate en conserva
+29|Tomates enlatados
+29|Tomates pelados
+29|Tomaticán (guiso de carne con tomates, maíz y otras verduras)
+29|Tortas al vapor de pescado molido y batata (hampen)
+29|Tortas al vapor o tostadas de pasta de pescado (kamaboko)
+29|Tortas de pasta de pescado ahumado en forma de tubos (chikuwa)
+29|Tortilla de patata dorada
+29|Tortillas francesas (omelettes)
+29|Tortillas hechas a base de verduras
+29|Tripa de cerdo
+29|Tripas de salchicha
+29|Tripas de ternera
+29|Trozos de tocino
+29|Truchas, no vivas
+29|Trufas en conserva
+29|Trufas secas (hongos comestibles)
+29|Urechis unicinctus (lombrices de mar) comestibles, no vivos
+29|Vegetales en vinagre
+29|Vegetales enlatados o embotellados
+29|Vegetales fermentados (kimchi)
+29|Vegetales instantáneos congelados
+29|Vejigas de pescado
+29|Verduras en polvo
+29|Verduras fermentadas
+29|Verduras saladas
+29|Verduras, hortalizas y legumbres cocidas
+29|Verduras, hortalizas y legumbres congeladas
+29|Verduras, hortalizas y legumbres deshidratadas
+29|Verduras, hortalizas y legumbres en conserva
+29|Verduras, hortalizas y legumbres en conserva de aceite
+29|Verduras, hortalizas y legumbres en conserva, secas y cocinadas
+29|Verduras, hortalizas y legumbres encurtidas
+29|Verduras, hortalizas y legumbres enlatadas
+29|Vieiras secas
+29|Virutas comestibles de alga marina seca (tororo-kombu)
+29|Vísceras para hacer envolturas de embutidos
+29|Yemas de huevo
+29|Yogur
+29|Yogur para beber
+29|Yogures tipo natilla
+29|Zanahorias peladas

@@ -1,153 +1,388 @@
-class,reference_id,name
-37,370001,conservación de muebles
-37,370002,reparación de aparatos fotográficos
-37,370003,instalación y reparación de aparatos eléctricos
-37,370004,instalación y reparación de ascensores
-37,370005,asfaltado
-37,370006,mantenimiento y reparación de vehículos a motor
-37,370006,mantenimiento y reparación de vehículos de motor
-37,370008,mantenimiento y reparación de aviones
-37,370009,limpieza de edificios [interiores]
-37,370010,servicios de lavandería
-37,370011,limpieza y reparación de calderas
-37,370012,mantenimiento y reparación de quemadores
-37,370013,alquiler de buldóceres
-37,370014,instalación, mantenimiento y reparación de máquinas y equipos de oficina
-37,370015,instalación y reparación de alarmas contra incendios
-37,370016,instalación y reparación de alarmas antirrobo
-37,370017,reparación de tapicerías
-37,370018,mantenimiento y reparación de cámaras blindadas
-37,370020,alquiler de máquinas de construcción
-37,370021,construcción naval
-37,370022,renovación de prendas de vestir
-37,370024,instalación y reparación de sistemas de calefacción
-37,370025,servicios de zapatería
-37,370025,reparación de calzado
-37,370026,deshollinado de chimeneas
-37,370027,mantenimiento y reparación de cajas fuertes
-37,370028,instalación y reparación de aparatos de aire acondicionado
-37,370029,construcción*
-37,370030,construcción submarina
-37,370031,supervisión [dirección] de obras de construcción
-37,370032,compostura de prendas de vestir
-37,370034,mantenimiento, limpieza y reparación del cuero
-37,370035,instalación de equipos de cocinas
-37,370036,demolición de edificios
-37,370037,tratamiento contra la herrumbre
-37,370037,tratamiento contra la oxidación
-37,370038,desinfección
-37,370040,pintura o reparación de letreros [rótulos]
-37,370041,instalación y reparación de almacenes [depósitos]
-37,370042,impermeabilización de construcciones
-37,370044,alquiler de excavadoras
-37,370045,limpieza de ventanas
-37,370045,limpieza de cristales de ventana
-37,370046,reparación y mantenimiento de proyectores de cine
-37,370047,instalación y reparación de hornos
-37,370048,mantenimiento, limpieza y reparación de pieles
-37,370049,engrase de vehículos
-37,370049,lubricación de vehículos
-37,370050,limpieza de prendas de vestir
-37,370051,reparación de relojes
-37,370052,construcción de fábricas
-37,370053,instalación y reparación de dispositivos de riego
-37,370054,servicios de aislamiento [construcción]
-37,370054,aislamiento de construcciones
-37,370055,lavado de vehículos
-37,370056,lavado de ropa
-37,370057,lavado
-37,370058,instalación, mantenimiento y reparación de máquinas
-37,370059,albañilería
-37,370060,restauración de muebles
-37,370061,construcción de rompeolas
-37,370062,planchado de prendas de vestir
-37,370063,instalación y mantenimiento de oleoductos
-37,370064,colocación de papel pintado
-37,370064,trabajos de empapelado
-37,370064,colocación de papel tapiz
-37,370065,reparación de paraguas
-37,370066,reparación de sombrillas
-37,370067,acolchado de muebles
-37,370068,trabajos de pintura para interiores y exteriores
-37,370069,apomazado
-37,370070,trabajos de yesería
-37,370071,trabajos de fontanería
-37,370071,trabajos de plomería
-37,370072,pulido de vehículos
-37,370073,reparación de bombas
-37,370074,construcción de puertos
-37,370077,recauchutado de neumáticos
-37,370078,instalación y reparación de aparatos de refrigeración
-37,370079,planchado de ropa
-37,370080,restañado
-37,370081,remache
-37,370082,tratamiento antioxidante para vehículos
-37,370082,tratamiento preventivo contra la herrumbre para vehículos
-37,370082,tratamiento preventivo contra la oxidación para vehículos
-37,370083,estaciones de servicio [reabastecimiento de carburante y mantenimiento]
-37,370084,instalación y reparación de teléfonos
-37,370085,mantenimiento de vehículos
-37,370086,trabajos de barnizado
-37,370087,limpieza de vehículos
-37,370089,servicios de reparación en caso de avería de vehículos
-37,370090,alquiler de máquinas de limpieza
-37,370091,exterminación de animales dañinos que no sea para la agricultura, la acuicultura, la horticultura y la silvicultura
-37,370093,montaje de andamios
-37,370101,colocación de ladrillos [albañilería]
-37,370102,limpieza de pañales
-37,370103,limpieza en seco
-37,370104,suministro de información sobre construcción
-37,370105,suministro de información sobre reparaciones
-37,370106,afilado de cuchillos
-37,370107,extracción minera
-37,370108,explotación de canteras
-37,370109,pavimentación de carreteras
-37,370110,lijado
-37,370111,reparación submarina
-37,370112,limpieza de edificios [fachadas]
-37,370113,vulcanización de neumáticos [reparación]
-37,370114,perforación de pozos
-37,370115,construcción de puestos de feria y de tiendas
-37,370116,instalación, mantenimiento y reparación de hardware
-37,370117,supresión de interferencias de instalaciones eléctricas
-37,370118,reconstrucción de motores usados o parcialmente destruidos
-37,370119,reconstrucción de máquinas usadas o parcialmente destruidas
-37,370120,alquiler de grúas [máquinas de construcción]
-37,370121,alquiler de máquinas barredoras
-37,370122,servicios de techado
-37,370123,servicios de nevado artificial
-37,370124,limpieza vial
-37,370125,reparación de cerraduras
-37,370126,restauración de obras de arte
-37,370127,restauración de instrumentos musicales
-37,370128,instalación de puertas y ventanas
-37,370129,mantenimiento de piscinas
-37,370129,mantenimiento de albercas de natación
-37,370129,mantenimiento de piletas de natación
-37,370130,servicios de recarga de cartuchos de tóner
-37,370131,consultoría sobre construcción
-37,370132,servicios de carpintería estructural
-37,370133,perforación de pozos profundos de gas y petróleo
-37,370134,alquiler de bombas de drenaje
-37,370135,alquiler de lavarropas
-37,370135,alquiler de máquinas de lavandería
-37,370136,reparación de líneas eléctricas
-37,370137,servicios de recarga de baterías de vehículos
-37,370138,equilibrado de neumáticos
-37,370138,balanceo de neumáticos
-37,370139,afinación de instrumentos de música
-37,370140,colocación de cables
-37,370141,esterilización de instrumentos médicos
-37,370142,servicios de fracturación hidráulica
-37,370143,servicios de control de plagas, que no guarden relación con la agricultura, la acuicultura, la horticultura y la silvicultura
-37,370144,alquiler de lavavajillas
-37,370145,alquiler de máquinas para secar la vajilla
-37,370146,instalación de servicios públicos en obras de construcción
-37,370147,servicios de electricistas
-37,370148,instalación y reparación de equipos de protección contra inundaciones
-37,370149,retirada de nieve
-37,370150,servicios de recarga de cartuchos de tinta
-37,370151,recarga de vehículos eléctricos
-37,370152,servicios domésticos [servicios de limpieza]
-37,370153,servicios de recarga de baterías para teléfonos celulares
-37,370153,servicios de recarga de baterías para teléfonos móviles
+class|name
+37|Abrillantado de calzado
+37|Acolchado de muebles
+37|Acristalamientos (trabajos con cristal)
+37|Actualización de hardware informático
+37|Afilado de tijeras y cuchillos de cocina
+37|Albañilería
+37|Alquiler de andamios y plataformas para la construcción
+37|Alquiler de aparatos para lavado de automóviles
+37|Alquiler de bombas para drenar
+37|Alquiler de bulldozers
+37|Alquiler de compresores de gas y aire
+37|Alquiler de equipo de telecomunicaciones incluidos los teléfonos y máquinas de fax
+37|Alquiler de lavaplatos para uso doméstico
+37|Alquiler de lavavajillas para uso industrial
+37|Alquiler de máquinas de construcción
+37|Alquiler de máquinas lavadoras eléctricas
+37|Alquiler de máquinas para la limpieza de alfombras
+37|Alquiler de máquinas y aparatos para la construcción
+37|Alquiler de plataformas de perforación
+37|Alquiler de secadoras de lavandería
+37|Alquiler de secadoras de ropa
+37|Alquiler de trapeadores
+37|Alquiler máquinas limpiadoras de pisos
+37|Andamiaje, excavaciones o construcción en concreto
+37|Aplicación de revestimientos en edificios
+37|Arreglo de ropa
+37|Asesoramiento en construcción
+37|Asesoramiento en materia de edificación
+37|Asfaltado
+37|Balanceo de neumáticos
+37|Bombeo de petróleo
+37|Bombeo de petróleo crudo
+37|Bombeo y extracción de petróleo
+37|Cableado de telecomunicación
+37|Colocación de alfombras
+37|Colocación de baldosas, ladrillos o bloques
+37|Colocación de ladrillos
+37|Colocación de papel tapiz
+37|Construcción de aeropuertos
+37|Construcción de carreteras
+37|Construcción de centrales de energía undimotriz
+37|Construcción de centrales eólicas
+37|Construcción de centros comerciales, áreas habitacionales y plantas de fabricación
+37|Construcción de edificios
+37|Construcción de establecimientos médicos
+37|Construcción de estructuras para el almacenamiento de gas natural
+37|Construcción de estructuras para el almacenamiento de petróleo crudo
+37|Construcción de estructuras para la producción de gas natural
+37|Construcción de estructuras para la producción de petróleo crudo
+37|Construcción de fábricas hidroeléctricas
+37|Construcción de instalaciones de energía geotérmica
+37|Construcción de oleoductos
+37|Construcción de terrazas interiores acristaladas
+37|Construcción de viviendas
+37|Construcción naval
+37|Construcción submarina
+37|Construcción y reparación de edificios
+37|Consultoría en supervisión de obras de construcción
+37|Control de plagas para casa residenciales
+37|Control de plagas relativo a edificios
+37|Demolición de construcciones
+37|Demolición de edificios
+37|Deshollinado de chimeneas
+37|Desinfección
+37|Desinfección de auriculares telefónicos
+37|Desinfección de instrumentos quirúrgicos
+37|Desinfección de vajilla
+37|Desmantelamiento de buques
+37|Dragado submarino
+37|Edificación de tiendas comerciales
+37|Eliminación de amianto
+37|Explotación de canteras
+37|Exterminación de animales dañinos que no sea para la agricultura
+37|Exterminación de animales dañinos que no sea para la agricultura, horticultura o silvicultura
+37|Extracción de petróleo
+37|Facilitación de información sobre servicios de reparación en el sector de la aviación
+37|Facilitación de instalaciones de autoservicio para el lavado de coches
+37|Fontanería e instalación de gas y agua
+37|Impermeabilización de construcciones
+37|Impermeabilización de edificios
+37|Información con relación a la construcción, reparación y mantenimiento de aeronaves
+37|Información relativa al alquiler de equipo para construcciones y edificios
+37|Información sobre mantenimiento de equipo de medición y comprobación
+37|Inspección de vehículos y/o edificios previo a su reparación y/o mantención
+37|Instalación de aislamientos en obras de construcción
+37|Instalación de aparatos de iluminación
+37|Instalación de aparatos de producción de petróleo
+37|Instalación de canalones para la lluvia
+37|Instalación de conexiones electrónicas y digitales en un centro de llamadas o call center
+37|Instalación de elevadores
+37|Instalación de líneas de teléfonos
+37|Instalación de los productos de fundición
+37|Instalación de maquinaria eléctrica y de generadores
+37|Instalación de materiales aislantes
+37|Instalación de oleoductos
+37|Instalación de pararrayos
+37|Instalación de productos de impermeabilización de sótanos
+37|Instalación de puertas y ventanas
+37|Instalación de techos metálicos
+37|Instalación o reparación de cerraduras
+37|Instalación personalizada de interiores de automóvil
+37|Instalación y mantenimiento de instalaciones fotovoltaicas
+37|Instalación y mantenimiento de instalaciones termosolares
+37|Instalación y mantenimiento de oleoductos
+37|Instalación y reparación de aparatos de aire acondicionado
+37|Instalación y reparación de ascensores
+37|Instalación y reparación de hardware informático
+37|Instalación y reparación de sistemas de calefacción
+37|Instalación, mantenimiento y reparación de aparatos de oficina
+37|Instalación, mantenimiento y reparación de hardware informático
+37|Instalación, modificación, sustitución y reparación de cerraduras
+37|Instalación, reparación y mantenimiento de computadoras y periféricos informáticos
+37|Instalaciones de lavado y secado de ropa
+37|Lavado de ropa
+37|Lavado textil
+37|Limpieza de alfombras y tapetes
+37|Limpieza de calzado
+37|Limpieza de edificios
+37|Limpieza de fosas sépticas
+37|Limpieza de instalaciones industriales
+37|Limpieza de las superficies exteriores de los edificios
+37|Limpieza de superficies exteriores de edificios
+37|Limpieza de tanques de almacenamiento
+37|Limpieza de ventanas
+37|Limpieza en seco
+37|Limpieza exterior e interior de aviones
+37|Limpieza fachadas de edificios
+37|Limpieza vial
+37|Limpieza y lavado de vehículos
+37|Loteo y urbanización de terrenos para la construcción
+37|Lubricación de vehículos
+37|Mantenimiento de acuarios
+37|Mantenimiento de aparatos e instrumentos para uso médico
+37|Mantenimiento de aparatos electrónicos
+37|Mantenimiento de cocinas no eléctricas
+37|Mantenimiento de hardware informático
+37|Mantenimiento de piscinas
+37|Mantenimiento de tuberías
+37|Mantenimiento de vehículos
+37|Mantenimiento o reparación de cajas fuertes
+37|Mantenimiento y reparación de aeronaves
+37|Mantenimiento y reparación de centrales eólicas
+37|Mantenimiento y reparación de edificios
+37|Mantenimiento y reparación de instalaciones de calefacción
+37|Mantenimiento y reparación de quemadores
+37|Mantenimiento y reparación de vehículos
+37|Mantenimiento y reparación de vehículos a motor
+37|Mantenimiento y reparación de vehículos eléctricos
+37|Obras de dragado
+37|Pavimentación de carreteras
+37|Perforación de pozos
+37|Perforación de pozos de agua
+37|Perforación de pozos petroleros
+37|Perforación para gas y petróleo
+37|Perforación y bombeo de petróleo
+37|Pintado de aeronaves
+37|Pintado de señales
+37|Pintura y barnizado
+37|Pintura y reparación de señales
+37|Planchado a vapor de prendas de vestir
+37|Provisión de instalaciones de lavandería
+37|Provisión de lavanderías autoservicio
+37|Pulido de concreto
+37|Pulido de pisos
+37|Pulido de vehículos
+37|Pulverización de insecticidas para edificios comerciales
+37|Pulverización de insecticidas para hogares
+37|Recarga de cartuchos de tóner
+37|Recauchado de neumáticos
+37|Recuperación del terreno
+37|Refuerzo de edificios
+37|Reparación de aeronaves
+37|Reparación de aparatos de filtrado de aire
+37|Reparación de aparatos de iluminación
+37|Reparación de aparatos de suministro de agua
+37|Reparación de aparatos eléctricos de consumo
+37|Reparación de aparatos electrónicos
+37|Reparación de aparejos de pesca
+37|Reparación de ascensores
+37|Reparación de aspiradoras
+37|Reparación de automóviles
+37|Reparación de bañeras
+37|Reparación de bicicletas
+37|Reparación de binoculares
+37|Reparación de bolsas y bolsos
+37|Reparación de bombas
+37|Reparación de cámaras
+37|Reparación de cámaras fotográficas
+37|Reparación de camiones
+37|Reparación de cocinas no eléctricas
+37|Reparación de colchonetas de tatami
+37|Reparación de computadoras dañadas
+37|Reparación de edificios
+37|Reparación de equipo para billar
+37|Reparación de equipo para deportes
+37|Reparación de filtros de leche
+37|Reparación de gafas
+37|Reparación de grúas
+37|Reparación de joyas
+37|Reparación de juguetes o muñecas
+37|Reparación de maletas
+37|Reparación de máquinas de fax
+37|Reparación de máquinas electrónicas
+37|Reparación de máquinas y aparatos para trabajar el metal
+37|Reparación de marcos para puertas
+37|Reparación de paneles publicitarios
+37|Reparación de paraguas
+37|Reparación de persianas de ventanas
+37|Reparación de radios o televisores
+37|Reparación de remolques
+37|Reparación de ropa de vestir
+37|Reparación de señales
+37|Reparación de tapicerías
+37|Reparación de teléfonos
+37|Reparación o mantenimiento de alarmas de incendio
+37|Reparación o mantenimiento de aparatos de aire acondicionado para uso industrial
+37|Reparación o mantenimiento de aparatos de cocina para uso industrial
+37|Reparación o mantenimiento de aparatos de depuración del agua para uso industrial
+37|Reparación o mantenimiento de aparatos e instrumentos de laboratorio
+37|Reparación o mantenimiento de aparatos purificar para agua
+37|Reparación o mantenimiento de aparatos telefónicos
+37|Reparación o mantenimiento de automóviles
+37|Reparación o mantenimiento de bombas
+37|Reparación o mantenimiento de calderas
+37|Reparación o mantenimiento de calentadores de gas para agua
+37|Reparación o mantenimiento de computadoras
+37|Reparación o mantenimiento de cortadoras de forraje
+37|Reparación o mantenimiento de distribuidores automáticos
+37|Reparación o mantenimiento de distribuidores de energía o de máquinas y aparatos de control
+37|Reparación o mantenimiento de elevadores
+37|Reparación o mantenimiento de equipo de gasolineras
+37|Reparación o mantenimiento de equipos de control de contaminación de aguas
+37|Reparación o mantenimiento de generadores de fuerza
+37|Reparación o mantenimiento de hogares (chimeneas) para uso industrial
+37|Reparación o mantenimiento de iluminación eléctrica
+37|Reparación o mantenimiento de incubadoras de huevos
+37|Reparación o mantenimiento de incubadoras de pollos
+37|Reparación o mantenimiento de instalaciones de lavado de vehículos
+37|Reparación o mantenimiento de instrumentos musicales
+37|Reparación o mantenimiento de máquinas de costura
+37|Reparación o mantenimiento de máquinas e implementos agrícolas
+37|Reparación o mantenimiento de máquinas e implementos para cosechar
+37|Reparación o mantenimiento de máquinas e instrumentos de medición y comprobación
+37|Reparación o mantenimiento de máquinas e instrumentos de sericultura
+37|Reparación o mantenimiento de máquinas e instrumentos para cultivar
+37|Reparación o mantenimiento de máquinas e instrumentos para la fabricación de zapatos
+37|Reparación o mantenimiento de máquinas e instrumentos para procesar fibras de plantas
+37|Reparación o mantenimiento de máquinas eléctricas de limpieza de suelos
+37|Reparación o mantenimiento de máquinas lavadoras para uso industrial
+37|Reparación o mantenimiento de máquinas lavavajillas para uso industrial
+37|Reparación o mantenimiento de máquinas médicas
+37|Reparación o mantenimiento de máquinas ordeñadoras
+37|Reparación o mantenimiento de máquinas para uso en salones de belleza y barberías
+37|Reparación o mantenimiento de máquinas y aparatos cinematográficos
+37|Reparación o mantenimiento de máquinas y aparatos de buceo
+37|Reparación o mantenimiento de máquinas y aparatos de carga y descarga
+37|Reparación o mantenimiento de máquinas y aparatos de congelación
+37|Reparación o mantenimiento de máquinas y aparatos de embalaje y envoltura
+37|Reparación o mantenimiento de máquinas y aparatos de fotográficos
+37|Reparación o mantenimiento de máquinas y aparatos de imprimir y encuadernar
+37|Reparación o mantenimiento de máquinas y aparatos de minería
+37|Reparación o mantenimiento de máquinas y aparatos de oficina
+37|Reparación o mantenimiento de máquinas y aparatos de plantas de energía nuclear
+37|Reparación o mantenimiento de máquinas y aparatos de prensado de basura
+37|Reparación o mantenimiento de máquinas y aparatos de telecomunicación
+37|Reparación o mantenimiento de máquinas y aparatos de videofrecuencia
+37|Reparación o mantenimiento de máquinas y aparatos fabricación de pulpa y papel
+37|Reparación o mantenimiento de máquinas y aparatos ópticos
+37|Reparación o mantenimiento de máquinas y aparatos para aplastar y triturar basura
+37|Reparación o mantenimiento de máquinas y aparatos para la construcción
+37|Reparación o mantenimiento de máquinas y aparatos para la fabricación de artículos de cristalería
+37|Reparación o mantenimiento de máquinas y aparatos para la fabricación de productos de caucho
+37|Reparación o mantenimiento de máquinas y aparatos para la industria maderera
+37|Reparación o mantenimiento de máquinas y aparatos para la preparación de alimentos y bebidas
+37|Reparación o mantenimiento de máquinas y aparatos para pintar
+37|Reparación o mantenimiento de máquinas y aparatos recreativos
+37|Reparación o mantenimiento de máquinas y aparatos textiles
+37|Reparación o mantenimiento de máquinas y herramientas para trabajar los metales
+37|Reparación o mantenimiento de máquinas y sistemas de fabricación de circuitos integrados
+37|Reparación o mantenimiento de máquinas y sistemas para la fabricación de semiconductores
+37|Reparación o mantenimiento de material rodante ferroviario
+37|Reparación o mantenimiento de mezcladoras de forraje
+37|Reparación o mantenimiento de molinos de forraje
+37|Reparación o mantenimiento de motores eléctricos
+37|Reparación o mantenimiento de navíos
+37|Reparación o mantenimiento de ollas y sartenes de cocina
+37|Reparación o mantenimiento de plantas químicas
+37|Reparación o mantenimiento de prensas de forraje
+37|Reparación o mantenimiento de relojes
+37|Reparación o mantenimiento de retroproyectores
+37|Reparación o mantenimiento de sistemas mecánicos para aparcamientos
+37|Reparación o mantenimiento de transportadoras
+37|Reparación o mantenimiento de vehículos automóviles de dos ruedas o bicicletas
+37|Reparación y acabado de carrocerías de automóviles para terceros
+37|Reparación y conservación de edificios en caso del demolición
+37|Reparación y mantenimiento de alimentadores o bombas para aumentar la presión
+37|Reparación y mantenimiento de andamios y plataformas para la construcción
+37|Reparación y mantenimiento de audífonos para sordos
+37|Reparación y mantenimiento de bombas
+37|Reparación y mantenimiento de impresoras 3D
+37|Reparación y mantenimiento de máquinas y aparatos de juego
+37|Reparación y mantenimiento de máquinas y aparatos de oficina
+37|Reparación y mantenimiento de máquinas y aparatos de procesamiento químico
+37|Reparación y mantenimiento de máquinas y aparatos de telecomunicación
+37|Reparación y mantenimiento de máquinas y aparatos para el procesar materias plásticas
+37|Reparación y mantenimiento de máquinas y aparatos para procesar tabaco
+37|Reparación y mantenimiento de máquinas y aparatos para uso médico
+37|Reparación y mantenimiento de proyectores de cine
+37|Reparación y mantenimiento de tanques de almacenamiento
+37|Reparación y mantenimiento de teléfonos inteligentes
+37|Reparación y mantenimiento de vehículos
+37|Reparación y restauración de libros
+37|Reparación, servicio y mantenimiento de vehículos y aparatos de locomoción aérea
+37|Repostaje con hidrógeno para vehículos
+37|Restauración de edificios
+37|Restauración de instrumentos musicales
+37|Restauración de mobiliario
+37|Restauración de muros y estructuras de mampostería
+37|Restauración de obras de arte
+37|Restauración de sombreros
+37|Restauración de tejados
+37|Restauración, reparación y mantenimiento de muebles
+37|Servicios de afinado de instrumentos musicales
+37|Servicios de ajuste de esquís
+37|Servicios de aseo
+37|Servicios de asesoramiento en materia de demolición de edificios
+37|Servicios de asesoramiento en materia de instalación de aparatos de iluminación
+37|Servicios de asesoramiento en materia de instalación de ascensores
+37|Servicios de asesoramiento en materia de instalación de equipos audiovisuales
+37|Servicios de asesoramiento en materia de instalación de equipos de telefonía
+37|Servicios de asesoramiento relacionados con el mantenimiento de edificios
+37|Servicios de asesoramiento relacionados con la colocación de tubos
+37|Servicios de asesoramiento relacionados con la excavación
+37|Servicios de asesoramiento relacionados con la reparación de vehículos
+37|Servicios de cantería
+37|Servicios de construcción de edificios
+37|Servicios de deshielo para aviones
+37|Servicios de fumigación de edificios.
+37|Servicios de impermeabilización contra humedades
+37|Servicios de instalación de andamios para edificios y plataformas de trabajo
+37|Servicios de instalación de elevadores y montacargas
+37|Servicios de lavandería
+37|Servicios de levantamiento de hormigón
+37|Servicios de limpieza
+37|Servicios de limpieza de aparatos de aire acondicionado
+37|Servicios de limpieza de baños
+37|Servicios de limpieza de campanas extractoras
+37|Servicios de limpieza de desagües
+37|Servicios de limpieza de escaleras mecánicas
+37|Servicios de limpieza de escenarios de crímenes
+37|Servicios de limpieza de piscinas de natación
+37|Servicios de limpieza de tapicerías
+37|Servicios de mantenimiento y reparación de aeronaves
+37|Servicios de marcado de pavimentos
+37|Servicios de nevado artificial
+37|Servicios de nivelación de hormigón
+37|Servicios de pintura decorativa
+37|Servicios de pintura decorativa de interiores
+37|Servicios de reacondicionamiento de apartamentos
+37|Servicios de reacondicionamiento de automóviles
+37|Servicios de reacondicionamiento de edificios
+37|Servicios de remover nieve
+37|Servicios de reparación de aparatos médicos
+37|Servicios de reparación de carretillas elevadoras
+37|Servicios de reparación de cerraduras
+37|Servicios de reparación de ordenadores
+37|Servicios de reparación de relojes
+37|Servicios de reparación de vehículos
+37|Servicios de reparación para generadores eléctricos y turbinas de viento
+37|Servicios de repostaje de aeronaves
+37|Servicios de repostaje de vehículos
+37|Servicios de restauración de libros antiguos
+37|Servicios de restauración de trabajos de caligrafía
+37|Servicios de supresión de interferencias para aparatos eléctricos
+37|Servicios de techado
+37|Servicios de zapatería
+37|Servicios domésticos relacionados con la limpieza de casas u oficinas
+37|Siderurgias
+37|Supervisión (dirección) de obras de construcción
+37|Tendido de cables
+37|Trabajo de reparación en edificios
+37|Trabajos de fontanería
+37|Trabajos de pintura para interiores y exteriores
+37|Trabajos de yesería
+37|Tratamiento antioxidante para vehículos
+37|Tratamiento contra la herrumbre
+37|Vulcanización (reparación) de neumáticos

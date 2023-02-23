@@ -1,51 +1,198 @@
-class,reference_id,name
-38,380003,radiodifusión
-38,380004,envío de mensajes
-38,380005,teledifusión
-38,380006,transmisión de telegramas
-38,380007,servicios telegráficos
-38,380008,comunicaciones telegráficas
-38,380009,servicios de telefonía
-38,380010,comunicaciones telefónicas
-38,380011,servicios de télex
-38,380012,servicios de agencias de noticias
-38,380021,teledifusión por cable
-38,380022,servicios de comunicación por telefonía móvil
-38,380023,comunicaciones por terminales de ordenador
-38,380023,comunicaciones por terminales de computadora
-38,380024,transmisión de mensajes e imágenes asistida por ordenador
-38,380024,transmisión de mensajes e imágenes asistida por computadora
-38,380025,transmisión de mensajes de correo electrónico
-38,380026,transmisión de faxes
-38,380027,suministro de información sobre telecomunicaciones
-38,380028,servicios de radiomensajería [radio, teléfono u otros medios de comunicación electrónica]
-38,380028,servicios de radiobúsqueda [radio, teléfono u otros medios de comunicación electrónica]
-38,380029,alquiler de aparatos para el envío de mensajes
-38,380030,comunicaciones por redes de fibra óptica
-38,380031,alquiler de aparatos de fax
-38,380032,alquiler de módems
-38,380033,alquiler de aparatos de telecomunicación
-38,380034,alquiler de teléfonos
-38,380035,transmisión por satélite
-38,380036,servicios de tablones de anuncios electrónicos [telecomunicaciones]
-38,380037,servicios de conexión telemática a una red informática mundial
-38,380038,servicios de encaminamiento y enlace para telecomunicaciones
-38,380039,servicios de teleconferencia
-38,380040,suministro de acceso de usuario a redes informáticas mundiales
-38,380041,alquiler de tiempo de acceso a redes informáticas mundiales
-38,380042,provisión de canales de telecomunicación para servicios de televenta
-38,380043,suministro de foros de discusión [chats] en Internet
-38,380044,suministro de acceso a bases de datos
-38,380045,servicios de buzón de voz
-38,380046,transmisión de tarjetas de felicitación en línea
-38,380047,transmisión de archivos digitales
-38,380047,transmisión de archivos informáticos
-38,380048,servicios de difusión inalámbrica
-38,380049,servicios de videoconferencia
-38,380050,suministro de foros en línea
-38,380051,transmisión de flujo continuo de datos [streaming]
-38,380052,radiocomunicación
-38,380052,comunicaciones radiofónicas
-38,380053,transmisión de vídeo a la carta
-38,380054,transmisión de pódcast
-38,380055,alquiler de teléfonos inteligentes
+class|name
+38|Acceso de usuarios a programas informáticos en redes de datos
+38|Acceso multiusuario a redes informáticas globales de información para la transferencia y divulgación de una amplia gama de información
+38|Alquiler de aparatos de fax
+38|Alquiler de aparatos de telecomunicación
+38|Alquiler de aparatos de telecomunicación e instalaciones
+38|Alquiler de aparatos e instrumentos de comunicación
+38|Alquiler de aparatos para la transmisión de imágenes
+38|Alquiler de capacidad de transmisión vía satélite
+38|Alquiler de dispositivos de telecomunicaciones
+38|Alquiler de enrutadores de telecomunicaciones
+38|Alquiler de equipo para difusión
+38|Alquiler de equipo para telecomunicaciones
+38|Alquiler de líneas de telecomunicación e instalaciones
+38|Alquiler de módems
+38|Alquiler de teléfonos
+38|Alquiler de teléfonos celulares
+38|Alquiler de teléfonos inteligentes
+38|Alquiler de tiempo de acceso a redes informáticas mundiales
+38|Arrendamiento de aparatos de radio
+38|Arrendamiento de aparatos e instrumentos teleprocesadores y de comunicaciones computarizadas
+38|Arrendamiento de radios
+38|Comunicación de datos por correo electrónico
+38|Comunicación por fax
+38|Comunicación por ondas hertzianas
+38|Comunicación por red de fibra óptica
+38|Comunicación por telefonía móvil
+38|Comunicación por teléfono móvil
+38|Comunicación por terminales informáticas electrónicas
+38|Comunicación vía redes de fibra óptica
+38|Comunicación vía terminales informáticas análogas y digitales
+38|Comunicaciones por fax
+38|Comunicaciones por medio de teléfonos móviles
+38|Comunicaciones por teléfonos móviles
+38|Comunicaciones por televisión para reuniones
+38|Comunicaciones por terminales de computadora
+38|Comunicaciones telefónicas
+38|Comunicaciones telegráficas
+38|Comunicaciones vía redes de fibra óptica
+38|Comunicaciones vía redes de telecomunicación multinacional
+38|Comunicaciones vía terminales informáticas análogas y digitales
+38|Comunicaciones vía terminales informáticas por transmisión digital o satelital
+38|Comunicaciones vía transmisiones de radio, telégrafo, teléfono y televisión
+38|Correo electrónico
+38|Difusión de audio
+38|Difusión de programación de audio y video a través de la Internet
+38|Difusión de programas de radio
+38|Difusión de programas de radio y televisión
+38|Difusión de programas de televisión
+38|Difusión de programas de televisión contratados por suscripción
+38|Difusión de programas de televisión por cable
+38|Difusión digital de audio
+38|Emisión continua de datos (streaming)
+38|Emisión de programa de televisión vía cable
+38|Emisión de programas a través de Internet
+38|Emisión de programas de telecompra
+38|Emisión en continuo de contenidos de audio, visuales y audiovisuales a través de redes informáticas mundiales
+38|Emisión satelital de televisión
+38|Envío de mensajes a través de un sitio web
+38|Envío de mensajes electrónicos
+38|Envío de telegramas
+38|Envío, recepción y retransmisión de mensajes
+38|Facilitación de acceso a bases de datos
+38|Facilitación de acceso a infraestructura de telecomunicaciones para terceros
+38|Facilitación de acceso a la Internet
+38|Facilitación de acceso a redes de telecomunicación
+38|Facilitación de acceso a sitios electrónicos
+38|Facilitación de acceso a un sitio web de música en la Internet
+38|Facilitación de acceso a una red informática mundial
+38|Facilitación de acceso a una red informática mundial para usuarios
+38|Facilitación de acceso de usuario a Internet (proveedores de servicios)
+38|Facilitación de acceso multiusuario a redes informáticas para la transferencia de información de todas indoles
+38|Facilitación de conexiones de telecomunicación electrónica
+38|Facilitación de líneas de charla utilizando Internet
+38|Facilitación de servicios de correo electrónico
+38|Facilitación de servicios de videoconferencia
+38|Facilitación del acceso a datos o documentos almacenados electrónicamente archivos centrales para consultas remotas
+38|Foros en línea para transmitir mensajes entre usuarios de ordenador
+38|Información sobre telecomunicaciones
+38|Intercambio electrónico de datos
+38|Intercambio electrónico de datos almacenados en bases de datos accesibles vía redes de telecomunicación
+38|Prestación de servicios de fax por correo electrónico
+38|Provisión de foros de discusión (salas de chats) en Internet
+38|Provisión de salas de chat en línea para redes sociales
+38|Provisión de servicios de chat por voz
+38|Radiodifusión
+38|Radiotelefonía móvil
+38|Salas virtuales de charla establecidas vía mensajes de texto
+38|Servicio de emisión continua de contenido multimedia (streaming)
+38|Servicios de acceso a telecomunicación
+38|Servicios de agencia de noticias para transmisión electrónica
+38|Servicios de audioteleconferencias
+38|Servicios de buzón de voz
+38|Servicios de comunicación de banda ancha por radio
+38|Servicios de comunicación de radio, teléfono y telégrafo
+38|Servicios de comunicación, en concreto, transmisión electrónica de datos y documentos entre usuarios de ordenadores
+38|Servicios de conexión telemática a una red informática mundial
+38|Servicios de consultoría en telecomunicaciones
+38|Servicios de correo de voz
+38|Servicios de correo electrónico de datos
+38|Servicios de correo electrónico para datos y voz
+38|Servicios de correo electrónico seguros
+38|Servicios de correo y mensajería electrónica
+38|Servicios de difusión de contenidos web
+38|Servicios de difusión de radio por internet
+38|Servicios de difusión de televisión y radio
+38|Servicios de difusión de vídeo
+38|Servicios de emisión de televisión por cable
+38|Servicios de envío y recepción de mensajes
+38|Servicios de exclusión de llamadas
+38|Servicios de filtrado de llamadas
+38|Servicios de mensajería digital inalámbrica
+38|Servicios de mensajería electrónica instantánea
+38|Servicios de mensajería web
+38|Servicios de pasarela de telecomunicaciones
+38|Servicios de radiodifusión por internet
+38|Servicios de radioemisión (transmisión de información a través de radio)
+38|Servicios de radiotelefonía móvil
+38|Servicios de redes digitales de telecomunicación
+38|Servicios de reenvío de correo electrónico
+38|Servicios de reenvío de llamadas
+38|Servicios de tablones de anuncios electrónicos
+38|Servicios de telecomunicaciones aeronáuticas
+38|Servicios de telecomunicaciones vía satélite
+38|Servicios de teleconferencia
+38|Servicios de teleconferencia y videoconferencia
+38|Servicios de telefonía computacional
+38|Servicios de telefonía fija y móvil
+38|Servicios de telefonía móvil
+38|Servicios de telefonía por Internet
+38|Servicios de telefonía y teletexto
+38|Servicios de teletexto
+38|Servicios de transmisión de datos con alta tasa de transferencia para operarios de redes de telecomunicaciones
+38|Servicios de transmisión de información vía redes digitales
+38|Servicios de transmisión de ordenes electrónicas
+38|Servicios de transmisión de televisión de pago por evento
+38|Servicios de transmisión por satélite
+38|Servicios de transmisión y recepción de datos vía medios de telecomunicación
+38|Servicios de videoconferencia
+38|Servicios de videoteléfono
+38|Servicios en línea, a saber, envío de mensajes
+38|Servicios telefónicos de mensajería de voz
+38|Telecomunicaciones por correo electrónico
+38|Teledifusión por cable
+38|Telefonía móvil
+38|Transferencia de datos por telecomunicación
+38|Transmisión de artículos de noticias a agencias de noticias
+38|Transmisión de datos por teletipo
+38|Transmisión de datos, sonido e imágenes por satélite
+38|Transmisión de faxes
+38|Transmisión de imágenes asistida por ordenador
+38|Transmisión de imágenes y sonido vía satélite
+38|Transmisión de información a través de sistemas de comunicación por video
+38|Transmisión de información de bases de datos vía redes de telecomunicación
+38|Transmisión de información de mercados bursátiles con la ayuda de medios de telecomunicaciones
+38|Transmisión de información e imágenes asistida por computadora
+38|Transmisión de información e imágenes en relación a productos farmacéuticos, medicina e higiene
+38|Transmisión de información en el campo audiovisual
+38|Transmisión de información mediante comunicaciones de datos para facilitar la toma de decisiones
+38|Transmisión de información por códigos telemáticos
+38|Transmisión de información por redes de comunicación electrónica
+38|Transmisión de información por redes ópticas de telecomunicación
+38|Transmisión de información por teletipo
+38|Transmisión de información por teletipo o vía satélite
+38|Transmisión de información vía computadoras conectadas a la misma red telemática
+38|Transmisión de información vía redes de comunicación electrónica
+38|Transmisión de información vía redes nacionales e internacionales
+38|Transmisión de información vía teletipo
+38|Transmisión de mensajes
+38|Transmisión de mensajes asistida por computadora
+38|Transmisión de mensajes cortos
+38|Transmisión de mensajes electrónicos
+38|Transmisión de mensajes por ordenador
+38|Transmisión de mensajes sobre medios electrónicos
+38|Transmisión de noticias
+38|Transmisión de programas de radio y televisión por satélite
+38|Transmisión de radio por cable
+38|Transmisión de señal para comercio electrónico vía sistemas de telecomunicación y sistemas de comunicación de datos
+38|Transmisión de sonido e imagen vía satélite o redes de multimedia interactiva
+38|Transmisión de sonido, imágenes y datos
+38|Transmisión de sonidos, imágenes, señales y datos por satélite, cable o redes
+38|Transmisión de sonidos, video e información
+38|Transmisión de tarjetas de felicitación en línea
+38|Transmisión de telegramas
+38|Transmisión electrónica de correo y mensajes
+38|Transmisión electrónica de datos
+38|Transmisión electrónica de datos y documentos vía terminales informáticas y dispositivos electrónicos
+38|Transmisión electrónica de mensajes
+38|Transmisión electrónica de mensajes y datos
+38|Transmisión electrónica de noticias
+38|Transmisión electrónica de voz, datos e imágenes por difusión de televisión y vídeo
+38|Transmisión informática de información a la que se accede a través de un código o de un terminal
+38|Transmisión por cable
+38|Transmisión por satélite
+38|Transmisión y distribución de datos o imágenes audiovisuales vía una red informática mundial o la Internet
+38|Transmisión y recepción (transmisión) de información de bases de datos vía la red de telecomunicación
+38|Transmisión y recepción por radio
+38|Transmisión, recepción y procesamiento de señales codificadas y señales de emergencia

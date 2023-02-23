@@ -1,108 +1,258 @@
-class,reference_id,name
-36,360001,suscripción de seguros contra accidentes
-36,360002,préstamos a plazos
-36,360002,pagos en cuotas
-36,360003,servicios actuariales
-36,360004,alquiler de bienes inmuebles
-36,360005,corretaje*
-36,360006,servicios de agencias de crédito
-36,360007,servicios de agencias inmobiliarias
-36,360008,corretaje de bienes inmuebles
-36,360009,servicios de agencias de cobro de deudas
-36,360010,corretaje de seguros
-36,360011,servicios financieros de correduría aduanera
-36,360011,servicios financieros de agencias de aduana
-36,360012,suscripción de seguros
-36,360013,servicios bancarios
-36,360014,tasación de bienes inmuebles
-36,360014,tasaciones inmobiliarias
-36,360015,recaudación de fondos de beneficencia
-36,360016,fondos mutuos de inversión
-36,360016,constitución de capital
-36,360017,inversión de capital
-36,360018,servicios de caución
-36,360019,operaciones de cambio
-36,360020,emisión de cheques de viaje
-36,360021,operaciones de cámara de compensación [clearing]
-36,360022,servicios de depósito en cajas de seguridad
-36,360023,organización de colectas financieras
-36,360024,préstamos [financiación]
-36,360025,servicios de estimaciones fiscales
-36,360026,evaluación financiera [seguros, bancos, bienes inmuebles]
-36,360027,descuento de facturas [factoraje]
-36,360028,servicios fiduciarios
-36,360029,servicios de financiación
-36,360030,gestión financiera
-36,360031,préstamos prendarios
-36,360031,préstamos pignoraticios
-36,360032,administración de bienes inmuebles
-36,360033,administración de edificios de viviendas
-36,360034,suscripción de seguros contra incendios
-36,360035,alquiler de apartamentos
-36,360035,alquiler de departamentos
-36,360036,alquiler de explotaciones agrícolas
-36,360038,suscripción de seguros médicos
-36,360039,suscripción de seguros marítimos
-36,360040,servicios de banco hipotecario
-36,360041,servicios de caja de ahorros
-36,360042,arrendamiento con opción de compra [leasing]
-36,360042,arrendamiento financiero
-36,360043,corretaje de valores
-36,360044,suscripción de seguros de vida
-36,360045,servicios de agencias de alojamiento [apartamentos]
-36,360045,servicios de agencias de alquiler [departamentos]
-36,360046,análisis financiero
-36,360051,tasación de antigüedades
-36,360052,tasación de obras de arte
-36,360053,verificación de cheques
-36,360054,consultoría financiera
-36,360055,consultoría sobre seguros
-36,360056,procesamiento de pagos por tarjeta de crédito
-36,360057,procesamiento de pagos por tarjeta de débito
-36,360058,transferencia electrónica de fondos
-36,360059,suministro de información financiera
-36,360060,suministro de información sobre seguros
-36,360061,tasación de joyas
-36,360062,tasación numismática
-36,360063,cobro de alquileres
-36,360064,tasación filatélica
-36,360065,emisión de bonos de valor
-36,360066,depósito de valores
-36,360067,cotizaciones en bolsa
-36,360068,emisión de tarjetas de crédito
-36,360069,alquiler de oficinas [bienes inmuebles]
-36,360070,servicios de pago de jubilaciones
-36,360071,patrocinio financiero
-36,360072,servicios bancarios en línea
-36,360073,servicios de liquidación de empresas [finanzas]
-36,360103,estimación financiera de costos de reparación
-36,360103,estimación financiera de costes de reparación
-36,360104,corretaje [correduría] de créditos de carbono
-36,360104,correduría de créditos de carbono
-36,360105,valoración de la madera en pie
-36,360107,valoración de lanas
-36,360108,préstamos con garantía
-36,360109,servicios de fondos de previsión
-36,360110,corretaje de valores bursátiles
-36,360111,asesoramiento sobre deudas
-36,360112,organización de la financiación de proyectos de construcción
-36,360113,suministro de información financiera por sitios web
-36,360114,gestión financiera de pagos de reembolso para terceros
-36,360115,inversión de fondos
-36,360116,corretaje de acciones, bonos y obligaciones
-36,360117,concesión de descuentos en establecimientos asociados de terceros mediante una tarjeta de miembro
-36,360118,servicios de depósito de fianzas por libertad provisional
-36,360119,alquiler de oficinas para el cotrabajo
-36,360120,estimaciones financieras para responder a convocatorias de licitación
-36,360120,estimaciones financieras para responder a solicitudes de propuestas [RFPs]
-36,360121,evaluación financiera de los costes de desarrollo en relación con las industrias del petróleo, el gas y la minería
-36,360122,investigación financiera
-36,360123,negocios inmobiliarios
-36,360124,transferencia electrónica de monedas virtuales
-36,360125,evaluación financiera de activos de propiedad intelectual
-36,360126,servicios de elaboración de presupuestos para la estimación de costes
-36,360126,servicios de elaboración de presupuestos para la estimación de costos
-36,360127,financiación participativa
-36,360128,servicios de pago por billetera electrónica
-36,360128,servicios de pago por monedero electrónico
-36,360129,operaciones de cambio de monedas virtuales
+class|name
+36|Administración de activos financieros
+36|Administración de ahorros previsionales
+36|Administración de carteras de valores
+36|Administración de cuentas de ahorro
+36|Administración de fondos de capital de riesgo
+36|Administración de fondos de pensiones
+36|Administración financiera de ahorros previsionales
+36|Administración financiera de fondos de pensiones
+36|Administración financiera de planes de pensión de empleados
+36|Adquisición de bienes inmuebles para terceros
+36|Agencias de cobro de deudas
+36|Agencias de crédito
+36|Agencias de seguros
+36|Agencias o correduría para operaciones de valores, futuros indexados, opciones sobre títulos y futuros sobre mercados de valores extranjeros
+36|Agencias o corretaje para el alquiler de edificios
+36|Agencias o corretaje para el alquiler de tierras
+36|Agencias o corretaje para el alquiler o arrendamiento de tierras
+36|Agencias para la correduría en operaciones con títulos en mercados de valores extranjeros y en operaciones a comisión de futuros sobre mercados de valores extranjeros
+36|Agencias para la negociación de futuros de productos básicos
+36|Ajustes de reclamaciones de seguros que no sean de vida
+36|Alquiler de apartamentos
+36|Alquiler de apartamentos y oficinas
+36|Alquiler de cajeros automáticos
+36|Alquiler de departamentos
+36|Alquiler de máquinas contadoras o clasificadoras de billetes y monedas
+36|Análisis de inversiones financieras y estudios bursátiles
+36|Análisis financieros
+36|Análisis por computadora de información sobre bolsas de valores
+36|Arrendamiento con opción de compra (leasing)
+36|Arrendamiento de bienes inmuebles
+36|Arrendamiento de edificios
+36|Arrendamiento de espacio para oficinas
+36|Arrendamiento de espacios en centros comerciales
+36|Arrendamiento de explotaciones agrícolas
+36|Arrendamiento de terrenos
+36|Arrendamiento de tierras
+36|Arrendamiento o alquiler de edificios
+36|Arriendo con opción de compra (leasing) de equipos de telecomunicaciones
+36|Asesoramiento en materia de deudas
+36|Asesoramiento en materia de inversiones
+36|Asesoramiento financiero
+36|Asesoramiento financiero sobre pensiones
+36|Asesoramiento financiero y asesoramiento en materia de seguros
+36|Banca a distancia (home banking)
+36|Banca electrónica a través de una red informática mundial (banca por Internet)
+36|Bienes inmuebles (evaluación (tasación) de -)
+36|Cambio de divisas en tiempo real online
+36|Casas prendarias
+36|Cobro de alquileres
+36|Cobro de deudas
+36|Comercio de opciones de valores
+36|Comercio de valores futuros
+36|Comercio de valores futuros extranjeros
+36|Comprobación de tarjetas de crédito
+36|Cómputo del índice de primas de seguros
+36|Consultoría de inversión de capitales
+36|Consultoría e información relativa a los seguros
+36|Consultoría en inversiones de capital
+36|Consultoría en materia de seguros
+36|Consultoría en seguros
+36|Consultoría financiera
+36|Consultoría financiera relacionada con inversiones inmobiliarias
+36|Consultoría inmobiliaria
+36|Consultoría relativa a la financiación de proyectos energéticos
+36|Corretaje de acciones y obligaciones
+36|Corretaje de acciones y otros valores
+36|Corretaje de acciones, participaciones y otros valores
+36|Corretaje de bienes inmuebles
+36|Corretaje de bonos
+36|Corretaje de compras a plazos
+36|Corretaje de créditos hipotecarios
+36|Corretaje de fondos mutuos
+36|Corretaje de futuros
+36|Corretaje de inversión financiera
+36|Corretaje de seguros de vida
+36|Corretaje de valores bursátiles
+36|Corretaje en bolsa
+36|Cotización de precios del mercado de valores
+36|Dirección de estudios de viabilidad financiera
+36|Emisión de bonos de valor
+36|Emisión de cartas de crédito
+36|Emisión de cheques
+36|Emisión de cheques bancarios
+36|Emisión de cheques de viajero
+36|Emisión de cheques y cartas de crédito
+36|Emisión de tarjetas de crédito
+36|Estimaciones financieras en materia de seguros
+36|Evaluación de bienes inmuebles
+36|Evaluación de la solvencia crediticia de empresas y particulares
+36|Evaluación de propiedades personales para otros
+36|Evaluaciones de reclamaciones de seguros (valoración)
+36|Facilitación de becas educacionales
+36|Facilitación de información del mercado de valores
+36|Facilitación de información en materia de seguros
+36|Facilitación de información financiera
+36|Facilitación de información financiera a inversionistas
+36|Facilitación de información sobre cuentas bancarias por teléfono
+36|Facilitación de información y datos en materia del mercado de valores
+36|Facilitación de noticias en el campo de las finanzas
+36|Financiación de actividades industriales
+36|Financiación de arrendamiento a crédito
+36|Financiación de capital de riesgo
+36|Financiación de compras
+36|Financiación de cuentas por cobrar
+36|Financiación de préstamos
+36|Financiación de proyectos
+36|Financiación en relación a automóviles
+36|Financiación garantizada financieramente
+36|Financiamiento de leasing automotriz
+36|Garantías financieras (servicios de fianzas)
+36|Gestión de carteras de valores mobiliarios
+36|Gestión de carteras de valores transferibles
+36|Gestión de inversiones
+36|Gestión de un fondo de inversión de capitales
+36|Gestión financiera vía la Internet
+36|Información en materia de seguros
+36|Información y consultoría en materia de seguros
+36|Información y evaluación financiera
+36|Intercambio financiero
+36|Inversión de capital privado
+36|Inversión de fondos
+36|Inversión por medios electrónicos
+36|Mantenimiento de cuentas de custodia para inversiones
+36|Negociación de valores
+36|Operaciones de cambio
+36|Operaciones de fondos de inversión
+36|Operaciones monetarias de cambio
+36|Organización de una bolsa de valores para el comercio de acciones y otros valores financieros
+36|Planificación de fideicomisos financieros
+36|Planificación de fideicomisos patrimoniales
+36|Planificación financiera de jubilación
+36|Preparación de informes financieras
+36|Préstamos (financiación) y descuento de facturas
+36|Préstamos con amortización a plazos
+36|Préstamos prendarios
+36|Previsiones financieras
+36|Procesamiento de pagos electrónicos hechos con tarjetas prepagadas
+36|Procesamiento de reclamaciones de seguros
+36|Recaudación de fondos con fines benéficos
+36|Recaudación de fondos de beneficencia
+36|Recaudación de fondos para obras de caridad en previsión y prevención de desastres
+36|Refinanciación de créditos hipotecarios
+36|Representaciones fiduciarias
+36|Servicio de cambio de divisas
+36|Servicio de corretaje de inversiones de capital
+36|Servicio de transacciones financieras de compraventa con opción de arriendo (leaseback),
+36|Servicios actuariales de seguros
+36|Servicios bancarios
+36|Servicios bancarios de cuentas corrientes
+36|Servicios bancarios de cuentas corrientes electrónicas sin papel
+36|Servicios bancarios de cuentas de ahorro
+36|Servicios bancarios electrónicos sin papel
+36|Servicios bancarios en cajeros automáticos
+36|Servicios bancarios mercantiles y de inversión bancaria
+36|Servicios bancarios y financieros
+36|Servicios de aceptación electrónica de cheques
+36|Servicios de administración de planes de acciones para empleados
+36|Servicios de agencia de bienes inmuebles residenciales
+36|Servicios de agencia de factoring
+36|Servicios de análisis e investigación financiera
+36|Servicios de asesoramiento en planificación financiera e inversión
+36|Servicios de asesoramiento relacionados con fondos mutuos
+36|Servicios de asesoramiento y consultoría financiera
+36|Servicios de asesores relacionados con el control de créditos y débitos, inversiones, subvenciones y financiación de préstamos
+36|Servicios de banca comercial
+36|Servicios de banca por Internet
+36|Servicios de banca por teléfono
+36|Servicios de cajeros automáticos
+36|Servicios de calificación crediticia
+36|Servicios de calificación de crédito financiero
+36|Servicios de casas de empeño
+36|Servicios de cobro de cheques
+36|Servicios de colectas de beneficencia
+36|Servicios de consultas sobre inversiones de materias primas
+36|Servicios de cooperativas de crédito
+36|Servicios de corredor de bolsa
+36|Servicios de correduría bursátil
+36|Servicios de corredurías de seguros
+36|Servicios de cotización y listado de información bursátil
+36|Servicios de crédito y préstamo
+36|Servicios de créditos hipotecarios
+36|Servicios de depósito de valores
+36|Servicios de deposito en cajas de seguridad
+36|Servicios de evaluación de créditos
+36|Servicios de fideicomiso
+36|Servicios de financiación y préstamo
+36|Servicios de financiamiento provistos a través de la recolección de dinero proveniente de diversas personas (crowdfunding)
+36|Servicios de gestión de deudas
+36|Servicios de giros de dinero a través de correo
+36|Servicios de información de cambio de divisas
+36|Servicios de información e investigación financiera
+36|Servicios de información financiera y asesoramiento
+36|Servicios de información relacionados con la banca
+36|Servicios de información sobre bolsa
+36|Servicios de información sobre precios de acciones
+36|Servicios de información y consultoría en materia seguros y finanzas
+36|Servicios de intermediación de préstamos para automóvil
+36|Servicios de inversión de capital
+36|Servicios de inversión en bienes inmobiliarios
+36|Servicios de inversiones de fondos de capitales privados
+36|Servicios de liquidación de facturas
+36|Servicios de mercado de futuros
+36|Servicios de negociación de deudas
+36|Servicios de pago de alquileres
+36|Servicios de pago de facturas prestados a través de un sitio web
+36|Servicios de planificación financiera para la jubilación
+36|Servicios de préstamos inmobiliarios
+36|Servicios de procesamiento de transacciones de tarjetas de crédito
+36|Servicios de recuperación de deudas
+36|Servicios de reembolso de aranceles
+36|Servicios de tarjetas de cargo
+36|Servicios de tarjetas de crédito y de cobro
+36|Servicios de tarjetas de crédito y débito
+36|Servicios de tarjetas de crédito y tarjetas de débito
+36|Servicios de tarjetas de crédito y tarjetas de pago
+36|Servicios de tarjetas de garantía de cheques
+36|Servicios de transferencia de dinero
+36|Servicios de transferencia de divisas
+36|Servicios de valoración de bienes inmuebles
+36|Servicios de valoración de opciones sobre acciones
+36|Servicios de valoración de propiedad intelectual
+36|Servicios de verificación de cheques
+36|Servicios de verificación de solvencia empresarial
+36|Servicios electrónicos de cobro de peaje
+36|Servicios financieros, en concreto, liquidación de deudas
+36|Suministro de información de mercado de títulos/valores
+36|Suministro de información financiera relacionada con la industria financiera dedicada a inversiones con enfoque ambiental
+36|Suministro de préstamos a estudiantes
+36|Suscripción de anualidades
+36|Suscripción de seguros contra accidentes
+36|Suscripción de seguros de accidentes marítimos
+36|Suscripción de seguros de incendios marítimos
+36|Suscripción de seguros de transporte marítimo
+36|Suscripción de seguros de vida
+36|Suscripción de seguros médicos
+36|Suscripción de seguros que no sean de vida
+36|Suscripción de valores
+36|Tasación de antigüedades
+36|Tasación de automóviles de segunda mano
+36|Tasación de bienes inmuebles
+36|Tasación de obras de arte
+36|Tasación de piedras preciosas
+36|Tasación filatélica
+36|Tasación y evaluación de antigüedades
+36|Tasación y valoración de bienes inmuebles
+36|Tasaciones inmobiliarias
+36|Transacciones con valores y servicios de inversión para terceros a través de Internet
+36|Transacciones de cambio de divisas y de efectivo
+36|Transacciones electrónicas de tarjetas de crédito
+36|Transferencia electrónica de dinero
+36|Transferencia electrónica de fondos
+36|Transferencia electrónica de fondos por telecomunicaciones
+36|Valoración de bienes inmuebles
+36|Valoración de la madera en pie
+36|Valoración de reclamaciones de seguros de propiedades personales
+36|Valoración financiera de la lana
+36|Valoraciones financieras

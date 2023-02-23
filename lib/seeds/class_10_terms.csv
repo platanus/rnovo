@@ -1,317 +1,449 @@
-class,reference_id,name
-10,100001,cinturones abdominales
-10,100002,cinturones hipogástricos
-10,100003,fajas abdominales
-10,100004,colchones para el parto
-10,100005,dispositivos de ayuda auditiva
-10,100005,audífonos de corrección auditiva
-10,100006,trompetillas acústicas
-10,100007,grapas quirúrgicas
-10,100008,agujas para uso médico
-10,100009,agujas de sutura
-10,100010,pesarios
-10,100011,aparatos terapéuticos de aire caliente
-10,100012,vibradores de aire caliente para uso médico
-10,100013,protectores de colchón [salvacamas]
-10,100013,salvacamas
-10,100014,sábanas para la incontinencia [empapadores]
-10,100015,catéteres
-10,100017,bombillas radiógenas para uso médico
-10,100017,tubos de material radioactivo para uso médico
-10,100018,anillos de dentición [mordedores]
-10,100020,vendas ortopédicas para las articulaciones
-10,100021,férulas para uso quirúrgico
-10,100022,vendas elásticas
-10,100023,bandas galvánicas para uso médico
-10,100024,aparatos de rayos X para uso médico
-10,100025,cuñas [orinales]
-10,100025,cómodos [orinales]
-10,100026,palanganas para uso médico
-10,100027,aparatos obstétricos para el ganado
-10,100028,biberones*
-10,100029,bisturís
-10,100029,incisores [tenazas incisorias] para uso quirúrgico
-10,100030,escalpelos
-10,100031,botas para uso médico
-10,100033,tientas quirúrgicas
-10,100034,escupideras para uso médico
-10,100034,salivaderas para uso médico
-10,100035,catgut [material de sutura]
-10,100036,camillas con ruedas
-10,100037,camillas para enfermos
-10,100037,angarillas
-10,100037,camillas de ambulancia
-10,100038,artículos ortopédicos
-10,100039,bragueros [vendas para hernias]
-10,100039,vendas para hernias [bragueros]
-10,100040,soportes del arco del pie para el calzado
-10,100041,camisas de fuerza
-10,100042,cánulas
-10,100043,guantes para uso médico
-10,100044,aparatos para limpiar las cavidades del cuerpo
-10,100045,cinturones médicos
-10,100046,fajas de embarazo
-10,100047,fajas ortopédicas
-10,100048,sillones de dentista
-10,100049,pinzas para castrar
-10,100050,almohadillas electrotérmicas para uso médico
-10,100051,calzado ortopédico
-10,100052,dientes artificiales
-10,100053,esponjas quirúrgicas
-10,100054,aparatos e instrumentos quirúrgicos
-10,100055,estuches de médico
-10,100056,hilo quirúrgico
-10,100057,aparatos de anestesia
-10,100058,tijeras quirúrgicas
-10,100059,compresas electrotérmicas [cirugía]
-10,100060,compresores [cirugía]
-10,100061,cuentagotas para uso médico
-10,100061,goteros para uso médico
-10,100062,cortacallos
-10,100063,aparatos para masajes estéticos
-10,100064,cojines para uso médico
-10,100064,almohadones para uso médico
-10,100065,instrumentos cortantes para uso quirúrgico
-10,100067,incubadoras para uso médico
-10,100069,cucharas para medicamentos
-10,100070,limpiadores linguales [raspadores de lengua]
-10,100070,raspadores de lengua
-10,100071,limpiadores de oídos
-10,100072,fresas para uso odontológico
-10,100073,aparatos e instrumentos odontológicos
-10,100074,pivotes para dientes artificiales
-10,100076,dentaduras postizas
-10,100077,lancetas
-10,100078,espejos de dentista
-10,100079,dediles para uso médico
-10,100080,jeringas para inyecciones
-10,100081,drenajes para uso médico
-10,100081,tubos de drenaje para uso médico
-10,100082,bolsas de agua para uso médico
-10,100083,pantallas radiológicas para uso médico
-10,100084,electrocardiógrafos
-10,100085,sondas para uso médico
-10,100086,bombas para uso médico
-10,100087,aparatos para análisis de sangre
-10,100088,sillones para uso médico u odontológico
-10,100089,frascos cuentagotas para uso médico
-10,100090,fórceps
-10,100091,aparatos galvánicos para uso terapéutico
-10,100092,guantes para masajes
-10,100093,gastroscopios
-10,100094,bolsas de hielo para uso médico
-10,100095,hemocitómetros
-10,100096,camas de agua para uso médico
-10,100097,jeringas hipodérmicas
-10,100098,almohadillas abdominales
-10,100098,almohadillas hipogástricas
-10,100099,inhaladores
-10,100100,inyectores para uso médico
-10,100101,almohadas contra el insomnio
-10,100102,aparatos e instrumentos urológicos
-10,100103,insufladores
-10,100104,enemas para uso médico
-10,100105,lámparas de rayos ultravioleta para uso médico
-10,100106,láseres para uso médico
-10,100107,sacaleches
-10,100107,tiraleches
-10,100108,lámparas para uso médico
-10,100109,vaporizadores para uso médico
-10,100110,orinales
-10,100111,mandíbulas artificiales
-10,100112,mascarillas de anestesia
-10,100113,aparatos de masaje
-10,100114,aparatos e instrumentos médicos
-10,100115,recipientes para aplicar medicamentos
-10,100116,maletines especiales para instrumental médico
-10,100117,prótesis
-10,100117,miembros artificiales
-10,100118,espejos para cirujanos
-10,100119,mobiliario especial para uso médico
-10,100120,aparatos obstétricos
-10,100121,fajas umbilicales
-10,100122,oftalmómetros
-10,100123,oftalmoscopios
-10,100124,aparatos para proteger el oído
-10,100125,piel artificial para uso quirúrgico
-10,100126,conteras de muletas
-10,100127,pistolas de bolos para uso veterinario
-10,100127,aplicadores de bolos para uso veterinario
-10,100128,preservativos
-10,100128,condones
-10,100129,esfigmomanómetros
-10,100129,aparatos para medir la tensión arterial
-10,100129,tensiómetros
-10,100130,lámparas de cuarzo para uso médico
-10,100131,aparatos e instrumentos generadores de rayos X para uso médico
-10,100132,radiografías para uso médico
-10,100133,aparatos de radiología para uso médico
-10,100134,aparatos de radioterapia
-10,100135,aparatos de reanimación
-10,100136,tubos de rayos X para uso médico
-10,100137,dispositivos de protección contra los rayos X para uso médico
-10,100138,respiradores
-10,100139,aparatos para la respiración artificial
-10,100140,sierras quirúrgicas
-10,100141,prótesis mamarias
-10,100142,jeringas uterinas
-10,100143,jeringas vaginales
-10,100144,estetoscopios
-10,100145,chupetes para bebés
-10,100146,soportes para los pies planos
-10,100147,aparatos para tratar la sordera
-10,100148,suspensorios [vendas]
-10,100149,material de sutura
-10,100150,mesas de operaciones
-10,100151,trocares
-10,100153,sondas uretrales
-10,100154,jeringas uretrales
-10,100155,ventosas para uso médico
-10,100156,aparatos e instrumentos veterinarios
-10,100157,aparatos vibratorios para camas
-10,100158,vibradores
-10,100159,ojos artificiales
-10,100160,pulverizadores de aerosol para uso médico
-10,100161,almohadas de aire para uso médico
-10,100162,cojines de aire para uso médico
-10,100162,almohadones de aire para uso médico
-10,100163,colchones de aire para uso médico
-10,100164,jeringas para uso médico
-10,100165,medias elásticas para uso quirúrgico
-10,100166,medias para varices
-10,100166,medias para várices
-10,100168,muletas
-10,100169,cierres de biberones
-10,100170,tetinas de biberones
-10,100171,plantillas ortopédicas
-10,100172,campos quirúrgicos [sábanas estériles]
-10,100173,camas especiales para cuidados médicos
-10,100174,electrodos para uso médico
-10,100175,cinturones eléctricos para uso médico
-10,100176,aparatos de ejercicio físico para uso médico
-10,100177,incubadoras para recién nacidos
-10,100178,cepillos quirúrgicos para limpiar las cavidades corporales
-10,100179,aparatos dentales eléctricos
-10,100180,aparatos de análisis para uso médico
-10,100181,filtros de rayos ultravioleta para uso médico
-10,100182,aparatos de fumigación para uso médico
-10,100183,corsés para uso médico
-10,100184,contraceptivos que no sean químicos
-10,100184,anticonceptivos que no sean químicos
-10,100191,mantas eléctricas para uso médico
-10,100191,cobertores eléctricos para uso médico
-10,100191,cobijas eléctricas para uso médico
-10,100192,prótesis capilares
-10,100193,rodilleras ortopédicas
-10,100194,lentes de contacto [prótesis intraoculares] para implantación quirúrgica
-10,100194,prótesis intraoculares [lentes de contacto] para implantación quirúrgica
-10,100195,almohadillas antiescaras
-10,100195,almohadillas antillagas
-10,100196,aparatos de fisioterapia
-10,100197,espirómetros [aparatos médicos]
-10,100198,termómetros para uso médico
-10,100199,agujas de acupuntura
-10,100200,ropa especial para quirófano
-10,100201,aparatos de diagnóstico para uso médico
-10,100202,instrumentos eléctricos de acupuntura
-10,100203,estimuladores cardíacos [marcapasos]
-10,100203,marcapasos [estimuladores cardíacos]
-10,100204,grúas para pacientes
-10,100204,grúas de elevación para pacientes
-10,100205,mascarillas para personal médico
-10,100206,vendas de escayola para uso ortopédico
-10,100206,vendas de yeso para uso ortopédico
-10,100207,sábanas quirúrgicas
-10,100208,implantes quirúrgicos compuestos de materiales artificiales
-10,100209,almohadillas térmicas para primeros auxilios
-10,100210,sillas orinal
-10,100210,sillas cómodo
-10,100211,desfibriladores
-10,100212,dializadores
-10,100213,hilos de guía para uso médico
-10,100214,aparatos de ortodoncia
-10,100215,aparatos de tracción para uso médico
-10,100216,recipientes especiales para desechos médicos
-10,100217,cabestrillos [vendas de soporte]
-10,100218,bolsas para lavados internos
-10,100219,muñecas eróticas [muñecas sexuales]
-10,100219,muñecas sexuales
-10,100220,aparatos de microdermoabrasión
-10,100221,aparatos de rehabilitación física para uso médico
-10,100222,pulsímetros
-10,100222,esfigmómetros
-10,100223,estents
-10,100223,endoprótesis vasculares [estents]
-10,100224,tapones auditivos
-10,100224,tapones para los oídos
-10,100225,etiquetas indicadoras de la temperatura para uso médico
-10,100226,andadores para personas discapacitadas
-10,100227,tomógrafos para uso médico
-10,100228,aparatos para el tratamiento del acné
-10,100229,peines antipiojos
-10,100230,bastones de cuatro patas para uso médico
-10,100231,cámaras endoscópicas para uso médico
-10,100232,aparatos de monitorizacion de la frecuencia cardíaca
-10,100233,prendas de compresión
-10,100234,juguetes sexuales
-10,100235,estimuladores cerebrales
-10,100236,dispositivos implantables para la administración subcutánea de fármacos
-10,100237,implantes biodegradables de fijación ósea
-10,100238,depresores linguales para uso médico
-10,100238,bajalenguas para uso médico
-10,100239,aspiradores nasales
-10,100240,protectores bucales para uso odontológico
-10,100241,copas menstruales
-10,100242,mascarillas respiratorias para la respiración artificial
-10,100243,elásticos de ortodoncia
-10,100243,ligas de ortodoncia
-10,100244,dispositivos de análisis para la identificación de bacterias para uso médico
-10,100245,aparatos de tests de ADN y ARN para uso médico
-10,100246,aparatos para la regeneración de células madre para uso médico
-10,100247,monitores de grasa corporal
-10,100248,monitores de composición corporal
-10,100249,separadores interdigitales para uso ortopédico
-10,100250,pulseras antirreumáticas
-10,100250,pulseras para el reumatismo
-10,100251,anillos antirreumáticos
-10,100251,anillos para el reumatismo
-10,100252,pulseras para uso médico
-10,100253,robots quirúrgicos
-10,100254,chupetes alimentadores para bebés
-10,100255,pulseras antináuseas
-10,100256,andadores con ruedas
-10,100257,inhaladores de hidrógeno
-10,100258,aparatos de imagenología por resonancia magnética [IRM] para uso médico
-10,100259,camas de aire para uso médico
-10,100260,parches de enfriamiento para uso médico
-10,100261,almohadillas de enfriamiento para primeros auxilios
-10,100262,dispositivos urinarios portátiles
-10,100263,bastones para uso médico
-10,100264,trajes robóticos de exoesqueleto para uso médico
-10,100265,bandas de acupresión
-10,100266,clips sujetachupetes
-10,100266,clips sujetatetinas
-10,100267,analizadores de colesterol
-10,100268,batas de reconocimiento para pacientes
-10,100269,anillos biomagnéticos para uso terapéutico o médico
-10,100270,antifaces terapéuticos
-10,100271,masajeadores de encías para bebés
-10,100272,trituradores de pastillas
-10,100273,medidores de glucosa en sangre
-10,100273,glucómetros
-10,100274,lámparas de curado para uso médico
-10,100275,rellenos óseos compuestos de materiales artificiales
-10,100276,cámaras de inhalación
-10,100276,espaciadores para inhaladores
-10,100277,mesas de reconocimiento médico
-10,100278,nanorrobots para uso médico
-10,100278,robots nanométricos para uso médico
-10,100279,vendajes neuromusculares 
-10,100280,aparatos médicos de enfriamiento para tratar golpes de calor
-10,100281,aparatos médicos de enfriamiento para la hipotermia terapéutica
-10,100282,cortadores de comprimidos
-10,100283,mascarillas higiénicas para uso médico
-10,100284,máscaras de LED para uso terapéutico
-10,100285,concentradores de oxígeno para uso médico
-10,100286,vendas de sujeción
-10,100287,cascos para el tratamiento con láser de la alopecia
+class|name
+10|Abrazaderas para uso quirúrgico
+10|Abrazaderas pélvicas de emergencia
+10|Agujas de extracción de sangre
+10|Agujas de inyección
+10|Agujas de inyección para uso médico
+10|Agujas de sutura
+10|Agujas Luer lock para uso médico
+10|Agujas para biopsia
+10|Agujas para fístulas
+10|Agujas para inyecciones
+10|Agujas para uso médico
+10|Alambres de cerclaje
+10|Alambres de guía para uso médico y piezas y acoples para ellos
+10|Alicates quirúrgicos
+10|Alineadores dentales
+10|Almohadas cervicales para uso médico
+10|Almohadillas abdominales para uso médico
+10|Almohadillas dorsales para uso médico
+10|Almohadillas enfriantes para uso en primeros auxilios
+10|Amputadores quirúrgicos
+10|Analizadores de composición corporal para uso médico
+10|Analizadores de humedad de la piel para uso médico
+10|Anoscopios
+10|Anticonceptivos (aparatos)
+10|Aparato de enemas
+10|Aparatos automáticos de vacunación
+10|Aparatos de cromatografía de gas para uso médico
+10|Aparatos de diagnóstico médico para analizar virus
+10|Aparatos de ejercicio físico para uso médico
+10|Aparatos de entrenamiento físico para uso médico
+10|Aparatos de infusión de uso terapéutico
+10|Aparatos de lavado de uso terapéutico
+10|Aparatos de masaje
+10|Aparatos de masaje para cuello y hombros
+10|Aparatos de masaje para los ojos
+10|Aparatos de masaje para los pies
+10|Aparatos de masaje para uso médico
+10|Aparatos de masaje para uso personal
+10|Aparatos de medida del ritmo cardiaco
+10|Aparatos de polimerización con una finalidad dental
+10|Aparatos de radioterapia
+10|Aparatos de rayos X para imágenes odontológicas
+10|Aparatos de rayos X para uso dental y médico
+10|Aparatos de rayos X para uso médico
+10|Aparatos de taladrado para aplicaciones quirúrgicas y dentales
+10|Aparatos de terapia eléctrica y estática
+10|Aparatos de termoterapia para uso médico
+10|Aparatos de ultrasonido para diagnóstico médico
+10|Aparatos de ultrasonido para uso médico
+10|Aparatos dentales para el tratamiento de la apnea obstructiva del sueño
+10|Aparatos e instrumentos médicos relacionados con la reactividad neurovegetativa
+10|Aparatos e instrumentos quirúrgicos
+10|Aparatos e instrumentos quirúrgicos para uso médico, odontológico o veterinario
+10|Aparatos e instrumentos utilizados en cirugías de pies
+10|Aparatos eléctricos de masajes para uso doméstico
+10|Aparatos eléctricos terapéuticos de baja frecuencia
+10|Aparatos médicos de radiación
+10|Aparatos médicos para introducir preparados farmacéuticos en el cuerpo humano
+10|Aparatos ortopédicos para pies zambos
+10|Aparatos ortopédicos vertebrales
+10|Aparatos para análisis de sangre
+10|Aparatos para desfibrilación cardiaca
+10|Aparatos para diagnóstico clínico
+10|Aparatos para extracción de sangre
+10|Aparatos para facilitar la inhalación de preparaciones farmacéuticas para uso médico
+10|Aparatos para la extracción de muestras sangre
+10|Aparatos para la moxibustión
+10|Aparatos para la terapia de acupresión
+10|Aparatos para limpiar las cavidades del cuerpo
+10|Aparatos para magnetoterapia
+10|Aparatos para medir la tensión arterial
+10|Aparatos para transfusión de sangre
+10|Aparatos terapéuticos electromagnéticos de alta frecuencia
+10|Aparatos ultrasónicos para uso veterinario
+10|Aparatos utilizados en la implementación de exámenes de diagnóstico para detectar la proteína anormal prion
+10|Apoyos acústicos para discapacitados auditivos
+10|Articulaciones artificiales
+10|Artroscopios
+10|Aspiradores eléctricos de esputo
+10|Aspiradores manuales de esputo
+10|Atomizadores para uso médico
+10|Audífonos de funcionamiento eléctrico
+10|Audífonos digitales
+10|Audífonos eléctricos
+10|Audífonos para discapacitados auditivos (apoyos acústicos)
+10|Autorefractores optométricos (de uso oftalmológico)
+10|Ayudas para caminar para uso médico
+10|Bandejas para la impresión dental
+10|Batas médicas de aislamiento
+10|Bateas de emesis
+10|Biberones para bebé
+10|Biómetros para lentes intraoculares
+10|Bisturíes eléctricos para uso quirúrgico
+10|Bisturíes para uso médico
+10|Bisturíes quirúrgicos
+10|Bolsas para duchas vaginales
+10|Bombas de insulina
+10|Botellas de lactancia para bebes
+10|Botellas para guardar leche materna
+10|Broncoscopios
+10|Broncoscopios flexibles
+10|Broncoscopios rígidos
+10|Cabestrillos
+10|Cabestrillos (vendas de soporte)
+10|Cabestrillos para hombros (para rehabilitación)
+10|Calcetines para diabéticos
+10|Calibres cutáneos para uso médico
+10|Cámaras de oxígeno hiperbárico con una finalidad médica
+10|Cámaras de rayos gamma para uso médico
+10|Cámaras endoscópicas
+10|Cámaras oftálmicas para uso médico
+10|Camas de agua para uso médico
+10|Camas de masaje para uso médico
+10|Camillas
+10|Camillas de emergencias
+10|Camillas de hospital
+10|Camillas para enfermos
+10|Camillas para pacientes
+10|Camillas para pacientes bariátricos
+10|Camillas para transporte de pacientes
+10|Camisas de fuerza
+10|Cánulas
+10|Cánulas para anestésicos con recipientes
+10|Cartílago artificial
+10|Catéter intracardiaco
+10|Catéteres
+10|Catéteres de balón
+10|Catéteres eléctricos de uso quirúrgico
+10|Catéteres médicos
+10|Catéteres para uso médico y quirúrgico
+10|Catéteres urinarios
+10|Catéteres venosos centrales
+10|Catgut quirúrgico
+10|Cauterios de platino para uso quirúrgico
+10|Chupetes (tetinas)
+10|Cintas de kinesiología
+10|Cinturones abdominales para uso médico
+10|Citoscopios
+10|Clavos intramedulares
+10|Coderas para epicondilitis
+10|Cojines de hielo para uso medico
+10|Cojines inflables para uso médico
+10|Cojines ortopédicos
+10|Colchones de apoyo para uso médico
+10|Collares cervicales
+10|Collarines cónicos (collares isabelinos) para uso veterinario
+10|Colposcopios
+10|Conexiones de tornillos médicos
+10|Conexiones Luer para uso médico
+10|Contenedores de muestras médicas
+10|Contenedores especialmente adaptados para la eliminación de instrumentos médicos, jeringas y otros desechos médicos contaminados
+10|Contrafuertes de implantes para fines dentales
+10|Copas menstruales
+10|Corazones artificiales y sus partes
+10|Coronas dentales
+10|Correctores dentales (frenillos)
+10|Cortadores de píldoras
+10|Cortadores médicos y quirúrgicos para cortar tejido y órganos humano y animal
+10|Cucharas para administrar medicamentos
+10|Cuchillos médicos y quirúrgicos para cortar tejido y órganos humano y animal
+10|Cuchillos y cortadores médicos y quirúrgicos para cortar tejido y órganos humanos
+10|Curetas afiladas
+10|Dediles para uso médico
+10|Dentaduras postizas
+10|Desfibriladores
+10|Desfibriladores externos
+10|Diafragmas para la contracepción
+10|Dientes artificiales y fundas protectoras
+10|Dientes y tapaduras artificiales
+10|Dilatadores ginecológicos
+10|Dilatadores nasales
+10|Dilatadores rectales
+10|Dilatadores uretrales
+10|Dispositivos de anastomosis
+10|Dispositivos de corte para uso médico
+10|Dispositivos de inyección para productos farmacéuticos
+10|Dispositivos de medida del pulso
+10|Dispositivos de telemetría para aplicaciones médicas
+10|Dispositivos de vibromasaje
+10|Dispositivos e instrumentos quirúrgicos
+10|Dispositivos médicos con una finalidad de dosimetría en el ámbito de la radioterapia
+10|Dispositivos médicos, en concreto, implantes intravasculares compuestos de material artificial
+10|Dispositivos para medir el azúcar en la sangre
+10|Dispositivos para medir la presión intracraneal
+10|Electrocardiógrafos
+10|Electrodos de desfibrilación cardíaca
+10|Electrodos para desfibriladores externos
+10|Electrodos para electrocirugía
+10|Electrodos para uso médico
+10|Electroencefalógrafos
+10|Electroestimuladores musculares para uso médico
+10|Elevadores de fórceps
+10|Elevadores periosteales
+10|Encajes protésicos usados para sujetar prótesis a las extremidades del cuerpo
+10|Endoprótesis
+10|Endoscopios de cápsula
+10|Endoscopios médicos rígidos y flexibles
+10|Equipo de acupuntura
+10|Equipo endoscópico
+10|Escalpelos de láser para uso médico
+10|Escáneres de tomografía computarizada
+10|Escariadores dentales
+10|Esfigmomanómetros electrónicos
+10|Esfinterótomos
+10|Esofagoscopios
+10|Esofagoscopios flexibles
+10|Esofagoscopios rígidos
+10|Espátulas médicas
+10|Espéculos
+10|Espéculos oculares
+10|Espejos de dentista
+10|Espejos quirúrgicos
+10|Esquiascopios
+10|Estents de uréter implantables
+10|Estimuladores cardíacos (marcapasos)
+10|Estuches adaptados para instrumentos de disección para uso o investigación científicos
+10|Etiquetas indicadoras de la temperatura para uso médico
+10|Excavadores dentales
+10|Extractores de mucosidades
+10|Extremidades, ojos y dientes artificiales
+10|Fajas de embarazo para uso médico
+10|Fajas umbilicales
+10|Férulas para dedos
+10|Férulas para uso médico
+10|Fibroscopios para uso médico
+10|Filtros de sangre
+10|Filtros nasales para uso médico
+10|Fórceps de pulmón
+10|Fórceps obstétricos
+10|Fórceps para huesos
+10|Fórceps para uso quirúrgico
+10|Fórceps para uso técnico-dental
+10|Fórceps quirúrgicos
+10|Fresas para aplicaciones dentales
+10|Fundas de dedo para diagnóstico
+10|Fundas dentales
+10|Ganchos para espondilólisis
+10|Goniómetros para uso ortopédico
+10|Grapas quirúrgicas
+10|Guantes para uso en hospitales
+10|Guantes para uso médico
+10|Hemoglobinómetros
+10|Hilo guía hidrófilo para rastrear catéteres
+10|Hilo para uso médico
+10|Histeroscopios
+10|Huesos artificiales para implantación
+10|Humidificadores para uso médico
+10|Implantes compuestos por materiales artificiales
+10|Implantes de cóclea
+10|Implantes dentales
+10|Implantes espinales compuestos por materiales artificiales
+10|Implantes médicos, quirúrgicos y ortopédicos hechos de materiales artificiales
+10|Incubadoras para recién nacidos
+10|Indicadores de dióxido de carbono para uso médico
+10|Inhaladores para anestésicos vacíos
+10|Inhaladores vacíos para uso médico
+10|Instrumentos de audición médicos y partes de los mismos
+10|Instrumentos de castración para uso veterinario
+10|Instrumentos de disección para fines médicos
+10|Instrumentos de imagen por resonancia magnética para uso médico
+10|Instrumentos de inyección sin agujas
+10|Instrumentos de otorrinolaringología
+10|Instrumentos de relleno de uso dental
+10|Instrumentos de sutura hemostáticos
+10|Instrumentos litotómicos
+10|Instrumentos médicos ginecológicos para el examen de los órganos reproductivos femeninos
+10|Instrumentos médicos para cortar tejidos
+10|Instrumentos médicos para termoterapia intersticial de tejidos biológicos
+10|Instrumentos para aplicar rellenos dentales
+10|Instrumentos para la acupuntura
+10|Instrumentos para traqueotomía percutánea para uso médico
+10|Instrumentos protésicos para uso dental
+10|Instrumentos quirúrgicos para su uso en cirugía ortopédica y de columna vertebral
+10|Interpupilómetros
+10|Irrigadores nasales eléctricos
+10|Irrigadores nasales no eléctricos
+10|Irrigadores para uso médico
+10|Jeringas de inseminación
+10|Jeringas de inyección (tubos de jeringa)
+10|Jeringas dentales
+10|Jeringas desechables
+10|Jeringas para punción espinal
+10|Jeringas para uso médico y para inyecciones
+10|Jeringuillas hipodérmicas desechables para uso médico
+10|Lámparas de arco de carbono con una finalidad terapéutica
+10|Lámparas de calor para uso médico
+10|Lámparas medicas para operar
+10|Lámparas UV para uso médico
+10|Laparoscopios para uso médico y quirúrgico
+10|Laparoscopios y catéteres para uso médico y quirúrgico
+10|Laringes artificiales
+10|Laringes artificiales alimentadas por batería
+10|Laringoscopios
+10|Láseres para uso médico
+10|Lentes intraoculares
+10|Ligamentos protésicos
+10|Limpiadores de cavidades/caries bucales
+10|Limpiadores de oídos
+10|Litotritores
+10|Luces de curado dentales (aparatos odontológicos)
+10|Mantas terapéuticas con peso
+10|Máquinas de terapia de onda corta
+10|Máquinas e instrumentos ortodóncicos para uso dental
+10|Máquinas e instrumentos para operar hueso
+10|Máquinas eléctricas para operar huesos
+10|Máquinas y aparatos de terapia ultrasónica
+10|Máquinas y aparatos para pruebas de ojos
+10|Marcapasos cardíacos
+10|Martillos de reflejo para uso diagnóstico
+10|Martillos percutores pectorales
+10|Masajeadores de cuero cabelludo eléctrico para uso comercial
+10|Masajeadores de cuero cabelludo eléctrico para uso doméstico
+10|Máscaras de reanimación cardiopulmonares
+10|Mascarillas de anestesia
+10|Mascarillas de oxígeno para uso médico
+10|Mascarillas respiratorias para uso médico
+10|Material de incrustación para uso técnico dental
+10|Material de sutura
+10|Materiales de fijado para uso dental
+10|Medias elásticas para uso médico
+10|Medias y pantis de compresión para uso médico
+10|Medidores de flujo espiratorio máximo (de uso médico)
+10|Medidores de glucosa sanguínea
+10|Medidores electrónicos de presión sanguínea (para uso médico)
+10|Mesas de disección
+10|Mesas de examinación de uso en hospitales
+10|Metales base y aleaciones para uso dental
+10|Mitones para uso médico
+10|Monitores de composición corporal
+10|Monitores de grasa corporal
+10|Monitores de presión sanguínea
+10|Monitores de pulso fetal
+10|Monitores de ritmo cardíaco fetal
+10|Monitores de señal cardiaca
+10|Monitores de temperatura electrónicos para uso médico
+10|Monitores para electrocardiógrafos
+10|Monitores portátiles utilizados para medir datos biométricos para uso médico
+10|Muestrarios de tonalidad de dientes para uso odontológico
+10|Nebulizadores para uso médico
+10|Obturadores intramedulares (de uso quirúrgico)
+10|Ojos artificiales
+10|Orinales para uso médico
+10|Otoscopios
+10|Oxímetro de pulso
+10|Papilotomas
+10|Partes de huesos artificiales para implante en huesos naturales
+10|Pegamento quirúrgico
+10|Peines antipiojos para mascotas
+10|Pelotas de masaje de uso terapéutico
+10|Pelvímetros
+10|Perforadoras quirúrgicas
+10|Pesarios
+10|Pinzas de reposición
+10|Pinzas hemostáticas
+10|Plantillas ortopédicas
+10|Plantillas ortopédicas que incorporan sujeciones de arco
+10|Plantillas para uso ortopédico
+10|Portadores de amalgama
+10|Prendas de compresión postoperatorias
+10|Preservativos
+10|Preservativos espermicidas
+10|Protectores bucales para uso médico
+10|Protectores de colchón (salvacamas)
+10|Protectores de colchón para incontinentes
+10|Protectores de pezón para la lactancia materna
+10|Protectores de plástico para el pulgar para evitar la succión del pulgar
+10|Prótesis
+10|Prótesis capilares
+10|Prótesis de articulaciones
+10|Prótesis de cadera ortopédicas
+10|Prótesis dentales
+10|Prótesis óseas
+10|Puentes de implante con una finalidad dental
+10|Puertos de acceso vascular de uso médico
+10|Pulsímetros
+10|Queratoscopio
+10|Quitagrapas quirúrgicos
+10|Radiadores por infrarrojos con una finalidad terapéutica
+10|Radiadores ultravioleta para uso terapéutico
+10|Rascadores óseos
+10|Recipientes especiales para desechos médicos
+10|Refuerzos ortopédicos para insertar en el calzado
+10|Resonancia magnética (aparatos de tomografía computarizada)
+10|Retinoscopios
+10|Retractores de mastoides
+10|Retractores labiales
+10|Retractores para huesos
+10|Retractores quirúrgicos
+10|Robots médicos para uso en terapia cognitiva para niños
+10|Robots para uso médico o quirúrgico
+10|Rodilleras ortopédicas
+10|Sábanas para personas incontinentes
+10|Sacaleches
+10|Saquitos de ostomía
+10|Sensores y alarmas para monitorización de pacientes
+10|Separadores de vértebras
+10|Sillas de dentista
+10|Sillas de masajes
+10|Sillas eléctricas de masaje
+10|Sondas para uso médico
+10|Soportes de cimentación dental
+10|Soportes para bolsas de hielo médicas
+10|Stents
+10|Stents médicos
+10|Stents recubiertos biocompatibles
+10|Sucedáneos de huesos para uso quirúrgico
+10|Sucedáneos para huesos, cartílago, ligamentos y tendones
+10|Suturas
+10|Suturas quirúrgicas
+10|Taladros dentales
+10|Tapones de diáfisis
+10|Tazas de alimentación para uso médico
+10|Tensiómetros electrónicos de muñeca
+10|Termómetros clínicos
+10|Termómetros de oído para uso médico
+10|Termómetros para la fiebre
+10|Tetinas de biberón para bebé
+10|Tetinas desechables
+10|Tijeras médicas
+10|Tijeras quirúrgicas
+10|Tonómetros
+10|Tornillos para huesos
+10|Tracoscopios
+10|Trajes quirúrgicos
+10|Trocares
+10|Tubos bucales
+10|Tubos capilares para la sangre
+10|Tubos capilares para muestras
+10|Tubos de alimentación enteral
+10|Tubos de drenaje capilares
+10|Tubos de rayos X para uso médico
+10|Tubos de timpanostomía
+10|Tubos endobronquiales
+10|Tubos endotraqueales
+10|Tubos para cánulas
+10|Tubos para catéteres
+10|Tubos para la alimentación endovenosa
+10|Unidades de lámpara de arco de mercurio con una finalidad terapéutica
+10|Válvulas cardíacas artificiales
+10|Válvulas cardiacas para prótesis quirúrgicas
+10|Válvulas para el tratamiento de la hidrocefalia
+10|Válvulas subcutáneas para implantación
+10|Vaporizadores para uso médico
+10|Vendas de soporte
+10|Vendas elásticas
+10|Ventiladores médicos
+10|Ventosas para terapia de moxibustión
+10|Yeso médico y quirúrgico

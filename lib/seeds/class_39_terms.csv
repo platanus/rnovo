@@ -1,131 +1,219 @@
-class,reference_id,name
-39,390002,acompañamiento de viajeros
-39,390003,suministro de agua
-39,390004,transporte aéreo
-39,390004,transportes aeronáuticos
-39,390006,transporte en ambulancia
-39,390007,servicios de remolque de vehículos averiados
-39,390008,alquiler de coches
-39,390008,alquiler de automóviles
-39,390009,transporte en automóvil
-39,390010,servicios de autobuses
-39,390011,servicios de barcos de recreo
-39,390012,alquiler de barcos
-39,390013,servicios de rompehielos
-39,390014,camionaje
-39,390015,salvamento de barcos
-39,390016,servicios de lanchaje
-39,390016,servicios de gabarraje
-39,390017,acarreo
-39,390018,transporte por ferrocarril
-39,390019,alquiler de caballos
-39,390020,distribución de paquetes
-39,390020,reparto de paquetes
-39,390021,servicios de portes
-39,390022,empaquetado de productos
-39,390022,acondicionamiento de productos
-39,390023,corretaje marítimo
-39,390024,organización de cruceros
-39,390025,servicios de transporte para visitas turísticas
-39,390026,descarga de mercancías
-39,390027,reparto de mercancías
-39,390027,distribución [reparto] de productos
-39,390028,almacenamiento de mercancías
-39,390030,distribución de agua
-39,390031,distribución de electricidad
-39,390032,accionamiento de compuertas de esclusas
-39,390033,servicios de aparcamiento
-39,390033,servicios de estacionamiento
-39,390034,almacenamiento
-39,390034,servicios de depósito
-39,390035,alquiler de almacenes [depósitos]
-39,390036,transporte en transbordador [ferri]
-39,390037,transporte fluvial
-39,390038,flete [transporte de mercancías]
-39,390039,fletamento
-39,390040,alquiler de garajes
-39,390041,transporte por oleoductos
-39,390041,transporte por gasoductos
-39,390042,alquiler de plazas de aparcamiento
-39,390042,alquiler de plazas de estacionamiento
-39,390042,alquiler de plazas de parqueo
-39,390043,alquiler de refrigeradores
-39,390043,alquiler de frigoríficos
-39,390044,alquiler de vehículos
-39,390045,alquiler de coches de ferrocarril
-39,390046,alquiler de vagones de carga
-39,390047,transporte de muebles
-39,390048,transporte
-39,390049,transporte en barco
-39,390050,organización de transporte para circuitos turísticos
-39,390051,transporte de pasajeros
-39,390052,servicios de pilotaje
-39,390054,servicios de remolque
-39,390055,reflotamiento de barcos
-39,390056,reservas de plazas de viaje
-39,390057,servicios de salvamento
-39,390058,transporte en taxi
-39,390059,servicios de tranvías
-39,390059,transporte en tranvía
-39,390060,servicios de expedición de fletes
-39,390061,transporte marítimo
-39,390062,transporte en vehículos blindados
-39,390063,transporte de viajeros
-39,390064,transporte y almacenamiento de residuos y desechos
-39,390065,mudanzas
-39,390065,mudanzas de muebles
-39,390071,servicios de depósito de barcos
-39,390072,corretaje de fletes
-39,390073,corretaje de transporte
-39,390074,servicios de chóferes
-39,390074,servicios de choferes
-39,390075,servicios de mensajería [correo o mercancías]
-39,390076,suministro de información sobre almacenamiento
-39,390077,suministro de información sobre transporte
-39,390078,alquiler de campanas de buzo
-39,390079,alquiler de escafandras
-39,390079,alquiler de trajes de buceo
-39,390080,alquiler de contenedores de almacenamiento
-39,390081,alquiler de portaequipajes [bacas] para vehículos
-39,390082,operaciones de salvamento [transporte]
-39,390083,reservas de transporte
-39,390084,reservas de viajes
-39,390085,salvamento submarino
-39,390086,empaquetado de mercancías
-39,390087,distribución de mensajes
-39,390087,reparto de correo
-39,390088,reparto de periódicos
-39,390089,reparto de mercancías encargadas por correspondencia
-39,390090,distribución de energía
-39,390091,alquiler de coches de carreras
-39,390092,alquiler de sillas de ruedas
-39,390093,estiba
-39,390094,almacenamiento físico de datos o documentos archivados electrónicamente
-39,390095,lanzamiento de satélites para terceros
-39,390096,entrega de flores
-39,390096,reparto de flores
-39,390097,franqueo postal
-39,390098,suministro de información sobre tráfico
-39,390099,alquiler de congeladores
-39,390100,servicios de embotellado
-39,390101,servicios logísticos de transporte
-39,390102,alquiler de aeronaves
-39,390103,transporte en chalana
-39,390104,alquiler de autocares
-39,390105,alquiler de motores para aeronaves
-39,390106,transporte protegido de objetos de valor
-39,390107,alquiler de sistemas de navegación
-39,390108,suministro de información sobre itinerarios de viaje
-39,390109,servicios de envoltura de regalos
-39,390110,alquiler de tractores
-39,390111,recogida de productos reciclables [transporte]
-39,390112,alquiler de armarios refrigeradores eléctricos para vino
-39,390113,abastecimiento de efectivo de cajeros automáticos
-39,390114,servicios de uso temporal de vehículos
-39,390115,abastecimiento de distribuidores automáticos
-39,390115,abastecimiento de máquinas expendedoras
-39,390116,servicios de consigna de equipaje
-39,390117,organización de servicios de transporte de pasajeros para terceros mediante una aplicación en línea
-39,390118,servicios de pilotaje de drones civiles
-39,390119,preparación de visados y documentos de viaje para personas que viajan al extranjero
-39,390120,servicios de vehículo compartido
+class|name
+39|Abastecimiento (distribución) de calefacción
+39|Acompañamiento de viajeros
+39|Almacenaje de materiales peligrosos
+39|Almacenaje de productos
+39|Almacenamiento de alimentos agrícolas
+39|Almacenamiento de combustibles de aviación
+39|Almacenamiento de desechos radiactivos
+39|Almacenamiento de equipaje
+39|Almacenamiento de mercancías
+39|Almacenamiento de ropa
+39|Almacenamiento de soportes físicos de datos o documentos electrónicos
+39|Almacenamiento temporal de entregas
+39|Almacenamiento y reparto de productos
+39|Alquilado de embarcaciones
+39|Alquiler de aeronaves
+39|Alquiler de almacenes (depósitos)
+39|Alquiler de aparatos y máquinas de congelación
+39|Alquiler de autobuses
+39|Alquiler de autocaravanas
+39|Alquiler de automóviles
+39|Alquiler de aviones
+39|Alquiler de barcos
+39|Alquiler de bicicleta
+39|Alquiler de bicicletas
+39|Alquiler de camiones
+39|Alquiler de camiones y remolques
+39|Alquiler de canoas
+39|Alquiler de carriolas
+39|Alquiler de coches de carreras
+39|Alquiler de coches de hidrógeno
+39|Alquiler de congeladores para uso comercial
+39|Alquiler de congeladores para uso doméstico
+39|Alquiler de contenedores de almacenamiento
+39|Alquiler de contenedores para transportes
+39|Alquiler de equipos de GPS para navegación
+39|Alquiler de espacio en almacén
+39|Alquiler de garajes
+39|Alquiler de máquinas y aparatos de carga y descarga
+39|Alquiler de motocicletas
+39|Alquiler de palés
+39|Alquiler de plataformas de elevación autopropulsadas para el transporte
+39|Alquiler de plazas de estacionamiento
+39|Alquiler de refrigeradores
+39|Alquiler de refrigeradores y congeladores para uso doméstico
+39|Alquiler de sillas de ruedas
+39|Alquiler de sistemas mecánicos de estacionamiento
+39|Alquiler de vehículos
+39|Alquiler de vehículos de tracción y remolques
+39|Alquiler de vehículos eléctricos
+39|Alquiler de vehículos recreativos
+39|Alquiler de vehículos y aparatos de locomociónaérea
+39|Alquiler o arrendamiento de ambulancias (transporte)
+39|Aparcamiento de aeronaves
+39|Arrendamiento de coches ferroviarios
+39|Arrendamiento de máquinas empacadoras
+39|Arrendamiento de motos para transporte
+39|Arriendo de container de almacenamiento
+39|Coordinación de preparativos de viaje para individuos o para grupos
+39|Corretaje de barcos
+39|Corretaje de transportación de carga
+39|Corretaje de transporte
+39|Corretaje de transporte de carga
+39|Corretaje de transporte de carga y transporte
+39|Custodia temporal de pertenencias personales
+39|Descarga de mercancías
+39|Distribución de agua
+39|Distribución de electricidad
+39|Distribución de energía
+39|Distribución de energía renovable
+39|Distribución de paquetes
+39|Distribución y suministro de agua
+39|Distribución y transmisión de electricidad
+39|Embalaje de mercancías
+39|Embalaje y depósito de mercancías
+39|Entrega de agua embotellada a hogares y oficinas
+39|Entrega de flores
+39|Envío de mercancías
+39|Facilitación de información de viajes
+39|Facilitación de información sobre carreteras y tráfico
+39|Facilitación de información sobre depósito de mercancía en almacenes
+39|Facilitación de instalaciones de atracaderos para navíos
+39|Fletamento de autobuses
+39|Gestión de flujo del tráfico de vehículos mediante redes y tecnologías de comunicación avanzadas
+39|Información de viajes
+39|Información sobre tráfico
+39|Información sobre transporte
+39|Manipulación de carga
+39|Operación de transbordador
+39|Organización de cruceros
+39|Organización de excursiones
+39|Organización de viajes
+39|Organización de viajes y cruceros
+39|Organización de viajes, excursiones y cruceros
+39|Planificación de rutas de viaje
+39|Preparación de visados de viajes, pasaportes y documentos de viaje para personas que viajan al extranjero
+39|Préstamo y alquiler de aviones
+39|Provisión de estacionamiento de vehículos
+39|Recogida y reparto de cartas
+39|Reflotamiento de barcos
+39|Remolcado de aviones
+39|Remolque de automóviles para emergencias
+39|Remolque marítimo
+39|Reparto de mensajes (mensajero)
+39|Reparto de mercancías
+39|Reparto de mercancías encargadas por correspondencia
+39|Reparto de periódicos
+39|Reparto de pizzas
+39|Reparto y almacenamiento de productos
+39|Reserva de billetes de viaje
+39|Reserva para alquiler de automóviles
+39|Reservas de plazas de viaje
+39|Reservas de transporte
+39|Salvamento de barcos
+39|Salvamento de buques en peligro
+39|Servicio de alquiler de coches con conductor
+39|Servicio de rompehielos para la industria marítima
+39|Servicios chárter de yate y barco
+39|Servicios de aeropuerto que consisten en la provisión de salas de espera para el uso de pasajeros en tránsito
+39|Servicios de agencia de viajes, en concreto reservas y contratación de transporte
+39|Servicios de agencia para la organización del transporte de personas
+39|Servicios de almacenaje
+39|Servicios de alquilado de vehículos
+39|Servicios de aparcamiento
+39|Servicios de asesoramiento y consultoría relacionados con el transporte
+39|Servicios de autobuses
+39|Servicios de bicicletas compartidas
+39|Servicios de carga aérea
+39|Servicios de carga de mercancias
+39|Servicios de chóferes
+39|Servicios de co-envío (co-mailing) para fines de transporte, a saber, agrupación y la entrega de correo a la oficina de correos
+39|Servicios de co-paletización (logística de envío y almacenamiento) de productos
+39|Servicios de control del tráfico aéreo
+39|Servicios de depósito de barcos
+39|Servicios de depósito y recepción de equipaje provistos por aerolíneas
+39|Servicios de distribución de gas
+39|Servicios de embalaje de carga
+39|Servicios de envasado de mercancías
+39|Servicios de estacionamiento
+39|Servicios de facturación para aerolíneas
+39|Servicios de fletado de yates
+39|Servicios de flete de mercancías
+39|Servicios de flete y transporte de mercancías
+39|Servicios de lanzadera de pasajeros entre estacionamientos de aeropuerto y las terminales
+39|Servicios de manipulación de cargas de importación y exportación
+39|Servicios de mensajería
+39|Servicios de navegación aérea
+39|Servicios de navegación por sistema de posicionamiento global
+39|Servicios de pilotaje
+39|Servicios de planificación de vuelos
+39|Servicios de portes
+39|Servicios de puerto deportivo (atraque, amarre, almacenamiento)
+39|Servicios de reserva de billetes aéreos
+39|Servicios de reserva de billetes para viajes en tren
+39|Servicios de transportación y reparto por aire, carretera, ferrocarril y mar
+39|Servicios de transporte aéreo
+39|Servicios de transporte masivo para el público en general
+39|Servicios de vuelos chárter
+39|Servicios para organizar el transporte de viajeros
+39|Servicios postales, de carga y mensajería
+39|Suministro de agua
+39|Suministro de agua (distribución)
+39|Suministro de gas (distribución)
+39|Suministro de información sobre viajes a través de internet
+39|Suministro de instalaciones de atraque
+39|Suministro de instalaciones de autoalmacenamiento para terceros
+39|Suministro y distribución de agua
+39|Transportación aérea
+39|Transportación aérea de pasajeros y carga
+39|Transportación custodiada de valores
+39|Transportación de pasajeros y equipaje de pasajeros
+39|Transportación de pasajeros y productos por ferrocarril
+39|Transportación de productos
+39|Transportación en vehículos impulsados por el hombre
+39|Transporte de animales de compañía
+39|Transporte de camiones
+39|Transporte de carga por tren
+39|Transporte de cargamento
+39|Transporte de dinero y valores
+39|Transporte de mercancías por vía aérea
+39|Transporte de pasajeros
+39|Transporte de pasajeros en barcos de crucero
+39|Transporte de pasajeros en tren
+39|Transporte de pasajeros por barco
+39|Transporte de personas
+39|Transporte de personas y productos
+39|Transporte de productos
+39|Transporte de valores
+39|Transporte de viajeros
+39|Transporte en ambulancia
+39|Transporte en automóvil
+39|Transporte en avión propulsado por hélice
+39|Transporte en aviones de turborreactor
+39|Transporte en barco
+39|Transporte en camiones
+39|Transporte en cargueros
+39|Transporte en coche alquilado
+39|Transporte en helicóptero
+39|Transporte en monorriel
+39|Transporte en taxi
+39|Transporte en taxi para personas en sillas de ruedas
+39|Transporte en transbordador
+39|Transporte en vehículos automóviles de dos ruedas
+39|Transporte en vehículos blindados
+39|Transporte ferroviario
+39|Transporte marítimo
+39|Transporte naval
+39|Transporte por aéreo
+39|Transporte por ferrocarril
+39|Transporte por oleoductos
+39|Transporte por teleférico
+39|Transporte protegido de valores
+39|Transporte terrestre
+39|Transporte y almacenamiento de productos
+39|Transporte y almacenamiento de productos en condiciones refrigeradas
+39|Transporte y reparto de productos
+39|Transportes aéreos y almacenamiento de mercancías
+39|Transportes en cisterna
+39|Transportes marítimo

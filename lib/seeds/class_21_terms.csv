@@ -1,465 +1,570 @@
-class,reference_id,name
-21,210001,abrevaderos
-21,210002,comederos*
-21,210005,lana de acero para limpiar
-21,210006,tablas de lavar
-21,210007,recipientes térmicos para alimentos
-21,210008,sacudidores de alfombras
-21,210009,ampollas de vidrio [recipientes]
-21,210010,cerdas de animales [cepillos y pinceles]
-21,210011,anillos para aves de corral
-21,210012,boquillas para mangueras de riego
-21,210013,instrumentos de riego
-21,210013,dispositivos de riego
-21,210014,cepillos*
-21,210015,aspersores*
-21,210016,regaderas
-21,210017,cestas para el pan de uso doméstico
-21,210018,anillos para pájaros
-21,210019,bañeras para pájaros*
-21,210020,escobas
-21,210021,escobas mecánicas
-21,210021,barrealfombras mecánicos
-21,210022,frascos de vidrio [recipientes]
-21,210022,balones de vidrio [recipientes]
-21,210023,baldes
-21,210023,cubos*
-21,210025,palanganas [recipientes]
-21,210026,baterías de cocina
-21,210027,picos vertederos
-21,210028,almohazas
-21,210030,mantequeras [vajilla]
-21,210030,mantequilleras
-21,210031,campanas para mantequilla
-21,210031,campanas para manteca
-21,210032,jarras de cerveza
-21,210033,tarros [bocales]
-21,210034,recipientes para beber
-21,210035,recipientes térmicos para bebidas
-21,210036,cajas distribuidoras de toallitas de papel
-21,210037,jaboneras [estuches]
-21,210038,cajas para té
-21,210039,boles
-21,210039,cuencos
-21,210039,escudillas
-21,210040,damajuanas
-21,210040,bombonas*
-21,210041,sacabotas
-21,210042,tapones de vidrio para insertar en botellas
-21,210042,tapones de cristal para insertar en botellas
-21,210043,sacacorchos, eléctricos y no eléctricos
-21,210044,bolas de vidrio decorativas
-21,210045,botellas
-21,210046,botellas aislantes
-21,210046,termos
-21,210047,botellas refrigerantes
-21,210048,abrebotellas, eléctricos y no eléctricos
-21,210049,brochetas [varillas metálicas] para uso culinario
-21,210050,cepillos de uñas
-21,210051,escobillas de baño
-21,210052,cepillos para cristales de lámparas
-21,210054,materiales para fabricar cepillos
-21,210055,cerdas para cepillos
-21,210056,quemadores de perfume [pebeteros]
-21,210056,pebeteros
-21,210057,vinajeras
-21,210058,licoreras [bandejas]
-21,210059,pajareras [jaulas de pájaros]
-21,210059,jaulas de pájaros
-21,210061,cedazos [utensilios domésticos]
-21,210062,recipientes térmicos
-21,210063,decantadores
-21,210063,jarras
-21,210064,portamenús
-21,210065,cacerolas
-21,210066,estropajos metálicos para fregar
-21,210066,esponjas metálicas para fregar
-21,210067,tamices para ceniza [utensilios domésticos]
-21,210068,artículos de cerámica para uso doméstico
-21,210069,matamoscas
-21,210070,calderas [ollas]
-21,210071,cepillos para zapatos
-21,210073,cepillos para caballos
-21,210074,comederos para animales
-21,210075,peines para animales
-21,210076,peines*
-21,210077,trapos de limpieza
-21,210077,paños [trapos] de limpieza
-21,210078,adornos de porcelana
-21,210079,moldes [utensilios de cocina]
-21,210080,enceradoras no eléctricas
-21,210082,cocteleras
-21,210084,botes para pegamento
-21,210084,frascos para pegamento
-21,210085,vasos [recipientes]
-21,210086,cuernos para beber
-21,210087,utensilios cosméticos
-21,210088,filtros para uso doméstico
-21,210089,fruteros
-21,210090,soportes para cuchillos de mesa
-21,210091,cierres para tapas de ollas
-21,210092,tapas de olla
-21,210093,fundas para tablas de planchar
-21,210094,prensas para corbatas
-21,210096,mezcladores no eléctricos para uso doméstico
-21,210097,tamices [utensilios domésticos]
-21,210098,artículos de cristalería
-21,210099,moldes para cubitos de hielo
-21,210099,cubeteras
-21,210100,cuero para lustrar
-21,210101,ollas
-21,210101,marmitas
-21,210102,palas para uso doméstico
-21,210103,moldes de cocina
-21,210104,instrumentos de limpieza accionados manualmente
-21,210105,mondadientes
-21,210105,palillos [mondadientes]
-21,210106,tinas para lavar la ropa
-21,210107,placas para impedir que se derrame la leche
-21,210108,tablas de cortar para la cocina
-21,210110,peines de púas anchas
-21,210110,peines desenredantes
-21,210111,aparatos no eléctricos para quitar el polvo
-21,210112,soportes para planchas de ropa
-21,210114,vidrio en polvo para decorar
-21,210115,neceseres de tocador
-21,210116,distribuidores de papel higiénico
-21,210117,distribuidores de jabón
-21,210118,sifones para agua gaseosa
-21,210118,sifones para agua carbonatada
-21,210119,vidrio esmaltado, que no sea para la construcción
-21,210120,hormas para zapatos
-21,210121,embudos
-21,210122,servicios para especias [especieros]
-21,210123,esponjas de aseo personal
-21,210124,portaesponjas [esponjeras]
-21,210124,esponjeras [portaesponjas]
-21,210125,paños para desempolvar muebles
-21,210126,tendederos de ropa
-21,210127,cubos de tela
-21,210128,estuches para peines
-21,210129,artículos de loza
-21,210132,soportes para plantas [arreglos florales]
-21,210132,soportes para flores [arreglos florales]
-21,210133,macetas [tiestos]
-21,210134,batidoras no eléctricas para uso doméstico
-21,210135,mopas*
-21,210135,fregonas
-21,210135,trapeadores*
-21,210136,sartenes
-21,210137,cepillos para el suelo
-21,210137,cepillos para el piso
-21,210138,exprimidores de fruta no eléctricos para uso doméstico
-21,210139,productos absorbentes del humo para uso doméstico
-21,210140,fiambreras
-21,210141,abreguantes
-21,210142,moldes para pasteles
-21,210142,moldes para tortas
-21,210143,vidrio [materia prima]
-21,210144,cantimploras
-21,210145,parrillas [utensilios de cocina]
-21,210146,soportes para parrillas
-21,210147,escobillas para extender el alquitrán
-21,210148,borlas de polvera
-21,210149,vidrio en bruto o semielaborado, excepto el vidrio de construcción
-21,210150,trampas para insectos
-21,210152,lana de vidrio que no sea para aislar
-21,210153,vasijas
-21,210154,fuentes para hortalizas
-21,210155,servicios para servir licores
-21,210156,cucharones [utensilios de cocina]
-21,210157,mayólica
-21,210158,trituradoras no eléctricas para uso culinario
-21,210159,utensilios para uso doméstico
-21,210160,recogemigas
-21,210161,mosaicos de vidrio que no sean para la construcción
-21,210162,molinillos de mano para uso doméstico
-21,210163,desechos de lana para limpiar
-21,210163,desperdicios de lana para limpiar
-21,210164,nidales [huevos artificiales]
-21,210165,hueveras
-21,210166,vidrio opalino
-21,210167,opalina
-21,210168,estropajos para limpiar
-21,210169,tablas de cortar pan
-21,210170,cestas de picnic con vajilla
-21,210171,prensas para pantalones
-21,210173,platos de papel
-21,210175,rodillos de pastelería
-21,210175,palos de amasar
-21,210176,peines eléctricos
-21,210177,palas para tartas
-21,210178,pipetas para vino
-21,210178,catavinos
-21,210179,tablas de planchar
-21,210180,bandejas de papel para uso doméstico
-21,210180,charolas de papel para uso doméstico
-21,210181,cazuelas
-21,210183,alcachofas de regadera
-21,210184,molinillos de pimienta manuales
-21,210185,pimenteros
-21,210186,aparatos y máquinas de lustrar no eléctricos para uso doméstico
-21,210187,materiales para pulir [sacar brillo] que no sean preparaciones ni papel ni piedra
-21,210189,artículos de porcelana
-21,210190,jarrones
-21,210191,portajabones [jaboneras]
-21,210192,bacinillas
-21,210193,artículos de alfarería
-21,210194,cubos de basura
-21,210194,basureros [cubos de basura]
-21,210195,polveras vacías
-21,210196,cubiteras
-21,210196,baldes para hielo
-21,210197,ralladores para uso culinario
-21,210198,trampas para ratas [cepos]
-21,210199,recipientes para uso doméstico o culinario
-21,210200,servilleteros de aro
-21,210203,ensaladeras
-21,210204,saleros
-21,210206,jeringas para regar flores y plantas
-21,210207,servicios de mesa [vajilla]
-21,210208,fuentes [vajilla]
-21,210209,servicios de té
-21,210210,servilleteros de mesa
-21,210211,aparatos para hacer helados y sorbetes
-21,210212,platillos [platos pequeños]
-21,210213,calzadores
-21,210214,soperas
-21,210215,cepillos para las cejas
-21,210216,ratoneras [trampas para ratones]
-21,210217,estatuas de porcelana, cerámica, loza, barro cocido o vidrio
-21,210217,estatuas de porcelana, cerámica, loza, barro cocido o cristal
-21,210218,azucareros
-21,210219,centros de mesa
-21,210220,tazas
-21,210221,tensores para prendas de vestir
-21,210222,teteras
-21,210223,abotonadores
-21,210224,huchas de cerdito
-21,210224,alcancías de chanchito
-21,210224,alcancías de cochinito
-21,210224,alcancías de marranito
-21,210225,utensilios de tocador
-21,210226,dispensadores de bebidas calientes no eléctricos
-21,210227,vajilla
-21,210228,vaporizadores de perfume
-21,210228,pulverizadores de perfume
-21,210229,vidrio con conductores eléctricos finos incorporados
-21,210230,vidrio pintado
-21,210230,artículos de cristalería pintados
-21,210231,vidrio para ventanillas de vehículos [producto semiacabado]
-21,210232,tazas altas
-21,210232,mugs [tazas altas]
-21,210233,aerosoles [recipientes] que no sean para uso médico
-21,210234,objetos de arte de porcelana, cerámica, loza, barro cocido o vidrio
-21,210234,objetos de arte de porcelana, cerámica, loza, barro cocido o cristal
-21,210235,platos
-21,210236,ollas a presión no eléctricas
-21,210236,ollas exprés no eléctricas
-21,210238,batidoras no eléctricas
-21,210239,calientabiberones no eléctricos
-21,210240,brochas de afeitar
-21,210241,portabrochas de afeitar
-21,210242,arandelas de candelero
-21,210243,cajas de vidrio
-21,210244,cajas para caramelos
-21,210244,bomboneras
-21,210245,candeleros
-21,210245,candelabros
-21,210245,palmatorias
-21,210246,hervidores no eléctricos
-21,210248,filtros de té [bolas y pinzas]
-21,210250,cepillos de dientes
-21,210251,cepillos eléctricos, excepto partes de máquinas
-21,210252,bustos de porcelana, cerámica, loza, barro cocido o vidrio
-21,210252,bustos de porcelana, cerámica, loza, barro cocido o cristal
-21,210253,cubremacetas que no sean de papel
-21,210254,molinillos de café accionados manualmente
-21,210255,servicios de café
-21,210256,filtros de café no eléctricos
-21,210257,cafeteras de filtro no eléctricas
-21,210258,posabotellas y posavasos que no sean de papel ni de materias textiles
-21,210259,esponjas abrasivas para la cocina
-21,210260,freidoras no eléctricas
-21,210261,neveras portátiles no eléctricas
-21,210261,heladeras portátiles no eléctricas
-21,210262,duchas bucales
-21,210263,gamuzas para limpiar
-21,210264,aparatos no eléctricos para lustrar el calzado
-21,210265,campanas para queso
-21,210266,cestas para uso doméstico
-21,210267,bandejas para uso doméstico
-21,210267,charolas para uso doméstico
-21,210268,desechos de algodón para limpiar
-21,210269,tapas para platos y fuentes
-21,210270,salvamanteles [utensilios de mesa]
-21,210271,cántaros
-21,210271,jarros
-21,210272,recipientes de cocina
-21,210273,utensilios de cocina
-21,210274,utensilios de cocción no eléctricos
-21,210275,palilleros
-21,210276,cepillos de dientes eléctricos
-21,210277,aparatos desodorantes para uso personal
-21,210278,escobillas para limpiar recipientes
-21,210279,letreros de porcelana o vidrio
-21,210280,esponjas para uso doméstico
-21,210281,plumeros
-21,210282,paños [trapos] para quitar el polvo
-21,210282,trapos para quitar el polvo
-21,210283,fibras de silicio vitrificado que no sean para uso textil
-21,210284,fibras de vidrio que no sean para aislar ni para uso textil
-21,210285,figuras [estatuillas] de porcelana, cerámica, loza, barro cocido o vidrio
-21,210285,estatuillas de porcelana, cerámica, loza, barro cocido o vidrio
-21,210285,estatuillas de porcelana, cerámica, loza, barro cocido o cristal
-21,210286,hilos de vidrio que no sean para uso textil
-21,210287,cafeteras no eléctricas
-21,210288,coladores de té
-21,210289,frascos*
-21,210290,guantes para uso doméstico
-21,210291,picheles
-21,210292,juegos de aceitera y vinagrera
-21,210292,alcuzas
-21,210294,guantes para lustrar
-21,210295,apagavelas
-21,210301,bañeras portátiles para bebés
-21,210302,jaulas para animales de compañía
-21,210303,bayetas para el suelo
-21,210303,trapos de piso
-21,210304,cepillos para lavar la vajilla
-21,210305,terrarios de interior [cultivo de plantas]
-21,210306,bandejas higiénicas para animales de compañía
-21,210306,bandejas de arena higiénica para animales de compañía
-21,210308,sílice fundido [producto semielaborado] que no sea para la construcción
-21,210309,gofreras no eléctricas
-21,210309,planchas no eléctricas para hacer gofres
-21,210310,cajas para el pan
-21,210311,palillos chinos [utensilios de mesa]
-21,210312,estopa para limpiar
-21,210313,pinzas para la ropa
-21,210314,agitadores de cóctel
-21,210315,mangas de pastelero
-21,210316,cortapastas [moldes para pastas y galletas]
-21,210317,cajas para galletas
-21,210318,vasos de papel o materias plásticas
-21,210319,vasos para beber
-21,210320,hilo dental
-21,210321,guantes de jardinería
-21,210322,ollas no eléctricas para cocinar al vapor
-21,210323,bolsas isotérmicas
-21,210324,bandejas giratorias [utensilios de mesa]
-21,210325,portaviandas
-21,210326,cucharas para mezclar [utensilios de cocina]
-21,210327,aparatos para hacer tallarines [instrumentos de accionamiento manual]
-21,210328,cortadores de pastelería
-21,210329,desatascadores de ventosa
-21,210329,sopapas
-21,210330,espátulas de cocina
-21,210331,esponjas exfoliantes para la piel
-21,210332,prensaajos [utensilios de cocina]
-21,210333,platos desechables
-21,210334,toalleros de aro y de barra
-21,210335,portarrollos de papel higiénico
-21,210336,acuarios de interior
-21,210337,tapas para acuarios de interior
-21,210338,terrarios de interior [vivarios]
-21,210339,escurridores de mopas
-21,210339,escurridores de fregonas
-21,210339,estrujadores de fregonas
-21,210339,estrujadores de mopas
-21,210339,exprimidores de trapeadores
-21,210340,papeleras
-21,210341,jardineras para ventanas
-21,210342,pajillas para beber
-21,210342,pajitas para beber
-21,210342,popotes
-21,210343,cubreteteras
-21,210343,cubiertas para teteras
-21,210344,aparatos para desmaquillar
-21,210345,dispositivos eléctricos para atraer y eliminar insectos
-21,210346,tapetes para hornear
-21,210347,hormas para botas
-21,210348,petacas [botellas de bolsillo]
-21,210349,espátulas para uso cosmético
-21,210350,graseras
-21,210351,trampas para moscas
-21,210352,recipientes de vidrio para velas [portavelas]
-21,210353,vaporeras no eléctricas
-21,210354,esponjas para aplicar maquillaje
-21,210355,trituradoras no eléctricas para uso doméstico
-21,210356,agarradores de cocina
-21,210356,agarraderas de cocina
-21,210357,manoplas de cocina
-21,210357,manoplas de barbacoa
-21,210357,manoplas de horno
-21,210358,pinceles de cocina
-21,210359,pipetas de cocina
-21,210360,guantes para lavar coches
-21,210361,brochas y pinceles de maquillaje
-21,210362,cubos con escurridor para fregonas
-21,210362,cubos con escurridor para trapeadores
-21,210363,prensas no eléctricas para tortillas [utensilios de cocina]
-21,210364,cepillos para encerar esquís 
-21,210365,cepillos para pestañas
-21,210366,separadores de huevos no eléctricos para uso doméstico
-21,210367,separadores interdigitales de espuma para la pedicura
-21,210368,difusores de enchufe repelentes de mosquitos
-21,210369,acumuladores de frío para enfriar la comida y las bebidas
-21,210370,cubos de hielo reutilizables
-21,210371,salvamanteles que no sean de papel ni de materias textiles
-21,210372,manteles individuales que no sean de papel ni de materias textiles
-21,210373,etiquetas para decantadores
-21,210374,aireadores de vino
-21,210375,cabezales para cepillos de dientes eléctricos
-21,210376,huchas
-21,210376,alcancías
-21,210377,dispositivos quitapelusas eléctricos o no
-21,210377,dispositivos quitatimotas eléctricos o no
-21,210378,paños de pulido
-21,210379,cerdas de cerdo para fabricar cepillos
-21,210380,crin de caballo para fabricar cepillos
-21,210381,pinzas de hielo
-21,210382,pinzas de ensalada
-21,210383,cucharones de servir
-21,210384,pilones de cocina
-21,210385,morteros de cocina
-21,210386,cucharas de helado
-21,210387,cascanueces
-21,210387,rompenueces
-21,210388,pinzas para el azúcar
-21,210389,mangos de escoba
-21,210390,cucharones para vino
-21,210391,bañeras hinchables para bebés
-21,210391,bañeras inflables para bebés
-21,210392,soportes de bañeras portátiles para bebés
-21,210393,reposabolsas de té
-21,210394,boquillas de pastelería y repostería
-21,210395,tendederos giratorios
-21,210396,mallas de cocción que no sean para microondas
-21,210397,cuentagotas para uso cosmético
-21,210397,goteros para uso cosmético
-21,210398,cuentagotas para uso doméstico
-21,210398,goteros para uso doméstico
-21,210399,cuscuseras no eléctricas
-21,210400,cazuelas de tajín no eléctricas
-21,210401,separadores de yemas
-21,210402,tapas reutilizables de silicona para alimentos
-21,210403,guantes de aseo para animales
-21,210404,rasquetas de goma [instrumentos de limpieza]
-21,210404,escobillas de goma [instrumentos de limpieza]
-21,210405,escalfadores de huevos
-21,210406,difusores de aceites aromáticos, que no sean con varillas, eléctricos y no eléctricos
-21,210407,placas para la difusión de aceite aromático
-21,210408,máquinas para elaborar pastas alimenticias, accionadas manualmente
-21,210409,contenedores de pañales usados
-21,210409,cubos de basura para pañales
-21,210410,recipientes desechables de aluminio para uso doméstico
-21,210411,tubos peladores de ajos
-21,210412,exprimidores de tubos de pasta de dientes
-21,210413,vertedores de vino
-21,210414,comederos para animales de compañía
-21,210415,comederos de distribución automática para animales de compañía
-21,210416,calentadores de velas, eléctricos y no eléctricos
-21,210417,bayetas
-21,210417,trapos para lavar platos
-21,210418,guantes exfoliantes para la piel
+class|name
+21|Abrebotellas
+21|Abreguantes
+21|Abrevaderos mecánicos activados por el ganado
+21|Abrevaderos para aves de corral
+21|Abrevaderos para ganado
+21|Acuarios
+21|Acuarios de interior
+21|Adornos para acuarios
+21|Agitadores de cóctel
+21|Agitadores para revolver miel
+21|Aireadores de vino
+21|Alcachofas de regadera
+21|Alcancías no metálicas
+21|Alimentadores de mascotas activados por animales
+21|Almohadillas exfoliantes
+21|Anillas metálicas para la identificación de aves
+21|Anillos para aves de corral
+21|Apagavelas
+21|Apagavelas que no sean de metales preciosos
+21|Apagavelas y candelabros de metales preciosos
+21|Apagavelas y candelabros que no sean de metales preciosos
+21|Aparato para abrir huevos no eléctrico para uso doméstico
+21|Apoya palillos chinos
+21|Apoyacuchillos
+21|Arandelas de candelero
+21|Arandelas de candelero de metales preciosos
+21|Aros para tartas
+21|Autoclaves no eléctricas
+21|Azucareras de metales preciosos
+21|Bacinillas
+21|Baldes
+21|Baldes con pedal
+21|Baldes para el cuarto de baño
+21|Baldes para enjuagar
+21|Baldes para hielo
+21|Bandejas para la comida
+21|Bandejas para uso doméstico
+21|Bañeras de materias plásticas para niños
+21|Bañeras plegables para bebes
+21|Barredoras de alfombras (no eléctricas)
+21|Barredoras de migajas
+21|Basureros
+21|Basureros con pedal
+21|Baterías de cocina
+21|Batidoras de huevos no eléctricas
+21|Batidores no eléctricos
+21|Bayetas para el suelo
+21|Bebederos no mecanizados para mascotas que son dispensadores portátiles de agua y líquidos
+21|Bloques para cuchillos
+21|Boles
+21|Bolsas térmicas aislantes para comidas o bebidas
+21|Bombonas
+21|Bomboneras que no sean de metales preciosos
+21|Boquillas dosificadoras para botellas
+21|Boquillas para mangueras de riego
+21|Borlas de polvera
+21|Botellas aislantes
+21|Botellas de agua de acero inoxidable reutilizables y vacías
+21|Botellas de agua de plástico reutilizables y vacías
+21|Botellas de arena para decoración
+21|Botellas para servir sake (tokkuri)
+21|Botellas y termos aislados
+21|Botes de té
+21|Brochas de afeitar
+21|Cabezas de fregona
+21|Cacerolas
+21|Cafeteras de émbolo no eléctricas
+21|Cafeteras de filtro no eléctricas
+21|Cafeteras de metales preciosos no eléctricas
+21|Cafeteras de vacío no eléctricas
+21|Cafeteras no eléctricas
+21|Cafeteras no eléctricas ni de metales preciosos
+21|Cajas de arena higiénica automáticas para animales de compañía
+21|Cajas de metales preciosos para caramelos
+21|Cajas para el pan
+21|Cajas para galletas
+21|Cajones higiénicos con arena para gatos
+21|Calienta biberones no eléctricos
+21|Calzadores
+21|Campanas para tartas
+21|Canastas de basura
+21|Canastos de ropa sucia para uso doméstico
+21|Candelabros
+21|Candelabros con protección contra el viento
+21|Candelabros de metales preciosos
+21|Candelabros de vidrio
+21|Candelabros que no sean de metales preciosos
+21|Cántaros
+21|Cántaros que no sean de metales preciosos
+21|Caramañolas
+21|Cazos para la leche
+21|Cazuelas para mantequilla
+21|Cepillos de alambre para caballos
+21|Cepillos de champú
+21|Cepillos de dientes
+21|Cepillos de dientes de dedo para bebés
+21|Cepillos de dientes eléctricos
+21|Cepillos de dientes manuales
+21|Cepillos de dientes no eléctricos
+21|Cepillos de dientes para animales de compañía
+21|Cepillos de lengua
+21|Cepillos de limpieza para caños de tetera
+21|Cepillos de uñas
+21|Cepillos interdentales para limpiar los dientes
+21|Cepillos para animales de compañía
+21|Cepillos para bañera
+21|Cepillos para botellas
+21|Cepillos para calzado
+21|Cepillos para crines (peines para caballos)
+21|Cepillos para el baño
+21|Cepillos para el cabello
+21|Cepillos para el cabello, uñas y dientes
+21|Cepillos para el suelo
+21|Cepillos para el teñido del cabello
+21|Cepillos para la limpieza de ollas
+21|Cepillos para las cejas
+21|Cepillos para lavar
+21|Cepillos para lavar la vajilla
+21|Cepillos para limpiar barcos
+21|Cepillos para limpiar parrillas de barbacoas
+21|Cepillos para limpiar ruedas de automóviles
+21|Cepillos para maquillaje
+21|Cepillos para mesas de billar
+21|Cepillos para tetinas de biberones
+21|Cepillos para uso cosmético
+21|Cepillos para zapatos
+21|Cerdas de animales para cepillos
+21|Cestas clasificadoras de ropa para lavandería de uso doméstico
+21|Cestas de bambú para uso doméstico
+21|Cestas de lavandería para uso doméstico
+21|Cestas de metales comunes para uso en el hogar
+21|Cestas de vaporeras
+21|Cestas para plantas
+21|Coladores de cocina
+21|Coladores de vino
+21|Coladores para uso doméstico
+21|Comederos de animales que activan los propios animales
+21|Comederos para animales
+21|Comederos para animales pequeños
+21|Comederos para aves de corral
+21|Comederos para cerdos
+21|Comederos para pájaros
+21|Contenedores de cocina
+21|Contenedores para hacer cabritas al microondas
+21|Copas
+21|Copas de brandy
+21|Copas de champán
+21|Copas de espumante
+21|Copas de vino
+21|Cortadores de pastelería
+21|Crin de caballo para cepillos
+21|Cubiteras
+21|Cubos (baldes) plegables
+21|Cubos de basura
+21|Cubos para pañales
+21|Cubos para sauna
+21|Cubremacetas que no sean de papel
+21|Cucharas de servir
+21|Cucharas medidoras de café
+21|Cucharas para servir alimentos sólidos (utensilios para el hogar o la cocina)
+21|Cucharas perforadas (utensilios de cocina)
+21|Cucharones para cocina
+21|Cucharones planos para cocinar
+21|Cuencos
+21|Cuencos con ventosas
+21|Cuencos de beber para animales domésticos
+21|Cuencos de comida y bebida para animales domésticos
+21|Cuencos llanos
+21|Cuencos para afeitar
+21|Cuencos para el teñido del cabello
+21|Cuero para lustrar
+21|Decantadores
+21|Decantadores de vidrio
+21|Decantadores de vino
+21|Depósitos de agua para peces vivos
+21|Desatascadores de inodoro
+21|Desatascadores de ventosa
+21|Dispensadoras de toallas de papel de uso doméstico
+21|Dispensadores de bolas de algodón
+21|Dispensadores de masa manuales para uso doméstico (utensilios de cocina)
+21|Dispensadores de servilletas para uso doméstico
+21|Dispensadores de toallas fijos no metálicos
+21|Dispensadores fijos de servilletas no metálicos
+21|Dispositivos alimentadores no mecanizados para animales
+21|Distribuidores de desinfectantes
+21|Distribuidores de jabón
+21|Distribuidores de papel higiénico
+21|Distribuidores mecánicos de alimento activados por el ganado
+21|Embudos
+21|Embudos de cocina
+21|Ensaladeras
+21|Ensaladeras que no sean de metales preciosos
+21|Escobas
+21|Escobillas de baño
+21|Escobillas de mano para uso doméstico
+21|Escobillas para biberones
+21|Escobillas para el polvo
+21|Escobillas para limpiar instrumentos musicales
+21|Escobilleros de cuarto de baño
+21|Escudillas (recipientes para cocinar arroz)
+21|Espátulas para sartenes y ollas
+21|Espátulas para servir tartas
+21|Espetones de cocina
+21|Esponjas abrasivas para la cocina
+21|Esponjas de aseo personal
+21|Esponjas de cocina
+21|Esponjas faciales para aplicar maquillaje
+21|Esponjas limpiadoras faciales
+21|Esponjas naturales para uso doméstico
+21|Esponjas para aplicar polvos corporales
+21|Esponjas para fregado
+21|Esponjas para limpiar instrumentos médicos
+21|Esponjas para uso doméstico
+21|Espumadores de leche no eléctricos
+21|Esterillas para enrollar sushi
+21|Estropajos metálicos para limpiar
+21|Estropajos para cacerolas (incluidos de metal)
+21|Estropajos planos metálicos para limpieza
+21|Estuches para cepillos de dientes
+21|Estuches para palillos chinos
+21|Exprimidores de limón
+21|Fiambreras
+21|Fibras de vidrio que no sean ni para aislar ni para uso textil
+21|Figuritas de terracota
+21|Figuritas de vidrio de color
+21|Filtros de bola para té
+21|Filtros de bola para té que no sean de metales preciosos
+21|Filtros de té de metales preciosos
+21|Filtros de té que no sean de metales preciosos
+21|Filtros para uso doméstico
+21|Floreros y fuentes
+21|Forros de plástico a medida para cubiteras
+21|Forros de silicona para hornear magdalenas
+21|Frascos de vidrio (mason jars)
+21|Frascos para beber (para viajeros)
+21|Freidoras no eléctricas
+21|Fuentes (vajilla)
+21|Fuentes de vidrio para peces dorados vivos
+21|Fuentes para asar
+21|Fuentes para horno
+21|Fuentes para servir (hachi)
+21|Fuentes para servir sopa estilo japonés (wan)
+21|Fundas aislantes para tazas de bebidas
+21|Fundas de plumero desechables para limpieza
+21|Fundas para tablas de planchar
+21|Gamuzas para limpiar
+21|Guantes abrasivos para fregar vegetales
+21|Guantes de jardinería
+21|Guantes de sacudir
+21|Guantes exfoliantes
+21|Guantes para el acicalamiento de animales
+21|Guantes para lustrar
+21|Guantes para lustrar zapatos
+21|Guantes para uso doméstico
+21|Hábitats de hormigas
+21|Hervidores no eléctricos
+21|Hervidores que silban
+21|Hilo dental (hilos para uso dental)
+21|Hilos de vidrio que no sean para uso textil
+21|Hisopos para limpiar instrumentos médicos
+21|Hojas de vidrio que no sean para la construcción
+21|Hormas para botas (extensores)
+21|Huchas
+21|Hueveras
+21|Hueveras de materias plásticas para uso doméstico
+21|Hueveras de metales preciosos
+21|Hueveras que no sean de metales preciosos
+21|Inyectores de marinada (utensilios de uso culinario)
+21|Jaboneras
+21|Jaboneras de pared
+21|Jardineras (maceteros)
+21|Jarras para beber
+21|Jarras para siropes
+21|Jarras pequeñas
+21|Jarrones
+21|Jarrones de barro cocido
+21|Jarrones de metales preciosos
+21|Jarros
+21|Jaulas de pájaros
+21|Jaulas para animales de compañía
+21|Jaulas para pájaros domésticos
+21|Jaulas para transportar animales domésticos
+21|Jeringas para jardinería
+21|Jeringas para regar flores y plantas
+21|Juegos de tacitas de café compuestos de tazas y platillos
+21|Láminas de vidrio coloreado que no sean para la construcción
+21|Láminas de vidrio común (no para la construcción)
+21|Lana de acero
+21|Lana de acero para limpiar
+21|Latas vacías de uso doméstico para palomitas de maíz
+21|Lavabos (pilas, que no sean parte de instalaciones sanitarias)
+21|Lecheras (jarras)
+21|Letreros de porcelana o vidrio
+21|Licuadoras de comida no eléctricas (de uso doméstico)
+21|Macetas (tiestos)
+21|Macetas de porcelana para flores
+21|Macetas para flores
+21|Maceteros
+21|Manteles individuales de materias plásticas
+21|Manteles individuales de vinilo
+21|Matamoscas
+21|Menorahs
+21|Mezcladores de comida no eléctricos de uso doméstico
+21|Moldes de cocina
+21|Moldes de hierro para gofres (no eléctricos)
+21|Moldes de papel para hornear
+21|Moldes de pastelería de cartón desechables
+21|Moldes de repostería
+21|Moldes de silicona para hornear
+21|Moldes metálicos para pasteles
+21|Moldes para chocolate
+21|Moldes para empanadillas para uso doméstico
+21|Moldes para huevos fritos
+21|Moldes para magdalenas
+21|Moldes para pudines
+21|Molinillos de café accionados manualmente
+21|Molinillos de café no eléctricos
+21|Molinillos de café y pimienta accionados manualmente
+21|Molinillos de pimienta manuales
+21|Molinillos de sal manuales
+21|Molinillos de sal y pimienta
+21|Mondadientes
+21|Mopas
+21|Morteros para machacar fruta
+21|Neveras portátiles no eléctricas
+21|Obras de arte de porcelana
+21|Obras de arte de vidrio
+21|Odres (botas de vino)
+21|Ollas
+21|Ollas arroceras para su uso en hornos microondas
+21|Ollas calientes (no calentadas eléctricamente)
+21|Ollas de piedra
+21|Ollas no eléctricas para conservas (ollas a presión)
+21|Ollas no eléctricas para palomitas de maíz
+21|Ollas para cocer arroz que no sean eléctricas
+21|Ollas para servir te estilo japones (kyusu)
+21|Ollas y sartenes de cocina no eléctricos
+21|Ollas y sartenes portátiles para camping
+21|Orinales portátiles para niños
+21|Pajillas para beber
+21|Pajitas de arroz biodegradables para beber
+21|Palanganas (recipientes)
+21|Palas para alimento de perro
+21|Palas para arroz
+21|Palas para azúcar
+21|Palas para pizza
+21|Palas para tartas
+21|Paletas para servir arroz cocido
+21|Palilleros de metales preciosos
+21|Palilleros que no sean de metales preciosos
+21|Palillos chinos (utensilios de mesa)
+21|Palillos chinos de entrenamiento para niños
+21|Palillos chinos desechables
+21|Palillos para cake pops (pastelitos)
+21|Palitos para confites congelados
+21|Palitos para paletas de golosina
+21|Paneras de cocina
+21|Paños (trapos) para quitar el polvo
+21|Paños de limpieza
+21|Paños de limpieza y pulido
+21|Paños de microfibra para limpieza
+21|Paños para desempolvar muebles
+21|Paños para limpiar, desempolvar y pulir
+21|Paños para lustrar calzado
+21|Paños para sacudir o limpiar
+21|Papeleros
+21|Parrillas como utensilios de cocina
+21|Parrillas de camping
+21|Peines
+21|Peines de caballo
+21|Peines de dientes anchos
+21|Peines eléctricos para el cabello
+21|Peines para el cabello
+21|Peines para escarmenar
+21|Pelo de mapache para cepillos
+21|Peras de cocina
+21|Perchas para jaulas de pájaros
+21|Perchas para tender la ropa
+21|Picadoras de carne no eléctricas
+21|Picheles que no sean de metales preciosos
+21|Piedras para pizza
+21|Pimenteros
+21|Pinceles de labios
+21|Pinceles para tartas
+21|Pinchos para cóctel
+21|Pinchos para sujetar choclos (utensilios de cocina)
+21|Pinzas para barbacoa
+21|Pinzas para carne (utensilios de uso culinario)
+21|Placas de vidrio templado, no para la construcción
+21|Planchas a gas (aparatos de cocina)
+21|Planchas no eléctricas (utensilios de cocina)
+21|Platos
+21|Platos biodegradables
+21|Platos de canapé
+21|Platos de gel de sílice
+21|Platos de papel
+21|Platos de postre
+21|Platos desechables
+21|Platos para servir de porcelana seccionados en nueve (gujeolpan)
+21|Platos para tiestos
+21|Platos para velas cilíndricas
+21|Platos y vasos de papel
+21|Polveras de metales preciosos vacías
+21|Polveras vacías
+21|Portabotellas de neopreno con cremallera
+21|Portabotellas de vino
+21|Portabrochas de afeitar
+21|Portamazorcas de maíz
+21|Portarrollos de papel higiénico
+21|Portavelas de metales preciosos
+21|Portavelas que no sean de metales preciosos
+21|Portaviandas
+21|Portaviandas de materias plásticas
+21|Portaviandas metálicas
+21|Posabotellas y posavasos que no sean de papel ni ropa de mesa
+21|Posavasos absorbentes para té
+21|Prensas para galletas accionadas manualmente
+21|Pulverizadores para su uso con mangueras de jardín
+21|Quemadores de incienso
+21|Quemadores de perfume (pebeteros)
+21|Queseras
+21|Ralladores de cocina
+21|Ralladores giratorios para queso
+21|Ralladores para nuez moscada
+21|Ralladores para uso doméstico
+21|Rascadores de espalda
+21|Rascadores para el cuero cabelludo
+21|Ratoneras (trampas para ratones)
+21|Recipientes aislantes para latas de bebidas, para uso doméstico
+21|Recipientes de comida para animales de compañía
+21|Recipientes de metales preciosos para uso doméstico
+21|Recipientes de uso doméstico para compost
+21|Recipientes para hielo
+21|Recipientes para hornear pastelillos (cupcakes)
+21|Recipientes para jabón
+21|Recipientes para quemar incienso
+21|Recipientes para uso doméstico
+21|Recipientes para uso doméstico o culinario
+21|Recipientes portátiles de bebidas
+21|Recipientes térmicos para alimentos o bebidas
+21|Recogedores
+21|Regaderas
+21|Repelentes de plagas por ultrasonido
+21|Rodillos (adhesivos) para quitar pelusas de la ropa
+21|Rodillos de amasar (para cocinar)
+21|Rodillos quitapelusas
+21|Sacabotas
+21|Sacacorchos
+21|Sacudidoras de alfombras (que no sean máquinas)
+21|Saleros
+21|Saleros de metales preciosos
+21|Salseras
+21|Salvamanteles
+21|Samovares no eléctricos
+21|Sartenes
+21|Sartenes de cocina no eléctricos
+21|Sartenes no eléctricos
+21|Sartenes para sofritos
+21|Secadores (tendederos) de ropa
+21|Secadores de vajilla (escurreplatos)
+21|Servicios de café de cerámica
+21|Servicios de café de porcelana
+21|Servicios de té de metales preciosos
+21|Servidores de miel
+21|Servilleteros de aro
+21|Servilleteros de aro que no sean de metales preciosos
+21|Servilleteros de metales preciosos
+21|Servilleteros que no sean de metales preciosos
+21|Servilleteros y servilleteros de aro que no sean de metales preciosos
+21|Soportes de aceiteras y vinagreras
+21|Soportes de apoyo para palillos chinos
+21|Soportes de vinagreras
+21|Soportes de vinagreras de metales preciosos
+21|Soportes de vinagreras que no sean de metales preciosos
+21|Soportes para cupcakes (magdalenas)
+21|Soportes para esponja de maquillaje
+21|Soportes para planchas de ropa
+21|Soportes tipo árbol para tazones
+21|Tablas de cortar pan
+21|Tablas de planchar
+21|Tablas de planchar (kotedai)
+21|Tablas para cortar
+21|Tablas para queso
+21|Tamices para ceniza (utensilios domésticos)
+21|Tamices y tamizadores de cocina
+21|Tapas ajustables para cubos y baldes
+21|Tapas de olla
+21|Tapas de plástico para tiestos
+21|Tapas para acuario
+21|Tapas para acuarios de interior
+21|Tapas para platillos de mantequilla y queso
+21|Tapas para tazas y vasos
+21|Tapetes para hornear
+21|Tapones de vidrio
+21|Tapones de vidrio para botellas
+21|Tarros de vidrio para conservar alimentos
+21|Tazas
+21|Tazas de aprendizaje para bebés y niños
+21|Tazas de café, tazas de té y jarros para beber
+21|Tazas de cartón
+21|Tazas de doble pared
+21|Tazas de mezclado
+21|Tazas de te (yunomi)
+21|Tazas de viaje
+21|Tazas para café
+21|Tazas que no sean de metales preciosos
+21|Tazas térmicas
+21|Tazas y jarros para beber
+21|Tazones de arroz japoneses (chawan)
+21|Tazones de arroz japoneses de metales preciosos (chawan)
+21|Tazones de arroz japoneses que no sean de metales preciosos (chawan)
+21|Tazones de metales preciosos
+21|Tazones de mezclado
+21|Tazones de vidrio para fruta
+21|Tazones para fruta
+21|Tendederos de ropa
+21|Tendederos para lavandería ajustables en altura para montar en el cielo
+21|Tendederos para lavandería para montar en la pared
+21|Tenedores para servir pasta
+21|Tensores para prendas de vestir
+21|Termos dispensadores de cocina que no sean de metales preciosos
+21|Terrarios de interior
+21|Terrarios de interior para animales o insectos
+21|Terrarios de interior para plantas
+21|Teteras (no eléctricas)
+21|Teteras de hierro japonesas, no eléctricas (tetsubin)
+21|Teteras de metales preciosos
+21|Teteras no eléctricas de silicona plegables
+21|Teteras que no sean de metales precisos
+21|Tinas para lavar la ropa
+21|Toalleros de aro y de barra
+21|Toalleros de aro y de barra que no sean de metales preciosos
+21|Trampas de planaria para acuarios
+21|Trampas para insectos
+21|Trampas para ratas (cepos)
+21|Trapos de limpieza
+21|Trapos para pulir
+21|Trituradoras de hielo no eléctricas
+21|Urnas en forma de jarrones
+21|Utensilios de cocina para hacer sushi accionados manualmente
+21|Vajillas
+21|Vajillas de vidrio
+21|Vaporeras de cocina no eléctricas
+21|Varillas rociadoras para mangueras de jardín
+21|Varillas y barras de vidrio que no sean para la construcción
+21|Vasijas y recipientes de terracota
+21|Vasos de papel
+21|Vasos de papel y de materias plásticas
+21|Vasos de trago
+21|Vasos de whisky
+21|Vasos para beber pilsen
+21|Vasos que no sean de metales preciosos
+21|Vasos y platillos
+21|Vidrio decorativo que no sea para la construcción
+21|Vidrio en bruto o semielaborado, que no sean para la construcción
+21|Vidrio laminado modificado (no para la construcción)
+21|Vidrio luminoso (no para construcción)
+21|Vidrio para ventanas de vehículos (sin acabar)
+21|Vidrio plano laminado que no sea para la construcción
+21|Vidrio semielaborado
+21|Vidrio semielaborado (excepto vidrio de construcción)
+21|Vidrio templado que no sea para construcción
+21|Vidrios de ventanas para automóviles sin acabar
+21|Vinagreras
+21|Vinagreras de metales preciosos
+21|Vinagreras que no sean de metales preciosos
+21|Viveros para hormigas
+21|Volteadores para barbacoa
+21|Woks no eléctricos

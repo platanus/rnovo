@@ -1,156 +1,253 @@
-class,reference_id,name
-18,180001,bastones de montañismo
-18,180001,bastones de alpinista
-18,180002,pieles de animales
-18,180002,pellejos [pieles de animales]
-18,180003,anillos para paraguas
-18,180004,arzones de sillas de montar
-18,180005,correas de cuero para animales
-18,180006,cinchas de sillas de montar
-18,180007,varillas para paraguas o sombrillas
-18,180008,tripa de buey
-18,180010,monederos
-18,180010,portamonedas
-18,180011,bridones
-18,180012,correaje militar
-18,180013,portafolios para partituras
-18,180014,bastones de paraguas
-18,180015,bastones*
-18,180016,bastones-asiento
-18,180017,frenos para animales [arreos]
-18,180018,armazones de paraguas o sombrillas
-18,180019,morrales de caza
-18,180020,mochilas escolares
-18,180020,carteras escolares
-18,180020,portafolios escolares
-18,180021,tarjeteros [carteras]
-18,180022,cartón cuero
-18,180023,sombrereras de cuero
-18,180025,colleras para caballos
-18,180026,mantas para caballos
-18,180027,cabritilla
-18,180028,bozales
-18,180029,baúles de viaje
-18,180030,collares para animales*
-18,180031,cordones de cuero
-18,180032,pieles curtidas
-18,180033,correas de arnés
-18,180034,correas de cuero [artículos de guarnicionería]
-18,180035,correas de patines
-18,180036,tiras de cuero
-18,180038,cueros gruesos
-18,180039,cuero en bruto o semielaborado
-18,180041,guarniciones de cuero para muebles
-18,180041,adornos de cuero para muebles
-18,180042,cuero de imitación
-18,180042,cuero artificial
-18,180043,paraguas
-18,180044,bandoleras portabebés
-18,180045,piezas de caucho para estribos
-18,180046,correas de estribo
-18,180047,bolsas de herramientas vacías 
-18,180049,fustas
-18,180049,látigos
-18,180050,morrales comederos
-18,180050,morrales para pienso
-18,180051,fundas de paraguas
-18,180052,fundas de cuero para resortes
-18,180053,rodilleras para caballos
-18,180054,mantas para cubrir animales
-18,180055,arneses para animales
-18,180055,arreos
-18,180056,anteojeras [artículos de guarnicionería]
-18,180057,tiros [arreos]
-18,180058,mochilas
-18,180059,ronzales para caballos
-18,180060,empuñaduras de bastón
-18,180061,látigos de nueve ramales
-18,180062,barboquejos de cuero
-18,180063,molesquín [cuero de imitación]
-18,180065,armazones de bolsos
-18,180065,armazones de carteras [bolsos de mano]
-18,180066,sombrillas
-18,180066,parasoles*
-18,180067,pieles de pelo [pieles de animales]
-18,180068,puños de paraguas
-18,180069,billeteras
-18,180069,carteras de bolsillo
-18,180070,bolsas de ruedas para la compra
-18,180071,bolsas para la compra
-18,180072,riendas
-18,180073,maletines para documentos
-18,180074,bolsas de montañismo
-18,180074,bolsos de montañismo
-18,180075,bolsas de campamento
-18,180075,bolsos de campamento
-18,180076,bolsas de playa
-18,180076,bolsos de playa
-18,180077,bolsos de mano
-18,180077,bolsitos de mano
-18,180077,carteras [bolsos de mano]
-18,180078,bolsas de viaje
-18,180078,bolsos de viaje
-18,180079,bolsas [sobres, bolsitas] de cuero para empaquetar
-18,180080,cinchas de cuero
-18,180081,sillas de montar
-18,180082,artículos de guarnicionería
-18,180083,portafolios [artículos de marroquinería]
-18,180083,carteras para documentos
-18,180084,estuches de viaje [artículos de marroquinería]
-18,180085,maletas
-18,180085,valijas
-18,180086,asas de maleta
-18,180086,asas de valija
-18,180087,válvulas de cuero
-18,180088,pieles de ganado
-18,180089,cajas de cuero o cartón cuero
-18,180090,monederos de malla
-18,180090,portamonedas de malla
-18,180091,estuches de cuero o cartón cuero
-18,180092,baúles [equipaje]
-18,180093,estuches para artículos de tocador
-18,180094,gamuzas que no sean para limpiar
-18,180096,bandoleras de cuero
-18,180097,fundas para sillas de montar
-18,180098,cajas de fibra vulcanizada
-18,180100,morrales
-18,180100,macutos
-18,180111,portatrajes
-18,180112,bridas para caballos
-18,180113,estuches para llaves
-18,180114,bolsas de red para la compra
-18,180115,maletas de mano
-18,180115,valijas de mano
-18,180116,revestimientos de cuero para muebles
-18,180117,almohadillas para sillas de montar
-18,180118,bolsas de deporte*
-18,180118,bolsos de deporte*
-18,180119,estribos
-18,180120,guarniciones de arreos
-18,180121,herraduras
-18,180122,fulares portabebés
-18,180122,kepinas [fulares portabebés]
-18,180123,canguros portabebés
-18,180124,bolsas*
-18,180125,estuches para tarjetas de crédito [carteras]
-18,180126,carteras para tarjetas de visita [tarjeteros]
-18,180126,carteras para tarjetas de presentación [tarjeteros]
-18,180127,randsels [mochilas escolares japonesas] 
-18,180128,etiquetas identificadoras para maletas
-18,180128,etiquetas identificadoras para equipaje
-18,180129,sudaderos para sillas de montar
-18,180130,etiquetas de cuero
-18,180131,asas para transportar sacos de provisiones
-18,180131,agarraderas para transportar sacos de provisiones
-18,180132,filacterias
-18,180133,maletas con ruedas
-18,180134,alforjas*
-18,180135,ropa para animales de compañía
-18,180136,arneses para guiar niños
-18,180137,maletas motorizadas
-18,180138,estuches de compresión especiales para el equipaje
-18,180139,carpetas de conferencias
-18,180140,bastones de senderismo
-18,180140,bastones de excursionismo
-18,180141,telas de cuero
-18,180142,mochilas portabebés
+class|name
+18|Abrigos para perros
+18|Anteojeras para aves de corral, utilizadas para evitar peleas
+18|Anteojeras para caballos
+18|Armazones de bolsos
+18|Armazones de monederos
+18|Armazones de paraguas
+18|Armazones de paraguas o sombrillas
+18|Arneses
+18|Arneses de animales
+18|Arneses para caballos
+18|Arneses y artículos de guarnicionería
+18|Artículos de guarnicionería
+18|Artículos de guarnicionería de cuero
+18|Bananos
+18|Bandas abdominales para perritos
+18|Bandoleras de cuero
+18|Bastones
+18|Bastones de excursión
+18|Bastones de montañismo
+18|Bastones de ratán
+18|Bastones de senderismo
+18|Bastones largos
+18|Bastones para caminar
+18|Baúl de viaje
+18|Baúles (equipaje) y maletas de mano
+18|Baúles como equipaje
+18|Baúles de mimbre kori
+18|Baúles de viaje
+18|Billeteras
+18|Bocados para arneses
+18|Bocados para caballerías
+18|Bolsas (envolturas, bolsitas) para embalar de cuero
+18|Bolsas (mochilas) de senderismo
+18|Bolsas con ruedas para la compra
+18|Bolsas de amuletos (omamori-ire)
+18|Bolsas de colegial
+18|Bolsas de cuero
+18|Bolsas de cuero de viaje para ropa
+18|Bolsas de cuero y cuero de imitación
+18|Bolsas de deportes
+18|Bolsas de llaves
+18|Bolsas de lona
+18|Bolsas de mano
+18|Bolsas de materias textiles para las compras
+18|Bolsas de mensajero
+18|Bolsas de piel para las compras
+18|Bolsas de playa
+18|Bolsas de punto que no sean de metales preciosos
+18|Bolsas de red para las compras
+18|Bolsas de transporte multiusos
+18|Bolsas de viaje
+18|Bolsas multiuso
+18|Bolsas para cintura y cadera
+18|Bolsas para el cinturón
+18|Bolsas para la caza
+18|Bolsas para libros
+18|Bolsas para llaves
+18|Bolsas para llevar bebés
+18|Bolsas para llevar niños
+18|Bolsas para pañales
+18|Bolsas para trajes
+18|Bolsas pequeñas para caballero
+18|Bolsas reutilizables para la compra
+18|Bolsas y carteras de cuero
+18|Bolsas, maletas y carteras de cuero
+18|Bolsones
+18|Bolsos (neceseres) de viaje
+18|Bolsos con ruedas
+18|Bolsos de campamento
+18|Bolsos de cordón
+18|Bolsos de deporte multiusos
+18|Bolsos de gimnasia
+18|Bolsos de mano
+18|Bolsos de mano de cuero
+18|Bolsos de mano para caballeros
+18|Bolsos de mano para damas
+18|Bolsos de mano para hombres
+18|Bolsos de mano pequeños
+18|Bolsos de mano sin asas
+18|Bolsos de mano tipo retícula
+18|Bolsos de mano, monederos y carteras
+18|Bolsos de noche
+18|Bolsos de viaje
+18|Bolsos multiuso
+18|Bolsos para artículos de tocador
+18|Bolsos para avión
+18|Bolsos para colgar al hombro
+18|Bolsos para compras de cuero
+18|Bolsos para transportar animales
+18|Bolsos tipo bandolera
+18|Bolsos tipo Boston
+18|Bolsos tipo satchel
+18|Bridas para caballos
+18|Bridones
+18|Cajas de cuero
+18|Cajas de cuero o cuero de imitación
+18|Caquetones para perros
+18|Carteras con compartimentos de tarjetas
+18|Carteras con portatarjetas
+18|Carteras de colegiales
+18|Carteras de colegio
+18|Carteras de cuero
+18|Carteras de cuero para tarjetas de crédito
+18|Carteras para tarjetas
+18|Carteras que no sean de metales preciosos
+18|Cinchos de silla de montar
+18|Collares de animales
+18|Collares para animales
+18|Collares para animales de compañía
+18|Collares para animales de compañía que contienen información médica
+18|Collares para perro
+18|Collares y correas para perro
+18|Colleras para caballos
+18|Correas de cuero para animales
+18|Correas de equipajes
+18|Correas de estribo
+18|Correas para animales
+18|Correas para bolsos
+18|Correas para el hombro
+18|Correas para perro
+18|Cosmetiqueros (estuches para artículos de tocador)
+18|Cuerdas de entrenamiento para caballos
+18|Cuero de poliuretano
+18|Cuero en bruto
+18|Cuero en bruto o semielaborado
+18|Cuero para arneses
+18|Cuero para muebles
+18|Cuero para zapatos
+18|Cuero y cuero de imitación
+18|Disfraces para animales
+18|Empuñaduras de bastón
+18|Equipaje para viaje
+18|Estuches de corbata
+18|Estuches de cuero
+18|Estuches de cuero de imitación
+18|Estuches de cuero o cuero de imitación para llaves
+18|Estuches de cuero para llaves
+18|Estuches de documentos
+18|Estuches de tarjetas de crédito de cuero
+18|Estuches de viaje (artículos de marroquinería)
+18|Estuches para artículos de tocador
+18|Estuches para llaves
+18|Estuches para llaves (artículos de marroquinería)
+18|Estuches para llaves de cuero y pieles
+18|Estuches para tarjetas de crédito
+18|Estuches vacíos para artículos de tocador
+18|Estuches y portatarjetas de crédito
+18|Fulares portabebés
+18|Fundas de paraguas
+18|Fundas para sillas de montar
+18|Fundas para sombrillas
+18|Fustas
+18|Fustas de jockey
+18|Fustas para montar a caballo
+18|Gorros para las orejas de caballos
+18|Guarniciones de arreos
+18|Guarniciones de hierro para arreos
+18|Herraduras
+18|Herraduras de materias plásticas
+18|Hilos de cuero
+18|Impermeables para perros
+18|Maletas
+18|Maletas con estantes incorporados
+18|Maletas de fin de semana
+18|Maletas de mano
+18|Maletas de mano para documentos
+18|Maletas y baúles de viaje
+18|Maletines
+18|Maletines (artículos de marroquinería)
+18|Maletines abisagrados de doble compartimento (tipo Gladstone)
+18|Maletines de cuero
+18|Maletines para documentos
+18|Maletines para ejecutivos
+18|Maletines plegables
+18|Maletines portadocumentos de cuero de imitación
+18|Maletines tipo portafolios
+18|Maletines y maletines para documentos
+18|Mantas para caballos
+18|Mantas riñoneras para caballos
+18|Máscaras faciales para equinos
+18|Mochilas
+18|Mochilas (macutos)
+18|Mochilas con ruedas
+18|Mochilas de deporte
+18|Mochilas para alpinistas
+18|Mochilas pequeñas
+18|Mochilas portabebés de cuero
+18|Mochilas, mochilas escolares, bolsas de deporte, riñoneras, carteras y bolsos de mano
+18|Monederos
+18|Monederos de cuero
+18|Monederos de malla
+18|Monederos de metales preciosos
+18|Monederos de muñeca
+18|Monederos pequeños
+18|Monederos que no sean de metales preciosos
+18|Monederos y carteras
+18|Monederos y carteras de metales preciosos
+18|Paraguas
+18|Paraguas de papel japoneses (karakasa)
+18|Paraguas japoneses de papel impregnado en aceite (janome-gasa)
+18|Paraguas para el aire libre
+18|Paraguas para niños
+18|Paraguas telescópicos
+18|Paraguas y sombrillas
+18|Paraguas y sus partes
+18|Parasoles (sombrillas)
+18|Parkas para perros
+18|Partes metálicas de bastones
+18|Partes metálicas de paraguas
+18|Petates grandes
+18|Piel de imitación
+18|Pieles curtidas
+18|Pieles de animales
+18|Pieles y cuero de animales
+18|Pieles y cueros
+18|Pieles y cueros manufacturados y semimanufacturados
+18|Piezas de caucho para estribos
+18|Polainas para animales
+18|Polainas y rodilleras ortopédicas para caballos
+18|Porta animales (bolsos)
+18|Portabilletes
+18|Portaetiquetas para equipaje
+18|Portafolios (artículos de marroquinería)
+18|Portafolios escolares
+18|Portatarjetas de crédito de cuero
+18|Portatrajes
+18|Portatrajes, fundas para camisas y fundas para vestidos
+18|Protectores de pezuñas
+18|Puños de paraguas
+18|Riendas (arneses)
+18|Riendas de cuerda
+18|Riñonera
+18|Riñoneras
+18|Ropa para animales de compañía
+18|Ropa para caballos
+18|Sacos de lona
+18|Sacos de lona para viajes
+18|Saquitos de utilidades japoneses (shingen-bukuro)
+18|Sillas de montar
+18|Sombrereras de cuero
+18|Sombrillas
+18|Sombrillas de golf
+18|Sombrillas de playa (parasoles de playa)
+18|Sombrillas impermeables
+18|Sombrillas para exterior
+18|Sombrillas para terrazas
+18|Soporte dorsal para llevar niños
+18|Sudaderos para sillas de montar
+18|Tarjeteros para tarjetas de crédito
+18|Tiras de cuero
+18|Vendajes para patas equinas
+18|Zapatos para perro
