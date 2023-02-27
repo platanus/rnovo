@@ -26,6 +26,9 @@ export const esLocale = {
     niceClass: 'Clases',
     trademarkStatus: 'Estado de la solicitud',
     score: 'Porcentaje de similitud',
+    office: 'Oficina de inscripción',
+    officesHint: 'Seleccionar oficinas de inscripción',
+    officesPlaceholder: 'Oficinas de inscripción',
     trademarkStatuses: {
       'expired': 'Expirada',
       'registered': 'Registrada',
