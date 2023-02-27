@@ -6,8 +6,8 @@ class TmviewClient
   def initialize(
     nice_classes: [],
     page_size: 50,
-    offices: ['CL', 'WO'],
-    territories: ['CL'],
+    offices: [],
+    territories: [],
     fields: nil
   )
     @nice_classes_numbers = nice_classes.pluck(:number)
