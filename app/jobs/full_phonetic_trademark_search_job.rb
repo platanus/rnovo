@@ -21,6 +21,9 @@ class FullPhoneticTrademarkSearchJob < ApplicationJob
   end
 
   def tmview_client
-    @tmview_client ||= TmviewClient.new(nice_classes: @nice_classes)
+    @tmview_client ||= TmviewClient.new(
+      nice_classes: @nice_classes,
+      page_size: 100
+    )
   end
 end
