@@ -1,18 +1,17 @@
 class TmviewClient
-  BASE_URL ||= 'https://www.tmdn.org/tmview/api'
-  USER_AGENT ||= 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '\
+  BASE_URL = 'https://www.tmdn.org/tmview/api'
+  USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '\
                  'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36.'
+  DEFAULT_TERRITORIES = %w[FR DE IT ES GB CL US AU].freeze
 
   def initialize(
     nice_classes: [],
+    territories: DEFAULT_TERRITORIES,
     page_size: 50,
-    offices: [],
-    territories: [],
     fields: nil
   )
     @nice_classes_numbers = nice_classes.pluck(:number)
     @page_size = page_size
-    @offices = offices
     @territories = territories
     @fields = fields || default_fields
   end
@@ -41,7 +40,6 @@ class TmviewClient
     body = {
       pageSize: @page_size,
       criteria: criteria,
-      offices: @offices,
       territories: @territories,
       basicSearch: brand_name,
       niceClass: formatted_nice_classes,

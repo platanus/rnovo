@@ -33,7 +33,6 @@ RSpec.describe TmviewClient, type: :client do
       {
         pageSize: 50,
         criteria: 'F',
-        offices: ['CL', 'WO'],
         territories: ['CL'],
         niceClass: format_nice_classes(nice_classes),
         fields: default_fields
@@ -63,7 +62,6 @@ RSpec.describe TmviewClient, type: :client do
       {
         pageSize: 50,
         criteria: 'E',
-        offices: ['CL', 'WO'],
         territories: ['CL'],
         basicSearch: 'Platanus',
         niceClass: format_nice_classes(nice_classes),
