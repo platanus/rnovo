@@ -100,7 +100,7 @@ function submit() {
         <div class="flex w-full flex-col justify-between rounded-lg border bg-slate-200 p-2">
           <div class="flex justify-between">
             <h3 class="text-lg">
-              {{ trademark.trademarkName }}
+              {{ trademark.trademarkName }} - {{ trademark.trademarkOffice }}
             </h3>
             <div class="flex flex-col gap-1">
               <div class="flex gap-1">
@@ -119,7 +119,7 @@ function submit() {
                 {{ t('trademarkSearch.niceClass') }}:
               </span>
               <span class="text-xs">
-                {{ trademark.niceClasses.join(', ') }}
+                {{ trademark.niceClasses?.join(', ') }}
               </span>
             </div>
           </div>
@@ -173,7 +173,7 @@ function submit() {
                   {{ trademark.trademarkName }}
                 </h3>
                 <p class="text-xs">
-                  {{ t('trademarkSearch.score') }}: {{ trademark.score }}%
+                  {{ t('trademarkSearch.office') }}: {{ trademark.trademarkOffice }}
                 </p>
               </div>
               <div class="flex flex-col gap-1">
