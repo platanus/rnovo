@@ -5,6 +5,7 @@ export const esLocale = {
   },
   termSearch: {
     classNumber: 'Clase n°',
+    numberOfTerms: 'Número de coincidencias',
     error: 'Hubo un error inesperado, inténtalo nuevamente.',
     results: 'Resultados',
     search: 'Buscar',
