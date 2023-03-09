@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue';
+import { computed, reactive, ref } from 'vue';
 import { useI18n } from 'vue-i18n';
 import { useQuery } from '@tanstack/vue-query';
 
@@ -13,21 +13,30 @@ interface NiceClassWithTerms {
 
 const { t } = useI18n();
 
-const search = ref('');
+const searchArray = reactive(['']);
+
 const classIdShowingDetails = ref(null as number | null);
 
 const { data: terms, refetch, isError } = useQuery(
-  ['terms', search.value],
-  () => termApi.index(search.value),
+  ['terms', searchArray],
+  async () => {
+    const responses = await Promise.all(searchArray.map((term) => termApi.index(term)));
+
+    return responses.flat();
+  },
   {
+    initialData: [],
     refetchOnWindowFocus: false,
     enabled: false,
   },
 );
 
 const termsGroupedByClass = computed(() => (
-  terms.value?.reduce((acc : Record<number, NiceClassWithTerms>, term : Term) => {
+  terms.value.reduce((acc : Record<number, NiceClassWithTerms>, term : Term) => {
     if (acc[term.niceClassId]) {
+      if (acc[term.niceClassId].terms.find((existingTerm) => existingTerm.id === term.id)) {
+        return acc;
+      }
       acc[term.niceClassId].terms.push(term);
     } else {
       acc[term.niceClassId] = {
@@ -42,16 +51,47 @@ const termsGroupedByClass = computed(() => (
   {})
 ));
 
+function addSearchParam() {
+  searchArray.push('');
+}
+
+function removeSearchParam(index: number) {
+  searchArray.splice(index, 1);
+}
 </script>
 <template>
   <div class="my-5 mx-auto w-1/2 rounded-lg border bg-slate-100 p-5">
     <div class="flex flex-col gap-5">
-      <base-input
-        v-model="search"
-        :label="t('termSearch.searchLabel')"
-        name="search"
-        class="w-full"
-      />
+      <h3 class="text-lg">
+        {{ t('termSearch.search') }}
+      </h3>
+      <div
+        v-for="(_, index) in searchArray"
+        :key="index"
+        class="flex gap-4"
+      >
+        <base-input
+          v-model="searchArray[index]"
+          name="search"
+          class="w-full"
+        />
+        <base-button
+          v-if="index !== 0"
+          variant="tertiary"
+          class="my-auto"
+          @click="removeSearchParam(index)"
+        >
+          -
+        </base-button>
+      </div>
+
+      <base-button
+        variant="tertiary"
+        class="w-fit"
+        @click="addSearchParam"
+      >
+        + {{ t('termSearch.addSearchParam') }}
+      </base-button>
       <base-button
         @click="refetch"
       >

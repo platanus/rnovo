@@ -8,8 +8,8 @@ export const esLocale = {
     numberOfTerms: 'Número de coincidencias',
     error: 'Hubo un error inesperado, inténtalo nuevamente.',
     results: 'Resultados',
-    search: 'Buscar',
-    searchLabel: 'Buscar término',
+    search: 'Buscar términos',
+    addSearchParam: 'Agregar parámetro de búsqueda',
     showDetails: 'Ver más',
   },
   trademarkSearch: {
