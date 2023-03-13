@@ -5,7 +5,7 @@ http_interactions:
     uri: https://www.tmdn.org/tmview/api/search/results
     body:
       encoding: UTF-8
-      string: '{"pageSize":50,"criteria":"E","territories":["ES","GB","CL","US","AU"],"basicSearch":"Platanus","niceClass":["35","OR","45"],"fields":["ST13","markImageURI","tmName","tmOffice","applicationNumber","applicationDate","tradeMarkStatus","niceClass"]}'
+      string: '{"pageSize":50,"criteria":"E","territories":["CL"],"basicSearch":"Platanus","niceClass":["35","OR","45"],"fields":["ST13","markImageURI","tmName","tmOffice","applicationNumber","applicationDate","tradeMarkStatus","niceClass"]}'
     headers:
       Content-Type:
       - application/json
@@ -26,7 +26,7 @@ http_interactions:
       message: ''
     headers:
       Date:
-      - Tue, 07 Mar 2023 18:34:11 GMT
+      - Mon, 13 Mar 2023 17:32:12 GMT
       Content-Type:
       - application/json
       Vary:
@@ -42,11 +42,11 @@ http_interactions:
       Strict-Transport-Security:
       - max-age=16070400; includeSubDomains
       Set-Cookie:
-      - TS01e836b1=01c1ac27eedac3a87aba9525e68a583c094b01ed814237a6dde8d8f864e711d27a05c94170fa0c585b96132392ca886ba0d9b55451;
+      - TS01e836b1=01c1ac27ee49c211186856bd4b0701eabbf322c86564e93f8c21af3dfa28ab9e49f300ceea06781e909b9c19bf9e27bf7889282c72;
         Path=/; samesite=none; Secure
-      - TSa639ba72027=089375ec4aab2000a90c871ed2778235c9a09adaa8ad353374e1eecd1d774cef57657328b181bddb089ee185de1130002078e137c82cc089a247d65dd8d2c26b78c107e5b49647aea31fbaee270c3447e17678cb15e573c95610ae6d6e2cf5e6;
+      - TSa639ba72027=089375ec4aab2000cc4f22bff7e9ceb454f32488173bc8723322b9d75d43c4b50f02b24cff53335108f5a0acdf1130007e9d806f39268cd7c2f5a1f14b84bc0a0a2db2164e05a2cb13edf37123d9894ea07051296366c4b94ab0e875c8509fa7;
         Path=/; samesite=none; Secure
-      - TSc52fbf36029=089375ec4aab280091d404a729bd289081f5c5b5e94eb915a2f873e8b2a8bb1240327eeba5a3a48a64c2a1dd96dcc8a3;
+      - TSc52fbf36029=089375ec4aab2800bf13cf3bbcc37117e9818e427628dc3fe420e4a57fb48a71d846006f348d4102366e22bebe3a179a;
         Max-Age=30; Path=/; samesite=none; Secure
       Transfer-Encoding:
       - chunked
@@ -54,5 +54,5 @@ http_interactions:
       encoding: UTF-8
       string: '{"tradeMarks":[{"ST13":"CL500000001509031","markImageURI":"https://www.tmdn.org/tmview/api/trademark/thumbnail/CL500000001509031","detailImageURI":"https://www.tmdn.org/tmview/api/trademark/image/CL500000001509031","tmName":"platanus
         ventures","tmOffice":"CL","applicationNumber":"1509031","tradeMarkStatus":"Filed","niceClass":[35,36,42],"applicationDate":"2022-06-30T12:00:00.000Z"}],"page":1,"totalPages":1,"totalResults":1}'
-  recorded_at: Tue, 07 Mar 2023 18:34:11 GMT
+  recorded_at: Mon, 13 Mar 2023 17:32:12 GMT
 recorded_with: VCR 6.1.0
