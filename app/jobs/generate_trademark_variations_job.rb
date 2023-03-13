@@ -8,10 +8,8 @@ class GenerateTrademarkVariationsJob < ApplicationJob
       [@trademark_name]
     elsif splitted_name.length == 1
       variations_for_one_word
-    elsif splitted_name.length.between?(2, 4)
-      variations_for_two_to_four_words
     else
-      variations_for_more_than_four_words
+      variations_for_multiple_words
     end
   end
 
@@ -20,50 +18,28 @@ class GenerateTrademarkVariationsJob < ApplicationJob
   def variations_for_one_word
     word = @trademark_name
     [
-      word,
-      word_without_first_letter(word),
-      word_without_last_letter(word),
       word_without_vowels(word),
-      word_without_consonants(word)
-    ]
+      last_letter_case(word)
+    ].flatten.compact
   end
 
-  def variations_for_two_to_four_words
-    words = splitted_name
-
-    variations = [@trademark_name, *words.dup]
-
-    words.combination(2).each do |combination|
-      variations << combination.join(' ')
-    end
-
-    variations.uniq
-  end
-
-  def variations_for_more_than_four_words
+  def variations_for_multiple_words
     words = splitted_name
     [
-      @trademark_name,
       words.first,
       words.last,
       "#{words.first} #{words.last}"
-    ]
+    ].flatten.compact
   end
 
-  def word_without_first_letter(word)
-    word[1..]
-  end
+  def last_letter_case(word)
+    return word[0..-2] if word[-1].match?(/[aeiou]/)
 
-  def word_without_last_letter(word)
-    word[..-2]
+    %w[a e i o u].map { |ending| word + ending }
   end
 
   def word_without_vowels(word)
     word.gsub(/[aeiou]/, '')
-  end
-
-  def word_without_consonants(word)
-    word.gsub(/[^aeiou]/, '')
   end
 
   def splitted_name
