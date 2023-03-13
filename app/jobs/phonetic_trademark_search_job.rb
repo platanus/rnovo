@@ -7,13 +7,21 @@ class PhoneticTrademarkSearchJob < ApplicationJob
 
     return [] if @brand_name.blank?
 
-    phonetic_search_results.sort_by(&:score).reverse
+    trademark_results.uniq(&:application_number).sort_by(&:score).reverse
   end
 
   private
 
+  def exact_search_results
+    @exact_search_results ||= tmview_client.exact_search(@brand_name)
+  end
+
   def phonetic_search_results
     @phonetic_search_results ||= tmview_client.phonetic_search(@brand_name)
+  end
+
+  def trademark_results
+    @trademark_results ||= exact_search_results + phonetic_search_results
   end
 
   def tmview_client
