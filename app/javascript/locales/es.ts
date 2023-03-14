@@ -16,6 +16,7 @@ export const esLocale = {
     error: 'Hubo un error inesperado, inténtalo nuevamente.',
     loading: 'Buscando marcas...',
     completeLoading: 'Cargando resultados adicionales...',
+    completeSearch: 'Buscar resultados adicionales',
     results: 'Resultados',
     completeResults: 'Resultados adicionales',
     noResults: 'No se encontraron marcas.',
