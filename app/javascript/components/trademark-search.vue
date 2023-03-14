@@ -23,27 +23,34 @@ const search = reactive({
 
 const selectedClassIds = computed(() => search.niceClassIds.map((niceClass) => niceClass.id.toString()));
 
-const { data: trademarks, refetch, isFetching, isSuccess, isError } = useQuery(
+const { data: trademarksComplete, isFetching: isFetchingComplete, refetch: refetchComplete } = useQuery(
+  ['trademarksComplete', search.name, selectedClassIds.value],
+  () => trademarkApi.fullPhoneticSearch(search.name, selectedClassIds.value),
+  {
+    refetchOnWindowFocus: false,
+    enabled: false,
+    retry: false,
+  },
+);
+
+const { data: trademarks, refetch, isFetching, isError } = useQuery(
   ['trademarks', search.name, selectedClassIds.value],
   () => trademarkApi.phoneticSearch(search.name, selectedClassIds.value),
   {
     refetchOnWindowFocus: false,
     enabled: false,
-  },
-);
-
-const { data: trademarksComplete, refetch: refetchComplete, isFetching: isFetchingComplete } = useQuery(
-  ['trademarksComplete', search.name, selectedClassIds.value],
-  () => trademarkApi.fullPhoneticSearch(search.name, selectedClassIds.value),
-  {
-    refetchOnWindowFocus: false,
-    enabled: isSuccess,
+    onSuccess: () => {
+      if (trademarks.value?.length === 0) {
+        refetchComplete();
+      }
+    },
   },
 );
 
 function submit() {
+  trademarks.value = undefined;
+  trademarksComplete.value = undefined;
   refetch();
-  refetchComplete();
 }
 
 </script>
