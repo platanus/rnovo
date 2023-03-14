@@ -2,7 +2,7 @@ class TmviewClient
   BASE_URL = 'https://www.tmdn.org/tmview/api'
   USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '\
                  'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36.'
-  DEFAULT_TERRITORIES = %w[ES GB CL US AU].freeze
+  DEFAULT_TERRITORIES = %w[CL].freeze
 
   def initialize(
     nice_classes: [],
